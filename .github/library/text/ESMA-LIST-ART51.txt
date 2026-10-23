@@ -1,0 +1,287 @@
+SOURCE: List of firms that have notified ESMA under Article 51
+REFERENCE: 
+DATE: live
+URL: https://www.esma.europa.eu/sites/default/files/2026-07/List_of_firms_that_have_notified_ESMA_under_Article_51_of_ESG_Ratings_Regulation.pdf
+FILE: sources/ESMA_list_Article51_notified_firms.pdf
+
+                                                                                             Last updated: 16 October 2026
+
+
+
+
+     List of firms that have notified ESMA
+     under Article 51 of Regulation (EU)
+     2024/3005
+
+      Name of ESG Rating Provider                              Country of                   Legal entity identifier
+                                                               establishment
+
+1     Clarity AI Europe S.L.                                   Spain                        9598006WJNT4MAHD9F12
+
+2     NORTHON s.r.o.                                           Slovakia                     097900CAKA0000337632
+
+3     SESAMm S.A.S.                                            France                       894500JIVTZX7AW1GY96
+
+4     Standard Ethics Europe S.r.l.                            Italy                        9845005Q092F67CDEY72
+
+5     MSCI Solutions (Deutschland) GmbH                        Germany
+
+6     Sustainable Fitch Ireland Limited                        Ireland                      213800JBPPIRON5YQ587
+
+7     Sustainalytics B.V.                                      Netherlands                  724500QWHV1ZPN8MTA36
+
+8     EthiFinance Sustainability SAS                           France
+
+9     Ecomate S.r.l.                                           Italy                        8156006ABFB92D48A284
+
+10    Cerved ESG Ratings s.r.l.                                Italy
+
+11    score4more GmbH                                          Germany                      3912001EPBQJP2E1R367
+
+12    ESG Book GmbH                                            Germany
+
+13    Green Value Chain GmbH                                   Austria
+
+14    Climate Arc UK Limited                                   Third-country
+
+15    Zielke Rating GmbH                                       Germany
+
+16    Creditreform Rating AG                                   Germany                      391200PHL11KDUTTST66
+
+
+
+     ESMA - 201-203 rue de Bercy - CS 80910 - 75589 Paris Cedex 12 - France - www.esma.europa.eu                        1
+17   WaVeritas AG                              Liechtenstein (EEA)
+
+18   Nature Alpha Group Limited                Third-country
+
+19   Assekurata Assekuranz Rating-Agentur      Germany               529900977LETWLJF3295
+     GmbH
+
+20   rfu research GmbH                         Austria
+
+21   Positive Company SAS                      France                8945003LHL4VWM1KS816
+
+22   Institutional Shareholder Services        Germany               391200XML1TCYHZ9NZ87
+     Germany AG
+
+23   FidESG S.r.l. SB                          Italy                 894500GXKND8GEAYDL39
+
+24   EcoVadis SAS                              France                969500HU9OL6Y7UAG019
+
+25   GRESB B.V.                                Netherlands
+
+26   S&P Global Energy ESG Ratings Europe      Ireland               254900WDJE1LF4135Y37
+     Limited
+
+27   Asacert S.p.a. SB                         Italy                 8945007WE2US1CXY1594
+
+28   BeZero Carbon Ltd                         Third-country         254900YLBHD9TNPJ8V86
+
+29   CarbonAI Ltd                              Third-country
+
+30   Iceberg Data Lab SAS                      France
+
+31   Franke und Bornberg GmbH                  Germany               391200891W0JGL1LS439
+
+32   ÖGUT - Austrian Society for Environment   Austria
+     and Technology
+
+33   F.I.R.S.T. e.V.                           Germany               529900J3CIJBDZ3WCS04
+
+34   Inrate AG                                 Third-country         506700VTVJ684I21U073
+
+35   CARBON4 FINANCE                           France
+
+36   Glass Lewis Netherlands B.V.              Netherlands
+
+
+
+                                                                                       2
+37   Céginformáció.hu Kft                 Hungary
+
+38   ICE Data Services Ireland Limited    Ireland
+
+39   Mioying Financial Technology (HK)    Third-country   9845003D2BC3OF9A0368
+     Limited
+
+40   Crif Synesgy Ratings S.r.l.          Italy           815600DFED389A5BD556
+
+41   Global Green Xchange AG              Third-country   5067001NN42WWCO7L958
+
+42   SustainAX AB                         Sweden
+
+43   Outlook Rating ESG S.r.l. SB         Italy           815600D13B3194673787
+
+44   INFORMA D & B (SERVIÇOS DE           Portugal
+     GESTÃO DE EMPRESAS), SOCIEDADE
+     UNIPESSOAL, LDA
+
+45   IdealRatings, Inc.                   Third-country
+
+46   Sylvera Ireland Operations Limited   Ireland
+
+47   Sweep SAS                            France
+
+48   Modefinance ESG Srl                  Italy
+
+49   The Azores SRL                       Romania
+
+50   MicroFinanza Rating S.r.l.           Italy
+
+51   Impact Cubed Limited                 Third-country   984500ED80DE857D0927
+
+52   MORGEN & MORGEN GmbH                 Germany
+
+53   ESG Cert S.r.l.                      Italy           815600CDDCD47C4D9D10
+
+54   GIST Impact Netherlands B.V.         Netherlands     984500FDAZ8400A7BA08
+
+55   Bloomberg Scores Europe Limited      Ireland
+
+56   Bloomberg Finance L.P.               Third-country   5493001KJTIIGC8Y1R12
+
+
+
+
+                                                                           3
+57   SustainGoals GmbH                       Germany
+
+58   Germanwatch e.V.                        Germany         3912007708EIOPIX2425
+
+59   ET.Group S.r.l.                         Italy
+
+60   RepRisk Germany GmbH                    Germany
+
+61   Certicon S.r.l.s.                       Italy
+
+62   NQC Limited                             Third-country
+
+63   GIB Italia Service S.r.l.               Italy
+
+64   Institut für Vermögensaufbau (IVA)      Germany         894500W8C2IEWTN5VT47
+     Aktiengesellschaft
+
+65   Conser - ESG Verifier SA                Third-country   506700T27E8B31672770
+
+66   Design Authority B.V.                   Netherlands
+
+67   The Value Group Sustainability GmbH     Germany         984500J51D5C6CAKA974
+
+68   FINANZA DATI ANALISI S.r.l.             Italy           894500L9UTPHEI8FIK13
+
+69   Curiositas Technologies, Inc. dba Alō   Third-country
+     Index
+
+70   Kestrel 360, Inc.                       Third-country   254900J76IJO17356L91
+
+71   NeXt Nuova Economia per Tutti APS       Italy
+     ETS
+
+72   Global Canopy Initiatives Limited       Third-country   9845009F9449FE2EE985
+
+73   SusdeX Sustainability Rating Services   Estonia
+     OÜ
+
+74   Agents for Impact GmbH                  Germany
+
+75   Scientific Climate Ratings              France
+
+
+                                                                               4
+76   Varuna Sentinels B.V.                    Netherlands     724500F8TH8X80MBDV85
+
+77   CDP Europe-Services GmbH                 Germany
+
+78   MC Advisory CSR S.r.l. SB                Italy
+
+79   Calyx Global, Inc.                       Third-country   9845001A87D83E95BD72
+
+80   CGE Sürdürülebilirlik Değerlendirme ve   Third-country   789000MI6LJNP2P47E02
+     Yazılım Hizmetleri A.Ş./CGE
+     Sustainability Assessment and
+     Software Services Inc.
+
+81   raestimo FlexCo                          Austria         9845005N797PCA8BF860
+
+82   Equileap B.V.                            Netherlands     894500PBTQ4QH1O8DY32
+
+83   TheDenominator, Inc                      Denmark         984500970C0D0P6E9012
+
+84   VIACO                                    France
+
+85   Refinitiv France SAS                     France          2138006QU5BLJ69TUV38
+
+86   VERDEGREE Sp. z o.o.                     Poland          259400P2SWRFQ1IM2N13
+
+87   Ethical and Environmental Screening      Third-country
+     Services Limited
+
+88   Nummus.Info S.p.A.                       Italy
+
+89   ESG Plus GmbH                            Austria
+
+90   ESG Portal SB S.r.l.                     Italy
+
+91   AlphaYoda SAS                            France
+
+92   Prewave GmbH                             Austria
+
+93   Tecno Esg Società Benefit Srl            Italy
+
+94   ESG Analytics GmbH                       Germany
+
+
+                                                                               5
+95    KUNEE S.r.l.                              Italy
+
+96    Dataworks Research SRL                    Romania
+
+97    Holonic Network Srl SB                    Italy
+
+98    SIA “CERTI W BALTIC”                      Latvia
+
+99    OPTEN Ltd                                 Hungary         529900KKJW3E8S0O9H56
+
+100   Integrum ESG Ltd                          Third-country
+
+101   HUMANKIND SARL                            Luxembourg
+
+102   Worldfavor AB                             Sweden
+
+103   GCERTI ITALY Assessment &                 Italy           8156002175B58C58A297
+      Certification srl SB
+
+104   ASSOCIAZIONE ESGROWTH E.T.S.              Italy
+
+105   NEC Initiative SAS                        France
+
+106   OMNIRIS                                   France
+
+107   ESG IMPACT SRL SOCIETA’                   Italy
+      BENEFIT
+
+108   Notoria Spółka Akcyjna                    Poland          259400A8OR9T5W3O2489
+
+109   Klever Sustainability Oy                  Finland
+
+110   RCA                                       Italy
+
+111   YUKKA AG                                  Germany
+
+112   SDI Rating GmbH                           Austria
+
+113   Vi.Si. Consult di Vasconi Vincenzo e C.   Italy
+      Sas
+
+
+
+
+                                                                                 6
+114   HySights B.V.   Netherlands
+
+
+
+
+                                    7
+

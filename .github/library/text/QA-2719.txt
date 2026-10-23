@@ -1,0 +1,52 @@
+SOURCE: Application of two working day notification period
+REFERENCE: ESMA_QA_2719
+DATE: 2025-12-11
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2719
+FILE: sources/QA_2719.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2719
+
+11/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Application of two working day notification period 
+
+ Original question
+
+For the purposes of Article 15(12), does the obligation to notify the rated item or the issuer “at least two full working days before the first issuance of the ESG rating” apply exclusively to ESG ratings issued on or after 2 July 2026?
+
+ESMA Answer
+
+11-12-2025
+
+ Original language
+
+The obligation to notify at least two full working days before the first issuance of the ESG rating applies to ESG rating issued on or after 2 July 2026. 
+
+For ESG ratings issued prior to 2 July 2026: 
+
+If an ESG rating is updated or revised after 2 July 2026, it should be notified to the rated item for a fact-check at least once. 
+
+If an ESG rating is updated or revised following a material change to its methodology after 2 July 2026, it should be notified to the rated item for a fact-check at least once. 
+
+In cases where corporate events such as an acquisition or spin-off of a new legal entity within the same group result in the assumption of responsibility for the methodology and portfolio of ESG ratings previously issued by another group entity, if no material changes to methodologies occur, this should not be treated as a new “first issuance” of those ratings. As such, no notification obligation arises under Article 15(12). 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+48-hour rule

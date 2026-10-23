@@ -1,0 +1,171 @@
+SOURCE: List of registered ESG providers (Article 14 register)
+REFERENCE: 
+DATE: live
+URL: https://www.esma.europa.eu/sites/default/files/2026-08/List_of_registered_ESG_providers.pdf
+FILE: sources/ESMA_list_registered_ESG_providers.pdf
+
+                                                                                            Last updated: 16 October 2026
+
+
+
+
+    List of registered ESG providers in
+    accordance with the Regulation (EU)
+    2024/3005
+
+    Name of ESG Rating               Country of             Effective          Status             Legal entity identifier
+    Provider                         establishment          date
+
+1   Asacert S.p.A. SB                Italy                  13/08/2026         Registered         8945007WE2US1CXY1594
+                                                                               under
+                                                                               Article 5
+
+2   Assekurata Assekuranz            Germany                13/08/2026         Registered         529900977LETWLJF3295
+    Rating-Agentur GmbH                                                        under
+                                                                               Article 5
+
+3   Creditreform Rating AG           Germany                13/08/2026         Registered         391200PHL11KDUTTST66
+                                                                               under
+                                                                               Article 5
+
+4   Ecomate S.r.l.                   Italy                  13/08/2026         Registered         8156006ABFB92D48A284
+                                                                               under
+                                                                               Article 5
+
+5   FidESG S.r.l. SB                 Italy                  13/08/2026         Registered         894500GXKND8GEAYDL39
+                                                                               under
+                                                                               Article 5
+
+6   Franke und                       Germany                13/08/2026         Registered         391200891W0JGL1LS439
+    Bornberg GmbH                                                              under
+                                                                               Article 5
+
+7   Iceberg Data Lab SAS             France                 13/08/2026         Registered
+                                                                               under
+                                                                               Article 5
+
+
+
+
+    ESMA - 201-203 rue de Bercy - CS 80910 - 75589 Paris Cedex 12 - France - www.esma.europa.eu                        1
+8    NORTHON s.r.o.           Slovakia      13/08/2026   Registered   097900CAKA0000337632
+                                                         under
+                                                         Article 5
+
+9    ÖGUT - Austrian Society Austria        13/08/2026   Registered
+     for Environment and                                 under
+     Technology                                          Article 5
+
+10   rfu research GmbH        Austria       13/08/2026   Registered
+                                                         under
+                                                         Article 5
+
+11   score4more GmbH          Germany       13/08/2026   Registered   3912001EPBQJP2E1R367
+                                                         under
+                                                         Article 5
+
+12   Standard Ethics Europe   Italy         13/08/2026   Registered   9845005Q092F67CDEY72
+     S.r.l.                                              under
+                                                         Article 5
+
+13   Zielke Rating GmbH       Germany       13/08/2026   Registered
+                                                         under
+                                                         Article 5
+
+14   AlphaYoda SAS            France        08/09/2026   Registered
+                                                         under
+                                                         Article 5
+
+15   Céginformáció.hu Kft     Hungary       08/09/2026   Registered
+                                                         under
+                                                         Article 5
+
+16   Certicon S.r.l.s         Italy         09/09/2026   Registered
+                                                         under
+                                                         Article 5
+
+17   Design Authority B.V.    Netherlands   08/09/2026   Registered
+                                                         under
+                                                         Article 5
+
+
+
+
+                                                                                   2
+18   ESG Cert S.r.l.           Italy      08/09/2026   Registered   815600CDDCD47C4D9D10
+                                                       under
+                                                       Article 5
+
+19   ESG Plus GmbH             Austria    08/09/2026   Registered
+                                                       under
+                                                       Article 5
+
+20   ESG Portal SB S.r.l.      Italy      08/09/2026   Registered
+                                                       under
+                                                       Article 5
+
+21   ET.Group S.r.l.           Italy      08/09/2026   Registered
+                                                       under
+                                                       Article 5
+
+22   Institut               für Germany   08/09/2026   Registered   894500W8C2IEWTN5VT47
+     Vermögensaufbau (IVA)                             under
+                                                       Article 5
+     Aktiengesellschaft
+23   KUNEE S.r.l.              Italy      08/09/2026   Registered
+                                                       under
+                                                       Article 5
+
+24   MC Advisory CSR S.r.l. Italy         08/09/2026   Registered
+     SB                                                under
+                                                       Article 5
+
+25   NeXt Nuova Economia Italy            08/09/2026   Registered
+     per Tutti APS ETS                                 under
+                                                       Article 5
+
+26   Nummus.Info S.p.A.        Italy      08/09/2026   Registered
+                                                       under
+                                                       Article 5
+
+27   Outlook     Rating   ESG Italy       08/09/2026   Registered   815600D13B3194673787
+     S.r.l. SB                                         under
+                                                       Article 5
+
+
+
+
+                                                                                 3
+28   Positive Company SAS     France        08/09/2026   Registered   8945003LHL4VWM1KS816
+                                                         under
+                                                         Article 5
+
+29   raestimo FlexCo          Austria       09/09/2026   Registered   9845005N797PCA8BF860
+                                                         under
+                                                         Article 5
+
+30   SusdeX     Sustainability Estonia      08/09/2026   Registered
+     Rating Services OÜ                                  under
+                                                         Article 5
+
+31   The Azores SRL           Romania       08/09/2026   Registered
+                                                         under
+                                                         Article 5
+
+32   The      Value    Group Germany        08/09/2026   Registered   984500J51D5C6CAKA974
+     Sustainability GmbH                                 under
+                                                         Article 5
+
+33   Varuna Sentinels B.V.    Netherlands   08/09/2026   Registered   724500F8TH8X80MBDV85
+                                                         under
+                                                         Article 5
+
+34 VERDEGREE sp. z o.o.       Poland        08/09/2026   Registered   259400P2SWRFQ1IM2N13
+                                                         under
+                                                         Article 5
+
+
+
+
+                                                                                   4
+

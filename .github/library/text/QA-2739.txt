@@ -1,0 +1,46 @@
+SOURCE: Content of temporary regime notification
+REFERENCE: ESMA_QA_2739
+DATE: 2025-12-18
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2739
+FILE: sources/QA_2739.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2739
+
+18/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Content of temporary regime notification
+
+ Original question
+
+What information should a small ESG rating provider submit to ESMA for its assessment to determine whether to register a small ESG rating provider for the purposes of the temporary regime pursuant to Article 5(2)?
+
+ESMA Answer
+
+18-12-2025
+
+ Original language
+
+ESMA will need to review, as a minimum, the annual audited financial statements and employment records of the notifying entity. 
+
+In the case of a newly established legal entity, projected figures may be used provisionally for ESMA's assessment. This may include founding accounts, business projections and “bona fide” estimates accompanied by managerial sign-off. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Temporary regime for small providers

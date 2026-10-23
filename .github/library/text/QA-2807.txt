@@ -1,0 +1,68 @@
+SOURCE: Exemption for SPO providers
+REFERENCE: ESMA_QA_2807
+DATE: 2026-03-18
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2807
+FILE: sources/QA_2807.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2807
+
+18/03/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Exemption for SPO providers 
+
+ Original question
+
+Can a second-party opinion provider producing and using an ESG rating for its second-party opinion, without publishing or distributing it on a standalone basis, benefit from the exemption set out in Article 2(2)(i) of Regulation (EU) 2024/3005?   
+
+ESMA Answer
+
+18-03-2026
+
+ Original language
+
+Answer provided by the European Commission
+
+Article 2(2), point (i) of the ESG Rating Regulation provides that external reviews or second-party opinions on bonds marketed as environmentally sustainable, sustainability-linked bonds, and bonds, loans and other types of debt instruments marketed as sustainable are exempted from the scope of that Regulation. 
+
+External reviews or second-party opinions fall in scope of the ESG Ratings Regulation only when they contain an ESG rating issued by the external reviewer or the second-party opinion provider. 
+
+External reviews of European Green Bonds, as provided for in Regulation (EU) 2023/26311, are always outside the scope of the ESG Ratings Regulation, in accordance with Article 2(2), point (h) of that Regulation. 
+
+These provisions reflect the co-legislators’ policy objective to focus the ESG Ratings Regulation on ESG ratings, defined as opinions, scores, or a combination of both, according to, Article 3(1)(2) and (3) of that Regulation. This intention is also highlighted in recital 18 of that Regulation.
+
+If an external review or a second-party opinion includes only elements of an ESG rating, such as a methodology or a rating scale, but there is no separate opinion or a separate score, or combination of both, that can be considered to constitute an ESG rating, this is to be interpreted as meaning that the external review or second-party opinion does not include an ESG rating. 
+
+Examples of where the provider of an external review or a second-party opinion would fall in scope of the ESG Ratings Regulation include: 
+
+(i) where an external review or second-party opinion includes an opinion or a score, or a combination of both, constituting an ESG rating, and the ESG rating can be distinguished from the external review or second-party opinion, although it may be included in that opinion; 
+
+(ii) where an external review or second-party opinion is marketed or offered to clients as an ESG rating within the meaning of Article 3(1) of the ESG Ratings Regulation and 
+
+(iii) where the provider of an external review or of a second-party opinion markets its product as an external review or a second-party opinion to circumvent obligations of the ESG Ratings Regulation, but the product meets the definition of ESG rating as defined in Article 3(1) of the ESG Ratings Regulation. 
+
+In these examples, providers of the external review or second-party opinion would carry out the activity of an ESG rating provider. They would have to apply to ESMA for authorisation to operate in the Union and be subject to the applicable requirements of the ESG Ratings Regulation. The product-related requirements of that Regulation would be applicable only to the part of the external review or second-party opinion that is considered to constitute an ESG rating.
+
+Disclaimer
+
+The answers clarify provisions already contained in the applicable legislation. They do not extend in any way the rights and obligations deriving from such legislation nor do they introduce any additional requirements for the concerned operators and competent authorities. The answers are merely intended to assist natural or legal persons, including competent authorities and Union institutions and bodies in clarifying the application or implementation of the relevant legal provisions. Only the Court of Justice of the 2 European Union is competent to authoritatively interpret Union law. The views expressed in the internal Commission Decision cannot prejudge the position that the European Commission might take before the Union and national courts.
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Scope (including exemptions)

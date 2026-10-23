@@ -1,0 +1,563 @@
+SOURCE: Delegated Regulation (EU) 2026/1119 - RTS on information in applications for authorisation and recognition
+REFERENCE: OJ L 2026/1119; C(2026)3334
+DATE: 2026-09-01
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601119
+FILE: sources/L2_DelReg_2026-1119_RTS_Applications.pdf
+
+            Official Journal                                                                                                                    EN
+            of the European Union                                                                                                          L series
+
+                                                                2026/1119                                                                1.9.2026
+
+                                     COMMISSION DELEGATED REGULATION (EU) 2026/1119
+                                                               of 26 May 2026
+                 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with
+              regard to regulatory technical standards specifying the information to be included in the application
+               for authorisation as an ESG rating provider and in the application for recognition of an ESG rating
+                                                            provider
+
+                                                           (Text with EEA relevance)
+
+
+
+
+      THE EUROPEAN COMMISSION,
+
+
+      Having regard to the Treaty on the Functioning of the European Union,
+
+
+      Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the
+      transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations
+      (EU) 2019/2088 and (EU) 2023/2859 (1), and in particular Article 6(3), third subparagraph, and Article 12(9), third
+      subparagraph, thereof,
+
+
+      Whereas:
+
+
+      (1)    In accordance with the general objectives of Regulation (EU) 2024/3005, in particular to enhance transparency and
+             reliability regarding the operations of ESG rating providers, it is appropriate that this Regulation ensures that the
+             information to be submitted to the European Securities and Markets Authority (ESMA) for the purposes of the
+             authorisation and recognition processes of ESG rating providers is sufficient for enabling ESMA to make relevant
+             informed decisions.
+
+
+      (2)    The regulatory technical standards to be adopted on the basis of the empowerments laid down in Article 6(3), third
+             subparagraph, and Article 12(9), third subparagraph of Regulation (EU) 2024/3005 should be bundled into a single
+             Commission Delegated Regulation to ensure that all provisions specifying authorisation, registration and recognition
+             of ESG rating providers are consolidated into one Regulation.
+
+
+      (3)    Information submitted to ESMA may contain information on the identity of the contact person, of the senior
+             management or of the legal representative of an applicant ESG rating provider, as well as of analysts, employees and
+             other persons directly involved in ESG rating activities. Such information includes personal data. In compliance with
+             the principle of data minimisation enshrined in Article 4(1), point (c), of Regulation (EU) 2018/1725 of the European
+             Parliament and of the Council (2), only personal data that is necessary to enable ESMA to assess the compliance of the
+             application for authorisation as an ESG rating provider or for recognition of an ESG rating provider with the
+             requirements laid down in Regulation(EU) 2024/3005 should be requested.
+
+
+      (4)    This Regulation respects the fundamental rights and observes the principles recognised by the Charter of
+             Fundamental Rights of the European Union, and notably the right to protection of personal data. The processing of
+             personal data for the purposes of this Regulation should be carried out in accordance with Union law on the
+             protection of personal data. In that regard, any processing of personal data performed by ESMA in application of
+             this Regulation should be carried out in accordance with Regulation (EU) 2018/1725.
+
+
+      (5)    Personal data, in particular the proof of the absence of criminal records for each member of senior management of a
+             ESG rating provider relating to money laundering, terrorist financing, provision of financial services or data services,
+             acts of fraud or embezzlement, should be retained by that ESG rating provider and ESMA for no longer than five
+             years after the concerned senior management has ceased to perform its function.
+
+
+      (1) OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj.
+      (2) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons
+          with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of
+          such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.
+          europa.eu/eli/reg/2018/1725/oj).
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj                                                                                            1/11
+EN                                                                                                                            OJ L, 1.9.2026
+
+
+
+       (6)   To ensure that ESMA is able to assess compliance by ESG rating providers with the relevant framework, including the
+             measures and safeguards to be implemented by ESG rating providers in relation to the separation of business and
+             activities, ESG rating providers that wish to apply for authorisation to provide benchmarks in accordance with
+             Article 16(3) of Regulation (EU) 2024/3005 at the time they apply for authorisation to operate in the Union in
+             accordance with Article 6(1) of that Regulation should provide ESMA with additional information in that regard.
+
+
+       (7)   Members of senior management of ESG rating providers exercise significant influence over the operations of such
+             rating providers. It is therefore necessary to require that ESG rating providers include in their application for
+             authorisation proof of the good repute of such members and an official certificate or equivalent evidence from each
+             member of senior management as regards the absence of convictions for certain criminal offences. The official
+             certificate should be sufficiently recent to provide an up-to-date level of assurance and should cover a sufficiently
+             long period of time.
+
+
+       (8)   Point (g) of Annex I to Regulation (EU) 2024/3005 requires that applications for authorisation should contain the
+             number of rating analysts, employees and other persons working for the applicant who are directly involved in ESG
+             rating activities, and their level of experience and training. In order to further specify that requirement and taking
+             into account various types of assessment, that information should also cover the analysts and staff working to
+             develop and review the ESG rating methodology and who implement and maintain the systems, resources and
+             procedures necessary for ESG rating providers to comply with their obligations under Regulation (EU) 2024/3005.
+             To streamline the application process, the information provided should be at the level of the team or group of
+             persons performing the activities.
+
+
+       (9)   Article 16 of Regulation (EU) 2024/3005 prohibits ESG rating providers to engage in certain activities, or requires
+             ESG rating providers to separate such activities from their ESG rating activities. To verify whether the applicant has
+             taken the necessary steps to ensure that the other activities or services it provides do not unduly interfere with or
+             compromise the integrity of its ESG rating activities, applicants should provide an adequate level of information on
+             the measures put in place in accordance with Article 16(2) and (3) of Regulation (EU) 2024/3005.
+
+
+       (10) To safeguard security and enhance data management and usability in light of increased digitalisation, any information
+            submitted to ESMA in an application should be machine-readable, structured to be easily identified, recognised and
+            extracted by a software application, and provided in a durable medium.
+
+
+       (11) To assist ESMA in identifying the documents that an applicant has submitted as part of the application for
+            authorisation and registration, a unique reference number should be provided to each document.
+
+
+       (12) For assurance and accountability purposes, an application for authorisation or registration submitted to ESMA
+            should include a letter signed by a member of the senior management of the applicant, attesting that the submitted
+            information is accurate and complete to the best of that member’s knowledge.
+
+
+       (13) Since this Regulation supplements Regulation (EU) 2024/3005, which applies from 2 July 2026, it is appropriate to
+            align the dates of application of the two Regulations.
+
+
+       (14) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation
+            (EU) 2018/1725 and delivered an opinion on 5 May 2026.
+
+
+       (15) This Regulation is based on the draft regulatory technical standards submitted to the Commission by ESMA.
+
+
+       (16) ESMA has conducted open public consultations on the draft regulatory technical standards on which this Regulation
+            is based, analysed the potential related costs and benefits and requested the advice of the Securities and Markets
+            Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the European
+            Parliament and of the Council (3),
+
+
+       (3) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+           Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission
+           Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84, ELI: http://data.europa.eu/eli/reg/2010/1095/oj).
+
+
+2/11                                                                                    ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj
+OJ L, 1.9.2026                                                                                                                            EN
+
+      HAS ADOPTED THIS REGULATION:
+
+
+
+
+                                                                  Article 1
+
+                                Application for authorisation to operate as an ESG rating provider
+
+      1.    An applicant for authorisation as an Environmental, Social and Governance (ESG) rating provider shall submit to the
+      European Securities and Markets Authority (ESMA), in addition to the information referred to in Annex I to Regulation
+      (EU) 2024/3005, the information referred to in Annex II.
+
+      2.    An ESG rating provider submitting an application for authorisation for endorsement together with an application
+      pursuant to paragraph 1 shall, in addition to the information referred to in Annex I to Regulation (EU) 2024/3005 and the
+      information referred to in Annex II to this Regulation, include in its application for authorisation as an ESG rating provider
+      the information referred to in Annex IV to this Regulation.
+
+      3.    An ESG rating provider lodging a request to provide benchmarks shall, in addition to the information referred to in
+      Annex I to Regulation (EU) 2024/3005 and the information referred to in Annex II to this Regulation, include in its
+      application for authorisation as an ESG rating provider the information referred to in Annex V to this Regulation.
+
+
+
+                                                                  Article 2
+
+                      Application for recognition of an ESG rating provider established outside the Union
+
+      An applicant for recognition as an ESG rating provider established outside the Union shall submit to ESMA, in addition to
+      the information referred to in Article 12(4) of Regulation (EU) 2024/3005, the information referred to in Annexes II and III
+      to this Regulation.
+
+
+
+                                                                  Article 3
+
+                                                        Format of the application
+
+      1.    An applicant shall give a unique reference number to each document it submits. It shall clearly identify which specific
+      requirement of this Regulation the submitted information refers to and which document that information is provided in.
+
+      2.   Applicants shall provide ESMA with the information referred to in Annexes II, III, IV and V to this Regulation in a
+      machine-readable format which:
+
+      (a)   allows for the information to remain accessible for a period of time adequate for the purposes of the application;
+
+      (b)   allows for the unchanged reproduction of the information stored.
+
+      3.     An applicant shall include in its application a letter signed by a member of the applicant’s senior management
+      attesting that the submitted information is accurate and complete to the best of the member’s knowledge, as of the date of
+      that submission.
+
+
+
+                                                                  Article 4
+
+                                                         Number of employees
+
+      Applicants for authorisation as referred to in Article 1 or applicants for recognition as referred to in Article 2 shall estimate
+      their number of employees on a full-time equivalent basis, which shall be calculated as the total hours worked annually by
+      all employees divided by an employee’s maximum number of hours subject to compensation within a working year as
+      specified by the applicable national law.
+
+ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj                                                                                       3/11
+EN                                                                                                                             OJ L, 1.9.2026
+
+
+
+                                                                   Article 5
+
+                                                          Policies and procedures
+
+       Applicants for authorisation as referred to in Article 1 or applicants for recognition as referred to in Article 2 shall provide
+       copies of the policies and procedures adopted to comply with Annex II part (j), (k), (m), Annex IV and Annex V to this
+       Regulation.
+
+
+                                                                   Article 6
+
+                                                     Entry into force and application
+
+       This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+       It shall apply from 2 July 2026.
+
+
+
+                     This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+
+                     Done at Brussels, 26 May 2026.
+
+
+                                                                                           For the Commission
+                                                                                              The President
+                                                                                        Ursula VON DER LEYEN
+
+
+
+
+4/11                                                                                     ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj
+                                                                                                                                                  ANNEX I
+ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj
+
+
+
+
+                                                                                                                                                                                                                                                           OJ L, 1.9.2026
+                                                                                                                                       DOCUMENT REFERENCES
+
+
+                                                      The information to be provided in an application for authorisation or recognition under Annexes II, III, IV and V shall be accompanied by the following table completed as appropriate:
+
+                                                                                                                                                            Chapter, section or page of the document where the information is provided or reason why the
+                                                      Relevant Annex to this Regulation   Document reference number       Title of the document
+                                                                                                                                                                                              information is not provided
+
+                                                                     …
+                                                                     …
+                                                                     …
+                                                                     …
+
+
+
+
+                                                                                                                                                                                                                                                           EN
+5/11
+EN                                                                                                                           OJ L, 1.9.2026
+
+
+
+                                                                    ANNEX II
+
+                      INFORMATION TO BE PROVIDED IN AN APPLICATION FOR AUTHORISATION OR RECOGNITION
+
+
+       PART A – GENERAL INFORMATION
+       (a)   Full name of the applicant;
+       (b)   address of the registered office of the applicant within the Union [Member State, city, street address, postal code] or
+             address of the registered office of the applicant outside the Union [country, city, street address, postal code], as
+             relevant;
+       (c)   hyperlink to the applicant’s website;
+       (d)   where available, the applicant’s legal entity identifier (LEI) number.
+
+       PART B – CONTACT PERSON DETAILS
+       (a)   Name;
+       (b)   title;
+       (c)   address;
+       (d)   email address;
+       (e)   telephone number.
+
+       PART C – LEGAL STATUS
+
+       Proof of the legal status of the applicant, such as an excerpt from the relevant commercial or court register or other
+       equivalent evidence.
+
+       PART D – OWNERSHIP STRUCTURE
+       (a)   Articles of association of the applicant;
+       (b)   ownership structure of the applicant, specifying:
+             (i)      the percentage of capital;
+             (ii)     nature of the holding (direct or indirect);
+             (iii)    percentage of the voting rights of relevant owners;
+       (c)   a chart setting out the ownership links between the applicant, its parent undertaking(s) and its subsidiaries, with all
+             undertakings included in the chart identified by their full legal name.
+
+       PART E – ACTIVITIES
+
+       For each undertaking included in the chart referred to in point (c) of Part D that carries out ESG rating activities or any of
+       the activities listed in Article 16(1) of Regulation (EU) 2024/3005:
+       (a)   the type of activity carried out, indicating whether it is an ESG rating activity or any of the activities listed in
+             Article 16(1), of Regulation (EU) 2024/3005;
+       (b)   where applicable, the name of the competent authority responsible for supervising the activity concerned.
+
+       PART F – SENIOR MANAGEMENT
+       (a)   An organisational chart detailing the applicant’s organisational structure, including a clear identification of the role,
+             duties and responsibilities for each member of senior management;
+       (b)   for each member of senior management:
+             (i)      name;
+             (ii)     place of birth;
+             (iii)    date of birth;
+             (iv)     role within the senior management of the applicant;
+
+6/11                                                                                   ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj
+OJ L, 1.9.2026                                                                                                                                EN
+
+            (v)     curriculum vitae showing at least the level of qualification, experience and training;
+
+            (vi)    a proof of the absence of criminal records relating to money laundering, terrorist financing, provision of
+                    financial services or data services, acts of fraud or embezzlement, through an official certificate.
+
+      For the purposes of point (b)(vi),where such a certificate is not available in the country concerned, a self-declaration of good
+      repute and the authorisation to ESMA to request from the authorities concerned information on whether that member has
+      been convicted of a criminal offence in connection with money laundering, terrorist financing, the provision of financial
+      services or data services or in relation to acts of fraud or embezzlement.
+
+
+      PART G – STAFFING RESOURCES
+
+      (a)   The number of rating analysts who are directly involved in ESG rating activities and a summary of their overall
+            industry experience, level of training and level of seniority;
+
+      (b)   excluding the staff referred to in point (a), the number of employees and other persons working for the applicant that
+            are directly involved in ESG rating activities together with a summary of industry experience, level of training and
+            level of seniority by area of responsibility, and that are engaged in any of the following:
+
+            (i)     the development and review of methodologies;
+
+            (ii)    the collection and analysis of data;
+
+            (iii)   the development, implementation and maintenance of the information technology systems, resources, internal
+                    policies and procedures of the ESG rating provider necessary to comply with Regulation (EU) 2024/3005.
+
+      In order streamline the application process, the information provided should be at the level of the team or group of persons
+      performing the activities.
+
+
+      PART H – EXPECTED MARKET COVERAGE
+
+      (a)   The number of ESG rating products that the applicant intends to provide in the Union;
+
+      (b)   for each ESG rating product that the applicant intends to provide in the Union:
+
+            (i)     the name of that product;
+
+            (ii)    a description of that product;
+
+            (iii)   the number or expected number of rated items covered.
+
+
+      PART I – PROCEDURES AND METHODOLOGIES OF ESG RATINGS
+
+      (a)   For each ESG rating product indicated pursuant to Part H, a description of applicable procedures and methodologies
+            to issue ESG ratings, including information on:
+
+            (i)     whether the applicant expects to use information disclosed under Regulation (EU) 2019/2088 of the European
+                    Parliament and of the Council (1) and Directive 2013/34/EU of the European Parliament and of the Council (2);
+
+            (ii)    whether the applicant expects to use methodologies that are based on scientific evidence and takes into account
+                    the targets and objectives of the Paris Agreement or any other relevant international agreements;
+
+      (b)   procedures for the review of ESG ratings;
+
+      (c)   procedures for the review of ESG rating methodologies.
+
+
+      (1) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures
+          in the financial services sector (OJ L 317, 9.12.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/2088/oj).
+      (2) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+          consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the
+          European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19,
+          ELI: http://data.europa.eu/eli/dir/2013/34/oj).
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj                                                                                           7/11
+EN                                                                                                                            OJ L, 1.9.2026
+
+
+
+       PART J – POLICIES OR PROCEDURES TO IDENTIFY, MANAGE AND DISCLOSE CONFLICTS OF INTEREST
+
+       The policies or procedures implemented by the applicant to identify, manage and disclose any conflicts of interest as
+       referred to in Article 15 of Regulation (EU) 2024/3005, including the following information:
+       (a)   a description of internal reporting channels for receiving and handling information provided by persons reporting
+             actual or potential breaches of the independence principle and of measures ensuring the protection of such persons’
+             identity;
+       (b)   the review and approval process for the onboarding of new clients, employee personal account dealing, external
+             business activities and the acceptance of gifts and hospitality;
+       (c)   the criteria to determine the remuneration of the persons referred to in Part G;
+       (d)   the terms of reference for the management body.
+
+       PART K – OUTSOURCING ARRANGEMENTS
+
+       Where applicable, documents and information related to any existing or planned outsourcing arrangements for activities
+       covered by Regulation (EU) 2024/3005, including:
+       (a)   the outsourcing policy or other documents demonstrating compliance with the requirements of Annex II, point 2, of
+             Regulation (EU) 2024/3005;
+       (b)   a copy of any existing outsourcing agreements.
+
+       PART L – OTHER ACTIVITIES, INCLUDING EXPECTED ENDORSEMENTS
+
+       Where applicable, information about the applicant’s other commercial activities, including:
+       (a)   the name and description of any other business activities carried out by the applicant, or which the applicant intends
+             to carry out;
+       (b)   where applicable, the name of the competent authority responsible for supervising the activities referred to in
+             point (a).
+
+       PART M – SPECIFIC MEASURES TO BE IMPLEMENTED BY THE APPLICANT
+       (a)   For any of the activities referred to in Article 16(1), points (c), (d) and (f), of Regulation (EU) 2024/3005, information
+             regarding the specific measures that the applicant has put in place in accordance with [RTS on Separation of
+             Business];
+       (b)   an explanation as to why the measures referred to in point (a) are deemed sufficient by the applicant.
+
+       PART N – PREVIOUS ESG RATING ACTIVITIES
+
+       Where applicable, information about previous ESG rating activities, including:
+       (a)   any relevant licences held, indicating their periods of validity;
+       (b)   any ESG rating products previously provided which are not indicated under Part H;
+       (c)   the name of the legal entity under which such activities were carried out;
+       (d)   where appliable, the name of the authority responsible for supervising such activities.
+
+
+
+
+8/11                                                                                    ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj
+OJ L, 1.9.2026                                                                                                                          EN
+
+                                                                  ANNEX III
+
+              SPECIFIC, ADDITIONAL INFORMATION IS TO BE PROVIDED IN AN APPLICATION FOR RECOGNITION OF
+                                ESG RATING PROVIDERS ESTABLISHED OUTSIDE THE UNION
+
+      PART A – LEGAL REPRESENTATIVE IN THE MEMBER STATE OF REFERENCE
+
+      With respect to the legal representative referred to in Article 12(3) of Regulation (EU) 2024/3005:
+      (a)   full name;
+      (b)   the legal entity identifier (LEI), where available;
+      (c)   articles of incorporation, articles of association or other constitutional documents;
+      (d)   information on whether it is supervised and the name of the supervisory authority;
+      (e)   written confirmation of the authority of the legal representative to act on behalf of the ESG rating provider in
+            accordance with Article 12(3) of Regulation (EU) 2024/3005;
+      (f)   the name, title, address, email address and telephone number of a contact person within the legal representative.
+
+      PART B – INFORMATION ON COMPLIANCE MEASURES
+
+      With respect to compliance with the requirements of Regulation (EU) 2024/3005, ESG rating providers shall provide:
+      (a)   an assessment by the legal representative of the adequacy of the measures put in place by the ESG rating provider;
+      (b)   a description of the measures put in place by the legal representative to monitor compliance on an on-going basis.
+
+      PART C – INFORMATION ON TURNOVER
+
+      For each of the last three consecutive years:
+      (a)   a copy of the ESG rating provider’s annual financial reports, for the last three consecutive years, including individual
+            and consolidated financial statements, where applicable;
+      (b)   the audit reports on the annual and consolidated financial statements referred to in point (a), where those are subject
+            to independent external audits;
+      (c)   where no audit reports as referred to in point (b) are available, an assessment by an independent external auditor or a
+            certification of the competent authority of the third country where the ESG rating provider is established, of the
+            annual net turnover of all of its activities.
+
+      PART D – INFORMATION ON ESG RATINGS INTENDED TO BE DISTRIBUTED IN THE UNION
+
+      The list, in .csv format, of actual or prospective ESG ratings which at the date of application are intended for publication or
+      distribution in the Union.
+
+      PART E – INFORMATION ON ACTIVITIES OUTSIDE THE UNION
+
+      Where applicable, with respect to the ESG rating provider’s activities outside the Union:
+      (a)   name of third country competent authority responsible for its supervision;
+      (b)   address of that third country competent authority;
+      (c)   activity for which the ESG rating provider is licensed or supervised;
+      (d)   respective dates for which the ESG rating provider has been licensed or supervised.
+
+
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj                                                                                     9/11
+EN                                                                                                                             OJ L, 1.9.2026
+
+
+
+                                                                  ANNEX IV
+
+              SPECIFIC, ADDITIONAL INFORMATION IS TO BE PROVIDED IN THE CONTEXT OF THE ENDORSEMENT OF
+                                                     ESG RATINGS
+
+
+        Indication of whether the ESG rating provider is requesting authorisation to endorse ESG ratings provided by an ESG rating
+        provider established outside the Union as referred to in Article 11(1), point (a), of Regulation (EU) 2024/3005, and where
+        so, for each expected endorsement:
+        (a)   the name, and where available, the legal entity identifier (LEI), of the legal entities from which the ESG ratings will be
+              endorsed;
+        (b)   the information required under Part H of Annex II to this Regulation for each ESG rating product to be endorsed;
+        (c)   objective reasons for the endorsement of each ESG rating product;
+        (d)   the measures put in place by the ESG rating provider to ensure compliance with Article 11(1) of Regulation (EU) 2024/3005.
+
+
+
+
+10/11                                                                                    ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj
+OJ L, 1.9.2026                                                                                                                                 EN
+
+                                                                   ANNEX V
+
+                 SPECIFIC, ADDITIONAL INFORMATION IS TO BE PROVIDED IN IN THE CONTEXT OF PROVISION OF
+                                                     BENCHMARKS
+
+
+      An indication of whether the ESG rating provider is requesting to be authorised to provide benchmarks in accordance with
+      Article 16(3) of Regulation (EU) 2024/3005 and, where so:
+      (a)   the specific measures referred to that the applicant has put in place in accordance with Article 3 of [RTS on
+            Separation of Business];
+      (b)   an assessment as to why the applicant deems the measures referred to in point (a) to be sufficient;
+      (c)   information on whether the ESG Rating Provider provides or intends to provide benchmarks that pursue
+            sustainability objectives, in particular EU Climate Transition Benchmarks as defined in Article 3, point (23a), of
+            Regulation (EU) 2016/1011 of the European Parliament and of the Council (1), or a EU Paris-aligned Benchmark, as
+            defined in Article 3, point (23b), of that Regulation.
+
+
+
+
+      (1) Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial
+          instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC
+          and 2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/1011/oj).
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/1119/oj                                                                                           11/11
+

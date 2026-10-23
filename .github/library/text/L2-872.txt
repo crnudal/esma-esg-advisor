@@ -1,0 +1,191 @@
+SOURCE: Delegated Regulation (EU) 2026/872 - RTS on separation of ESG rating activities
+REFERENCE: OJ L 2026/872
+DATE: 2026-07-28
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600872
+FILE: sources/L2_DelReg_2026-872_RTS_Separation.pdf
+
+            Official Journal                                                                                                              EN
+            of the European Union                                                                                                    L series
+
+                                                               2026/872                                                          28.7.2026
+
+                                    COMMISSION DELEGATED REGULATION (EU) 2026/872
+                                                             of 21 April 2026
+                supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with
+              regard to regulatory technical standards specifying the measures and safeguards to be implemented
+                   by ESG rating providers to separate their ESG rating activities from their other activities
+
+                                                         (Text with EEA relevance)
+
+
+
+
+      THE EUROPEAN COMMISSION,
+
+
+      Having regard to the Treaty on the Functioning of the European Union,
+
+
+      Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the
+      transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations
+      (EU) 2019/2088 and (EU) 2023/2859 (1), and in particular Article 16(5), third subparagraph, thereof,
+
+
+      Whereas:
+
+
+      (1)    To avoid the creation of conflicts of interest that could arise where employees of the ESG rating provider who are
+             directly involved in the assessment process of rated items were to be involved in any of the activities referred to in
+             Article 16(1), points (c), (d), or (f), of Regulation (EU) 2024/3005, Environmental, Social and Governance (ESG)
+             rating providers should ensure that such critical staff has clearly delineated roles and responsibilities and is assigned
+             to distinct structures within the ESG rating provider. To prevent the inadvertent flow of sensitive information within
+             different structures or business areas and activities, those ESG rating providers should also apply physical separation
+             measures, including assigning dedicated workspaces to rating analysts, to such staff, to separate them physically
+             from the employees of the ESG rating provider that are involved in any of the activities referred to in Article 16(1),
+             of Regulation (EU) 2024/3005.
+
+
+      (2)    For the same reason, those ESG rating providers already engaged or intending to engage in investment services and
+             activities, activities of credit institutions or insurance or reinsurance activities should have in place additional
+             measures in the form of information security and network-related controls, internal policies and procedures,
+             training, contractual measures and compliance monitoring checks, including reviewing communications of
+             employees involved in the assessment process of a rated item.
+
+
+      (3)    To identify actual or potential conflicts of interest, an ESG rating provider that intends to provide benchmarks
+             through the same legal entity should have in place additional safeguards in relation to the remuneration and
+             compensation arrangements of employees or of other persons that are directly involved in the assessment process,
+             the production and offering of ESG ratings, and precontractual arrangements.
+
+
+      (4)    Since this Regulation supplements Regulation (EU) 2024/3005, which applies from 2 July 2026, it is appropriate to
+             defer the date of application of this Regulation to that date.
+
+
+      (5)    This Regulation is based on the draft regulatory technical standards submitted by the European Securities and
+             Markets Authority (ESMA) to the Commission.
+
+
+      (6)    ESMA conducted open public consultations on the draft regulatory technical standards on which this Regulation is
+             based and analysed the potential related costs and benefits and requested the advice of the Securities and Markets
+             Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the European
+             Parliament and of the Council (2),
+
+
+      (1) OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj.
+      (2) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+          Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission
+          Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84, ELI: http://data.europa.eu/eli/reg/2010/1095/oj).
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/872/oj                                                                                       1/3
+EN                                                                                                                         OJ L, 28.7.2026
+
+
+
+      HAS ADOPTED THIS REGULATION:
+
+
+
+
+                                                                   Article 1
+
+            Measures and safeguards to be taken by ESG rating providers that provide, or intend to provide, any of the
+                               activities referred to in Article 16(1) of Regulation (EU) 2024/3005
+
+      Environmental, Social and Governance (ESG) rating providers that provide, or intend to provide, any of the activities
+      referred to in Article 16(1), of Regulation (EU) 2024/3005 shall:
+
+      (a)     have in place decision-making procedures and organisational structures, with specific reporting lines and a specific
+              allocation of functions and responsibilities, that ensure that employees directly involved in the assessment process of
+              a rated item are not involved in any of the activities referred to in Article 16(1) of Regulation (EU) 2024/3005;
+
+      (b)     implement physical separation measures for employees and other persons directly involved in the assessment process
+              of a rated item and staff that provides any of the activities referred to in Article 16(1), of Regulation (EU) 2024/3005
+              in a manner that safeguards the independence and impartiality of employees and other persons directly involved in
+              the assessment process of a rated item;
+
+      (c)     ensure that employees and other persons directly involved in the assessment process of a rated item submit once
+              every 12 months a self-declaration stating that they are not involved in the provision of any of the activities referred
+              to in Article 16(1) of Regulation (EU) 2024/3005.
+
+
+
+                                                                   Article 2
+
+       Measures and safeguards in relation to the activities referred to in Article 16(1), points (d) and (f), of Regulation
+                                                        (EU) 2024/3005
+
+      1.    When involved in the activities listed in Article 16(1), points (d) or (f), of Regulation (EU) 2024/3005, ESG rating
+      providers shall implement the following measures and safeguards:
+
+      (a)     digital controls providing for role-based access;
+
+      (b)     information controls that enable watermarking methods and data classification levels;
+
+      (c)     policies and procedures for managing confidential information;
+
+      (d)     regular employee training on the importance of information barriers;
+
+      (e)     contractual obligations requiring employees to comply with internal policies throughout their employment;
+
+      (f)     compliance monitoring activities to identify conflicts of interest.
+
+      2.   ESG rating providers as referred to in paragraph 1 shall assess whether the measures and safeguards implemented
+      pursuant to paragraph 1 are adequate for the purposes of Article 16 of Regulation (EU) 2024/3005 at least once every 24
+      months. Where that assessment is negative, the management body shall oversee the implementation of remedial actions.
+
+
+
+                                                                   Article 3
+
+       Specific, additional measures to be taken by ESG rating providers that provide, or intent to provide, activities as
+                              referred to in Article 16(3), point (c), of Regulation (EU) 2024/3005
+
+      ESG rating providers authorised in accordance with Article 16(3) of Regulation (EU) 2024/3005 by the European Securities
+      and Markets Authority to provide benchmarks shall implement, in addition to the measures and safeguards laid down in
+      Article 2, all of the following:
+
+      (a)     measures to ensure that the compensation and performance evaluation arrangements applicable to employees and
+              other persons directly involved in the assessment process of a rated item are not affected by actual or potential
+              conflicts of interest originating from the ESG rating provider’s involvement in the activity of benchmarks provision;
+
+2/3                                                                                      ELI: http://data.europa.eu/eli/reg_del/2026/872/oj
+OJ L, 28.7.2026                                                                                                                        EN
+
+      (b)   arrangements to ensure that the production and offering of ESG ratings do not rely on a mechanistic use of the
+            constituents or output of a benchmark for which the ESG rating provider is the administrator;
+      (c)   a documented assessment of any actual or potential conflicts of interest before the ESG rating provider enters into a
+            contract for the provision of services to:
+            (i)     a rated item;
+            (ii)    an issuer of a rated item;
+            (iii)   an investor which has an established client relationship with the ESG rating provider or, where applicable, with
+                    a member of its group.
+
+
+                                                                  Article 4
+
+                                                     Entry into force and application
+
+      This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+      European Union.
+
+      It shall apply from 2 July 2026.
+
+
+
+                     This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+
+                     Done at Brussels, 21 April 2026.
+
+
+                                                                                         For the Commission
+                                                                                            The President
+                                                                                      Ursula VON DER LEYEN
+
+
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/872/oj                                                                                     3/3
+

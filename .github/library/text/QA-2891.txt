@@ -1,0 +1,44 @@
+SOURCE: Access to dataset for factual error review
+REFERENCE: ESMA_QA_2891
+DATE: 2026-07-10
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2891
+FILE: sources/QA_2891.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2891
+
+10/07/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Access to dataset for factual error review 
+
+ Original question
+
+When an ESG rating provider notifies an issuer or rated item for the purposes of a fact-checking review, is access to the respective dataset granted only upon request?
+
+ESMA Answer
+
+10-07-2026
+
+ Original language
+
+ESG rating providers are required to grant access to the dataset upon request of the issuer or rated item, in which case it should be granted as soon as possible. Alternatively, access to the dataset can be provided automatically, in parallel with the notification. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+48-hour rule

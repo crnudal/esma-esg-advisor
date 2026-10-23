@@ -1,0 +1,56 @@
+SOURCE: ESG ratings used for internal purposes or in-house financial services
+REFERENCE: ESMA_QA_2806
+DATE: 2026-03-18
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2806
+FILE: sources/QA_2806.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2806
+
+18/03/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+ESG ratings used for internal purposes or in-house financial services 
+
+ Original question
+
+What types of activities are considered “internal purposes” or “in-house” or “intragroup financial services or products” for the purposes of Article 2(2)(b)? 
+
+ESMA Answer
+
+18-03-2026
+
+ Original language
+
+Answer provided by the European Commission
+
+The Article 2(2)(b) of the ESG Ratings Regulation foresees the exemption from the requirements of the regulation when ESG ratings issued by regulated financial undertakings are used exclusively for providing in-house or intragroup financial services or products. 
+
+An in-house activity refers to any internal use of an ESG rating by a regulated financial undertaking, provided that the rating is not published or distributed to a third party. 
+
+The ESG rating developed by a regulated financial institution and used in financial services provided intra-group is exempt from the scope of the Regulation provided it is not disclosed to any third party, either through publication or distribution. For the purposes of Article 2(2)(b), examples of “internal purposes” include the use of an ESG rating to facilitate treasury operations, risk management or internal lending processes. 
+
+Examples of “in-house or intragroup financial services or products” include where ESG ratings are issued and used for portfolio construction within the same corporate group, where one entity makes investments for the benefit of other entities in that group. A further example is the use of an ESG rating as an input to the decision to offer a financial service or product to a client or third party without the rating being disclosed.
+
+Disclaimer 
+
+The answers clarify provisions already contained in the applicable legislation. They do not extend in any way the rights and obligations deriving from such legislation nor do they introduce any additional requirements for the concerned operators and competent authorities. The answers are merely intended to assist natural or legal persons, including competent authorities and Union institutions and bodies in clarifying the application or implementation of the relevant legal provisions. Only the Court of Justice of the 2 European Union is competent to authoritatively interpret Union law. The views expressed in the internal Commission Decision cannot prejudge the position that the European Commission might take before the Union and national courts.
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Scope (including exemptions)

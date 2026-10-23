@@ -1,0 +1,46 @@
+SOURCE: ESG rating providers established after date of entry into force
+REFERENCE: ESMA_QA_2855
+DATE: 2026-05-22
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2855
+FILE: sources/QA_2855.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2855
+
+22/05/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+ESG rating providers established after date of entry into force
+
+ Original question
+
+Which ESG rating providers established after the date of entry into force of Regulation (EU) 2024/3005 can benefit from the transitional regime under Article 51?
+
+ESMA Answer
+
+22-05-2026
+
+ Original language
+
+An ESG rating provider established after 1 January 2025 can benefit from the transitional regime if it is a successor with structural links to an entity that had been operating in the Union at entry into force, whether or not that entity was established inside or outside the Union at that time. Examples of structural links include a subsidiary, affiliate, shared trading name, intellectual property, beneficial ownership or controlling interests. 
+
+If an ESG rating provider has no such structural links, it must apply to operate in the Union through one of the options set out in Article 4 (authorisation, equivalence, endorsement, recognition) or, if applicable, notify ESMA in order to be registered under the temporary regime for small ESG rating providers pursuant to Article 5(1). 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Application to operate in the Union

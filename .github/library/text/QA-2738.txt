@@ -1,0 +1,44 @@
+SOURCE: ESMA assessment of temporary regime notification
+REFERENCE: ESMA_QA_2738
+DATE: 2025-12-18
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2738
+FILE: sources/QA_2738.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2738
+
+18/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+ESMA assessment of temporary regime notification
+
+ Original question
+
+Does ESMA’s assessment to determine whether to register a small ESG rating provider for the purposes of the temporary regime pursuant to Article 5(2) of Regulation (EU) 2024/3005 include the assessment of the notifying entity’s compliance with the requirements of Article 15(1), (5) and (7), Articles 23 and 24 and Articles 32 to 37 of the Regulation?
+
+ESMA Answer
+
+18-12-2025
+
+ Original language
+
+No. ESMA’s assessment is limited to verifying whether the notifier qualifies as a small undertaking or as a small group through the fulfilment of the quantitative criteria listed in Article 3(2), first subparagraph, or Article 3(5), first subparagraph of Directive 2013/34/EU, notably balance sheet total, net turnover and number of employees during the financial year.
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Temporary regime for small providers

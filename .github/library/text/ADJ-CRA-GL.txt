@@ -1,0 +1,1457 @@
+SOURCE: ESMA Guidelines on disclosure requirements applicable to credit ratings (ESG factors)
+REFERENCE: ESMA33-9-320
+DATE: 2019-07
+URL: https://www.esma.europa.eu/sites/default/files/library/esma33-9-320_final_report_guidelines_on_disclosure_requirements_applicable_to_credit_rating_agencies.pdf
+FILE: sources/ADJ_ESMA_2019_CRA_Disclosure_Guidelines_ESG.pdf
+
+Final Report
+Guidelines on Disclosure Requirements Applicable to Credit Ratings
+
+
+
+
+                                               18 July 2019 | ESMA33-9-320
+                                                                                             18 July 2019
+                                                                                             ESMA33-9-320
+
+
+
+
+Table of Contents
+Legislative references, abbreviations and definitions ..............................................................2
+1     Executive Summary ........................................................................................................3
+2     Feedback Statement .......................................................................................................4
+Annex I Guidelines .............................................................................................................23
+Annex II Cost Benefit Analysis ..........................................................................................27
+Annex III SMSG Advice ......................................................................................................30
+
+
+
+
+                                                                1
+Legislative references, abbreviations and definitions
+
+Action Plan      European Commission’s Action Plan for Sustainable Finance
+
+CP               Consultation paper
+
+CRA              Credit Rating Agency
+                 Regulation (EC) No 1060/2009 of the European Parliament and of
+                 the Council of 16 September 2009 on credit ratings agencies as
+                 amended by Regulation (EU) No 513/2011 of the European
+CRA Regulation   Parliament and of the Council of 11 May 2011, Directive 2011/61/EU
+or CRAR          of the European Parliament and of the Council of 8 June 2011,
+                 Regulation (EU) No 462/2013 of the European Parliament and of the
+                 Council of 21 May 2013, and Directive 2014/51/EU of the European
+                 Parliament and of the Council of 16 April 2014
+
+EU CRA           A credit rating agency registered with ESMA
+
+
+ESG              Environmental, Social or Governance
+
+
+ESMA             European Securities and Markets Authority
+
+
+ESMA SMSG        ESMA Securities and Markets Stakeholder Group
+
+
+
+
+                                   2
+1 Executive Summary
+       Reasons for publication
+1. The CRA Regulation includes a number of disclosure requirements relating to credit
+   ratings. The purpose of these requirements is to ensure a sufficient level of transparency
+   around the credit rating actions so as to enable the users of the credit rating to understand
+   the main reasons for the credit rating, any limits or uncertainties underpinning the credit
+   rating as well as where further information can be found to facilitate their own due diligence.
+
+2. In this regard, ESMA has noted an inconsistent level between CRAs regarding the
+   information that is disclosed in accordance to these requirements. As a result, ESMA
+   believes that it would be beneficial to collate a set of good practices in a single guidance
+   document covering the disclosure requirements that are applicable to credit ratings’ press
+   releases and reports. In doing so, this will contribute to ESMA’s core tasks of contributing
+   to investor protection within the EU.
+
+       Contents
+3. This Final Report is structured as follows:
+
+       •    Section 2 contains a summary of the feedback received to the Consultation Paper
+            alongside ESMA’s responses.
+
+       •    Annex I contains the final guidelines. These guidelines are composed of two main
+            elements:
+
+                 o   Guidance to improve the quality and consistency of the information that is
+                     disclosed following a credit rating action.
+
+                 o   Guidance to improve the transparency of credit rating actions concerning the
+                     extent to which sustainability factors have been key driving factors behind that
+                     action. This section of the Final Report is provided specifically with a view to
+                     supporting the European Commission’s Action Plan on Sustainable Finance1.
+
+       •    Annex II contains a cost-benefit analysis of the Guidelines.
+
+       •    Annex III contains the response of ESMA’s Securities and Markets Stakeholders Group
+            to the Consultation Paper.
+
+       Next Steps
+4. The Guidelines in Annex I will be translated into all official languages and published on
+   ESMA’s website. ESMA will consider these Guidelines for the purpose of its supervision
+   as of 30 March 2020.
+
+
+
+
+1
+    Communication for the Commission: Action Plan for Financing Sustainable Growth
+
+
+                                                              3
+2 Feedback Statement
+1.    This section provides a summary of the responses to the Consultation Paper (CP)
+      Guidelines on Disclosure Requirements applicable to Credit Ratings. In providing this
+      summary, ESMA also explains the changes that have been made in response to the
+      comments provided during the consultation process.
+
+2.    In total, 28 responses were received to the consultation with 6 of these provided on a
+      confidential basis. Responses were received from a mixture of credit rating agencies, and
+      other non-CRA market participants.
+
+       Respondent Activity                     Number of Responses Received                          Confidential
+
+      Credit Rating Agency                                         14                                      3
+      Asset Manager                                                2                                       0
+
+      Banking                                                      3                                       1
+
+      Investment Firm                                              1                                       0
+
+      Issuer Association                                           1                                       0
+
+      Other                                                        7                                       2
+
+
+
+2.1. General remarks
+
+3.    The feedback statement follows the order of the questions as they were presented in the
+      CP. These comments were focused on the following areas:
+
+               •    Guidelines applicable to credit rating actions.
+
+               •    Guidelines concerning where sustainability factors have been key driving
+                    factors behind that action.
+
+4.    In addition to commenting on the proposed Guidelines, a number of respondents provided
+      remarks on issues discussed in the introduction to the CP. In particular, paragraph 142,
+      which discussed the accessibility of information provided in accordance with certain
+      articles of the CRA Regulation. In this regard, a number of respondents provided detailed
+      reasons in favour and against the placing of restricting barriers or checks on access to
+      certain information. ESMA welcomes the input of respondents on this topic, in this regard
+      ESMA believes it is important that the users of ratings and investors in general are capable
+      of accessing the required rating related disclosures in a clear and consistent manner in
+      accordance with the requirements of the CRA Regulation. This being said, it is recognised
+      that differences in the technical approach as to how CRAs exactly make this information
+
+
+2
+  “Beyond ensuring that these rating actions are accompanied by the required variety of disclosure requirements, it is also
+necessary to highlight the requirement of Article 13 of the CRA Regulation which requires that CRAs do not charge a fee for any
+information provided in accordance with Articles 8 to 12 of the CRA Regulation. In practice, this means that these press releases
+should be located on a section of a CRA’s website that can be accessed without any barrier to entry or registration requirement.”
+
+
+                                                               4
+     available can exist. ESMA will ensure the responses received on this topic are taken into
+     consideration in any possible future work in relation to access to this information.
+
+     Question 1: Do you agree with the proposed Guidelines for press releases that
+     accompany credit ratings or rating outlooks? If not, please explain.
+
+5.   Of the 28 respondents, 16 provided replies to this question. Of these, eight agreed with or
+     expressed support for the approach of the consultation paper. Five requested clarifications
+     or amendments be introduced, whereas three respondents disagreed with or did not
+     support the approach of the proposals.
+
+6. One CRA respondent outlined that they did not agree with the proposal to use the press
+   release as the only vehicle for disclosures. In their view a press release is a communication
+   adapted to the specific needs of the media. This respondent described how its current
+   approach to publishing credit rating actions was highly automated and relied to a significant
+   degree on a dedicated entity page on its website. It is via this means the respondent meets
+   its disclosure obligations for various regulatory jurisdictions. This concern was echoed by
+   another CRA respondent who stated that while they supported ESMA’s objective of
+   increasing the quality of credit rating disclosures, they did not believe that including this
+   information in the press release was the best way to achieve this. This respondent
+   highlighted that it currently used a separate document accessible through a link in the press
+   release to meet its regulatory disclosure requirements. In this respondent’s view, this
+   approach is an appropriate way of meeting the CRA Regulations disclosure requirements.
+
+7. A similar call for flexibility was reiterated by another CRA respondent who stressed that
+   CRAs use different approaches to implementing the requirements of the CRA Regulation.
+   The respondent outlined that CRAs can include regulatory disclosures in press releases,
+   rating reports or in some cases separate documents that accompany the rating action
+   press release. A similar point was made by another CRA respondent who emphasised
+   that the proposed draft Guidelines should reduce, not increase, the complexity of regulatory
+   disclosure around credit rating announcements. This respondent requested ESMA to
+   amend the proposed Guidelines to reflect that certain disclosures can be included by
+   reference in the publication that accompanies a credit rating action. The respondent
+   suggested that this reference could be achieved through a hyperlink to the relevant section
+   of the CRA’s website.
+
+8. Another CRA agreed that introducing guidance on minimum industry standards for
+   disclosures in press releases would be beneficial, although it was concerned that additional
+   requirements could increase the administrative burden on its analysts. This respondent
+   also highlighted that additional information would lead to longer press releases potentially
+   making them more difficult to read.
+
+9. One respondent disagreed with the proposed draft guidelines stating that in their view the
+   proposals were excessive and misguided. This respondent questioned whether addressing
+   the inconsistency of the information disclosed by CRAs was a worthwhile exercise.
+
+
+
+
+                                               5
+10. While expressing support for the objectives of the Guideline one CRA respondent noted
+    that while it was normal practice for a press release to accompany a rating action, it was
+    not a requirement of CRAR that all disclosures be made in the press release. As a result,
+    the respondent requested that ESMA introduce amendments to allow the required
+    disclosures to be provided by other means.
+
+11. Elsewhere a non-CRA respondent stated that the proposed draft guidelines was
+    reasonable and would provide users with greater clarity, consistency and ultimately
+    confidence in the credit ratings they were using. However, the respondent stated that some
+    elements of information are more useful than others and that ESMA should focus on only
+    few key requirements. In addition, the respondent highlighted that ESMA should allow
+    some flexibility in the level of information available on these areas within the press release
+    itself.
+
+12. A similar point was made by another non-CRA respondent who stated that while they
+    agreed with the proposed draft guidelines in their view, the most relevant elements were
+    items (i)-(vi) of the proposed draft Guidelines.
+
+13. On a more specific point, one respondent stated that while they agreed with the proposed
+    draft guidelines in their view, CRAs could improve their clarity on the thresholds or triggers
+    that could lead to an upgrade or downgrade.
+
+14. Going beyond the issues of content, a non-CRA outlined that while they agreed with the
+    proposed draft Guidelines for press releases, they believed that ESMA should also
+    propose minimum standards for the format of disclosure. Specifically, that ESMA should
+    provide guidance on the way the information in a press release is presented.
+
+15. Finally, more general support for the proposals was provided by three non-CRA
+    respondents with one additional CRA respondent stating that ESMA’s approach of
+    addressing the structure of press releases would facilitate the better measurement of
+    transparency, consistency and accuracy of CRA’s practices.
+
+16. ESMA SMSG: The SMSG agreed with the proposed guidelines. In the SMSG’s view, the
+    guidelines identified the most important elements of information to be included in the credit
+    rating press release. The SMSG also supported the proposal that information, such as a
+    description of rating category and methodology, should be directly and easily accessible to
+    where they are located on the CRAs website.
+
+   ESMA Response: The purpose of this question was to gauge the overall level of support
+   for the proposals in Chapter three of the draft proposed Guidelines as well as to receive
+   the views of respondents on whether the press release accompanying a credit rating action
+   should be the vehicle for credit rating related disclosures. In this regard, ESMA noted a
+   general level of support for providing guidance that ensures a minimum level of consistency
+   between CRAs with regards to credit rating related disclosures. In addition, ESMA noted
+   that several respondents were supportive of improving the accessibility of this information
+   and that the press release was a good tool for this purpose.
+
+
+                                                6
+17. On the other hand, a number of respondents, particularly CRAs expressed reservations
+    about using the press release as the vehicle for these disclosures. These comments
+    highlighted that the CRA Regulation allows for flexibility in terms of how this information is
+    disclosed, and that depending on the CRAs’ current practices it may not be technically
+    feasible or desirable to include all information covered by Chapter three of the draft
+    proposed Guidelines in the press release.
+
+18. ESMA considers that the main issue raised in response to this question relates to the use
+    of the press release as the vehicle for rating related disclosures and in particular, whether
+    all information should be disclosed within the press release that accompanies the rating
+    action. In this regard, ESMA recognises that the CRA Regulation already allows for a
+    degree of flexibility which states that where it is disproportionate in relation to the length
+    of the report distributed, it shall suffice to make clear and prominent reference in the rating
+    report itself to the place where such disclosures can be directly and easily accessed,
+    including a direct web link to the disclosure on an appropriate website of the CRA.
+
+19. What is therefore important for ESMA is that the press release or report is understandable
+    for investors and does not omit key information necessary for understanding the credit
+    rating or rating action. In this regard while the full underlying detail of all relevant
+    elements need not be made within the press release itself, it should at least be accessible
+    from the press release, whether by hyperlink or other means. This will therefore avoid
+    press releases that are overly long on the one hand, or only contain general links to where
+    further information can be found on the CRAs website. Ideally what ESMA would like to
+    see is that there would be a clear signposting as to where information on each of the key
+    element in the Guidelines can be found, for example “information endorsement status can
+    be found HERE”, information on solicitation status can be found HERE, and so on.
+
+
+    Question 2: Do you agree a standardised schematic indicating the rated entities
+    level of participation would be beneficial? Do you have any comments on the
+    proposed standardised schematic?
+
+20. This question asked whether respondents agreed with the approach of the draft
+    Guidelines with respect to a standardised table indicating the rated entities level of
+    participation to be beneficial.
+
+21. Of the 28 respondents, 20 provided replies to this question. Of these, 8 mostly non-CRAs
+    agreed with or supported the proposals, whereas nine requested amendments or
+    clarifications. Three respondents did not support the approach.
+
+22. One CRA respondent stated that they had concerns with a number of aspects of the
+    proposal. First, in practice this element covers both solicitation status and level of the rated
+    entities’ participation. However, solicitation status, can apply at the debt instrument level
+    as well as at the issuer level. As a result, a credit rating action may cover a range of
+    different instruments with different solicitation statuses. Therefore, an additional disclosure
+    requirement here could result in significantly more lengthy credit rating announcements.
+    Second, the respondent highlighted that it would be technically difficult to include
+
+                                                 7
+    schematic tables in credit rating announcements as these are difficult to integrate from the
+    perspective of ensuring they can be transmitted to different users across different
+    platforms. Third, the respondent stated that they were concerned that the use of a
+    schematic or table could increase the prominence of this disclosure requirement in relation
+    to other elements, potentially implying it is of greater importance. By way of an alternative
+    the respondent suggested that this disclosure item could be made through text only and
+    made available on sections of the CRA website that could be easily found and accessed
+    through the credit rating press release or report itself.
+
+23. Another CRA respondent outlined similar concerns, stating that ESMA should not be
+    prescriptive about the formatting of such disclosures. In this regard, the respondent
+    outlined that this format would not be compatible its approach to publishing credit rating
+    actions. In their view, it would be more proportionate to ensure a brief, clear and prominent
+    narrative disclosure and that the respondent itself is already including colour coding for
+    unsolicited credit ratings. As such the respondent requested that ESMA not prescribe the
+    use of the tabular schematic.
+
+24. These concerns were also expressed by another two CRA respondents who stated that
+    they did not agree with a standardised scheme. In the view of one, setting additional
+    standards on the way CRA’s meet certain public disclosure requirements would go beyond
+    what is required by the CRA Regulation without adding value for the users of credit ratings.
+    By way of compromise the second respondent suggested that it would be more appropriate
+    that this disclosure be required only for unsolicited ratings, or where the rated entity failed
+    to fully participate in the rating process.
+
+25. Another CRA respondent stated that while they agree with providing greater clarity in this
+    area it was important not to overemphasise the importance of these factors of solicitation
+    and participation. In this regard, the respondent highlighted that Solvency II does not
+    distinguish between solicited and unsolicited ratings from the perspective of their use for
+    regulatory purposes. As a result, this respondent stated that it did not believe a separate
+    scheme for unsolicited ratings is required and that CRAs should instead provide this
+    information in the form a narrative.
+
+26. A further non-CRA respondent stated that in their view there are limits to standardisation
+    and that the users of ratings do not necessarily need to know the level of participation in
+    the rating process as in the case of a solicited rating, participation is presumed.
+
+27. Qualified support was provided by another CRA respondent who stated that they currently
+    comply with this disclosure requirement by (a) including a statement, in each press release
+    that accompanies the issuance of an unsolicited credit rating, that such credit rating is an
+    unsolicited rating (and information regarding “participation” and “access” in the context of
+    the rating analysis), and (b) using the appropriate notations for each unsolicited rating
+    (depending on “participation” and “access”) in a distinguishable colour coding in the rating
+    table dedicated to each issuer.
+
+28. Another CRA respondent outlined that they consider the standardised schematic as a
+    proactive measure to ensure consistency and was therefore beneficial in nature. This view
+
+                                                8
+    was echoed by another respondent who stated that in their view a standardised scheme
+    indicating the rated entities level of participation would be useful as this will provide greater
+    transparency on the information used as part of the rating action itself.
+
+29. Further support was provided by a non-CRA respondent who stated that a standardised
+    scheme communicating the issuers level of participation in the credit rating process would
+    be beneficial. However, this respondent stated that the proposed scheme only refers to
+    whether access to accounts has been made available which in the case of listed companies
+    is highly likely, given that these are publicly available. In this respondent’s view the
+    proposed scheme could be supplemented by further requirements describing the
+    interaction of the issuer with the CRA on a more general basis.
+
+30. Additional support was provided by another two non-CRA respondents who stated that in
+    their view a standardised scheme would be welcome as it would ensure a level playing
+    field among all CRAs and allow the users of ratings to see how rated entities had
+    participated in the credit rating process. This being said, the respondents recommended
+    that the scheme be simplified and that the scope should be limited to unsolicited ratings.
+
+31. Similar views were expressed by another non-CRA respondent who supported the
+    proposal for a standardised format on the basis it would aid comparability. This view was
+    repeated by another respondent who supported the idea of a standardised scheme to
+    indicate the rated entities level of participation. This respondent likewise stressed that a
+    more simplified scheme would be beneficial.
+
+32. Three further CRA respondents stated that they agreed that the standardisation of
+    information presentation was beneficial for the users of ratings. Of these one stated that
+    while they generally agreed with ESMA’s proposed approach, the scheme itself could be
+    made more simple. In this regard, the respondent noted that the CRA Regulation already
+    required unsolicited credit ratings to be identified as such and as a result there is no further
+    need to add such a chart. Another supported the proposal on the basis it would provide
+    users with a better understanding on the rated entities involvement. While another stated
+    that it may also be useful to also allow the CRA itself to comment on the level of the rated
+    entities’ participation.
+
+33. Finally, one non-CRA respondent stated that they welcomed the efforts of the proposed
+    draft guidelines to improve the quality and consistency of information disclosed alongside
+    the issuance of a credit rating. In this regard, the respondent stated that knowledge of
+    whether a particular rating is solicited or not is important information for the user in
+    providing context to the issuer's level of participation in the rating process, and to allow the
+    user to understand the solicitation status of a rating without recourse to the CRA's website.
+    In this regard, the respondent requested that CRAs be required to specify clearly at the top
+    of every page of the press release the fact that the ratings were unsolicited. The respondent
+    also requested that the schematic include information such as the rationale for carrying out
+    the unsolicited ratings exercise, the source of the information relied upon for the unsolicited
+    rating, any efforts made to substantiate the information relied upon, and a link to the
+    particular CRA's policy on unsolicited ratings.
+
+
+                                                 9
+34. ESMA SMSG: The SMSG agreed that a standardised scheme for communicating the level
+    of participation of a rated entity would be beneficial for the users of ratings. In this regard,
+    the SMSG agreed with ESMA’s proposal. The SMSG highlighted that in its view CRAs
+    should also be able to comment on the level of participation.
+
+   ESMA Response: The purpose of this question was to receive feedback on whether there
+   was support for including a standardised table that would provide clear information on the
+   solicitation status of the credit rating as well as the level of participation of the rated entity
+   or related third party in the rating process. ESMA notes that there was general support for
+   providing greater clarity and signposting of the solicitation status of the rating, as well as
+   the involvement of the rated entity in the rating process. However, it was also noted that
+   the majority of respondents found the proposed table to be overly complex and difficult to
+   interpret. As this was contrary to the objective of this proposal, ESMA is proposing a revised
+   table in the Final Report. This revised version is simplified to focus on the information that
+   respondents highlighted was most important to their analysis, namely whether the credit
+   rating was unsolicited and the level of engagement with the rated entity. The level of
+   engagement in the table now focuses on the areas that respondents highlighted were most
+   important to their consideration (i) whether the CRA had access to management of the
+   rated entity and (ii) whether the CRA had access to internal documents.
+
+    Question 3: Do you have any comments on specific items under this section? If yes,
+    please explain with reference to the proposed item’s number.
+
+35. This question asked whether respondents had any comments on the specific proposals of
+    the draft Guidelines in relation to disclosures for credit rating press releases. Of the 28
+    respondents, 20 provided replies to this question. Seven respondents expressed general
+    support for all the proposed items. Of these, one respondent questioned whether it was
+    necessary to provide this guidance given the instructions were so straightforward.
+
+36. While thirteen respondents suggested amendments or clarifications, no respondent
+    expressed general opposition to the guidance set out in this chapter. Two CRA
+    respondents reiterated general comments regarding the need for flexibility regarding how
+    the information is provided (i.e. in the press release on the CRA’s website). In addition,
+    one CRA respondent expressed the need to allow enough time for CRAs – and particularly
+    small CRAs – to implement the Guidelines.
+
+37. The following subsections summarise the comments provided with regard to each of the
+    individual nine items followed by an answer from ESMA.
+
+   Item (i): A statement as to whether or not the credit rating has been endorsed for use
+   for regulatory purposes in the EU in accordance with the CRA Regulation.
+
+
+38. Ten respondents provided specific comments or views with regard to this item. Comments
+    focused on two topics: (i) where to disclose the information (ii) what information to disclose.
+
+
+
+
+                                                10
+39. Three CRA respondents argued that this information would be better provided through the
+    website of a CRA rather than the press release itself. Providing the information in the press
+    release could lead to an extensive amount of information, and potentially confusing for
+    non-EU investors. In addition, this information is primarily relevant to professional
+    investors, who are less likely to rely on the press release for this information. One CRA
+    respondent, however, stated that it already provides this disclosure in the press release
+    as well as on its website.
+
+40. Two CRA respondents stressed that it was unnecessary and excessive to require CRAs
+    to disclose when a rating was not endorsed from a third country. However, another CRA
+    respondent suggested ESMA go further by proposing a standard wording to be used by
+    CRAs. Finally, one non-CRA respondent raised an issue beyond disclosure practices,
+    pointing out the relevance of commitments agreed under Paris Agreement to the ability of
+    CRAs credit rating methodologies’ to measure the risks involved in a transition to a low
+    carbon economy.
+
+   Items (ii) and (iii): A clear statement as to whether the credit rating is an unsolicited
+   credit rating; and in the case of an unsolicited credit rating the use of the following
+   scheme to clarify the level of the rated entities participation.
+
+41. Six respondents provided specific comments or views on these two items. One non-CRA
+    respondent stressed the importance of knowing the level of participation of the rated entity
+    in a credit rating. Three CRA respondents stated that they already broadly followed the
+    instruction of these items. Another CRA respondent proposed that information about
+    solicitation and participation be provided on the CRA’s website accessible via hyperlink in
+    the press release to avoid overly lengthy disclosures in the press release.
+
+42. One CRA respondent asked whether it would be useful for ESMA to provide a
+    standardised wording which CRAs could use. In a similar theme, two other CRA
+    respondents asked whether ESMA could provide further clarification of key terms such as
+    ‘participation’ and ‘access to accounts’. One of these CRA respondents proposed that
+    ‘participation’ could be defined as ‘substantive discussion of the primary topics driving the
+    relevant credit rating’. According to this CRA, ESMA should also clarify that ‘access to
+    accounts’ refers to access to non-public information.
+
+43. Finally, one CRA respondent outlined that while it generally agrees with ESMA's proposed
+    approach it believes the chart could be much simpler and also highlighted that as the EU
+    CRA Regulation already requires unsolicited credit ratings be identified as such, there is
+    no further need to add a Yes/No in the chart as it will only apply to unsolicited ratings.
+
+   Item (iv): The names, job titles and contact details for the persons responsible for
+   the credit rating together with the name and address of the legal entity responsible
+   for the credit rating.
+
+44. Six respondents provided specific comments or views with regard to this item. One non-
+    CRA respondent, stressed the importance of contact information for users of credit ratings,
+    particularly for due diligence purposes.
+
+                                               11
+45. Two CRA respondents expressed opposition to publishing contact details of the relevant
+    persons arguing that this was not required by the Regulation.
+
+46. Three CRA respondents described how they considered their current practices to be
+    broadly aligned with the proposed guidance. In this regard, one of these respondents
+    proposed to change the wording from "the persons responsible for the credit rating" to “the
+    persons primarily responsible for the analysis with respect to the credit rating” in order to
+    reflect that it is the CRA which is responsible for the rating rather than any individual
+    analyst. Another, stressed the need to provide this information on the website of the CRA,
+    in order to allow for updates in contact information without having to revise press releases.
+    Finally, one stated that it should be sufficient to provide the contact details of the lead
+    analyst (and not the chair of the rating committee) as that would be the person with most
+    knowledge of the credit rating.
+
+   Item (v): A reference to all substantially material sources used for the report should
+   be listed at the end of the report. Where a fact or figure is cited in the press release
+   this should be referenced via footnote to the sources listed at the end of the press
+   release.
+
+47. Seven respondents provided specific comments or views on this item. All but one
+    expressed opposition. This respondent explained that it discloses in its criteria the data
+    sources it uses to derive the assumptions specified in the criteria, and thus which are used
+    in the credit rating analysis.
+
+48. While most of these respondents expressed support for the underlying goal of this item,
+    there were a number of elements that they disagreed with. In this regard One respondent
+    stated that the requirement for such referencing is not supported by the CRA Regulation
+    and could take a disproportionately onerous amount of time to populate. Two other
+    respondents stated that the addition of precise references of material data or information
+    sources used would involve substantial additional manual work for which consistency may
+    be hard to achieve posing systems-related challenges for CRAs. One respondent stated
+    that integrating such references could impair the fluidity of the press release. Finally, one
+    respondent stated that CRAs may use confidential information from the issuer, which
+    hardly would not be possible to list as a source. In this regard the respondent stated that
+    references to sources should only be included in the more extensive rating report.
+
+49. Two respondents proposed that it should be sufficient to provide a synthesis or summary
+    at the end of the press release of the sources utilised for the elaboration of the rating
+    without including a footnote in each fact and/or figure of the rating press release. Another
+    respondent argued that the current industry practice of referencing specific documents
+    cited in the credit rating action should be enough.
+
+   Item (vi): The name of the principal methodology and associated models or criteria
+   used in determining the credit rating are listed alongside dates of applicability or
+   version number. For each methodology or associated model a direct web-link
+   should be provided to that document on the CRA’s website.
+
+
+                                               12
+50. Nine respondents provided specific comments or views with regard to the fifth item on the
+    list. By way of expressing support, one non-CRA respondent stressed the value and
+    importance of this information from the perspective of the users of ratings. Another non-
+    CRA respondent also highlighted the importance of including the titles and versions of the
+    methodology and definition documents in the press release. As a counter point another
+    stakeholder was of the view that most users of ratings were largely unfamiliar with the
+    content of the methodologies and that including this information was of limited value.
+
+51. One CRA respondent stated that it consistently discloses in the dedicated entity web-page
+    on its website together with the name of the criteria used (with a direct hyperlink). Another
+    respondent stated that CRAs generally provide a direct link to their rating methodologies,
+    while others choose to provide links to a section on their website. In the view of this
+    respondent, both approaches are equally valid. Another CRA respondent, stated that
+    since the name of the principal methodology and associated models or criteria could vary
+    from issuer or instrument, it would be beneficial if this information could be provided via a
+    link to a location on the CRAs website. This view was supported by another stakeholder
+    which stated that disclosure of “version number or applicability date” of each model
+    presents certain challenges in cases where methodologies are amended to correct
+    immaterial elements. In these cases, the methodology has a new internal version number
+    but it would not be relevant to the user of the rating.
+
+52. Finally, one CRA respondent asked ESMA to clarify the proposal to clarify that there is no
+    requirement to disclose models themselves, but rather only the name of the model (and
+    version or date) and where the model summary can be found).
+
+   Item (vii): A section clearly identified as addressing actions or events that could lead
+   to an upgrade or downgrade of the credit rating accompanied by best and worst-
+   case scenario credit ratings, with dedicated paragraphs addressing factors that
+   could lead to an upgrade, and actions or events that could lead to a downgrade.
+
+53. Six respondents provided comments or views on this item. Two CRA respondents stated
+    that their current practices should be considered adequate to meet the requirements. In
+    their view scenario analysis or triggers that could lead to an upgrade and downgrade of
+    the credit rating should be sufficient and are already being provided. One CRA respondent
+    proposed that such information should be available only in longer rating reports.
+
+54. One CRA respondent stated that it is not necessary to have separate paragraphs for
+    factors that could lead to an upgrade or downgrade and asked ESMA to make that such
+    a clarification in the guidelines. Another CRA respondent stated that such additional
+    analysis would offer limited additional clarity to the users and would impose heavy burdens
+    on CRAs. Finally, one CRA respondent stated that in its view what is most important is to
+    ensure CRAs are as clear as possible with regards to definition of best and worst cases
+    scenarios.
+
+    Item (viii): An explanatory paragraph outlining where the user of the rating can find
+    information on the definition of each rating category, including definitions of
+    default, risk warnings, etc. If this is on a section of the CRA’s website then a
+
+                                               13
+    dedicated link to that section or document(s) in that section. If this is in a section
+    of the principal methodology, then a reference to the section of the methodology.
+
+55. Six respondents provided comments or views on this item. One non-CRA respondent,
+    stressed the importance of access to methodologies as well as information on titles and
+    version numbers. Another respondent stated that CRAs should provide more information
+    about how the application of the methodology led to a particular credit rating.
+
+56. One CRA respondent, stated that they currently provide this information together with a
+    link to explanations about credit rating definitions and categorisations as well as
+    information about attributes and limitations of credit ratings. Two other CRA respondents
+    stated that in their view including a reference to the methodology itself should be sufficient.
+
+   Item (ix): A statement explaining whether or not the rating was disclosed to the rated
+   entity and amended following that disclosure.
+
+57. Seven respondents provided comments on this item. Three of these, two CRA and one
+    non-CRA, stressed the relevance and importance of this information. One of these, in
+    addition, proposed that CRAs should disclose information about fees related to analytical
+    services. Two of these respondents, one CRA and one non-CRA proposed that the
+    wording of the guidance should more clearly refer to the very specific situation of an
+    amendment following an appeal process from the rated entity.
+
+58. Two CRA respondents proposed that current practice, whereby a reference with a link to
+    the relevant section of the website is made, is the most effective means for disclosure.
+
+59. Two respondents, one CRA and one non-CRA questioned the relevance of including this
+    information in the press release since the vast majority of credit ratings are not amended
+    after disclosure.
+
+60. ESMA SMSG: The SMSG highlighted that CRA’s methodologies (item vi) and the definition
+    of rating category (item viii) should be easily accessible through a direct link without barrier
+    or registration. The names and versions of these methodology and definition documents
+    should be explicitly mentioned in the press release.
+
+61. The SMSG also highlighted that for outlining the endorsement status of ratings the draft
+    guidelines only require a “statement”, whereas for outlining the status of unsolicited ratings
+    a “clear statement” is required. The SMSG suggested that these elements be harmonised
+    so that both requested a “clear statement”.
+
+   ESMA Response: The purpose of this question was to allow respondents to provide their
+   views on the nine specific recommendations as to how CRAs could meet their disclosure
+   obligations with regards to certain disclosure requirements that accompany the disclosure
+   and presentation of a credit rating. The order in which these items are presented follows
+   the sequence of the underlying provisions in the CRA Regulation. In this regard the
+   guidelines should not be understood as presenting an order of presentation or hierarchy of
+
+
+
+                                                14
+the provisions. ESMA received significant input on each of the items under Chapter three.
+In this regard, ESMA has made the following amendments to the final guidelines:
+
+Item (i). A number of respondents highlighted that to require a statement that a credit rating
+had not been endorsed could lead to confusion among non-EU users of ratings, to whom
+this distinction may not be clear. As such, ESMA has clarified that a statement is only
+required in positive circumstances. ESMA has also amended the statement to remove
+reference to “use for regulatory purposes” to also improve clarity of any statement provided
+under this item.
+
+Item (ii). There was general support for this requirement, as a result no changes have
+been proposed to this element.
+
+Item (iii). ESMA has amended and simplified the table proposed in the final draft guidelines
+to take on board views expressed by respondents. See above ESMA’s response to
+question 2.
+
+Item (iv). ESMA noted the views of non-CRA respondents who generally supported more
+consistent information as to the individuals responsible for developing and approving the
+credit rating. However, ESMA also noted the views of some CRAs that these individuals
+are not personally responsible for the credit rating. As a result, ESMA has clarified the
+language to ensure it refers to the lead or principal analysts and the person primarily
+responsible for approving the credit rating.
+
+Item (v). ESMA has clarified that rather than footnoting every fact or figure in a press
+release CRAs should ensure that identifying references for any substantially material
+source cited as a key driver within the press release should be provided. The level of detail
+in these references should be sufficient to, for example, enable to the reader to identify the
+source of a specific report or event that was cited or referred to by the CRA in the press
+release. The purpose of this is to allow the user to conduct their own due diligence on the
+sources or material that the CRA is citing as relevant to its credit analysis.
+
+Item (vi). There was general support for this proposal from non-CRAs on the basis that
+this information is useful for their own due diligence, and from CRAs who to a large degree
+are already implementing this proposal. The purpose of this element of the draft proposed
+guidelines was to ensure that all CRAs list the principal methodology and associated
+material models used in determining the credit rating. In this regard, ESMA has clarified
+that CRAs should disclose the names of their principal methodologies and models used in
+determining the credit rating.
+
+Item (vii). Respondents were generally supportive of this proposal, as a result ESMA has
+made no changes to these elements of the proposed draft guidelines.
+
+Item (viii). Respondents were generally supportive of this proposal, therefore ESMA has
+only made changes necessary to better align the wording of the paragraph with the relevant
+section of the CRA Regulation.
+
+
+
+                                           15
+    Item (ix). Respondents were generally supportive of this element of the proposal, however
+    to improve the coherence with the regulation, ESMA has clarified that this statement should
+    focus on explaining whether the rating was amended following that disclosure.
+
+    Question 4: Do you have any comments on specific items under this section? If yes,
+    please explain with reference to the proposed item’s number.
+
+62. Of the 28 respondents, all of them provided replies to this question which asked for
+    respondents views as to the proposal for increasing transparency as to the consideration
+    of ESG factors in credit rating action press releases and reports. Eight respondents agreed
+    with the proposals, whereas sixteen provided amendments or requested clarifications.
+    Three respondents disagreed with the proposals.
+
+63. One non-CRA respondent disagreed with the proposals on the basis that the guidelines
+    were burdensome and requested information that agencies are already including in their
+    rating related publications. This respondent also questioned the usefulness of including an
+    identifier that ESG factors were not a key underlying element behind a rating action. One
+    CRA respondent stated that CRAs should be allowed to decide whether ESG factors are
+    applicable or not to a credit rating decision, and in the case that they are this should be
+    clearly stated in the press release.
+
+64. Another CRA respondent outlined that while it agreed with the objective of increasing
+    investor understanding of how ESG factors are reflected in credit analysis, ESMA’s
+    proposed draft Guidelines should distinguish between credit rating changes and changes
+    in credit rating level of outlook. In addition, a negative identification as to the consideration
+    of ESG factors could lead to a misleading disclosure to investors. Finally, the respondent
+    believed the proposed draft guidelines assume a clear distinction between E,S and G
+    factors, which although very different in nature have some degree of overlap in practice.
+    To address this final element the respondent suggested an approach that does not
+    artificially define or compartmentalise these factors.
+
+65. A similar view was expressed by another CRA respondent who stated that while it was
+    supportive of the need to increase transparency around when and how ESG factors are
+    considered as key elements in credit ratings and elements of the proposal such as the
+    creation of stand-alone ESG sections on CRAs’ publicly accessible website or the
+    publication of specific information on how ESG factors are considered by each CRA in their
+    methodologies. The respondent had concerns about a number of the proposals. Most
+    notably, the categorisation of factors as E, S or G where it requested greater flexibility, the
+    requirement to include a hyperlink which could be burdensome, and the negative statement
+    which could be misleading.
+
+66. A lack of support for the negative statement was also expressed by another CRA
+    respondent who stated that stated that while they welcomed the focus ESG factors were
+    receiving and agreed that where ESG factors are a key underlying element in a rating
+    action they should be highlighted and explained. However, the respondent stated that they
+    believed a standardised approach, as set out in the CP, that would add a requirement to
+    disclose whether a factor had not been considered was not advisable.
+
+                                                 16
+67. A further non-CRA respondent outlined that it agreed with and supported ESMA’s
+   proposals, but nevertheless wished to highlight that it agreed with paragraph 57 of the CP
+   which stated that ‘..in no way does this guidance recommend or mandate what factors a
+   CRA should be considering as part of their creditworthiness assessments nor does it
+   suggest that the consideration of ESG factors are more important than other factors to the
+   creditworthiness assessment of an entity or issuer.’
+
+68. A similar desire for the guidelines to go further was expressed by non-CRA another
+    respondent, who requested that the guidelines be amended to clarify that this applies in
+    cases where they are key driving factors behind a change in a rating. The respondent also
+    highlighted that it is important that the guidelines should be clear that the disclosure around
+    ESG factors should not be on how these impact a rated entity’s business model but its
+    credit quality.
+
+69. Another non-CRA respondent stated that they agreed that improving transparency around
+    the consideration of ESG factors would be beneficial, however in their view the absence of
+    a taxonomy would make comparability difficult to achieve.
+
+70. Another non-CRA respondent stated that although ESG factors are not relevant to the
+    evaluation of creditworthiness in a number of industries, they supported the approach of
+    ESMA’s guidelines as a proportionate way of describing when ESG factors have been
+    considered by a CRA as relevant to the creditworthiness assessment.
+
+71. An additional non-CRA respondent outlined that they agreed with the proposals and felt
+    that the proposed draft guidelines would contribute positively to the European
+    Commission’s Action Plan on Sustainable Finance. This respondent recommended that
+    the ESG disclosure could be made in a separate stand-alone disclosure and that within
+    this disclosure the CRA could provide a detailed causal chain between the driving factors
+    and the impact on the credit rating.
+
+72. Elsewhere another non-CRA respondent stated that they supported the approach of the
+    draft guidelines but recommended that they include an explicit requirement that CRAs
+    should also review their methodologies with a view to assessing whether ESG factors are
+    relevant and should be included in the methodology.
+
+73. An opposing view to this was outlined by a CRA respondent who highlighted ESMA
+    guideline can neither require CRAs to include ESG into their rating methodologies nor
+    require CRAs to disclose ESG considerations separately or explicitly and that CRAs need
+    to remain free in choosing which factors they consider in their methodologies and how the
+    credit ratings are presented and explained. This respondent highlighted that ESMAs
+    proposals would most affect small CRAs who would need to devote resources to ESG
+    topics.
+
+74. Another non-CRA respondent stated that as the incorporation of ESG factors into
+    investment activities increases, fixed income investors need to better understand how their
+    data sources consider ESG factors. Given ESG factors are not an explicit part of the CRA
+    Regulation, the respondent welcomed that these factors were being addressed in ESMA’s
+
+                                                17
+   guidelines. However, the respondent stated that ESMA should not be prescriptive about
+   what is categorised as ESG factors but rather leave it to CRAs define this themselves. In
+   this regard, the respondent pointed to the European Commission’s taxonomy as a policy
+   tool which seeks to identify investment activities that make a substantive contribution to
+   environmental/sustainability objectives rather than to be used as a conceptual framework
+   for categorising ESG matters.
+
+75. An additional non-CRA respondent supported the draft guidelines but questioned whether
+    the focus should be on sustainability considerations as opposed to ESG factors. The
+    respondent also highlighted that CRAs need to ensure that any ESG metrics are accurately
+    and measured and that ESG factors do not fall prey to corporate 'window-dressing'. The
+    respondent supported the requirement to have a positive identification as to whether ESG
+    factors were a key underlying element but did not support a negative identification. The
+    respondent questioned whether it would be sufficient to identify if ESG factors were a key
+    underlying element without adding more qualitative information on their materiality. Finally,
+    the respondent highlighted potential problems with how each CRA would benchmark
+    whether a criteria is E, S or G. In this regard, the respondent noted that some criteria could
+    be a combination of all three.
+
+76. A further non-CRA respondent stated that while they agreed with the proposal the
+    requirement to include a link to how CRAs are considering ESG factors in their credit
+    ratings could be seen as contradictory with the statement that ESG factors may not be
+    relevant to every credit rating action. A similar view was expressed by another CRA
+    respondent who stated that while they agreed with the proposals they had two main issues.
+    First, that it should not be mandatory to have a link to a document or section of that CRAs
+    website which outlines how it considers ESG factors in its credit ratings. Second, that an
+    identifier stating whether ESG factors were not considered could be misleading and goes
+    contrary to the CRA regulations purpose of liming disclosures only to information relevant
+    to the rating. A further CRA respondent requested that ESMA clarify whether the proposed
+    ESG disclosures refer to the drivers of the current rating action or the overall credit rating.
+    In addition, the respondent requested that ESMA allow for flexibility on the location of the
+    web link to the ESG guidance in the press release. Finally, the respondent questioned the
+    usefulness of including a negative statement where ESG factors were not a key driving
+    factor.
+
+77. From a more general perspective, one non-CRA respondent agreed with the proposals but
+    questioned whether ESMA should take the ratification of the Paris Climate Agreement into
+    account for the purposes of the CRA Regulation’s endorsement regime.
+
+78. By way of supporting a more prescriptive approach, another non-CRA respondent stated
+    that in addition to the Guidelines, CRAs should also disclose information about what steps
+    the rated entity could take to improve its overall credit rating by addressing any ESG risks
+    identified by the CRA.
+
+79. The view that the guidelines should in fact go further was outlined by another CRA
+    respondent who stated that the guidelines should also require; (i) a detailed explanation of
+    the relative importance of E, S and G factors, including their weights and/or sensitivity in
+
+                                                18
+   the credit ratings, (ii) an explanation on how E, S, and G factors evolved since the previous
+   rating action and whether these evolutions are at the root of a change in the credit rating
+   or rating outlook, and finally (iii) an explanation on the impact that E, S, and G factors have
+   had on the simulation of stress scenarios that the CRA has undertaken.
+
+80. Another non-CRA respondent supported the approach of the draft Guidelines, stating that
+    credit focused assessments by CRAs were complementary to more ESG focused
+    assessments of non-CRAs. This respondent also emphasised that it is important to avoid
+    giving the impression that ESG factors were considered as part of a credit rating when in
+    fact their relevance was limited.
+
+81. Another non-CRA respondent stated that they support the work of ESMA to provide ESG
+    related disclosure guidelines for CRAs as the consideration of these factors will help
+    provide a more complete view of an entities’ long-term performance. This respondent
+    stated that they believed that the draft guidelines provide an important foundation for
+    disclosure and transparency around these factors.
+
+82. A further CRA respondent stated that they supported the proposed draft Guidelines for
+    ESG disclosures and welcomed the wording in that “in no way does this guidance
+    recommend or mandate what factors a CRA should be considering as part of their
+    creditworthiness assessments”. This respondent outlined that it was committed to
+    understanding and evaluating how ESG factors affect credit and are continually working to
+    make these factors more prominent in ratings and research.
+
+83. Finally, a CRA respondent stated that they welcomed the guidelines as a first concrete
+    step on the side of EU authorities to ensure CRAs take full consideration of ESG factors in
+    their credit rating processes. This respondent considered that the guidelines are in line with
+    current market practice. However, the respondent also requested that ESMA allow for
+    sufficient time to implement the guidelines.
+
+84. ESMA SMSG: The SMSG highlighted that credit ratings are fundamentally different from
+    ESG ratings as the two products serve very different purposes. In this regard, the SMSG
+    stated that while ESG factors may be relevant to credit ratings in certain cases, they will
+    not be a “key element” in every instance.
+
+85. Beyond this point the SMSG requested ESMA clarify whether the guidelines are intended
+    to require CRAs to include ESG factors in their rating methodologies. The SMSG stressed
+    that the lack of agreed definitions at EU level is a substantial shortcoming that seriously
+    hampers the implementation of a harmonised approach to sustainable finance and that
+    even if the guidelines increase transparency around the consideration of ESG factors these
+    disclosures will only be useful if the factors being referenced are comparable.
+
+   ESMA Response: The purpose of this question was to receive the views of respondents
+   on the proposals for increasing transparency of ESG factors in credit rating action press
+   releases. Consequently, ESMA has revised the proposals to address a number of issues
+   raised by respondents. First, ESMA has clarified that the disclosures in this section only
+   relates to where ESG factors are the key elements driving a change in a credit rating action.
+
+                                               19
+   This is to distinguish from where ESG factors may be considered as part of a credit rating
+   issuance. In such cases where ESG factors are a key driver of a rating change, CRAs
+   should outline by way of a statement that ESG factors were a key driver in the rating
+   change. Next, CRAs should identify which of the key rating drivers were ESG factors. Then,
+   CRAs should explain why these ESG factors were material to the credit rating or rating
+   outlook. Finally, ESMA has clarified that a link to guidance or a section of that CRAs
+   website explaining how ESG factors are considered within their credit ratings, should only
+   be provided for rating actions where ESG factors were key elements driving a change. For
+   those CRAs who either do not have dedicated research explaining how they consider ESG,
+   or a section of their website, this element could be fulfilled through a link to the principal
+   methodology where information can be found as to how that CRA considers all factors
+   relevant to its credit assessments, including ESG factors, where applicable. However, in
+   line with the provisions of Article 23 of CRA Regulation these guidelines do not mandate
+   that CRAs include ESG factors in their credit rating methodologies. Finally, ESMA has
+   removed the proposal for a negative statement, where ESG factors were not key elements
+   driving a change in a credit rating.
+
+   As now drafted, the proposals set out that where ESG factors were a key driver of a change
+   in a credit rating action, CRAs should outline in the press release that one or more of the
+   key elements driving the change correspond to that CRA’s categorisation of ESG factors.
+   Separately, the CRA should explain whether the key elements are considered by that CRA
+   to be ESG factors. This general categorisation will on the one hand provide the users with
+   information on which key drivers were ESG factors, without requiring CRAs to draw a hard
+   distinction between whether a factor is E, S or G which in the absence of an agreed
+   taxonomy could prove difficult for CRAs and problematic for users. With a view to providing
+   greater consistency ESMA may consider revisiting this element of the guidelines following
+   the adoption of the European Commission’s proposal for a regulation on a framework to
+   facilitate sustainable investment. Finally, where available, and where ESG factors were a
+   key driver of the rating change, the CRA should provide access to guidance explaining how
+   it considers ESG factors in its credit ratings more broadly.
+
+   Question 5: This question asked whether respondents could identify any additional
+   actions that CRAs could take to improve the disclosure of the consideration of ESG
+   factors.
+
+86. Of the 28 respondents, 16 mostly non-CRAs provided replies to this question. Three
+    respondents stated that ESMAs proposed draft guidelines were sufficient and had no
+    further comments or suggestions. Eleven respondents provided comments discussing
+    where CRAs could take additional steps to improve transparency around the consideration
+    of ESG factors. Three respondents provided comments stating that CRAs' current level of
+    disclosure around the consideration of ESG factors was sufficient.
+
+87. One CRA respondent outlined that they were concerned about the potential to confuse the
+    relevance of ESG to creditworthiness, and ESG as an additional information point for
+    investors. In this respondent’s view, both aspects are relevant but both serve different
+    purposes and should be used as complementary to each other. Another non-CRA
+
+
+                                              20
+   respondent highlighted the importance of ensuring that the information CRAs analysis is
+   based on is up to date and accurate and encouraged ESMA to ensure compliance and
+   accountability where discrepancies occur. This respondent also recommended IOSCO
+   including the topic of ESG disclosures in the Code of Conduct for CRAs.
+
+88. Another non-CRA respondent recommended that ESMA introduce additional guidance
+    stating that when for example an environmental factor has been a key element of a rating
+    action, the CRA should also specify the climate scenario or trajectory used for that analysis.
+    In addition, the respondent suggested that the CRA should provide links to further analysis
+    that could help investors better understand if ESG factors might become relevant for a
+    credit rating in the future. Another non-CRA respondent however stated that CRAs were
+    already taking the necessary steps to increase transparency on the integration of ESG
+    factors in credit ratings. In this regard, the respondent highlighted that a number of CRAs
+    already have dedicated ESG sections of their websites and are raising awareness in a
+    proportionate manner.
+
+89. In terms of future developments another respondent stated that if in the future the CRA
+    Regulation were to be amended to mandate CRAs to explicitly integrate ESG factors in
+    their assessments, additional disclosure actions may be necessary.
+
+90. One non-CRA respondent suggested that an alternative to improving the quality and
+    consistency of ESG related disclosures in credit ratings would be to include a specific
+    section related to “ESG factors consideration” in the press release. This would provide
+    greater transparency in their ESG related guidance by listing the raw data used and key
+    metric related to ESG factors that were considered.
+
+91. A further non-CRA respondent highlighted the lessons from the sub-prime crisis which
+    demonstrated the dangers of relying on external opinions. In this regard, the respondent
+    emphasised the importance of ensuring the maximum level of transparency to allow users
+    to conduct their own due diligence.
+
+92. In terms of additional actions that could be taken another non-CRA respondent outlined
+    that it would be helpful if CRAs provided additional guidance on the relevance of ESG
+    factors to a credit rating. Specifically, within their methodology documents CRAs should
+    disclose all factors – financial or ESG related – which are likely to be viewed as a key
+    element in the credit rating. In this regard, CRAs should explain the criteria for arriving at
+    what is considered material and what is not for different types of issuers and sectors. As
+    part of this, the respondent outlined that CRAs could consider providing an indication as to
+    the timeframe over which they would consider such factors to be material.
+
+93. One non-CRA respondent wished to draw attention to ESMAs’ Annual Report and
+    Supervision Work Programme which did not contain any references to climate, carbon or
+    sustainability. In this regard, the respondent recommended that ESMA should be provided
+    with greater resources in order to tackle climate change.
+
+94. Another CRA respondent stated that disclosure around the consideration of ESG factors
+    should not only focus on credit ratings but also on CRAs methodologies. In this regard, the
+
+                                               21
+   respondent considered that guidelines addressing credit rating disclosures were too
+   narrowly focused. This respondent considered that a more appropriate course of action
+   would be for ESMA to require CRAs to provide a clear definition of the taxonomy chosen
+   for ESG factors as well as an indication as to whether or not ESG factors have been
+   integrated in a systematic manner within the CRA’s rating methodologies. Finally, the
+   respondent outlined that a CRA should clearly indicate, for each ESG factor it considers,
+   whether it is a quantitative or qualitative factor. In this regard, the respondent outlined that
+   whenever a CRA states that ESG factors are considered as part of its rating methodologies
+   this information should appear in the principal methodology document related to each asset
+   class instead of in an ad hoc ESG-related guidance or research.
+
+95. One CRA respondent outlined that they considered ESMA’s draft guidelines as sufficient
+    as a first step until the EU taxonomy has been defined. Another respondent disagreed and
+    considered that the guidance was excessive and that CRAs should be allowed to develop
+    practices in this area on their own. Another CRA respondent outlined that further regulatory
+    intervention relating to ESG disclosure is not necessary and that the users of credit ratings
+    were best placed to inform CRAs about what information they should be provided with.
+
+96. Finally, one non-CRA respondent recommended that ESMA go further with its guidelines
+    and require CRAs to disclose (i) the framework or approach used to build the
+    methodologies for assessing material ESG considerations. For example, whether CRAs
+    use third party frameworks to form part of their methodologies, and if so what third party
+    framework. (ii) the ESG risks that require greater consideration by issuers and investors
+    (iii) disclosure of whether the CRA is a signatory of the UNPRIs credit rating initiative.
+
+   ESMA SMSG: The SMSG stated that it considered ESMA’s proposed guidelines to be
+   sufficient until the EU taxonomy is defined.
+
+   ESMA Response: The purpose of this question was to receive additional input from
+   respondents with a view to identifying whether there were other possible steps that CRAs
+   could take to improve the transparency of their consideration of ESG factors. A number of
+   interesting proposals were provided in response to this question, however ESMA also
+   noted that there appeared to be a balance between those respondents who felt CRAs could
+   take further actions beyond the steps outlined in this paper and those that felt the proposals
+   were either sufficient or overly burdensome. As a result, ESMA feels that the proposals
+   should not be expanded beyond their current format at this stage and wait until possible
+   further developments in this area.
+
+
+
+
+                                               22
+Annex I Guidelines
+Scope
+
+Who?
+
+
+These guidelines apply to credit rating agencies established in the Union and registered with
+ESMA (hereinafter “EU CRAs”) in accordance with Regulation (EC) No 1060/2009 of the
+European Parliament and of the Council of 16 September 2009 on credit rating agencies3
+(hereinafter “CRAR”).
+
+What?
+
+
+These guidelines concern particular matters relating to the publication of credit ratings, rating
+outlooks and methodologies and models by EU Registered CRAs in accordance with Articles
+10(1), 10(2), 10(5) and Annex I, Section D, I, points 1, 2, 4 and 5 and Annex I Section D, III,
+1,2, 2a and 4.
+
+When?
+
+
+These Guidelines will be translated into all official EU languages and published on ESMA’s
+website. ESMA will consider these Guidelines for the purpose of its supervision as of 30
+March 2020.
+
+
+
+
+3
+    OJ L 302, 17.11.2009, p.1.
+
+
+                                               23
+Definitions, legislative references and acronyms
+
+The following definitions apply:
+
+    CRA                            Credit rating agency
+                                   Regulation (EC) No 1060/2009 of the European Parliament
+    CRAR                           and of the Council of 16 September 2009 on credit ratings
+                                   agencies (as last amended by (EU) No 462/2013)
+    ESMA                           European Securities and Markets Authorities
+                                   Regulation (EU) No 1095/2010 of the European Parliament
+                                   and of the Council of 24 November 2010 establishing a
+                                   European Supervisory Authority (European Securities and
+    ESMA Regulation
+                                   Markets Authority), amending Decision No 716/2009/EC
+                                   and repealing Commission Decision 2009/77/EC (ESMA
+                                   Regulation)
+    ESG Factors                    Environmental, Social or Governance Factors
+
+
+1 Purpose
+1. The purpose of these Guidelines is to improve the consistency of the information that CRAs
+   are required to disclose as part of certain rating actions. This information is typically
+   included in the rating action press release or reports.
+
+
+2 Compliance and reporting obligations
+
+2.1 Status of the guidelines
+2. This document contains guidelines issued pursuant to Article 16 of the ESMA Regulation.
+   In accordance with Article 16(3) of the ESMA Regulation, CRAs must make every effort to
+   comply with the guidelines.
+
+
+2.2 Reporting requirements
+
+3. ESMA will assess the application of these guidelines by the CRAs through its ongoing
+   supervision and monitoring of CRAs’ periodic reporting to ESMA.
+
+
+
+
+                                             24
+3 Guidelines
+
+3.1 Requirements relating to Press Releases or Reports
+    published in accordance with Article 10(1), 10(2) and 10(5).
+4. ESMA considers that a credit rating or rating outlook, disclosed and presented within the
+   meaning of Articles 10(1), 10(2),10(5) and Annex I, Section D, I, 1, 2, 2a, 4 and 5 should
+   be accompanied by a press release or report that explains the key elements underlying the
+   credit rating or rating outlook and includes at least the following elements:
+
+    i.   A clear statement or identifier as to whether the credit rating has been endorsed in
+         accordance with the CRA Regulation.
+
+   ii.   A clear statement as to whether the credit rating is an unsolicited credit rating.
+
+  iii.   In the case of an unsolicited credit rating the use of the following scheme to clarify the
+         level of the rated entities participation:
+
+                                   Unsolicited Credit Rating
+             With Rated Entity or Related Third Party Participation       [YES][NO]
+             With Access to Internal Documents                            [YES][NO]
+             With Access to Management                                    [YES][NO]
+
+  iv.    The names, job titles and contact details for the lead rating analyst and the name and
+         position of the person primarily responsible for approving the credit rating together with
+         the name and address of the legal entity responsible for the credit rating.
+
+   v.    Identifying references for any substantially material source cited within the press
+         release as a key driver of the credit rating action.
+
+  vi.    The name of the principal methodology and material models used in determining the
+         credit rating are listed alongside dates of applicability or version number. For each
+         methodology a link should be provided to that methodology, for each material model a
+         link should be provided to a description of that model.
+
+ vii.    A section clearly identified as addressing actions or events that could lead to an
+         upgrade or downgrade of the credit rating accompanied by best and worst-case
+         scenario credit ratings, with dedicated paragraphs addressing factors that could lead
+         to an upgrade, and actions or events that could lead to a downgrade.
+
+ viii.   An explanatory paragraph outlining where the user of the rating can find information
+         on the meaning of each rating category, including definitions of default or recovery
+         including a sensitivity analysis of the relevant key rating assumptions, such as
+         mathematical or correlation assumptions. If this is in a section of the principal
+         methodology, then a reference to the section of the methodology.
+
+
+                                                25
+  ix.    A statement explaining whether the rating was disclosed to the rated entity and
+         amended following that disclosure prior to publication.
+
+5. In accordance with Annex I Section D, 5, where it would be disproportionate in length to
+   include the full underlying detail of the above elements in the press release or report
+   accompanying the credit rating or rating outlook, ESMA expects that CRAs make clear and
+   prominent reference where this underlying detail can be directly and easily accessed
+   through direct web-link. Notwithstanding this, ESMA considers that the inclusion of the core
+   of the above elements in the press release or report is necessary and proportionate to the
+   overall length of the press release or report.
+
+
+3.2 Requirements relating to Article 10(1), 10(2) and Section D,
+    Annex I, I, points 2a and 5.
+6. Where ESG factors were a key driver behind a change to a credit rating or rating outlook
+   that had been presented and disclosed in accordance with Article 10(1), 10 (2) and Section
+   D, Annex I, I, points 2a and 5, ESMA expects CRAs in the accompanying press release or
+   report to:
+
+   i.    Outline whether any of the key drivers behind the change to the credit rating or rating
+         outlook correspond to that CRA’s categorisation of ESG factors;
+
+  ii.    Identify the key driving factors that were considered by that CRA to be ESG factors;
+
+  iii.   Explain why these ESG factors were material to the credit rating or rating outlook;
+
+  iv.    Include a link to either the section of that CRA’s website that includes guidance
+         explaining how ESG factors are considered as part of that CRA’s credit ratings or a
+         document that explains how ESG factors are considered within that CRA’s
+         methodologies or associated models.
+
+
+
+
+                                               26
+ Annex II Cost Benefit Analysis
+      Background
+
+7.    In the years following the publication of the CRA Regulation, ESMA has noted that different
+      CRAs have interpreted the disclosure requirements of the provisions in different ways. This
+      lack of consistency has weakened the purpose of these provisions the purpose of which
+      was to improve transparency and enhance the ability of the users of ratings to perform their
+      own due diligence.
+
+8.    With publication of the European Commission’s Action Plan on Sustainable Finance which
+      has the objective of better integrating the consideration of Environmental, Social and
+      Governance factors into the actions of financial market participants, it has become even
+      more necessary that the disclosure provisions under the CRA Regulation are fully adhered
+      to.
+
+      Reasons for Publication
+
+9.    The purpose of this consultation paper is to propose a set of Guidelines that increases the
+      standard and consistency of these credit rating related disclosure practices in a manner
+      that gives full effect to the objectives of the Regulation’s provisions. In so doing it is noted
+      that this guidance seeks to harmonise the application of existing Level 1 provisions, rather
+      than imposing any new requirements for CRAs.
+
+10. As a result, it is difficult to argue that they impose any new or material costs on CRAs. In
+    addition, as the philosophy behind these Guidelines, has been to recommend the
+    widespread adoption of practices that have already been observed in the market ESMA
+    believes that the measures proposed are proportionate and achievable.
+
+11. In this regard the approach of the guidelines is to improve the content of the most common
+    rating related publication, the credit rating press release. As part of this approach ESMA
+    would like to support the European Commission’s Action Plan for sustainable finance by
+    improving how CRAs disclose how ESG factors have been considered as part of a credit
+    rating action within these press releases.
+
+      CBA
+
+12.   The following table summarises the potential costs and benefits resulting from the
+      implementation of these Guidelines.
+
+
+
+
+                                                  27
+Policy objective     To harmonise the presentation and content of CRAs’ most
+                     common credit rating related disclosures, in order to increase
+                     investors’ protection and further assist the users of credit ratings
+                     to perform their own due diligence.
+
+Technical proposal   To provide guidance to EU registered CRAs regarding how they
+                     can comply with CRAR requirements regarding the presentation
+                     of credit ratings and credit outlooks.
+
+                     This is done by proposing good practices and encouraging their
+                     uptake.
+
+Benefits             For ESMA, a higher uptake of these guidelines will mean that
+                     CRAR requirements on the presentation of credit ratings and
+                     ratings outlooks will be more consistently applied which will
+                     contribute to its mandate to promote investor protection and
+                     orderly financial markets.
+
+                     ESMA expects that these guidelines will benefit EU CRAs by:
+
+                     - Providing clarity and guidance on the expected rating related
+                     disclosures, in terms of their scope and degree of precision.
+
+                     - ESMA also expects that these guidelines will benefit the users
+                     of credit ratings by and contributing to consumer and investor
+                     protection within the EU by:
+
+                     - Facilitating a consistent implementation of the rules on the
+                     presentation of credit ratings and credit outlooks, through
+                     encouraging the adoption of similar standards.
+
+                     - Increasing the transparency of CRAs credit rating actions.
+
+                     - Improving the ability of the users of credit ratings to perform their
+                     own due diligence.
+
+                     - Improving the transparency around whether and how ESG
+                     factors were considered as part of a credit rating.
+
+Costs for CRAs       For those CRAs who are already implementing some or all of the
+                     practices in these Guidelines, it is expected that these Guidelines
+                     will have limited additional initial, ongoing or ad-hoc costs.
+
+
+
+
+                                       28
+Initial Costs    For those CRAs who do not currently apply the practices outlined
+                 in this paper, the Guidelines will have an initial cost related to the
+                 adaptation of their procedures related to disclosures. However,
+                 this cost should be scaled to the current level of a CRAs
+                 compliance with their requirements under CRAR.
+
+                 For example if a CRA is already implementing the provisions of
+                 the regulation in a manner similar to the Guidelines then adapting
+                 its processes to the practices in these guidelines should be
+                 relatively less costly than for a CRA that is implementing the
+                 provisions of the Regulation in a manner very different from the
+                 Guidelines, as it will have a further distance to travel in order to
+                 but in place the measures proposed by these guidelines.
+
+                 For newer CRAs, the effect of these Guidelines should be to
+                 lower costs, by reducing the need for them to dedicate time and
+                 resources to the development of their own internal policies and
+                 procedures. Indeed, these Guidelines should save them from
+                 having to develop their own systems and procedures to define
+                 the appropriate disclosures. They could outright implement the
+                 disclosures set out in the Guidelines.
+
+Ongoing Costs    There may be a slight increase in ongoing costs, as some CRAs
+                 will have to increase their efforts in order to meet the guidelines.
+
+                 Ad-hoc costs may decrease, as the need for corrections and
+Ad-Hoc           enforcement by ESMA should be reduced, since clear standards
+                 are set in the Guidelines.
+
+
+Costs for ESMA   For ESMA the costs entailed with these guidelines are limited
+                 given that they do not propose a significant shift in its supervisory
+                 practices.
+
+
+
+
+                                  29
+     Annex III SMSG Advice
+
+         ESMA’s consultation on
+         Guidelines on Disclosure Requirements Applicable to Credit Ratings.
+
+     1. General comments
+1.   The SMSG supports the work undertaken by ESMA regarding Credit Ratings Disclosures.
+
+2.   The SMSG is concerned by ESMA’s assessment of current inconsistent practices among
+     CRAs regarding disclosure. It seems in particular that CRAs are not always compliant with
+     Article 13 of the CRA. ESMA highlights that press releases should be accessible without any
+     barrier to entry or registration requirements.
+
+3.   The SMSG believes that, although ESG factors are long term in nature and do not immediately
+     impact solvency, they might play a significant role in the ability of debtors to reimburse their
+     liabilities. The combined analysis of ESG and classic financial factors may highlight the
+     contradictions in the business and financial assumptions.
+
+4.   As mentioned in its February 2019 advice to ESMA4 , the SMSG notes that the lack of agreed
+     definitions and labels at the EU level is a substantial shortcoming and seriously hampers the
+     implementation of a harmonized approach to sustainable finance. This should, however, not
+     prevent firms from making progress in order to incorporate sustainability risks and factors but
+     should be taken into account by regulators and supervisors.
+
+     2. Response to consultation (19 December 2018 | ESMA 33-
+        9-290)
+     2.1. Disclosure Requirements for Credit Rating Press
+        Releases
+     Q1        Do you agree with the proposed Guidelines for press releases that accompany
+               credit ratings or rating outlooks? If not, please explain.
+
+5.   Yes, the SMSG agrees with the proposed guidelines. The guidelines identify the important
+     information and highlights that references to information, such as a description of rating
+     category and methodology, should be easily accessible through links to specific sections rather
+     than to a general website.
+
+
+
+
+     4
+         ESMA Consultation Papers On integrating sustainability risks and factors in MIFID, the UCITS Directive and AIFMD.
+
+
+                                                                    30
+     Q2    Do you agree that a standardised scheme indicating the rated entities level of
+           participation would be beneficial? Do you have any comments on the proposed
+           standardised scheme?
+
+6.   The SMSG believes that standardization of information and presentation will also more
+     generally be beneficial for users of credit rating information. In the mean while, the SMSG
+     agrees with the standardised scheme. The SMSG, however, also believes that CRAs should
+     be able to comment on the level of participation.
+
+     Q3    Do you have any comments on specific items under this section? If yes please
+           explain with reference to the proposed item’s number
+
+7.   As mentioned in paragraph 13 of the introduction of the consultation, we believe that the
+     methodology (guideline vi) and definition of rating category (guideline viii) should be easily
+     accessible through a link accessible without barrier or registration. The titles and versions of
+     these methodology and definition documents should be explicitly mentioned.
+
+8.   The SMSG notes that in respect of endorsement of ratings the draft guidelines require a
+     “statement”, whereas in respect of unsolicited ratings a “clear statement” is required. We
+     suggest to add the adjective “clear” also in respect of the statement on endorsement.
+
+     2.2. Environmental, Social and Governance Factors under
+        the CRA Regulation
+     Q4    Do you have any comments on the proposed Guidelines under this section?
+
+9.   The SMSG wants to stress the obvious difference between the purpose of a credit rating –
+     assessing creditworthiness – and the purpose of an ESG rating – assessing sustainability.
+     While the SMSG recognizes that ESG factors may in certain cases clearly influence the
+     creditworthiness of a company, this is not always the case and will very often not be a “key
+     element” of the underlying rating.
+
+10. The SMSG has the impression that ESMA actually wants CRAs to include ESG factors in their
+    rating methodologies, so that even if such factors do not have any influence on the
+    creditworthiness of a company / product in a certain case, ESG factors have at least in all
+    cases been considered. The SMSG is of the opinion that this is indeed the adequate way
+    forward. If this is indeed also ESMA’s intention, this should be clearly stated. If this is, however,
+    not ESMA’s intention, guideline 8 i should be adapted as follows: “CRAs should include a direct
+    web-link at the bottom of each credit rating press release to the section of that CRA’s website
+    that includes guidance explaining how ESG factors are considered as part of that CRA’s
+    credit ratings, if any”.
+
+
+
+
+                                                     31
+11. As mentioned in its February 2019 advice to ESMA5 , the SMSG wants to stress that the lack
+    of agreed definitions and labels at the EU level is a substantial shortcoming and seriously
+    hampers the implementation of a harmonized approach to sustainable finance. In respect of
+    disclosure requirements in regard of credit ratings, this problem is equally urgent. Even though
+    the proposed guidelines would increase transparency on the impact of ESG factors on credit
+    ratings, such disclosure is only meaningful if investors can also trust that the ESG factors /
+    scale / taxonomy used by the CRA is reliable.
+
+    Q5      Are there any additional actions that CRAs could take to improve the disclosure of the
+            consideration of ESG factors?
+
+12. We believe that ESMA’s proposed guidelines are adequate until the EU taxonomy is defined.
+
+    This advice will be published on the Securities and Markets Stakeholder Group section of
+    ESMA’s website.
+
+    Adopted on 28 March 2019
+
+    [signed]
+
+    Veerle Colaert
+
+    Chair
+
+    Securities and Markets Stakeholder Group
+
+
+
+
+    5
+     ESMA Consultation Papers On integrating sustainability risks and factors in MIFID, the UCITS Directive and AIFMD (ESMA22-
+    106-1683, 6 March 2019).
+
+
+                                                               32
+

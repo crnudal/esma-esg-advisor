@@ -1,0 +1,460 @@
+SOURCE: Delegated Regulation (EU) 2026/910 - fees charged by ESMA to ESG rating providers
+REFERENCE: OJ L 2026/910; C(2026)2580
+DATE: 2026-07-30
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600910
+FILE: sources/L2_DelReg_2026-910_Fees.pdf
+
+            Official Journal                                                                                                              EN
+            of the European Union                                                                                                    L series
+
+                                                              2026/910                                                           30.7.2026
+
+                                    COMMISSION DELEGATED REGULATION (EU) 2026/910
+                                                            of 24 April 2026
+                supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with
+               regard to fees charged by the European Securities and Markets Authority to ESG rating providers
+
+                                                        (Text with EEA relevance)
+
+
+
+
+      THE EUROPEAN COMMISSION,
+
+
+      Having regard to the Treaty on the Functioning of the European Union,
+
+
+      Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the
+      transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations
+      (EU) 2019/2088 and (EU) 2023/2859 (1), and in particular Article 42(2), second subparagraph, thereof,
+
+
+      Whereas:
+
+
+      (1)    In accordance with Article 42(1) of the Regulation (EU) 2024/3005, the European Securities and Markets Authority
+             (ESMA) is to charge proportionate fees to ESG rating providers to fully cover ESMA’s necessary expenditure relating
+             to the supervision of ESG rating providers and the reimbursement of any costs that the competent authorities might
+             incur when carrying out tasks pursuant to that Regulation, and in particular as a result of any delegation of tasks in
+             accordance with Article 43 of that Regulation.
+
+
+      (2)    To fully cover ESMA’s expenditures relating to the supervision of ESG rating providers, ESMA should determine the
+             annual supervisory fees on the basis of the annual estimate of all direct costs necessary for the supervisory tasks
+             performed by ESMA and an appropriate apportionment of ESMA’s fixed and variable overheads.
+
+
+      (3)    To ensure a fair and clear allocation of fees which, at the same time, reflects the actual administrative burden per
+             supervised entity, ESMA should calculate the supervisory fees based on the ESG rating providers’ turnover, since the
+             cost of supervision is higher for larger ESG rating providers than for smaller ones.
+
+
+      (4)    To enable ESMA to dispose in due time of audited turnover data for the estimation of fees due by ESG rating providers
+             to ESMA, the reference year of the audited accounts for the determination of the applicable turnover should be two
+             years prior to the financial year for which ESMA charges fees to the ESG rating provider.
+
+
+      (5)    To facilitate the calculation of the fees by ESMA, ESG rating providers should submit their audited accounts to ESMA
+             by a set deadline.
+
+
+      (6)    The applicable turnover of ESG rating providers is calculated in euros. It is therefore necessary to specify a mechanism
+             for the conversion into euros of revenues generated in other currencies. ESMA should calculate the penalty in case of
+             late payments in accordance with the provisions on default interest set out in Article 99 of the of Regulation (EU,
+             Euratom) 2024/2509 of the European Parliament and of the Council (2).
+
+
+      (7)    To provide for budgetary certainty for both ESMA and the ESG rating providers concerned, an annual supervisory fee
+             should be charged to ESG rating providers established both in the Union and outside the Union. Annual supervisory
+             fees should not become a burden for small ESG rating providers and new entrants to the ESG rating market.
+             Therefore, the annual supervisory fee should be proportionate and appropriate to the size of the ESG rating
+             providers and to the extent of their supervision. In accordance with Article 5 of Regulation (EU) 2024/3005, a
+             temporary regime has been introduced to facilitate the market entry of small ESG rating providers and support the
+
+
+      (1) OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj.
+      (2) Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules
+          applicable to the general budget of the Union (OJ L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj).
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/910/oj                                                                                       1/7
+EN                                                                                                                             OJ L, 30.7.2026
+
+
+
+            development of existing small ESG rating providers already operating in the Union. For the duration of that
+            temporary regime, ESMA should charge small ESG rating providers annual supervisory fee proportional to their
+            applicable turnover. As Article 5 of Regulation (EU) 2024/3005 does not require the same extent of supervision of
+            small ESG rating providers as in the case of other entities and given the purpose to facilitate access to the market for
+            small ESG rating providers, it is necessary to introduce a cap on fees measured as a share of applicable turnover.
+
+
+
+      (8)   In line with Commission Delegated Regulation (EU) 2019/715 (3), fees charged to ESG rating providers are to be set at
+            a level that ensures that the full cost of services provided by ESMA is covered and a deficit is avoided, but at the same
+            time avoids the accumulation of a significant surplus. Where a significant positive or negative budget result becomes
+            recurrent, the level of the fees may be revised.
+
+
+
+      (9)   To further simplify the fee management, and to ensure ESMA has the necessary funds to carry out its planned
+            supervisory activities, annual supervisory fees should be paid in a single instalment during the first three months of
+            the calendar year for which such fees are due. Annual supervisory fees should not be reimbursed.
+
+
+
+      (10) ESMA should charge an authorisation fee to ESG rating providers established in the Union to reflect the costs for
+           processing the application for authorisation. The complexity of an application for authorisation and costs associated
+           with its assessment increase where an ESG rating provider envisages endorsing ESG ratings or envisages using
+           outsourcing. Therefore, the authorisation fee should be increased by a fee related to the endorsement or outsourcing
+           accordingly. The processing costs also depend to a large extent on the size of the applicant ESG rating providers.
+           Therefore, the authorisation fee for a small ESG rating provider where it ceases to be categorised as a small ESG
+           rating provider, or three years after its registration, whichever occurs first, should be less than the general fixed
+           authorisation fee.
+
+
+
+      (11) ESG rating providers established outside the Union applying for registration under equivalence regime in accordance
+           with Article 10 of Regulation (EU) 2024/3005 should pay a registration fee whose amount should reflect the
+           estimated ESMA’s effort for the assessment of such registration applications. Given that the registration under
+           equivalence regime is a simpler process than the authorisation and given the fact that ESG rating providers
+           established outside the Union are already subject to the authorisation and supervision outside of the Union, the
+           registration fee should be accordingly much lower than in the case of the authorisation. ESG rating providers
+           established outside the Union that apply for recognition in accordance with Article 12 of Regulation
+           (EU) 2024/3005 should pay fees to cover their recognition and annual supervisory costs. In that regard, ESMA’s
+           necessary expenditure relates to the recognition of such ESG rating providers established outside the Union which
+           follows a similar procedure as the one applicable to the authorisation of ESG rating providers established in the
+           Union, and ESMA’s expenditure necessary for the supervision of recognised ESG rating providers.
+
+
+
+      (12) Small ESG rating providers notifying ESMA in order to be registered in accordance with Article 5 of Regulation
+           (EU) 2024/3005 should be charged a fixed registration fee. Registered small ESG rating providers that can be
+           categorised as micro ESG rating providers as referred to in Article 3(1) of Directive 2013/34/EU of the European
+           Parliament and of the Council (4) should be exempted from paying annual supervisory fees throughout the whole
+           period they benefit from the temporary regime.
+
+
+
+      (13) In view of possible future developments, the amounts of authorisation, recognition and registration fees might be
+           reviewed and updated as necessary.
+
+
+      (3) Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up
+          under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament
+          and of the Council (OJ L 122, 10.5.2019, p. 1, ELI: http://data.europa.eu/eli/reg_del/2019/715/oj).
+      (4) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+          consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the
+          European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19,
+          ELI: http://data.europa.eu/eli/dir/2013/34/oj).
+
+
+2/7                                                                                        ELI: http://data.europa.eu/eli/reg_del/2026/910/oj
+OJ L, 30.7.2026                                                                                                                           EN
+
+      (14) Competent authorities incur costs when carrying out tasks delegated to them by ESMA and when providing
+           assistance to ESMA in the other cases specified in Regulation (EU) 2024/3005. The fees to be charged by ESMA to
+           ESG rating providers should also cover those costs. To avoid that competent authorities incur loss or realise profit
+           from carrying out delegated tasks or from assisting ESMA, ESMA should only reimburse the actual costs incurred by
+           that national competent authority,
+
+
+
+      HAS ADOPTED THIS REGULATION:
+
+
+
+                                                                  Article 1
+
+                                                 Recovery of supervisory costs in full
+
+      The fees charged to ESG ratings providers shall cover all costs relating to the following:
+
+      (a)   the supervision of ESG rating providers by ESMA in accordance with Regulation (EU) 2024/3005, including costs
+            resulting from the authorisation, registration, and recognition of ESG rating providers;
+
+      (b)   the reimbursement of competent authorities to which ESMA has delegated tasks in accordance with Article 43 of
+            Regulation (EU) 2024/3005;
+
+      (c)   the reimbursement of competent authorities that have provided assistance to ESMA in accordance with Article 33(4)
+            and Article 34(5) of Regulation (EU) 2024/3005.
+
+
+
+                                                                  Article 2
+
+                                                          Applicable turnover
+
+      1.     For the purposes of calculating the annual supervisory fees referred to in Article 4 and registration and supervisory
+      fees for small ESG rating providers referred to in Article 8, the applicable turnover for a given financial year (n) shall be the
+      revenues of a ESG rating provider or of the group of ESG rating providers to which it belong generated from ESG rating
+      activities as published in its audited accounts or accounts certified by external auditors of the year n–2.
+
+      2.   Where the ESG rating provider did not operate during the full financial year (n–2), ESMA shall estimate the applicable
+      revenue by extrapolating that amount for the whole financial year.
+
+      3.   Where no audited accounts for year (n–2) are available for a given ESG rating provider, ESMA shall use the audited
+      accounts of that ESG rating provider of year (n–1).
+
+      4.   ESG rating providers shall provide ESMA, on an annual basis, with audited accounts as referred to in paragraph 1.
+      ESG rating providers shall submit those accounts to ESMA by electronic means by 30 September each year (n–1).
+
+      5.    Where the revenues referred to in paragraph 1 are reported in another currency than euro, ESMA shall convert those
+      revenues into euro using the average euro foreign exchange rate applicable to the period during which those revenues were
+      recorded. For that purpose, ESMA shall use the euro foreign exchange reference rate published by the European Central
+      Bank.
+
+
+
+                                                                  Article 3
+
+                                            Types of fees and general payment modalities
+
+      1.    ESMA shall charge ESG rating providers established in the Union that apply for authorisation in accordance with
+      Article 6 of Regulation (EU) 2024/3005 the following types of fees:
+
+      (a)   annual supervisory fees in accordance with Article 4;
+
+      (b)   authorisation fees in accordance with Article 5.
+
+ELI: http://data.europa.eu/eli/reg_del/2026/910/oj                                                                                        3/7
+EN                                                                                                                         OJ L, 30.7.2026
+
+
+
+      2.    ESMA shall charge ESG rating providers established outside the Union that apply for recognition in accordance with
+      Article 12 of Regulation (EU) 2024/3005 the following types of fees:
+
+      (a)   annual supervisory fees in accordance with Article 4;
+
+      (b)   recognition fees in accordance with to Article 7.
+
+
+      3.    ESMA shall charge ESG rating providers established outside the Union that apply for registration under the
+      equivalence regime in accordance with Article 10 of Regulation (EU) 2024/3005 the following types of fees:
+
+      (a)   fixed annual supervisory fees in accordance with Article 4;
+
+      (b)   registration fees in accordance with Article 6.
+
+
+      4.   ESMA shall charge small ESG rating providers referred to in Article 5(1) of Regulation (EU) 2024/3005 proportionate
+      annual supervisory fees and registration fees in accordance with Article 8 of this Regulation.
+
+
+      5.    The fees shall be payable in euro. They shall be payable as specified in Articles 4, 5, 6 and 7.
+
+
+      6.    Any late payment shall incur the default interest laid down in Article 99 of Regulation (EU, Euratom) 2024/2509.
+
+
+
+
+                                                                 Article 4
+
+                                                        Annual supervisory fee
+
+
+      1.    ESMA shall charge a registered or authorised ESG rating provider established in the Union or a recognised ESG rating
+      provider established outside the Union an annual supervisory fee.
+
+
+      2.    ESMA shall charge a registered ESG rating provider established outside of the Union operating in the Union under the
+      equivalence regime in accordance with Article 10 of Regulation (EU) 2024/3005 a fixed annual supervisory fee of
+      EUR 6 000.
+
+
+      3.     ESMA shall calculate the total annual supervisory cost and the annual supervisory fee for a given financial year for a
+      registered or authorised ESG rating provider in the Union or a recognised ESG rating provider established outside the
+      Union as follows:
+
+      (a)   the basis for the calculation of the total annual supervisory cost for a given financial year (n) shall be the estimate of
+            expenditure relating to the supervision of ESG rating providers as included in the ESMA budget for that year, set out
+            and approved in accordance with Article 63 of Regulation (EU) No 1095/2010 of the European Parliament and of the
+            Council (5);
+
+      (b)   the relevant amount for the calculation of the annual supervisory fee for a given financial year (n) shall be the total
+            estimate of expenditure referred to in point (a) reduced by the annual supervisory fees referred to in paragraph 2 of
+            this Article;
+
+      (c)   a registered or authorised ESG rating provider or a recognised ESG rating provider as referred to in paragraph 1 shall
+            pay as an annual supervisory fee a part of the relevant amount which corresponds to the ratio of the registered or
+            authorised or recognised ESG rating provider’s applicable turnover to the total applicable turnover of all registered,
+            authorised and recognised ESG rating providers required to pay an annual supervisory fee in accordance with
+            paragraph 1.
+
+
+      (5) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+          Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission
+          Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84, ELI: http://data.europa.eu/eli/reg/2010/1095/oj).
+
+
+4/7                                                                                     ELI: http://data.europa.eu/eli/reg_del/2026/910/oj
+OJ L, 30.7.2026                                                                                                                                     EN
+
+      4.    The annual supervisory fee shall be paid in a single instalment, which shall be due by no later than the end of March
+      of the year to which it relates.
+
+      ESMA shall send debit notes to the ESG rating providers concerned specifying the amount of the annual supervisory fee at
+      least 30 calendar days before the day when annual fees are to be paid.
+
+      The annual supervisory fee shall not be reimbursed.
+
+      5.     By way of derogation from paragraph 3, a registered, authorised or recognised ESG rating provider that is required to
+      pay an annual supervisory fee in accordance with paragraph 1 shall pay in the year of its authorisation, recognition or
+      registration an initial supervisory fee which is calculated as follows:
+
+                           authorised, registered or recognised ESG rating provider first-year fee = registration fee * coefficient
+
+                                number of calendar days from the date of authorisation, registration or recognition until 31 December in year (n)
+           Coefficient =
+                                                                       number of calendar days in year (n)
+
+
+
+      However, an ESG rating provider that is authorised, recognised or registered during the month of December shall not pay
+      the first-year supervisory fee.
+
+
+
+                                                                          Article 5
+
+                                                                   Authorisation fee
+
+      1.    The amount of the authorisation fee to be paid by individual ESG rating providers established in the Union applying
+      for authorisation shall be proportionate to the complexity of the application.
+
+      2.      ESG rating providers established in the Union shall pay a fixed authorisation fee of EUR 40 000.
+
+      However, small ESG rating providers, including those categorised as micro ESG rating providers, that opt to fall under the
+      scope of Regulation (EU) 2024/3005 in accordance with Article 5(4) of that Regulation or that, following the conclusion
+      of the temporary regime, have the obligation to apply for authorisation shall pay a fixed authorisation fee of EUR 20 000.
+
+      3.    ESG rating providers established in the Union that, at the time of submission of the application for the authorisation,
+      apply for endorsing ESG ratings or using outsourcing shall pay additional EUR 5 000 for each request.
+
+      4.    An ESG rating provider established in the Union and already authorised in accordance with Article 8 of Regulation
+      (EU) 2024/3005 that submits a request for endorsing ESG ratings or for using outsourcing shall pay a fee of EUR 5 000 for
+      each request.
+
+      5.   The authorisation fee shall be due at the time the ESG rating provider established in the Union applies for
+      authorisation and shall be payable in full within 30 calendar days from the date of issuance of ESMA’s debit note.
+
+      6.   ESMA shall not reimburse a paid authorisation fee where a ESG rating provider withdraws its application for
+      authorisation before ESMA has adopted the reasoned decision to authorise or to refuse authorisation.
+
+
+
+                                                                          Article 6
+
+                                 Registration fee for ESG rating providers established outside the Union
+
+      1.    ESG rating providers established outside the Union applying for registration under equivalence regime in accordance
+      with Article 10 of Regulation (EU) 2024/3005 shall pay a fixed registration fee of EUR 10 000.
+
+ELI: http://data.europa.eu/eli/reg_del/2026/910/oj                                                                                                  5/7
+EN                                                                                                                      OJ L, 30.7.2026
+
+
+
+      2.     The registration fee shall be due at the time the ESG rating provider established outside the Union applies for
+      registration and shall be payable in full within 30 calendar days from the date of issuance of ESMA’s debit note.
+
+
+      3.   ESMA shall not reimburse a paid registration fee where a ESG rating provider established outside the Union
+      withdraws its application for registration before ESMA has confirmed the completeness of the information provided by the
+      ESG rating provider established outside the Union.
+
+
+
+                                                               Article 7
+
+                            Recognition fee for ESG rating providers established outside the Union
+
+
+      1.   ESG rating providers established outside the Union applying for recognition in accordance with Article 12 of
+      Regulation (EU) 2024/3005 shall pay a fixed recognition fee of EUR 40 000.
+
+
+      2.   The recognition fee shall be due at the time the ESG rating provider established outside the Union applies for
+      recognition and shall be payable in full within 30 calendar days from the date of issuance of ESMA’s debit note.
+
+
+      3.   ESMA shall not reimburse a paid recognition fee where a ESG rating provider established outside the Union
+      withdraws its application for recognition before ESMA has adopted the reasoned decision to grant or to reject recognition.
+
+
+
+                                                               Article 8
+
+                            Registration and annual supervisory fees for small ESG rating providers
+
+
+      1.    ESMA shall charge small ESG rating providers established in the Union that notify ESMA in order to be registered in
+      accordance with Article 5 of Regulation (EU) 2024/3005 fixed registration fees of EUR 2 000.
+
+
+      2.     By way of derogation from Article 4, ESMA shall charge small registered ESG rating providers, throughout the whole
+      period during which they benefit from the temporary regime for small ESG rating providers in accordance with Article 5 of
+      Regulation (EU) 2024/3005, annual supervisory fees proportionate to their applicable turnover which shall not represent
+      more than 2 % of their applicable turnover. Small registered ESG rating providers that can be categorised as micro ESG
+      rating providers as referred to in Article 3(1) of Directive 2013/34/EU shall be exempted from paying annual supervisory
+      fees throughout the whole period during which they benefit from the temporary regime.
+
+
+      3.     Where a small ESG rating provider opts to fall under the scope of Regulation (EU) 2024/3005 in accordance with
+      Article 5(4) of that Regulation, that small ESG rating provider shall pay the authorisation fee in accordance with Article 5
+      of this Regulation.
+
+
+      4.    Following the conclusion of the temporary regime for small ESG rating providers in accordance with Article 5(3) of
+      Regulation (EU) 2024/3005 and the subsequent obligation to submit an application for authorisation within six months to
+      continue operating in the Union, during the two years following that date, those ESG rating providers shall continue paying
+      the proportionate supervisory fees that shall not represent more than 2 % of their applicable turnover. Starting from the
+      third year after receiving authorisation, they shall start paying proportionate supervisory fees calculated in accordance
+      with Article 4 of this Regulation.
+
+
+
+                                                               Article 9
+
+                                        Reimbursement of national competent authorities
+
+
+      1.    Only ESMA shall charge fees to ESG rating providers for their authorisation, recognition, registration and
+      supervision. Competent authorities shall not charge fees to ESG rating providers, including cases where those authorities
+      carry out delegated tasks on behalf of ESMA in accordance with Article 43 of Regulation (EU) 2024/3005.
+
+6/7                                                                                   ELI: http://data.europa.eu/eli/reg_del/2026/910/oj
+OJ L, 30.7.2026                                                                                                                            EN
+
+      2.    ESMA shall reimburse competent authorities for the actual costs incurred as a result of carrying out delegated tasks in
+      accordance with Article 43 of Regulation (EU) 2024/3005 or as a result of assisting ESMA in accordance with
+      Articles 33(4) or 34(5) of that Regulation. Costs to be reimbursed shall comprise all fixed costs and variable costs related
+      to the performance of the delegated tasks or the assistance provided to ESMA.
+
+
+                                                                 Article 10
+
+                                                             Entry into force
+
+      This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+
+
+                    This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+
+                    Done at Brussels, 24 April 2026.
+
+
+                                                                                          For the Commission
+                                                                                             The President
+                                                                                       Ursula VON DER LEYEN
+
+
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/910/oj                                                                                         7/7
+

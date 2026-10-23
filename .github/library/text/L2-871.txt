@@ -1,0 +1,301 @@
+SOURCE: Delegated Regulation (EU) 2026/871 - RTS on disclosure of ESG rating products
+REFERENCE: OJ L 2026/871
+DATE: 2026-07-28
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600871
+FILE: sources/L2_DelReg_2026-871_RTS_Disclosures.pdf
+
+            Official Journal                                                                                                               EN
+            of the European Union                                                                                                     L series
+
+                                                               2026/871                                                           28.7.2026
+
+                                     COMMISSION DELEGATED REGULATION (EU) 2026/871
+                                                             of 21 April 2026
+                 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with
+                  regard to regulatory technical standards specifying the elements of ESG rating products to be
+                    disclosed to the public and to users of ESG ratings, rated items and issuers of rated items
+
+                                                         (Text with EEA relevance)
+
+
+
+
+      THE EUROPEAN COMMISSION,
+
+
+      Having regard to the Treaty on the Functioning of the European Union,
+
+
+      Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the
+      transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations
+      (EU) 2019/2088 and (EU) 2023/2859 (1), and in particular Article 23(4), third subparagraph, and Article 24(3), third
+      subparagraph, thereof,
+
+
+      Whereas:
+
+
+      (1)    Since Environmental, Social and Governance (ESG) rating providers may offer multiple ESG rating products, it is
+             important that they provide sufficient information in relation to each ESG rating product to the public, users of ESG
+             ratings, rated items, and issuers of rated items . Establishing minimum requirements on what to disclose in relation to
+             each product is necessary to ensure transparency, enable due diligence and facilitate cross-comparison with other ESG
+             rating products. That should allow for a better understanding of the characteristics of such products and enable the
+             public, users of ESG ratings, rated items, and issuers of rated items to identify those ESG rating products that best
+             meet their needs.
+
+
+      (2)    In particular, to foster transparency, it is important that the ESG rating provider makes available on its website, at the
+             level of each ESG rating product, comprehensive elements concerning the methodologies, models and key rating
+             assumptions that support the ESG rating activities of that ESG rating provider. To that end and to facilitate
+             comparison between ESG rating products, ESG rating providers should disclose to the public the information
+             concerned in the same sequence asset out in the Annex.
+
+
+      (3)    The disclosures to be made available to users of ESG ratings, rated items, and issuers of rated items are
+             complementary to those intended for the public. It is therefore appropriate to consolidate the empowerments set out
+             in Article 23(4) and Article 24(3) of Regulation (EU) 2024/3005 in a single Regulation.
+
+
+      (4)    Since this Regulation specifies the elements set out in Annex III of Regulation (EU) 2024/3005, which applies from
+             2 July 2026, it is appropriate to defer the date of application of this Regulation until that date.
+
+
+      (5)    This Regulation is based on the draft regulatory technical standards submitted to the Commission by ESMA.
+
+
+      (6)    ESMA has conducted open public consultations on the draft regulatory technical standards on which this Regulation
+             is based, analysed the potential related costs and benefits and requested the advice of the Securities and Markets
+             Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the European
+             Parliament and of the Council (2),
+
+
+      (1) OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj.
+      (2) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+          Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission
+          Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84, ELI: http://data.europa.eu/eli/reg/2010/1095/oj).
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/871/oj                                                                                        1/5
+EN                                                                                                                          OJ L, 28.7.2026
+
+
+
+      HAS ADOPTED THIS REGULATION:
+
+
+
+                                                                 Article 1
+
+                                                 Specification of disclosure elements
+
+      ESG rating providers shall ensure that the information to be disclosed pursuant to points 1 and 2 of Annex III to Regulation
+      (EU) 2024/3005 includes the elements specified in this Delegated Regulation.
+
+
+                                                                 Article 2
+
+                                                      Presentation of information
+
+      1.   Environmental, Social and Governance (ESG) rating providers shall ensure that the information to be disclosed
+      pursuant to point 1 of Annex III to Regulation (EU) 2024/3005 is presented in accordance with the order set out in the
+      Annex to this Delegated Regulation.
+
+      2.    In fulfilling the requirement referred to in paragraph 1 ESG rating providers may cross-reference to the relevant
+      information made available on their website, including via hyperlinks or other appropriate technological means.
+
+
+                                                                 Article 3
+
+                                                      Rating product disclosures
+
+      1.    As part of the information referred to in point 1, point (f), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall disclose at the level of each ESG rating product:
+      (a)   a description of the risks covered, where the ESG rating is assessing risks;
+      (b)   a description of the impacts covered, where the ESG rating is assessing impacts;
+      (c)   information on how the risk and impact materiality are taken into account according to the double materiality
+            principle, where applicable;
+      (d)   where the ESG rating is based on other materiality dimensions, a description of those dimensions.
+
+      2.    As part of the information referred to in point 1, point (g), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall disclose at the level of each ESG rating product:
+      (a)   a description of what is covered under the E, S or G factors and which factors are aggregated, where applicable;
+      (b)   a description of the specific issues that the ESG rating covers.
+
+      3.    As part of the information referred to in point 1, points (o) and (p), of Annex III to Regulation (EU) 2024/3005, ESG
+      rating providers shall at the level of each ESG rating product, where applicable:
+      (a)   disclose an indication of whether the ESG rating takes into account the targets and objectives of the Paris Agreement
+            and which other international agreements are considered, with reference to basic identifying information on the
+            international agreements, together with an explanation of the relevance to the ESG rating;
+      (b)   specify whether the ESG rating is assessing alignment of commitments against the objectives of the international
+            agreements referred to in point (a).
+
+
+                                                                 Article 4
+
+                                                 General methodological disclosures
+
+      1.    As part of the information referred to in point 1, point (a), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall:
+      (a)   disclose the title of the rating methodology used;
+      (b)   describe the types of rated item in relation to which the methodology referred to in point (a) applies;
+
+2/5                                                                                        ELI: http://data.europa.eu/eli/reg_del/2026/871/oj
+OJ L, 28.7.2026                                                                                                                        EN
+
+      (c)   disclose the time horizon over which the ESG rating is considered valid, where applicable;
+
+      (d)   disclose a list and overview of the relevant supporting models and key rating assumptions, where applicable;
+
+      (e)   provide information on measures and procedures to ensure the quality and reliability of data used;
+
+      (f)   describe the ranking system of rating categories used, with reference to:
+
+            (i)    the meaning of each rating category for absolute and relative values and how the ranking system is to be
+                   interpreted;
+
+            (ii)   in the case of relative values, an explanation on whether they are relative to a specific industry, geographical
+                   area, peer groups or other comparative references and the respective description of those relative values;
+
+      (g)   disclose the date of the most recent update of the methodology and a description of the changes introduced to the
+            previous version.
+
+      2.    As part of the information referred to in point 1, point (b), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall provide:
+
+      (a)   the name of the issuing body of the industry classification used;
+
+      (b)   the name and version of the industry classification used;
+      (c)   any publicly available link to the official documentation of the industry classification system.
+
+      3.    As part of the information referred to in point 1, point (c), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall describe the engagement process with rated items or issuers of rated items, including how the input from
+      such process is taken into account.
+
+      4.    As part of the information referred to in point 1, point (e), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall, where applicable, describe the process for identifying the relevant scientific evidence.
+
+
+
+                                                                  Article 5
+
+                                    Limitations in data sources, methodologies and information
+
+      As part of the information referred to in point 1, points (m) and (q), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall explain any limitations in respect of the following:
+
+      (a)   the availability or consistency of data used in the rating process;
+
+      (b)   the completeness, timeliness and accuracy of information;
+
+      (c)   the use of assumptions, proxy reference points and data estimation.
+
+
+
+                                                                  Article 6
+
+                                                       Organisational disclosures
+
+      1.     As part of the information referred to in point 1, point (d), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall disclose a chart illustrating their ownership links with any parent undertaking and subsidiaries. That chart
+      shall indicate, where applicable, whether any of those entities perform any of the activities listed in Article 16(1) or other
+      services as referred to in Article 16(6) of Regulation (EU) 2024/3005.
+
+      2.    As part of the information referred to in point 1, point (l), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall disclose the following:
+
+      (a)   how the criteria they apply for establishing fees ensure that those fees are fair, reasonable, transparent and non-
+            discriminatory, as required by Article 27 of Regulation (EU) 2024/3005;
+
+      (b)   whether the ESG rating provider operates a subscription-paid model, an issuer-paid model, a combination of those
+            models, or another model;
+
+ELI: http://data.europa.eu/eli/reg_del/2026/871/oj                                                                                     3/5
+EN                                                                                                                        OJ L, 28.7.2026
+
+
+
+      (c)   a description of the relevant business model, and the proportion of total annual revenue derived from each model;
+      (d)   where applicable, the impact of fees charged for services other than ESG rating activities on the determination of fees
+            for ESG ratings, together with a description of those other services.
+
+      3.    As part of the information referred to in point 1, point (n), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall indicate the areas of the ESG rating provider’s activities, services or organisational structure from which the
+      main risks of conflicts of interest may arise.
+
+
+                                                                 Article 7
+                                                 Specific Methodological Disclosures
+      1.    As part of the information referred to in point 2, point (b)(i), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall specify the methods used to collect any non-public data.
+      2.    As part of the information referred to in point 2, point (a)(iv), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall describe any potential shortcomings relating to the use of pre-established statistical or algorithmic systems
+      or models in ESG measures.
+
+                                                                 Article 8
+                                                 Revision of data and methodologies
+      1.    As part of the information referred to in point 2, point (a)(v), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall explain the following items:
+      (a)   the process and frequency for revising methodologies;
+      (b)   the conditions for determining the need for revising a methodology;
+      (c)   where applicable, the procedure for stakeholder consultation during the revision process;
+      (d)   the process for assessing the potential impact of the revision of methodologies on ESG ratings produced pursuant to
+            the relevant methodology;
+      (e)   the criteria for determining what constitutes a material change to a methodology.
+      2.    As part of the information referred to in point 2, point (a)(vii), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall specify the version number of the methodology.
+      3.    As part of the information referred to in point 2, point (b)(iii), of Annex III to Regulation (EU) 2024/3005, ESG rating
+      providers shall explain the steps taken to ensure the accuracy and consistency of the data revision process.
+
+                                                                 Article 9
+                                                   Entry into force and application
+      This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+      European Union.
+      It shall apply from 2 July 2026.
+      This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+
+      Done at Brussels, 21 April 2026.
+
+
+                                                                                         For the Commission
+                                                                                            The President
+                                                                                      Ursula VON DER LEYEN
+
+
+
+
+4/5                                                                                     ELI: http://data.europa.eu/eli/reg_del/2026/871/oj
+OJ L, 28.7.2026                                                                                                             EN
+
+                                                            ANNEX
+                  The order of presentation of the elements to be disclosed pursuant to Annex III, point 1, of
+                                                  Regulation (EU) 2024/3005
+
+                                                            Annex III, point 1, of Regulation
+                                                                                                This Delegated Regulation
+                                                                   (EU) 2024/3005
+
+      Rating Product Disclosures                                        Point (f)                     Article 3(1)
+                                                                       Point (g)                      Article 3(2)
+                                                                       Point (h)                          N/A
+                                                                        Point (i)                         N/A
+                                                                        Point (j)                         N/A
+                                                                       Point (o)                      Article 3(3)
+                                                                       Point (p)                      Article 3(3)
+      General Methodological Disclosures                               Point (a)                      Article 4(1)
+                                                                       Point (b)                      Article 4(2)
+                                                                       Point (c)                      Article 4(3)
+                                                                       Point (e)                      Article 4(4)
+                                                                       Point (k)                          N/A
+      Limitations in data sources, methodologies and                   Point (m)                       Article 5
+      information
+                                                                       Point (q)                       Article 5
+      Organisational Disclosures                                       Point (d)                      Article 6(1)
+                                                                        Point (l)                     Article 6(2)
+                                                                       Point (n)                      Article 6(3)
+
+
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/871/oj                                                                          5/5
+

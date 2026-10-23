@@ -1,0 +1,2658 @@
+SOURCE: ESMA Annual Work Programme 2026
+REFERENCE: ESMA22-50751485-1604
+DATE: 2025-10
+URL: https://www.esma.europa.eu/sites/default/files/2025-10/ESMA22-50751485-1604_Annual_Work_Programme_2026.pdf
+FILE: sources/ESMA_AWP_2026.pdf
+
+                                3 October 2025
+                         ESMA22-50751485-1604
+
+
+
+
+2026 Annual Work Programme
+Contents
+1     Executive Summary                                             3
+2     Work Programme 2026                                           6
+    2.1   ESMA Strategic Priorities and Thematic Drivers            7
+      2.1.1    Effective markets and financial stability            7
+      2.1.2    Effective Supervision                                9
+      2.1.3    Retail investor protection                           11
+      2.1.4    Sustainable Finance                                  14
+      2.1.5    Effective Use of Data and Technological Innovation   15
+    2.2   Key regulated sectors and entities                        18
+      2.2.1    Investment management                                18
+      2.2.2    Investment services                                  19
+      2.2.3    Issuer disclosure                                    20
+      2.2.4    Market Integrity                                     22
+      2.2.5    Benchmark providers                                  24
+      2.2.6    Credit Rating Agencies                               25
+      2.2.7    ESG rating providers                                 26
+      2.2.8    External reviewers of European Green Bonds           27
+      2.2.9    Market transparency infrastructures                  28
+      2.2.10   Central Counterparties                               29
+      2.2.11   Central Securities Depositories                      33
+      2.2.12   Trading                                              34
+      2.2.13   Crypto-assets and Distributed Ledger Technology      36
+      2.2.14   Digital Operational Resilience Act (DORA)            38
+    2.3   ESMA as an organisation                                   40
+      2.3.1    Governance and External Affairs                      40
+      2.3.2    Legal and Compliance                                 42
+      2.3.3    Human Resources                                      44
+      2.3.4    Finance and Procurement                              45
+      2.3.5    Corporate Services                                   46
+      2.3.6    Horizontal ICT Services                              47
+3     Peer Review Work Plan 2026-2027                               49
+Annex I. Human Resources                                            50
+
+                                                                         1
+Annex II. Draft budget                                   51
+Annex III. ESMA’s Key Performance Indicators (KPIs)      52
+Annex IV. Overview of ESMA 2026 outputs by output type   54
+Annex V. Acronyms                                        58
+
+
+
+
+                                                              2
+1 Executive Summary
+The European Securities and Markets Authority (ESMA) is guided by its multi-annual strategy
+for 2023–2028, which sets out three strategic priorities and two thematic drivers. ESMA’s 2026
+annual work programme is aligned with this strategy, focusing on delivering its core mandates
+and advancing the priorities through the continuation and expansion of activities undertaken in
+previous years.
+
+In this context, ESMA’s 2026 work programme builds on existing priorities while preparing to
+support the up-coming strategic shifts driven by the Saving and Investments Union (SIU)
+Strategy. This includes aligning supervisory practices, enhancing market data capabilities, and
+contributing to upcoming reforms aimed at making EU capital markets more integrated,
+accessible, and globally competitive.
+
+
+
+
+ESMA’s activities in the coming years will be shaped by the agenda of the Commission and
+the work of the Co-legislators. ESMA will continue supporting the EU’s evolving political and
+regulatory agenda while maintaining sufficient flexibility to swiftly respond to emerging
+priorities. This includes adapting to new economic, (geo)-political, and technological
+developments, as well as to potential shifts in the global environment marked by volatility,
+uncertainty, and instability in international trade. Key priorities will also include the contribution
+
+
+
+                                                                                                    3
+to enhancing the competitiveness of EU financial markets and simplifying rules to reduce
+reporting and administrative burdens.
+
+By recasting the Capital Markets Union (CMU) as the SIU, the Commission has signalled a
+shift in terms of ambition and focus regarding the competitiveness and attractiveness of EU
+capital markets. In March 2025, the Commission presented its Strategy for SIU, which contains
+a range of legislative and non-legislative actions that will be taken forward over the coming
+years. ESMA expects to actively contribute to a number of these actions, with technical advice
+and expertise, in line with the recommendations set out in ESMA’s 2024 Position Paper on
+Building More Attractive and Efficient Capital Markets in the EU1.
+
+Among these initiatives, the Commission has already begun work on issues related to market
+integration and supervision. A legislative proposal is expected by the end of 2025, addressing
+the integration of trading and post-trading market infrastructures, the enhancement of cross-
+border provision of funds and the reduction of operational barriers faced by asset managers.
+It will also aim to foster more integrated and harmonised supervision across the EU. Given
+ESMA’s existing role and experience as a European supervisor of certain capital markets
+sectors, ESMA stands ready to support the Commission and co-legislators as discussions on
+this legislative proposal commence in 2026.
+
+The implementation of legislative files agreed by the EU co-legislators under the previous
+legislature will continue to require ESMA input in 2026 including notably in relation to the
+European market infrastructure regulation (EMIR) (so-called EMIR 3) and the development of
+the European Single Access Point (ESAP). Other ongoing legislative files which, depending
+on progress, may require ESMA to work on implementation in 2026 are the Retail Investment
+Strategy (RIS) and the review of the Securitisation Regulation.
+
+ESMA’s ongoing responsibilities as a supervisor will grow significantly including through the
+authorisation and supervision of Consolidated Tape Providers (CTPs), external reviewers
+under the European Green Bond framework (EUGBR), and the Environmental, Social and
+Governance (ESG) rating providers, and the extension of the supervision of third country
+benchmarks through the endorsement and recognition regimes under ESMA’s competence.
+Additionally, 2026 will be the first year where ESMA along with the other ESAs will be
+exercising their joint oversight mandate under DORA (Digital Operational Resilience Act).
+
+Furthermore, over the next years, ESMA's data strategy will focus on enhancing its data
+capabilities and promoting innovation. Key initiatives include developing the ESMA Data
+Platform, conducting studies on data centralisation, and exploring AI-powered tools for
+supervision, including anomaly detection and market abuse prevention. These efforts aim to
+strengthen ESMA’s approach as a data-driven regulator and supervisor and working with
+national authorities to improve efficiency and transparency in EU financial markets.
+
+
+
+
+1
+ https://www.esma.europa.eu/sites/default/files/2024-05/ESMA24-450544452-
+2130_Position_paper_Building_more_effective_and_attractive_capital_markets_in_the_EU.pdf
+
+
+                                                                                             4
+As part of the EU’s efforts to accelerate the settlement cycle to T+1, the Commission has
+proposed an amendment to the CSDR. To achieve the transition to T+1 by 11 October 2027,
+ESMA will remain centrally involved in coordinating the progress and preparedness of the EU’s
+financial sector.
+
+As the European Commission, ESMA is committed to an ambitious simplification and burden
+reduction (SBR) agenda. Rather than assessing individual technical standards, guidelines,
+regulations or directives individually, ESMA has prioritised a broader approach to SBR: looking
+at a transversal topic holistically and analysing from the user-perspective how the different
+pieces fit together and how they might be simplified. Specifically, ESMA launched in 2025 three
+such flagship consultations:
+
+   -   Integrated funds reporting (see section 2.2.1)
+   -   Holistic review of transactional reporting under MiFIR, EMIR and SFTR (see section
+       2.1.5)
+   -   Analysis of the investor Journey (see section 2.2.2)
+Based on the feedback received on each consultation, in 2026, ESMA will follow up also taking
+into account the new legislative proposals under the SIU which are expected from the
+Commission by the end of 2025.
+In addition, ESMA is integrating principles of SBR in the delivery of all new upcoming policy
+mandates including for example, EMIR 3 (see section 2.2.10). Finally, subject to the outcome
+of the legislative process, ESMA is expecting to receive several new mandates with a
+significant SBR dimension including RIS, PRIIPS, SFDR (see section 2.2.1) and Securitisation
+(see section 2.2.9).
+
+
+
+
+                                                                                              5
+2 Work Programme 2026
+The work programme describes objectives and outputs for each of ESMA’s strategic priorities
+and thematic drivers and for each of the sectors within ESMA’s remit. Outputs are divided into:
+(i) ongoing work; (ii) annual outputs; and (iii) 2026 specific outputs (known at this stage). The
+below pictograms are used to indicate the types of outputs presented in different subsections.
+§ Rules: When mandated, ESMA develops draft technical standards and statutory guidelines
+which specify technical details of the legislation within its remit.
+
+   Guidance: ESMA has the power to provide guidance to national supervisors and market
+participants on how to comply with and supervise the rules and regulations within its remit.
+Depending on the addressee and the topic, ESMA guidance is delivered as Q&As, , opinions,
+supervisory briefings, or discretionary guidelines/recommendations.
+
+   Convergence activities: In addition to guidance, ESMA undertakes a range of activities to
+promote supervisory and enforcement convergence across the single market. These include
+Common Supervisory Actions (CSAs), peer reviews, case discussions, practice sharing,
+supervisory colleges, trainings/workshops, and assessments of allegations of breach of Union
+law by national supervisors.
+
+    Direct supervision: ESMA directly supervises credit rating agencies (CRAs), trade
+repositories (TRs) and securitisation repositories (SRs) as well as certain data reporting
+service providers (DRSPs), certain benchmark administrators and systemically important
+third-country central counterparties (CCPs). ESMA also oversees with the European Banking
+Authority (EBA) and European Insurance and Occupational Pensions Authority (EIOPA)
+designated critical third-party providers (CTPPs). From mid-2026 ESMA will start to supervise
+External Reviewers of European Green Bonds (EGBRs) and Consolidated Tape Providers
+(CTPs). Outputs related to supervision include investigations and on-site inspections,
+authorisations and enforcement.
+  Market monitoring: Outputs include public statements, opinions, warnings, analysis and
+the issuance of market intervention decisions on short-selling and individual products.
+
+    Reports: ESMA publishes technical advice and periodic reports to the EC on the
+application of legislation within ESMA’s remit and on supervision and enforcement practices
+at national level. ESMA also produces research reports and risk analysis articles.
+
+   International work: ESMA contributes to risk analysis and standard-setting in international
+fora including International Organisation of Securities Commissions (IOSCO) and Financial
+Stability Board (FSB) and cooperates with third-country supervisors and provides technical
+advice to the EC on equivalence as well as ongoing equivalence monitoring.
+
+   Data use and quality: Outputs include validation rules and technical reporting instructions
+relating to data under ESMA supervision as well as data dashboards and visualisation tools.
+   Information and communications technology (ICT): IT projects facilitating the collection,
+storage, analysis and sharing of supervisory data among ESMA, national supervisors and the
+public as well as projects to support ESMA’s organisation (HR, Finance, etc.).
+
+
+                                                                                                6
+2.1 ESMA Strategic Priorities and Thematic Drivers
+
+2.1.1 Effective markets and financial stability
+
+ Objectives
+
+
+ Effective markets objectives:
+ Contribute to develop a meaningful, proportionate and effective single rulebook across
+ ESMA remit by also considering the simplification and burden reduction’ related goals.
+ Contribute to making the EU Single Market in financial services deep, efficient, liquid and
+ accessible, in particular to small and medium-sized enterprises, to raise capital.
+ Promote global standards and enhance cooperation and dialogue with international
+ regulatory counterparts.
+ Financial stability objectives:
+ Identify and analyse key risks and vulnerabilities across the entire ESMA remit to inform the
+ public and guide regulatory and supervisory activities.
+ Coordinate with and contribute to the work of EU and international bodies on ensuring
+ financial stability.
+ Enhance the level of preparedness to deal with potential shocks to financial markets and
+ ensure close crisis management cooperation with NCAs.
+
+ Overview and results
+
+ Effective markets
+ ESMA will actively contribute to the development of the new objectives set for the Savings
+ and Investments Union (SIU). ESMA actively contributes to the development of an integrated
+ single market in financial services by continuously providing advice, technical expertise,
+ regulatory provisions, and working on technical standards and guidelines related to the
+ different areas under its scope of competence.
+ Furthermore, ESMA reviews and assesses the single rulebook and associated guidance
+ within its remit on an ongoing basis. Objective of such review is to ensure that it is up to date
+ in light of new developments in regulation, technology, risks, business models and investor
+ needs while at the same time striving for reducing burden and complexity for market
+ participants.
+ In the area of Digital Finance, ESMA contributes to the single market by offering regulatory
+ guidance and technical expertise to support the development of innovative digital financial
+ services, such as fintech, blockchain, and AI.
+ ESMA maintains close relations and cooperation with the European Commission, the
+ European Central Bank (ECB) and European Systemic Risk Board (ESRB), EBA and
+ EIOPA (including through the Joint Committee of the ESAs), international regulatory bodies
+ (IOSCO, FSB) and non-EU securities regulators in relation to all sectors within its remit
+ including the Bank of England (BoE), and the UK Financial Conduct Authority (FCA) and
+
+                                                                                                     7
+the US Commodities and Futures Trading Commission (CFTC) and the US Securities and
+Exchange Commission (SEC) for CCPs and CRAs supervision. ESMA promotes global
+standards and strong cooperation in the supervision of international cross-border activities
+and contributes to third-country equivalence and adequacy assessments by the EC and
+delivers decisions on endorsement.
+In 2026, ESMA will continue to deliver level 2 and 3 work as a result of the reviews of EMIR
+3 (see section 2.2.10), CSDR (see section 2.2.11), and AIFMD/ Undertakings for Collective
+Investment in Transferable Securities (UCITS) (see section 2.2.1). ESMA is also mandated
+to undertake level 2 and 3 work and other tasks under the Listing Act.
+Financial Stability and Risk Assessment
+ESMA continuously monitors market developments and new financial activities in its remit
+to assess risks to investors, markets and financial stability.
+ESMA publishes the result of its risk monitoring activities mainly through the Trends, Risks
+and Vulnerabilities (TRV) reports (bi-annual) and the ESMA Market Report series. As part
+of its risk monitoring, ESMA develops retail risk metrics and reviews product-related
+consumer trends, including cost and performance of EU retail products, ESG and innovation
+trends. The ESMA Market Reports present longer-term structural developments, mostly
+based on regulatory data, of areas in ESMA’s remit. ESMA Market Report are published in
+the following areas: costs and performance of retail investment products, prospectuses,
+carbon markets and crowdfunding (outputs listed in relevant sectoral sections). ESMA also
+undertakes risk analysis activities, such as topical studies, to deepen its assessment of
+market developments and risks. It informs its work through two publication series: the TRV
+Risk Analysis series and the ESMA Working Paper series.
+ESMA will continue to assess the resilience of CCPs to adverse market developments and
+identify potential risks for financial stability, including with the use of CCP stress tests. In
+order to have a better view and understanding of the potential risks arising from the
+interconnectedness of different financial market participants, ESMA has established and
+now chairs a Joint Monitoring Mechanism (JMM), where EU bodies monitor and collectively
+discuss the latest developments in the field of clearing. ESMA’s policy, direct supervision,
+convergence activities and stress testing in relation to CCPs are further described in section
+2.2.10.
+In addition to its own risk assessment, ESMA will contribute to and coordinate a wide range
+of activities with EU bodies such as the ESRB and international bodies such as the IOSCO,
+and FSB on a variety of topics including non-bank financial intermediation, stress testing,
+resolution, Financial Markets Infrastructure (FMI) cross-border crisis management,
+leverage, market liquidity, ESG, carbon markets, climate risk, crypto assets and financial
+innovation.
+
+           Cross-sectoral outputs not mentioned in a sector/entity section
+                                  Ongoing Activities
+   •     Monitoring/surveillance of developments and risks in financial markets across the
+       entire ESMA remit.
+
+
+
+                                                                                                   8
+    •      International work including contributions to risk monitoring workstreams in
+        international fora.
+
+                                                                              Due date
+                             Specific outputs
+                                                                               2026
+   TRV Risk Monitor No.1, 2026.                                                 Q1
+   TRV Risk Monitor No.2, 2026.                                                 Q3
+   Level 2 and 3 work as a result of EMIR 3 (see section 2.2.10), CSDR (see
+section 2.2.11), AIFMD/ UCITS (see section 2.2.1), CTPs (see section
+2.2.12), and Listing Act.                                                         Q4
+   ESMA Market Report on Costs and Performance of retail investment
+products, carbon markets, crowdfunding and prospectus.
+
+
+
+2.1.2 Effective Supervision
+
+Objectives
+
+Promote common, effective, risk-based, data-driven and outcome-focused supervisory and
+enforcement culture across EU supervisors (NCAs and ESMA direct supervision).
+Direct Supervision objectives:
+Ensure that the entities under ESMA’s supervision apply sound corporate governance and
+meet applicable regulatory requirements.
+Deliver timely and quality assessment of registration applications.
+Identify key industry trends and supervisory risks to support risk-based, data-driven and
+outcome-focused supervision.
+Continuously enhance ESMA’s supervisory efficiency by selecting the supervisory tools that
+are most effective for the intended supervisory outcome.
+Request timely and effective remediation and adopt enforcement actions where breaches
+of the regulation are identified.
+Supervisory Convergence objectives:
+Identify clear consistent supervisory objectives and outcomes to address risks posed to
+capital markets in the EU across different industries and sectors.
+Promote effective and – where applicable – coordinated or joint supervisory work, focusing
+on high priority cross-sectoral risks using the most effective tool(s).
+Maintain, develop and implement high-quality common supervisory principles and
+approaches.
+Continue fostering and monitoring NCAs’ supervisory independence using appropriate
+convergence tools including assessment work in coordination with EBA and EIOPA.
+Foster convergence in enforcement activities that are the responsibility of national
+supervisory authorities, with a view to achieving consistent enforcement outcomes for
+similar infringements across the EU.
+
+
+
+                                                                                             9
+Assess the complaints received under the BUL procedure and use the BUL procedure to
+address failures of NCAs in complying with their obligations.
+
+Overview and results
+
+ESMA directly supervises all EU CRAs, TRs and SRs as well as certain DRSPs, certain
+benchmark administrators, and third-country CCPs that are systemically important to the EU
+(Tier 2 CCPs). ESMA has a risk-based, data-driven and outcome-focused approach to
+supervision and enforcement across all its mandates. As part of its supervisory activities,
+ESMA produces on an ongoing basis a wide range of outputs including in particular: annual
+reviews, remediation plans for supervised entities, thematic reports, and decisions regarding
+applications for registration, recognition or certification.
+In 2026, ESMA will notably focus on ensuring that these entities operate in full compliance
+with DORA one year after the entry into application of the new requirements. We will
+continue to adapt our processes, tools and practices with regards to ICT supervision in light
+of the new concepts in DORA (e.g. coordination with the ESAs oversight team). In addition,
+ESMA will start supervising the first CTPs for bonds and equities in the EU and the external
+reviewers of European Green Bonds. From mid-2026 the supervisory mandate for the
+providers of ESG Ratings is also expected to start. Finally, ESMA will continue to monitor
+how the entities it supervises adhere to the requirements and guidance on governance,
+internal control and periodic reporting that ESMA expects to publish in 2025. ESMA will
+develop detailed supervisory priorities for 2026 based on its annual risk assessment.
+Furthermore, in 2026, ESMA will focus on selecting the CTP for derivatives. This will be
+followed by the authorisation process (see section 2.2.12).
+Supervisory Convergence
+ESMA and the NCAs develop annually a heatmap of the key risks posed to EU financial
+markets, which serve as a basis for prioritising supervisory convergence work. Furthermore,
+ESMA periodically sets Union-wide Strategic Supervisory Priorities (USSPs) to guide and
+coordinate the actions of national supervisors and to prioritise convergence activities and –
+where applicable - its own supervisory activities on those key supervisory topics. As part of
+this, in 2026, ESMA will continue working on the USSP on cyber and digital operational
+resilience progressively increasing the supervisory focus following the first-year experience
+with DORA implementation. In 2026, ESMA also expects to finalise the USSP on ESG
+disclosures in order to consolidate the work carried out by NCAs over the last years.
+ESMA is using supervisory colleges to strengthen supervisory dialogue and coordination of
+certain supervised entities/groups operating in multiple member states. ESMA is the chair
+of a supervisory college for Euro Interbank Offered Rate (EURIBOR) Benchmark and
+following the EMIR 3 Review, the co-chair of the supervisory colleges of EU CCPs along
+with the relevant NCAs. Following CSDR Refit, ESMA will be a member of colleges of
+supervisors for CSDs that are substantially important for at least two host Member States.
+Finally, ESMA coordinates four voluntary supervisory colleges on large investment services
+and investment management firms in the EU. ESMA will continue intensifying efforts to
+promote effective cooperation and – where relevant – joint work among the participating
+NCAs.
+
+                                                                                            10
+ESMA continuously works, in close cooperation with the other ESAs, on fostering and
+monitoring NCAs’ supervisory independence. In 2026, ESMA, together with the other ESAs,
+expects to launch a joint assessment exercise based on the joint supervisory independence
+criteria published in 2023. ESMA works to foster a common supervisory culture among
+NCAs and ESMA, for example, by developing its single Union Supervisory Handbook -
+which comprises ESMA’s common supervisory principles and supervisory briefings - and
+regular exchanges on supervisory cases. In 2026, ESMA will continue to promote consistent
+supervisory practices by facilitating discussions on real supervisory and enforcement cases,
+helping NCAs address breaches in a harmonised way across the EU. In parallel ESMA aims
+to enhance supervisory efficiency and support efforts to simplify processes and reduce the
+administrative burden for market participants, without compromising supervisory
+effectiveness. These efforts will be complemented by continued promotion of best practices
+and strengthened cross-border cooperation, particularly in the area of enforcement. ESMA
+promotes the development of a common EU enforcement culture by enhancing the
+transparency and visibility of financial sanctions, and by promoting the use of common
+enforcement tools and methods.
+In its supervisory convergence role, ESMA will take into account information received
+through complaints pointing to potential Breach of Union Law (BUL) by NCAs. It may also
+investigate ex officio matters raised by NCAs in the context of ESMA groups. Most of the
+issues raised are likely to have a Union wide relevance, either because they relate to
+practices in place at firms operating in a cross-border manner or because they raise level
+playing field issues with firms operating in other Member states.
+            Cross-sectoral outputs not mentioned in a sector/entity section
+
+                                     Ongoing activities
+    •      Guidance and         other tools promoting convergence of supervision and
+       enforcement practices across ESMA’s remit.
+    • Identification and stocktaking on USSPs, conducting CSAs, case specific
+       discussions, participating and (co-)charing colleges.
+    •     Training and prioritisation of convergence activities.
+    • Identification and investigation of potential breaches of EU law.
+    •     Peer reviews (see section 3).
+                                                                          Due date
+                             Specific outputs
+                                                                             2026
+    2026 cross-sectoral report on sanctions and administrative measures       Q3
+adopted by NCAs.
+   Joint European Supervisory Authorities’ report on the independence of
+                                                                              Q4
+supervisory authorities.
+
+
+
+2.1.3 Retail investor protection
+
+Objectives
+
+
+
+
+                                                                                           11
+Achieve greater convergence and consistency of NCAs’ supervisory approaches and
+practices in relation to investor protection taking into account the impact of the technological
+developments and the evolution of the sustainable finance framework.
+Facilitate effective supervision of cross-border activities.
+Contribute to a regulatory framework that provides adequate protection to retail investors
+participating to the EU capital markets.
+Contribute to the development of a proportionate and effective single rulebook in the area of
+investment services, crowdfunding services and crypto assets by also considering the
+simplification and burden reduction’ related goals.
+Engage with retail investors and provide access to clear, reliable and comparable investment
+information.
+Monitor and analyse retail investor trends and risks, promoting a safe environment for those
+wishing to invest in capital markets.
+
+Overview and results
+
+ESMA works to ensure effective protection of retail investors across the EU, and it
+contributes to fostering long-term direct and indirect retail participation in EU capital markets.
+In this context, ESMA aims at facilitating the simplification and use of clear language in
+disclosures and at seizing opportunities arising from digitalisation, for example by enabling
+layering of information.
+ESMA continues focusing on risks posed by new and innovative products and services and
+alternative distribution channels (including marketing and social media investment
+recommendations and use of artificial intelligence).
+ESMA monitors financial activities and retail investor trends on an ongoing basis and issues
+public opinions or warnings when it identifies high risk products and when needed stands
+ready to make use of its product intervention powers. In 2026, ESMA will use retail risk
+indicators to identify potential causes of consumer and investor harm, and review product-
+related consumer trends, including cost and performance of retail investor products in the
+EU. ESMA uses its full convergence toolkit including the coordination of mystery shopping
+exercises in relation to services provided to retail clients.
+ESMA, furthermore, works with NCAs and in coordination with EBA and EIOPA to promote
+financial education and to increase investors’ awareness of the features of investment
+products and investment processes in an evolving landscape.
+ESMA will also assess whether updates to its guidelines and convergence tools (e.g. on
+suitability or product governance) are needed, based on the outcomes of the 2025 common
+supervisory actions and its consultations on retail investors’ investment experience.
+In the context of the RIS, and depending on the progress of the legislative file, ESMA may
+in 2026 begin work on key investor protection topics such as disclosures, costs and charges,
+and benchmarks, potentially developing related technical or convergence tools.
+
+            Cross-sectoral outputs not mentioned in a sector/entity section
+
+                                                                                                 12
+                                    Ongoing Activities
+    •      Guidance and       other tools to promote supervisory convergence as needed
+       related to investor protection, including in relation of digitalisation of retail services,
+       in particular in the provision of investment services to retail clients and of
+       crowdfunding services.
+    •     Monitoring of financial activities and retail investor trends and risks as well as
+       associated warnings, statements, and opinions on national product intervention
+       measures.
+                                                                                      Due date
+                              Specific outputs
+                                                                                         2026
+ § Technical advice to the Commission and technical standards as resulting
+from the Retail Investment Strategy (RIS) [if agreed by the co-legislators].              Q4
+
+
+
+
+                                                                                                     13
+2.1.4 Sustainable Finance
+
+Objectives
+
+Support the Commission’s efforts in streamlining sustainability-related requirements, making
+the regulatory framework more consistent and effective and not creating unnecessary burden.
+Monitor ESG market developments and update risk assessment.
+Promote effective and consistent integration of sustainability-related factors in supervisory
+and convergence activities. Maintain investors’ confidence in ESG investments by promoting
+high quality sustainability disclosures and addressing the risk of greenwashing.
+Contribute to facilitating the financing of the transition towards a more sustainable economy,
+while preserving a high level of investor protection as well as market integrity and financial
+stability.
+Overview and results
+
+ESMA will contribute to review the rulebook to increase its effectiveness and will support the
+reduction of unnecessary burden for market participants, leveraging on the 2024 ESMA
+Opinion as appropriate.
+ESMA will devote specific attention to transition finance. ESMA will continue deepening its
+own expertise but will also stand ready to support NCAs and market participants through
+supervisory convergence activities.
+ESMA will build on the Greenwashing reports, as well as the various CSAs that will have been
+undertaken in 2023-2025 with a sustainability angle. The development of practical and digital
+supervisory and convergence tools will be favoured, including supervisory case discussions.
+Additionally, ESMA will keep facilitating supervisory exchanges on the application of GLs
+such as those on fund names and on the enforcement of sustainability reporting.
+            Cross-sectoral outputs not mentioned in a sector/entity section
+
+                                   Ongoing Activities
+   •    Guidance and        other tools promoting supervisory convergence as related to
+     effective disclosures on sustainability.
+   •    Trainings and other capacity building actions.
+   •    Promotion of international cooperation and standards including through IOSCO,
+     FSB, ISSB, and NGFS in the sustainable finance area
+   •    Contribution to the work of the EU Platform on Sustainable Finance.
+   •    Monitoring and assessing ESG markets trends and risks through TRV and topical
+     analysis included in TRV Risk Analysis articles and specific research.
+                                                                            Due date
+                             Specific outputs
+                                                                              2026
+  Thematic notes on transition finance.                                        Q3
+  Thematic notes on sustainability claims.                                     Q4
+
+
+
+
+                                                                                             14
+2.1.5 Effective Use of Data and Technological Innovation
+
+    Objectives
+
+    Deliver on the objectives included in ESMA 2023-2028 Data Strategy.
+    Enhance ESMA’s role as a data hub, improving data access and quality for stakeholders.
+    Increase public access to usable information through machine-readable formats and
+    innovative data-sharing methods.
+    Maximise the value of data and information, build data intelligence, and design effective
+    reporting frameworks.
+    Develop and implement EU-joint SupTech and data projects to enhance EU-wide data-
+    driven activities and contribute to the EC's Strategy on supervisory data in EU financial
+    services2.
+    Develop an integrated reporting system for funds and transactional data.
+    Engage with stakeholders on data and data-related technologies to promote joint projects
+    with markets and academia as well as data exchanges between ESMA and other authorities.
+    Contribute to burden reduction by simplifying and streamlining reporting flows and disclosure
+    obligations.
+    Overview and results
+
+    Effective Use of Data
+    ESMA and the ESAs are committed to implement the EC’s Strategy on supervisory data in
+    EU financial services, modernising reporting to provide accurate data while minimising
+    burden on involved parties. To do so, ESMA works with NCAs and stakeholders to
+    streamline reporting, ensure consistency with common formats, and reduce compliance
+    costs, while enhancing data intelligence through structured and non-structured data
+    analyses based on consistent methodologies.
+    As part of the AIFMD and UCITS Review, ESMA in collaboration with the ECB and the other
+    ESAs, is undertaking joint work on integrated supervisory data collection to reduce reporting
+    burden for market participants and ensure that the appropriate data is available to
+    authorities, by reducing duplicative and inconsistent requirements and by increasing
+    standardisation and data sharing.
+    Under the MiFIR Review, ESMA contributes to the implementation of the revised
+    transparency framework, while increasing data reuse (e.g., by reusing MiFIR transaction
+    data for transparency calculations). Furthermore, ESMA has developed proposals on a
+    holistic review of transactional reporting under MiFIR, EMIR and SFTR, with the aim of
+    removing duplications and developing a streamlined reporting system that would lead to
+    substantial reduction of reporting burden.
+
+
+2
+    https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021DC0798
+
+                                                                                                15
+    In cooperation with the EC, ESMA also supports the development of a common data
+    dictionary and helps improving public access to data with machine-readable formats.
+    Technologies and frameworks like SupTech, RegTech, Decentralised Finance (DeFI), and
+    AI, are being monitored and, where feasible, will be implemented to improve data reporting
+    and reduce the burden on reporting entities.
+    Under Listing Act, ESMA will work together with NCAs on necessary extensions to the order
+    book data-exchange mechanism, in order to further facilitate the collection and sharing of
+    this data and, in turn, contribute to cross border supervision.
+    Moreover, in the context of its Data Strategy 3 , ESMA will focus on enhancing its data
+    capabilities and promoting innovation to improve efficiency and transparency in EU financial
+    markets. This includes i) continuing the development of the ESMA Data Platform to integrate
+    data from various sources and expose dashboards and analytics to its users (including
+    NCAs) to improve risk monitoring, supervision, and supervisory convergence, ii) exploring
+    AI-powered tools for supervision, including anomaly detection and market abuse prevention,
+    iii) increasing data quality across reporting regimes under its remit, and iv) fostering data
+    literacy within the organisation and amongst NCAs.
+    In 2026, ESMA will also significantly enhance public access to financial disclosures via the
+    completion of the first phase of the European Single Access Point (ESAP) development.
+    Technological Innovation
+    The set up of a collaborative cloud-based data platform (i.e., the ESMA Data Platform) will
+    continue to foster cooperation amongst authorities and make it possible to provide
+    advanced technological solutions that address authorities’ needs by mutualising efforts and
+    building synergies. In particular, ESMA will continue expanding the capability of the platform
+    to provide NCAs with secure access to data within their remit and will work on the
+    implementation of specific use cases based on centralised data and modern technologies.
+    The second phase of the technical solution for EU-level integrated monitoring of crypto-
+    asset markets under Markets in Crypto Assets (MiCA) will be implemented (see section
+    2.2.13) — subject to ESMA’s Board of Supervisors’ decision — and the use cases covered
+    by the solution gradually expanded to ensure efficient data-driven supervision of crypto
+    markets across regulatory mandates. ESMA will participate in several European and
+    international workstreams of the ESRB, FSB and IOSCO related to technological innovation
+    and contribute to the European Forum of Innovation Facilitators together with EBA and
+    EIOPA.
+    Furthermore, ESMA will monitor, evaluate, and explore the integration of relevant emerging
+    technological solutions, such as generative AI, that have the potential to enhance
+    operational efficiency. This work will support the authority’s strategic goal of leveraging
+    innovation to improve supervisory effectiveness and internal processes.
+
+
+
+
+3
+    https://www.esma.europa.eu/sites/default/files/2023-06/ESMA50-157-3404_ESMA_Data_Strategy_2023-2028.pdf
+
+
+                                                                                                              16
+Finally, in 2026 and 2027, ESMA will also contribute to the Supervisory Digital Finance
+Academy in coordination with the other ESAs, the EC and the European University Institute
+to strengthen supervisory capacity in the area of digital finance.
+            Cross-sectoral outputs not mentioned in a sector/entity section
+
+                                     Ongoing Activities
+   •       Data quality outputs for all supervisory data reported to ESMA or submitted
+       through an ESMA-supervised repository including intelligence, analytical tools and
+       advanced data and information inputs.
+   •       Generation of analytics and statistics in a unified framework to facilitate their
+       dissemination and consumption by stakeholders, including the public.
+   •      Roll-out of collaborative tools and analytics to enhance data sharing and support
+       closer cooperation with NCAs and the other ESAs, including in new areas.
+   •       Enhancement of public access to data, analytics, and data-related information by
+       both sophisticated and non-sophisticated investors.
+   •       Engagement with EU co-legislators on the importance of identifiers (LEI and
+       ISINs) and common formats (JSON, iXBRL) in EU data requirements.
+   •        Engagement with relevant data standardisation bodies (e.g., ISO) and
+       international regulatory fora on global data standards (e.g., ROC).
+                                                                                 Due date
+                              Specific outputs
+                                                                                   2026
+  Report on a holistic review of transactional reporting under MiFIR, EMIR
+and SFTR.                                                                           Q2
+  Report on the integrated reporting in the context of AIFMD/UCITS review.
+   Extension of order book data-exchange mechanism between NCAs.
+   European single access point providing centralised access to publicly            Q4
+available information of relevance to financial services, capital markets and
+sustainability.
+
+
+
+
+                                                                                               17
+2.2 Key regulated sectors and entities
+
+2.2.1 Investment management
+
+Objectives
+
+Contribute to the objectives of:
+   -   effective markets and financial stability (section 2.1.1);
+   -   effective supervision (section 2.1.2);
+   -   retail investor protection (section 2.1.3);
+   -   enabling of sustainability finance (section 2.1.4); and
+   -   effective use of data and technological innovation (section 2.1.5).
+in the area of AIFMD, UCITS Directive, MMF Regulation, ELTIF Regulation, European
+Social Entrepreneurship Funds (EuSEF) and European Venture Capital Funds (EuVECA)
+Regulations as well as Packaged Retail and Insurance-based Investment Products (PRIIPs)
+and SFDR/Taxonomy Regulation (through the JC).
+
+Overview and results
+
+ESMA contributes on an ongoing basis to the development of the single rulebook applicable
+to the investment management sector including through the provision of technical input to
+assist the co-legislators in developing high-quality regulation. ESMA promotes supervisory
+convergence of NCAs’ practices by issuing and reviewing guidance and facilitating case
+discussions, workshops, CSAs and peer reviews. Every year, ESMA also updates its
+guidelines on Money Market Fund (MMF) stress testing taking into account the latest market
+developments.
+
+ESMA monitors risks in the investment management sector as appropriate: subject to
+market developments, key areas of focus in 2026 could include the use of leverage by funds,
+liquidity, as well as interconnectedness of funds with the rest of the financial system.
+
+Under the AIFMD and UCITS Directive ESMA will in 2026 develop Guidelines providing
+indications to guide the competent authorities on the activation of suspensions of
+subscriptions and redemptions of funds. Similarly, the EC’s assessment and review of the
+PRIIPs Regulation and SFDR may give rise to regulatory technical standards (RTSs) and
+requests for technical advice from the ESAs (see also section 2.1.4.) to contribute to the
+simplification of the legislative framework and burden reduction for financial market
+participants.
+
+In 2026, ESMA will produce the Final Report on the 2025 CSA on Compliance and Internal
+Audit Functions of UCITS Management Companies and AIFMs.
+
+Finally, in 2026, ESMA will finalise the project on “Tackling greenwashing risk in the
+sustainable investment fund market” as part of the EC’s 2024 Technical Support Instrument
+(TSI).
+
+
+                                                                                          18
+                                       Main outputs
+
+                                    Ongoing Activities
+   •       Guidance and       other tools to promote supervisory convergence as needed
+       related to investment management.
+    •     Integration of supervisory data collection under AIFMD, UCITS.
+    • §/      Ongoing updates and revisions of technical standards and guidance on data
+       reporting obligations across EU legislation, including AIFMD/UCITS.
+                                                                             Due date
+                              Specific outputs
+                                                                               2026
+   Guidelines on suspensions of subscription and redemption and other
+NCAs’ powers.
+   Report on 2025 CSA on Compliance and Internal Audit Functions of             Q2
+UCITS Management Companies and AIFMs.
+    Report regarding the development of the integrated collection of
+supervisory data in the asset management sector.
+§ Annual update of guidelines on MMF stress testing (update of the
+parameters of the stress tests scenarios).
+   Annual ESMA market report on Costs and Performance of EU Retail
+                                                                                Q4
+Investment Products.
+   Public project brief for TSI project on tackling greenwashing risk in the
+sustainable investment fund market.
+
+
+2.2.2 Investment services
+
+Objectives
+
+Contribute to the objectives of
+   -   effective markets and financial stability (section 2.1.1);
+   -   effective supervision (section 2.1.2);
+   -   retail investor protection (section 2.1.3);
+   -   enabling of sustainability finance (section 2.1.4); and
+   -   effective use of data and technological innovation (section 2.1.5).
+in the area of the investment services provisions in MiFID II, the Crowdfunding Regulation
+and the Investment Firms Regulation and Directive (in cooperation with EBA).
+Overview and results
+
+ESMA contributes on an ongoing basis to the development of the single rulebook applicable
+to the investment services sector including through the provision of technical input to assist
+the legislator in developing high-quality regulation. ESMA actively works to ensure
+appropriate protection to retail investors participating in crowdfunding across the EU,
+focusing on mitigating risks associated with new products and services.
+
+As described in section 2.1.3, ESMA works as well to ensure effective protection of retail
+investors in the investment services area across the EU using its full convergence toolkit as
+
+
+                                                                                             19
+well as coordination of mystery shopping exercises in relation to investment services. ESMA
+promotes supervisory convergence of NCAs’ practices by issuing and reviewing guidance
+and facilitating case discussions, workshops, CSAs and peer reviews in the investment
+services sector.
+
+Finally, ESMA contributes, in cooperation with the EBA, to the development of the prudential
+regime for investment firms. ESMA will contribute, if relevant, to the implementation of the
+third-country regime for the provision of investment services by supporting any EC
+equivalence assessments and negotiating cooperation agreements with supervisors of
+equivalent third countries.
+
+With regard to the efforts on simplification and burden reduction (SBR) in the area of
+investment services and crowdfunding, ESMA will engage in follow-up actions stemming
+from the Call for Evidence on the “retail investor journey” (published in May 2025).
+
+                                        Main outputs
+
+                               Specific outputs                                   Due date
+    Publish ESMA analytics via a public interface suited for both sophisticated
+and non-sophisticated investors.                                                    Q1
+     Report on 2024/2025 CSA on MiFID II sustainability topics.
+     Annual report on data collection concerning cross-border investment
+services in EU/EEA.
+                                                                                    Q2
+    Annual publication of market capitalisation ratio for the purposes of
+FASTER Directive.
+     Review of guidelines and other supervisory convergence tools on MiFID
+                                                                                    Q3
+II investor protection topics resulting from the CSA, if needed.
+     Annual ESMA market report on crowdfunding.
+     Methodology on consumer testing.
+     2026 CSA on MiFID II topics related to retail investors.                       Q4
+     Follow-up work to the Call for Evidence on retail investor journey.
+§ Review of guidelines on the assessment of members of management
+bodies and key function holders (jointly with EBA).
+
+
+2.2.3 Issuer disclosure
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2);
+    -   retail investor protection (section 2.1.3);
+    -   enabling of sustainable finance (section 2.1.4); and
+    -   effective use of data and technological innovation (section 2.1.5).
+
+
+
+                                                                                             20
+in the area of Prospectus Regulation, Transparency Directive, Corporate Sustainability
+Reporting Directive (CSRD), Taxonomy Regulation, Accounting Directive, Takeover Bid
+Directive, Shareholder Rights Directive, Audit Directive and Regulation, the Corporate
+Sustainability Due Diligence Directive and the International Accounting Standards
+Regulation.
+Contribute to standard-setting activities for financial and sustainability reporting.
+
+Overview and results
+
+ESMA contributes to the development of a sound and proportionate single rulebook in the
+areas of financial and sustainability reporting, major holdings, prospectus, corporate
+governance and takeover bids. It promotes supervisory convergence of NCAs’ practices
+through guidance, case discussions, training, workshops, and the Annual European
+Common Enforcement Priorities (ECEP), and subsequent reporting thereon in the Annual
+Corporate reporting enforcement and regulatory activities report.
+
+ESMA contributes to International Financial Reporting Standards (IFRS) accounting
+standard-setting and the endorsement of IFRS by the EU as well as to the development of
+European Sustainability Reporting Standards (ESRS) through its observership at the
+European Financial Reporting Advisory Group (EFRAG), Financial and Sustainability
+Reporting Boards and Technical Expert Groups, and the EC’s Accounting Regulatory
+Committee. It also contributes to consultations of the International Sustainability Standards
+Board (ISSB).
+
+As a member of the EU Platform on Sustainable Finance, ESMA contributes to the
+development, maintenance and implementation of the disclosure requirements set out in the
+Taxonomy Regulation and the related delegated acts.
+
+ESMA provides views on International Standards on Auditing (ISA), International
+Sustainability Standards on Auditing (ISSA) and the related ethics requirements, as well as
+securities regulators’ perspective on audit matters at the Committee of European Audit
+Oversight Bodies (CEAOB). As Chair of the CEAOB Subgroup on International Equivalence
+and Adequacy, ESMA coordinates the work on performing new and monitoring previous
+equivalence and adequacy technical assessments of third-country audit legal frameworks.
+
+ESMA annually updates the technical standards and guidance for the European Single
+Electronic Format (ESEF) core financial taxonomy and supports the implementation of digital
+reporting requirements, with attention to reporting burden and proportionality, and improving
+data usability and comparability.
+
+In 2026, ESMA may need to provide advice and assistance to the Commission regarding a
+further review of the Shareholders’ Rights Directive (SRD) and may contribute to revisions
+of the Taxonomy Regulation. In relation to prospectuses, ESMA will be rounding off its work
+on the Listing Act. During 2026, ESMA will also monitor the implementation of the changes
+to the Prospectus Regulation introduced by the Listing Act and may issue more guidance to
+
+
+                                                                                            21
+facilitate stakeholders’ adoption of the Listing Act having regard to reporting burden and
+proportionality.
+
+                                       Main outputs
+
+                                    Ongoing Activities
+    •     Guidance and        other tools to promote supervisory convergence related to
+      issuer disclosure.
+   •     Technical positions and endorsement advice/opinions on IFRS, ESRS, new
+      pronouncements from the ISSB, IAASB and IESBA (ISA and ISSA).
+   •      Contribution to the EU Platform on Sustainable Finance and to the development
+      of European standards on sustainability reporting through EFRAG as well as to
+      workstreams under the ESRB.
+   • Support data-driven supervision in the area of sustainability reporting.
+                                                                              Due date
+                             Specific outputs
+                                                                               2026
+   Annual Corporate reporting enforcement and regulatory activities report.      Q1
+   Annual Extracts of financial information enforcement decisions.               Q2
+§ Update to ESMA Q&As and Guidelines related to the Prospectus
+                                                                                 Q3
+Regulation on the basis of the Listing Act.
+   Annual ESMA market report on EU Prospectuses.
+   Annual Public Statement on European Common Enforcement Priorities.            Q4
+§ Annual Amendments to the RTS on ESEF, ESEF XBRL Taxonomy files.
+
+
+2.2.4 Market Integrity
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2);
+    -   retail investor protection (section 2.1.3) and
+    -   effective use of data and technological innovation (section 2.1.5).
+in the area of the Market Abuse Regulation (MAR) and the Short Selling Regulation (SSR).
+
+Overview and results
+
+ESMA enhances market integrity by promoting supervisory convergence under the MAR
+and the SSR, and by performing the tasks assigned to the authority by these two regulations.
+To achieve these objectives, ESMA issues guidance, monitors the developments of new
+threats to market integrity, and organises case discussions among NCAs to raise awareness
+and promote best-practices.
+With respect to the SSR, ESMA monitors the evolution of net short positions at EU level and
+ensures coordination among NCAs in cases where national measures may be considered.
+In exceptional circumstances, ESMA can also resort to direct intervention powers.
+
+                                                                                           22
+With respect to MAR, ESMA performs a facilitation and coordination role in relation to the
+cooperation and information exchange between NCAs and third countries authorities in case
+of cross-border market abuse cases.
+In addition, ESMA contributes to supervisory convergence in the fields of Suspicious
+Transaction and Order Reports (STORs) by producing an annual report on the application
+of the relevant regime across the EU. When needed, ESMA also issues opinions on
+accepted market practices (AMPs) to ensure the AMPs approved at national level do not
+pose a risk to market confidence.
+In 2026, following the adoption of the Listing Act, ESMA will review its Guidelines on delayed
+disclosure of inside information, taking into consideration the new rules on disclosure in
+case of a protracted process. If necessary, ESMA will also provide guidance to market
+participants on the implementation of the Listing Act provisions.
+ESMA will also make arrangements to accomplish the operational tasks assigned to the
+authority by the Listing Act, such as the set-up of a collaboration platform for the exchange
+of information in case of serious concerns about market integrity.
+In addition, in its attempt to identify new forms of market abuse, ESMA will continue to pay
+attention to the impact of social media on market integrity.
+To support NCAs in the use of new technology in their supervisory activity, ESMA will also
+investigate the possible use of AI by NCAs in their market surveillance activities.
+In the area of crypto assets, ESMA will continue the project on a centralised system for
+market surveillance of crypto assets as explained in Section 2.1, and it will also provide
+guidance to the NCAs on prevention and detection of market abuse in crypto asset trading.
+This will include further convergence work on the allocation of market abuse cases among
+NCAs, taking into consideration the significant cross-border aspects characteristic of the
+crypto-asset market.
+In relation to wholesale energy products that are also financial instruments, given the overlap
+of competence between NCAs, NRAs and ACER in the detection and investigation of market
+abuse introduced with the REMIT review, ESMA will continue to ensure the adoption of a
+coordinated approach at EU level. ESMA will keep engaging with ACER, notably via the
+Energy Trading Enforcement Forum (ETEF), a key platform where energy and financial
+regulators meet annually to share experiences on their supervisory activities and
+enforcement actions in relation to market abuse in energy markets.
+
+
+                                       Main outputs
+
+                                   Ongoing Activities
+   •      Monitoring market developments, enhancing coordination in case of possible
+       threats that may require the adoption of emergency measures under the SSR.
+   •       Guidance and      other tools to promote supervisory convergence regarding
+       MAR.
+   •      Opinions on MAR AMPs adopted by NCAs where needed.
+
+
+                                                                                              23
+                                                                               Due date
+                              Specific outputs
+                                                                                2026
+    Annual Report on STORs.
+     Revision of MAR Guidelines on delayed disclosure of inside information.
+     Supervisory briefing on prevention and detection of market abuse in
+ crypto asset trading.                                                            Q4
+ Development of a centralised system for market surveillance of crypto
+ assets
+    Set-up of collaboration platform for the exchange of information in case
+ of serious concerns about market integrity.
+
+2.2.5 Benchmark providers
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2);
+    -   enabling of sustainability finance (section 2.1.4); and
+    -   effective use of data and technological innovation (section 2.1.5).
+in the area of the BMR.
+
+Overview and results
+
+ESMA is responsible for the supervision of the administrators of EU critical benchmarks and
+of recognised third-country benchmark administrators. EURIBOR is currently the only
+benchmark recognised as critical in the EU and ESMA has supervisory responsibilities over
+its administrator, European Money Markets Institute. The key areas of supervisory focus in
+relation to EURIBOR will continue to be the robustness and resilience of the EURIBOR
+benchmark methodology and the related EURIBOR’s representativeness of the underlying
+market. ESMA will continue to chair the EURIBOR college of supervisors, which is
+composed of the NCAs responsible for the supervision of EURIBOR’s panel banks, with the
+aim to promote and coordinate NCAs’ supervisory actions and ensure an efficient exchange
+of information. ESMA is also mandated to identify potential new critical benchmarks in the
+EU and will monitor market developments in that regard.
+
+ESMA’s supervisory remit is expected to change following the outcome of the BMR review.
+Therefore, ESMA will implement the necessary adjustments, in order to fulfil its revised
+responsibilities and remit under the BMR.
+
+Furthermore, ESMA will monitor the compliance of the benchmarks administrators
+supervised by ESMA with the two sets of guidelines on internal controls and periodic
+reporting following their publication and entry into application.
+
+Following the completion of the CSA on BMR ESG disclosures, performed jointly with
+selected NCAs, ESMA will focus on the identification and implementation of appropriate
+
+
+                                                                                          24
+policy and/or supervisory follow-up actions to address any concerning findings or practices
+identified.
+
+                                      Main outputs
+
+                                    Ongoing Activities
+   •       Supervision of administrators of EU critical and third-country recognised
+       benchmarks, while noting that ESMA supervisory remit is expected to change as a
+       result of the BMR review.
+   •      Market monitoring and identification of new risks posed by industry and market
+       developments.
+   •       Guidance and     other tools to promote supervisory convergence of supervision
+       of the benchmark administrators, taking into account the revision of the BMR.
+   •       Chair the EURIBOR college of supervisors.
+   •       Negotiation of Memorandums of Understanding (MoUs) with third-country
+       authorities and potential technical advice to the EC in the context of its equivalence
+       decisions.
+   •        Opinions to competent authorities on endorsement or national critical
+       benchmarks, if applicable.
+
+
+2.2.6 Credit Rating Agencies
+
+Objectives
+
+Contribute to the objectives of
+   -   effective markets and financial stability (section 2.1.1);
+   -   effective supervision (section 2.1.2);
+   -   enabling of sustainability finance (section 2.1.4); and
+   -   effective use of data and technological innovation (section 2.1.5).
+in the area of the Credit Rating Agencies Regulation (CRAR).
+Ensure credit ratings in the EU are independent, objective and of high quality by conducting
+effective supervisory activities.
+
+Overview and results
+
+ESMA is the supervisor of CRAs located in the EU and delivers guidance to CRAs and
+technical advice to the EC as needed. ESMA supervises CRAs in accordance with its data-
+driven, outcome-focused and risk-based approach described in section 2.1.2.
+
+In 2026, ESMA will primarily focus on regulatory risks posed by CRAs' business strategies,
+adequacy of the analytical framework and operational set-up.
+
+With respect to the strategic orientation of supervised entities, ESMA will actively monitor
+the offering of rating-related products, with particular focus on regulatory use and
+transparency to market participants. Incentives and drivers leading to the development and
+revision of rating methodologies will remain a focus area. In terms of rating process, ESMA
+
+
+                                                                                                25
+intends to closely look at rating monitoring activities, considering the increased availability
+of AI-based tools and the challenges posed by the geopolitical context.
+
+Regarding CRAs’ operations, ESMA will mainly focus on outsourcing practices, effective
+organisational arrangements, adequacy of control frameworks and compliance with DORA
+requirements.
+
+                                        Main outputs
+
+                                    Ongoing Activities
+    •       Supervision of CRAs, including through tailored supervisory strategy, regular
+        supervisory engagement with the entities, risk assessments and on-site visits.
+    •      Market monitoring and identification of new risks posed by industry and market
+        developments, including through an enhanced use of ratings’ data reported to
+        ESMA.
+    •       Registration and pre-application engagement with new applicants.
+    •       Guidance on the CRAR addressed to CRA and NCAs as needed.
+    •      International work in the area of credit ratings and credit risk, participation in
+        international colleges, engagement with third-country authorities and technical
+        advice on equivalence and endorsement assessments as needed.
+    • Maintenance of the publicly available ratings’ information, notably the Central
+        Repository (CEREP) and the European Rating Platform (ERP).
+                                                                                 Due date
+                              Specific outputs
+                                                                                    2026
+    Update to ESMA Guidelines on Disclosure for credit ratings to reflect any
+ revisions to the CRA Regulation on foot of ESMA Technical Advice.                   Q4
+
+
+2.2.7 ESG rating providers
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2); and
+    -   enabling of sustainability finance (section 2.1.4)
+in the area of the Regulation on ESG rating activities.
+
+Overview and results
+The date of application for the ESG rating regulation is 2 July 2026. Leading up to this date
+ESMA will be focused on the smooth delivery of the regulation’s supporting technical
+standards, communication of expectations for notification and registration processes as well
+as the clarification of certain regulatory requirements.
+
+
+
+
+                                                                                                26
+ESMA will continue to actively engage with stakeholder to understand key market issues
+and intentions. In the first half of 2026 ESMA will also organise a workshop to identify and
+address practical questions around the process of registration for ESG rating providers.
+Furthermore, we will continue to develop our supervisory expectations and supervisory
+strategies to support the implementation of the regulation following the
+registration/authorisation of ESG rating providers.
+Upon finalisation of the various RTS, ESMA will continue to support the Commission in
+process of adopting technical standards and delegated act on fees and fines. We will also
+continue to develop guidance to the market on the implementation of the ESG Regulation.
+From mid-2026 ESG rating providers will be able to submit their registration applications to
+ESMA in line with the deadlines set out in the regulation. This will mark the start of ESMA’s
+registration activities and supervisory oversight.
+
+                                       Main outputs
+
+                                    Ongoing Activities
+   •     Registration of entities.
+   •     Start of supervision of ESG rating providers.
+   •    Market monitoring and identification of new risks posed by the new industries and
+       markets developments.
+   •     If necessary, issue guidance addressed to ESG rating providers.
+
+
+
+2.2.8 External reviewers of European Green Bonds
+
+Objectives
+
+Contribute to the objectives of
+   -   effective markets and financial stability (section 2.1.1);
+   -   effective supervision (section 2.1.2); and
+   -   enabling of sustainability finance (section 2.1.4)
+in the area of the European Green Bond Regulation (EuGB).
+
+Overview and results
+
+ESMA's supervision of external reviewers will begin in June 2026. Leading up to the start of
+ESMA’s supervision, ESMA will be required to process registration applications in
+accordance with the relevant legal deadlines. This will involve the assessment of relevant
+documentation, in addition to engagement with applicants, as needed. In the second half of
+2026, ESMA will ensure the effective and consistent application of the requirements of the
+EuGB Regulation through active engagement and supervision of registered entities
+
+                                      Main outputs
+                                    Ongoing Activities
+
+                                                                                            27
+    •     Registration of entities.
+    •     Start of supervision of external reviewers.
+    •     If necessary, issue guidance addressed to external reviewers.
+    •    Market monitoring and identification of new risks posed by the new industries and
+        market developments.
+
+
+
+2.2.9 Market transparency infrastructures
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2);
+    -   enabling sustainable finance (section 2.1.4); and
+    -   effective use of data and technological innovation (section 2.1.5).
+in the areas of the EMIR, Securities Financing Transactions Regulation (SFTR) reporting,
+MiFIR transparency and transaction reporting, and the Securitisation Regulation (SECR).
+Ensure high quality, availability and integrity of the data and operational resilience of market
+transparency infrastructure under its remit in collaboration with those NCAs supervising
+reporting entities and data users.
+
+Monitor and promote the consistent application of EMIR, SFTR, MiFIR and SECR, ensuring
+effective implementation of regulatory requirements. In the context of SECR focus on those
+related to transparency, due diligence, and simple, transparent and standardised (STS)
+securitisation.
+
+Overview and results
+
+ESMA directly supervises several types of market participants that provide transparency in
+EU financial markets. These include TRs under EMIR and SFTR, certain DRSPs under
+MiFIR and SRs under SECR (all together Market Transparency Infrastructures or MTIs).
+
+ESMA currently supervises two types of DRSPs: Approved Publication Arrangements
+(APAs) and Approved Reporting Mechanisms (ARMs). ESMA performs an annual
+assessment of the DRSP derogation criteria in order to identify the APAs and ARMs subject
+to ESMA’s direct supervision.
+
+ESMA expects 2026 to be a decisive year for the setting up of the first CTPs in the EU with
+the authorisation and the start of the supervision of the first bond CTP after the selection
+phase completed in 2025. ESMA also expects to authorise the equity CTP and to launch the
+first selection for the derivatives CTP. ESMA will actively monitor the launch of these new
+entities and engage with them but also data contributors and their NCAs where necessary
+to ensure a successful start.
+
+
+
+                                                                                               28
+ESMA applies its risk-based, outcome-focused and data-driven approach to the supervision
+of MTIs. In 2026, ESMA’s supervisory work will focus on ensuring that MTIs have adequate
+arrangements in the areas of governance and internal controls, IT systems and processes
+and information security, also considering the entry into application of DORA in January
+2025. ESMA will also complete the review it began in 2025 of the strategy and decision-
+making of the groups to which MTI entities belong.
+
+Furthermore, ESMA will monitor the implementation by MTIs of Level 3 Guidelines on
+internal controls and periodic information reporting as well as of ESMAs principles on third-
+party risks supervision and ESMAs supervisory expectations for the management body.
+
+From 2026 onwards, as a consequence of the on-going revision of the EU securitisation
+framework, ESMA expects to work on new or updated level 2 and/or level 3 mandates.
+ESMA will also continue ensuring the application of consistent supervisory approaches
+across competent authorities, notably following the publication of the conclusions of ESMA
+STS Peer Review in 2025.
+
+                                       Main outputs
+
+                                      Ongoing Activities
+    •     Supervision of MTIs.
+    •     Authorisation of CTPs.
+    •     Registration and pre-application engagement with new applicants.
+    •     Market monitoring and identification of new risks posed by industry and market
+       developments.
+   •      Guidance and         other tools to promote convergence regarding the supervision
+       of MTIs and entities reporting to them.
+   •      Data quality engagement related to 1) derivatives and SFT data including as
+       reported to and made available by TRs, 2) MiFIR data including transaction data as
+       reported by ARMs and transparency data published by APAs and CTPs, and 3)
+       securitisation data reported to and made available by SRs.
+                                                                                Due date
+                               Specific outputs
+                                                                                  2026
+   Annual Report on the quality and use of transaction data.
+                                                                                   Q1
+   Authorisation of the first bond CTP.
+   Annual Assessment of the DRSP derogation criteria.                              Q3
+   Authorisation of the first equity CTP.                                          Q4
+
+2.2.10 Central Counterparties
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision and convergence (section 2.1.2); and
+    -   effective use of data and technological innovation (section 2.1.5).
+
+                                                                                              29
+in the area of CCP supervision and policymaking under EMIR and the CCP Recovery and
+Resolution Regulation (CCP RRR).
+Monitor risks resulting from exposures to third-country CCPs and address systemic risks
+resulting from third-country CCPs or clearing services deemed substantially systemic for
+the financial stability of the Union or one or more of its Member States (Tier 2 CCPs).
+Assess the resilience of EU and Tier 2 CCPs to adverse market developments and identify
+potential risks for financial stability with the use of CCP stress tests and an enhanced
+supervisory database.
+
+Enhance the regulatory framework of EU CCPs.
+
+Promote convergence in supervisory practices and consistent implementation of the
+resolution framework across competent authorities and colleges to safeguard financial
+stability in the Union.
+
+Overview and results
+
+Third-country central counterparties
+
+ESMA will review applications from new third-country CCPs, assess their systemic
+relevance for the EU, and negotiate MoUs with relevant jurisdictions following new EC
+equivalence decisions. In 2026, ESMA will initiate the review of recognition of all third-
+country CCPs recognised in 2022 as such review must be performed at least every five
+years. ESMA will also re-evaluate recognition when third-country CCPs adjust their activities
+in the EU.
+
+ESMA will continue monitoring third-country CCPs, their activities in the EU, compliance with
+equivalence and recognition decisions, and regulatory developments and inform the
+Commission, as relevant.
+
+In 2026, in conducting its direct supervision ESMA will also continue monitoring the
+soundness of Tier 2 CCPs’ risk models, and developments in the areas of liquidity and
+operational risk, among others, and will provide regular risk updates to the CCP SC,
+including through stress tests, risk model validation, and annual reviews and by utilising its
+analytical capabilities and supervisory data. ESMA will also perform the ongoing close
+engagement with the supervised entities.
+
+Supervisory priorities will be set using a risk-based approach covering topics related to the
+rigorousness of risk models, operational risk, and outsourcing, among others.
+
+EU central counterparties
+
+Following the adoption of the EMIR 3 review, ESMA will finalise the development of level 2
+and 3 measures and prepare Reports to improve the resilience of EU CCPs and reduce the
+excessive reliance on Tier 2 CCPs. ESMA will continue monitoring and updating the CCP
+
+
+                                                                                             30
+single rulebook to ensure EU CCPs remain resilient. In doing so, it will contribute to
+simplification and burden reduction. This includes using soft convergence tools in the CCP
+ResCo and favouring common approaches over formal Level 3 texts or Q&As. ESMA also
+aims to limit reporting requirements under the Active Account Requirement (AAR) by relying
+largely on existing data from Trade Repositories.
+
+In order to promote convergence of supervision of CCPs across the EU, ESMA will issue
+Opinions on several NCA supervisory decisions, reports and measures (including Opinions
+on the annual reviews of CCPs and their compliance with EMIR requirement following EMIR
+3 review), validate changes to CCPs’ risk models and parameters, and issue additional
+guidance when needed. Furthermore, ESMA will promote consistency of supervisory and
+resolution outcomes for 14 EU CCPs through its participation to supervisory and resolution
+colleges (including its sub-workstreams) gathering all relevant supervisors.
+
+In particular, ESMA will co-chair the CCP supervisory colleges through the independent
+members of the CCP SC, identify annual CCP supervisory priorities and may participate in
+annual on-site inspections. As part of the implementation of EMIR 3, it will establish a central
+database for CCPs to submit monthly reports. The database is accessible by relevant CCP
+supervisory college members and, where relevant to the performance of their tasks and
+unless restricted based on confidentiality concerns, the CCP SC.
+
+ESMA is also managing and chairing the new Joint Monitoring Mechanism (JMM) to monitor,
+together with other EU bodies, developments relevant for clearing in the EU, the potential
+risks arising from the interconnectedness of CCPs, clearing members and clients, and the
+implementation of the AAR. In particular, ESMA will prepare and submit an annual report to
+the European Parliament, the Council and the Commission on the results of the JMM
+activities.
+ESMA’s stress-testing exercise is a key tool in ensuring proper risk assessments of CCPs,
+enabling early identification of risks. ESMA will continue improving its supervisory stress-
+testing framework incorporating new risks, and taking into account, where possible, the
+aggregate effect of CCP recovery and resolution arrangements on Union financial stability.
+ESMA will aim to standardise, streamline stress test processes and improve tools used to
+run the exercise. ESMA will also strengthen its analytical capabilities to identify
+vulnerabilities in the EU financial system by leveraging on supervisory data with the aim to
+cover the wider clearing ecosystem (CCPs, clearing members, clients, other connected
+Financial Market Infrastructures) and support the JMM, among others. ESMA will conduct a
+fire-drill to enhance crisis preparedness as part of the CCP SC crisis management
+procedure. Where needed, ESMA will coordinate, in cooperation with EU authorities,
+participation of EU CCPs in global fire-drills.
+In addition, ESMA will carry out its annual peer review on the supervision of EU CCPs and
+monitor the implementation of recommendations from previous peer reviews to track
+progress on supervisory convergence.
+Finally, ESMA is mandated to promote the drawing up and coordination of resolution plans
+and develop methods for the resolution of failing CCPs. It fulfils these tasks through its CCP
+
+
+                                                                                               31
+Resolution Committee, with a view to address convergence issues ex ante as much as
+possible and keeping resolution plans as practical and flexible as a key objective. This is
+achieved through facilitating the sharing of best practices, providing guidance on arising
+issues or through resolution briefings to facilitate the effective and consistent
+operationalisation of resolution tools by national resolution authorities.
+                                      Main outputs
+
+                                     Ongoing Activities
+   •      Supervision of Tier 2 CCPs, including through a supervisory program, regular
+       supervisory meetings with the T2 CCPs and the Bank of England, participation in
+       the Tier 2 CCP global college, stress testing, risk assessments, risk model
+       validations and on-site visits.
+   •      Tiering and recognition of applicant TC CCPs (pending EC equivalence) and
+       review of third-country CCP recognition, e.g., following extension/reduction of
+       services; chairmanship of the EMIR third-country CCP college.
+   •      Ongoing monitoring of third-country CCP data, including enhanced scrutiny for
+       most active Tier1 CCPs in the EU, and compliance with TC-CCPs’ recognition
+       conditions.
+   •      Negotiation and ongoing monitoring of third-country MoU.
+   •      Opinions on NCA decisions, reports and measures and on CCP compliance with
+       EMIR requirements on a range of topics, including on authorisation, extension of
+       services, withdrawals, annual reviews, outsourcing and interoperability.
+   • ESMA Validations of changes to risk models.
+   • Management and chairmanship of the JMM.
+   • Co-chairing of the EU CCP supervisory colleges.
+   • Participation to EU CCP resolution colleges.
+   •      Guidance on EMIR and CCP RRR addressed to CCPs and national supervisors
+       and resolution authorities of CCPs.
+   • Work on recovery and resolution planning (including review of plans,
+       operationalisation of resolution tools, resolvability assessment).
+   •       Risk dashboards and horizontal assessment of CCP supervisory data and
+       maintenance of the CCP central database.
+                                                                                Due date
+                              Specific outputs
+                                                                                 2026
+                                         th
+  Report setting the framework of the 6 CCP stress test and launching the
+exercise.
+   Annual report to the European Parliament, the Council and the                  Q2
+Commission on the results of the activities of the Joint Monitoring
+Mechanism (JMM).
+
+
+
+
+                                                                                           32
+  CCCP fire drill to enhance crisis preparedness.
+     Annual Reviews of Tier 2 CCPs.
+     Assessment report under EMIR Article 25(2c).
+     Annual Data Report of Tier 1 CCPs and regulatory and supervisory
+  developments in equivalent third country.
+      EMIR 3 Reports (regular or ad-hoc) on Anti-Procyclicality, account
+  segregation, CCP definition extension, and central bank access.
+  § EMIR 3 implementation:
+     § RTSs on collateral requirements, haircuts APC, and acceptance of
+     bank guarantees, on admission criteria, and on CCP risk management              Q4
+     requirements for interoperability arrangements.
+     § ITS on the electronic format of the application for (extension of)
+     authorisation or model validation in the central database.
+        GLs on interoperability assessments, public entity exposure and
+     contribution calculations.
+         Revised GLs on CCP supervisory colleges, and the supervisory
+     review and evaluation process.
+    3 Resolution briefings on operationalisation of write down, conversion of
+ instruments tool, and resolution scenarios.
+
+2.2.11 Central Securities Depositories
+
+ Objectives
+
+ Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2);
+    -   retail investor protection (section 2.1.3) and
+    -   effective use of data and technological innovation (section 2.1.5).
+ as it relates to CSDR.
+ Overview and results
+ In parallel to the CSDR Refit policy work and its implementation, ESMA will continue to
+ contribute to the work on the shortening of the settlement cycle to T+1. This work follows
+ the ESMA report developed under CSDR Refit in 2024 and the Commission’s legislative
+ proposal from 2025. A dedicated governance involving the public sector and market
+ participants was put in place in cooperation with the EC and the ECB to prepare a shift by
+ October 2027.
+ More specifically, in 2026, ESMA expects to continue the CSDR Refit policy work and
+ provide new guidance as required. It will also continue contributing to technical discussions
+ on the transition to T+1 through its participation in the governance. This should help
+ monitoring the definition and implementation by stakeholders of solutions aiming at
+ operating in a T+1 environment. ESMA will also update the CSDR Guidelines on
+ standardised procedures and messaging protocols.
+ In addition, when becoming effective under CSDR Refit, ESMA will participate in CSD
+ colleges of supervisors in cases where a CSD’s activities in at least two other Member
+
+                                                                                             33
+States are considered to be of substantial importance to the functioning of the securities
+markets and investor protection.
+ESMA will continue to foster convergence in the supervision of CSDR requirements across
+the EU through regular exchanges among competent authorities, including sharing of
+practices and experiences on specific supervisory issues and by issuing guidance. ESMA
+may also publish reports on specific topics related to the application of CSDR.
+Together with the NCAs, ESMA will continue monitoring CSDs’ settlement efficiency and
+settlement internalised at the level of custodians. ESMA will also conduct the annual
+calculation of the indicators for determining the most relevant currencies in which settlement
+takes place, and the substantial importance of CSDs for host Member States.
+ESMA has responsibilities regarding the recognition of third-country CSDs providing notary
+or central maintenance services in relation to financial instruments constituted under the
+law of a Member State or establishing a branch in a Member State, if any. Following the
+entry into application of CSDR Refit and the related Level 2, ESMA should receive
+notifications from the third-country CSDs that provide or intend to provide core services in
+the EU.
+                                       Main outputs
+
+                                      Ongoing Activities
+    •       Technical standards and guidance on CSDR, following the CSDR Review.
+    • Contribution to the work on the T+1 shift, including by updating the CSDR Guidelines
+        on standardised procedures and messaging protocols.
+    •      Participation in colleges of supervisors for CSDs once established.
+    •      / International work in respect of third-country CSDs, managing notifications
+        from third-country CSDs, possible recognition decisions and monitoring of
+        compliance with recognition conditions, if any.
+                                                                               Due date
+                                Specific outputs
+                                                                                 2026
+      CSDR Guidelines on standardised procedures and messaging
+ protocols.
+                                                                                  Q3
+    CSDR Report on the handling of TC-CSDs’ notifications to ESMA on the
+ settlement services they provide in the EU.
+   RTS on deferred net settlement.
+                                                                                     Q4
+   CSDR Report on internalised settlement and CSD settlement.
+
+
+2.2.12 Trading
+
+Objectives
+
+Contribute to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2); and
+    -   effective use of data and technological innovation (section 2.1.5).
+in the area of EMIR, MiFID II and MiFIR.
+
+                                                                                             34
+Monitoring market developments related to secondary markets, including commodity
+derivative markets and in relation to post-trading to further support orderly markets.
+
+Overview and results
+MiFID II/MiFIR
+ESMA will continue monitoring developments in secondary markets, including commodity
+derivative markets, and assesses the need for potential policy recommendations. In
+particular, ESMA will monitor the implementation of the MiFID/MiFIR requirements as
+amended by the 2024 MiFIR/MiFID review. ESMA will notably focus on the implementation
+of the revised transparency regime for non-equity instruments, the requirement to provide
+market data on a reasonable commercial basis, and the application of the single volume
+cap, accompanied by close monitoring of broader trends on market structure and liquidity
+fragmentation.
+ESMA stands ready to provide the Commission and co-legislators with technical advice and
+expertise in the development and negotiation of legislative proposals in the context of SIU,
+notably on market structure, and in the context of the Affordable Energy Action Plan as
+regards energy derivative markets.
+ESMA will continue to foster convergence in the supervision of MiFID II/MiFIR requirements
+across the EU through regular exchanges among competent authorities, including sharing
+of practices and experiences on specific supervisory issues, such as the implementation of
+the opinion on the trading venue perimeter, and by issuing guidance where needed. To
+promote transparency, ESMA will issue opinions on pre-trade waivers and on position limits
+established within the EU for agricultural and significant commodity derivatives and will
+monitor the application of waivers and deferrals.
+In 2026 ESMA will launch the selection procedure for the CTP for over the counter (OTC)
+derivatives, and the bond CTP as well as the equity CTP are expected to start operating. As
+set out in revised MiFIR, ESMA will work on a report to the Commission, in close
+collaboration with the market data expert stakeholder group, on the impact of the equity CTP
+on the functioning, attractiveness and international competitiveness of the Union and on the
+appropriateness of adding features to the equity CTP.
+EMIR
+ESMA promotes compliance with the EMIR requirements in relation to clearing and risk
+mitigation requirements for OTC derivatives through active monitoring and through
+supervisory case discussions among national supervisors, as well as by providing guidance
+to competent authorities and market participants where relevant.
+ESMA monitors and adapts the single rulebook and ensures supervisory convergence in
+relation to the clearing obligation and risk mitigation techniques for OTC derivatives.
+In 2026, ESMA expects to continue policy and supervisory convergence work related to
+EMIR 3, including a review or drafting of certain technical standards and the development
+of reports.
+                                      Main outputs
+
+
+                                                                                           35
+                                      Ongoing Activities
+   •        Guidance and        other tools to promote supervisory convergence regarding
+        MiFIR, MiFID II, and EMIR (including on the clearing obligation, the clearing
+        threshold and the risk mitigation technique requirements).
+   •       Monitoring the ongoing compliance by counterparties with the EMIR clearing and
+        MiFIR trading obligations, as well as of the appropriateness of the clearing
+        thresholds.
+   •        International work including monitoring and reporting in the area of equivalence.
+   •        Assessment of third-country venue arrangements in respect of transparency and
+        position limits.
+   •       Opinions on position limits and pre-trade transparency waivers.
+                                                                                  Due date
+                               Specific outputs
+                                                                                     2026
+§ EMIR 3 technical standards on the clearing thresholds.                              Q1
+§ EMIR 3 technical standards on post trade risk reduction services.                   Q2
+   CTP selection procedure for derivatives.                                           Q3
+   List of data contributors to the equity CTP.                                   Q1 and Q3
+   Annual Report on the supervisory measures and penalties imposed by
+NCAs regarding counterparties’ compliance with EMIR.
+   ESMA report on the monitoring of the activity of NFCs.                             Q4
+   Annual waiver and deferral report.
+
+
+2.2.13 Crypto-assets and Distributed Ledger Technology
+
+Objectives
+
+Contribute to the objectives of
+   -   effective markets and financial stability (section 2.1.1);
+   -   effective supervision (section 2.1.2);
+   -   retail investor protection (section 2.1.3) and
+   -   effective use of data and technological innovation (section 2.1.5)
+as it relates to MiCA and the DLT Pilot Regulation.
+Research and analyse the impact of digital innovation in financial markets including as
+regards crypto-assets, DLT and AI.
+Overview and results
+
+The effective implementation of MiCA will remain key for ensuring investor protection and
+the orderly functioning of crypto-asset markets. ESMA’s supervisory convergence efforts will
+remain focused notably on the authorisation and supervision of CASPs. ESMA in
+cooperation with the relevant EU authorities, will continue supporting (i) the convergence in
+the application of the new supervisory practices through the publication of level 3 guidance,
+(ii) the sharing of information amongst NCAs including on concrete supervisory cases and
+specific CASPs, and (iii) the issuance of opinions on crypto-asset classification. Regarding
+
+
+                                                                                                36
+the monitoring of potential market abuse cases under MiCA, ESMA and NCAs will continue
+to identify synergies and use a collective market surveillance solution (see section 2.1.5).
+
+ESMA will also continue to monitor the developments of AI and its applications in the areas
+under ESMA’s remit. Building on our monitoring mandate, ESMA will aggregate data on AI
+use cases and risks, collected in periodic market surveys conducted by competent
+authorities. Using this data, ESMA will aim to identify the use cases posing the most
+immediate risks to investors and market integrity that would benefit from regulatory clarity
+and convergence. These use cases will be discussed with NCAs with a view to reach
+agreement on how the AI systems deployed by supervised entities should be treated under
+existing sectoral regulation. In addition, ESMA will further explore the use of AI as a SupTech
+tool (see section 2.1.5) to improve the efficiency and effectiveness of the supervision
+activities. This may also serve as a basis for further exchanges between ESMA and the
+NCAs on the tools they may adopt to supervise the use of AI by supervised firms. On the
+policy side, ESMA, in close cooperation with the EC and other ESAs, will continue to support
+the implementation of the AI Act in the financial sector through its participation in the relevant
+AI Board subgroups.
+
+In the context of the DLT Pilot Regulation, ESMA will continue, where relevant, to provide
+non-binding opinions and monitor the application of exemptions, permissions, and related
+conditions. In parallel, ESMA will begin assessing more actively the broader impact of
+tokenisation on EU financial markets, including implications for market structure, regulatory
+frameworks and the entities it supervises. These reflections will inform ESMA’s future policy
+work and may contribute to the upcoming review of the DLT Pilot Regulation.
+
+In 2026, depending on the number of authorised Distributed Ledger Technology (DLT)
+market infrastructures, ESMA may develop guidelines to promote the consistency and
+proportionality of the exemptions granted to operators of DLT market infrastructures across
+the Union. If a legislative proposal amending the DLT Pilot Regulation were to emerge in
+response to ESMA’s 2025 review report, we would stand ready to provide further input where
+needed.
+
+                                         Main outputs
+
+                                   Ongoing Activities
+   •      Guidance and      other tools promoting supervisory convergence under MiCA.
+   •       Opinions and       other tools promoting supervisory convergence on the
+       authorisation of DLT Market Infrastructures.
+   •      Incorporation of specific AI / ML techniques to monitoring and analytical
+       processes of National Competent Authorities and ESMA (Suptech).
+   •      Monitoring, evaluation, and integration of relevant emerging technological
+       solutions that can enhance operational efficiency of financial entities (e.g.,
+       generative AI, Regtech).
+   •     Monitor the impact of tokenisation on EU financial markets and contribute to the
+       upcoming review of the DLT Pilot Regulation.
+   •      Annual SupTech projects assessment and implementation cycle.
+
+
+                                                                                                 37
+    •       Monitoring and assessment of innovation (including AI) through      TRV
+        reporting, Risk Analysis articles and specific research.
+    •      Digital Finance Academy.
+    •       Contribution to ESRB as well as to FSB and IOSCO workstreams on digital
+        finance and innovation.
+                                                                           Due date
+                               Specific outputs
+                                                                            2026
+   Phase 2 of EU level integrated monitoring solution under MiCA.
+    Opinions on authorisation of DLT Market Infrastructures.
+    Opinions on classification of CAs as financial instruments under MiCA.   Q4
+    Guidelines on the exemptions granted to operators of DLT market
+infrastructures.
+
+2.2.14 Digital Operational Resilience Act (DORA)
+
+Objectives
+
+ Contributes to the objectives of
+    -   effective markets and financial stability (section 2.1.1);
+    -   effective supervision (section 2.1.2);
+    -   effective use of data and technological innovation (section 2.1.5)
+as it relates to DORA.
+Effective oversight of the CTPPs by the ESAs (also included in the JC work programme).
+Adapt to digitalisation in financial markets by developing and strengthening the single
+rulebook and promoting supervisory convergence.
+Consistent implementation of Infosec (information security) and cyber requirements by
+financial entities in the context of DORA.
+Overview and results
+
+In 2026, most of the work related to the Digital Operational Resilience Act — including the
+oversight of CTPPs, ICT major incident reporting, the EU-SCICF, and supervisory
+convergence under DORA — will be carried out by the three ESAs jointly. These activities
+are also reflected in the Joint Committee Work Programme.
+Oversight of CTPPs
+The ESAs will carry out oversight of CTPPs with the objective of the assessment of whether
+CTPPs have in place comprehensive, sound and effective governance, procedures and
+arrangements to manage ICT risks, which may be posed to the EU financial entities. The
+oversight activities will cover designation of CTPPs, followed by risk assessment and
+oversight planning, and other specific activities over CTPPs, such as information gathering,
+on-site inspections and off-site investigations, issuance of recommendations and follow-up
+activities.
+ICT major incident reporting and EU-SCICF
+
+
+                                                                                           38
+In 2026, ESMA, in coordination with the EBA and EIOPA, will have to deliver for the first
+time a report on major ICT related incidents based on the 2025 experience.
+Furthermore, considering the conclusion of the feasibility study on further centralisation of
+the cyber-incident reporting delivered by the ESAs in January 2025, ESMA, in cooperation
+with the EBA and EIOPA, and pending decisions from the European Commission, may be
+working towards further enhancing the incident reporting solution in place and possibly also
+including onboarding additional stakeholders in the ESAs incident reporting tool.
+Finally, the pan-European systemic cyber incident coordination framework (EU-SCICF) will
+be in operation while the actions agreed in the related reports to be delivered by the ESAs
+in 2024 and 2025 may still be under gradual implementation.
+Supervisory convergence for DORA
+2026 will be the second year of application of DORA.
+The cross-sectoral application of DORA implies specific supervisory convergence efforts.
+ESMA, in coordination with the EBA and EIOPA, will keep developing common
+understanding and facilitate constructive exchanges among supervisors of the ICT risks,
+including ICT third-party risks, in particular based on the Q&As on DORA.
+ESMA has already put ICT risks as a new Union Strategic Supervisory Priority (USSP) and
+will continue to promote convergence for the supervision of DORA through its USSPs.
+
+
+                                       Main outputs
+
+                                     Ongoing Activities
+   •     Oversight of critical third-party ICT service providers.
+   •      Guidance and        other tools promoting supervisory convergence under DORA.
+   •   Operation and maintenance of EU-SCICF.
+   •   Disseminating reported major ICT-related incidents under DORA and implementing
+       analytical capabilities to enable the preparation of the report.
+   •     Issuance of mandatory reports (e.g. on major ICT related incidents).
+
+
+
+
+                                                                                            39
+2.3 ESMA as an organisation
+This part includes the horizontal activities supporting the whole organisation and enabling
+ESMA to fulfil its mission. It notably refers to work to be conducted in the areas of stakeholder
+relations, communication, governance, strategic planning and reporting, legal and compliance,
+and risk management, assurance and accountability.
+
+2.3.1 Governance and External Affairs
+
+ Objectives
+
+ Ensure robust functioning of ESMA’s governance bodies and strong internal governance.
+ Steer strategic direction for the Authority and provide annual and multi-annual planning and
+ reporting.
+ Ensure effective external and internal communication and engagement with stakeholders.
+ Manage ESMA’s communications channels, ensuring awareness of the Authority and its
+ work, as well as easy access to public information.
+ Ensure robust and trusted inter-institutional relationships, primarily with the EU Institutions
+ and contribute to ESMA’s accountability and transparency.
+ Manage ESMA’s ongoing relations with its members, including competent authorities in the
+ European Free Trade Association (EFTA) States.
+ Maintain strong relations and cooperation with international regulatory bodies (IOSCO,
+ FSB) and non-EU securities regulators and contribute to international standard-setting.
+
+ Overview and results
+
+ ESMA ensures strong support to its governance bodies, including the Board of Supervisors,
+ the Management Board, the JC and the Securities and Markets Stakeholders Group
+ (SMSG).
+ In line with its obligations under its founding regulation and financial regulation, in 2026
+ ESMA will produce a programming document for the 2027 to 2029 period, including a
+ detailed annual work programme for 2027. It will also continue to report to the Management
+ Board and the public on the execution of the work programme notably via regular
+ management reporting, including through KPIs, and via its annual report.
+ ESMA has, as required under the founding regulation, in place a committee which, among
+ other tasks, addresses aspects of proportionality as regards ESMA’s regulatory output. This
+ committee also coordinates ESMA’s work on reducing regulatory and supervisory burden
+ and complexity across ESMA’s remit. In 2026, the committee will monitor the implementation
+ of an internal set of principles for ensuring that new guidance and regulatory texts meet
+ standards for simplicity and consistency.
+
+
+
+
+                                                                                               40
+ESMA actively contributes to the work and deliverables of the Joint Committee of the ESAs,
+particularly on cross-sectoral issues such as sustainable finance, digital operational
+resilience, and consumer protection. This collaboration ensures consistency and
+coordination across the banking, insurance, and securities sectors. Further details are
+available in the Joint Committee annual work programme (JC AWP).
+ESMA plans to engage with its stakeholders through formal channels like the SMSG and
+consultative WGs, as well as targeted outreach including bilateral/multilateral meetings,
+open hearings and webinars, roundtable workshops, and speaking appearances at various
+events and conferences. In parallel, ESMA will continue to manage its day-to-day relations
+with its members, including the competent authorities of the European Free Trade
+Association (EFTA) States.
+ESMA presents governance and work streams on a public website, using infographics,
+videos and images to ensure information from ESMA is seen beyond a specialist audience
+and with a view to contribute to financial education. ESMA will also aim to make all its
+documents easily accessible to the public via a website respecting best practices as to
+accessibility, user tracking and security.
+As a public body committed to transparency, ESMA will continue to engage with the media,
+through interviews and briefings, to provide information and context regarding its
+publications and working practices.
+ESMA will also cooperate closely with NCAs to translate and disseminate publications on a
+national level, through publications on NCA websites, interviews in national media and
+through social media campaigns. Specific campaigns particularly will focus on topics related
+to investor protection and targeting retail investors, in order to provide them with information
+in their language and more suited to their national context.
+ESMA will develop and will regularly review its internal policies and procedures in
+accordance with the organisational best practices and undertakes an annual risk
+assessment and assessment of the ESMA’s control framework.
+ESMA will provide advice to the EC and to the co-legislators and will maintain ongoing
+engagement with them through various groups and committees, including through regular
+participation in European Parliament hearings, scrutiny procedures, and budgetary
+discharge process. In particular, ESMA will contribute technical input to the European
+Parliament and the Council on the various legislative initiatives foreseen under the European
+Commission’s Savings and Investments Union strategy.
+In 2026, ESMA will continue to develop its cooperation with the Anti-Money Laundering
+Authority (AMLA), following the preparatory work initiated in 2025. As AMLA’s operational
+setup advances, ESMA will engage in relevant coordination activities to support the
+establishment of effective supervisory and regulatory frameworks, in line with the new AMLA
+Regulation. ESMA will also participate in AMLA’s Board, contributing to strategic discussions
+and coordination at EU level.
+Finally, ESMA will maintain strong relations and cooperation with international regulatory
+bodies (IOSCO, FSB) and non-EU securities regulators. ESMA contributes to international
+standard-setting. ESMA will also engage with these authorities as part of its ongoing
+
+                                                                                               41
+    equivalence monitoring activity and overall monitoring of regulatory and supervisory
+    developments in third countries and prepares a confidential Equivalence Monitoring Report
+    for the EU Institutions.
+                                          Main outputs
+
+                                        Ongoing Activities
+       •  Support ESMA’s governing bodies.
+       •      Contribution to EU Institutions and international work.
+       •     Cooperation with third-country regulators, MoUs and ad-hoc technical advice on
+          international cooperation issues.
+       • Publication of ESMA deliverables on ESMA’s website and social media channels.
+       • Promotion and information about ESMA and its products through speaking
+          engagements, media and webinars.
+       • Proportionality recommendations.
+                                                                                Due date
+                                Specific outputs
+                                                                                   2026
+       2027-2029 Programming Document.                                              Q1
+       2025 Annual Report.                                                             Q2
+       2027 Annual Work Programme.
+•      2027 JC Annual Work Programme.                                                  Q3
+
+
+    2.3.2 Legal and Compliance
+
+    Objectives
+
+    Identify and advise on minimising the legal risks of ESMA’s actions and defend the Authority
+    in case of legal challenge. Represent ESMA when expert views are required in preliminary
+    rulings.
+    Advise staff and governing bodies on issues arising in ESMA’s expert areas and central
+    functions.
+    Enhance the legal drafting and soundness of legal acts adopted by ESMA, notably through
+    the sign-off process of draft technical standards, the legal review of Guidelines and of
+    binding and challengeable acts.
+    Strengthen legal soundness, consistency and effectiveness in supervisory outcomes.
+    Contribute to successful settlement of disagreements between NCAs.
+    Foster ESMA’s transparency and accountability through the timely handling of requests for
+    access to documents.
+    Promote a strong compliance and integrity culture at ESMA on Ethics and conflict of interest
+    policies, professional secrecy, and data protection rules as well as good administration
+    principles and complaint-handling.
+    Overview and results
+
+
+                                                                                               42
+ESMA carries out a systematic legal review of all key documents to ensure the legal quality
+and soundness of its contributions to the Single Rulebook and to supervisory convergence,
+as well as its supervisory and oversight decisions. These reviews help safeguard the legality
+of ESMA’s decisions and activities and underpin its successful representation before the EU
+Ombudsman, the Board of Appeal and the Court of Justice of the EU, where necessary.
+ESMA will undertake a wide range of activities to ensure compliance of ESMA as an
+organisation with all relevant regulations. These covers protecting personal data and
+confidential information from undue processing or disclosure, and handling requests for
+access to ESMA documents or data.
+ESMA places accountability, transparency, and the highest standards of ethics at the centre
+of its approach to corporate governance. This implies processing and assessing annual
+declarations of interests or related requests both from ESMA staff and the members of its
+governing bodies.
+ESMA remains committed to handling complaints efficiently and initiating investigations into
+breaches of Union law, when necessary, with a strong emphasis on safeguarding those who
+report such breaches. To effectively detect and prevent violations, it is crucial that
+complainants can easily and securely share their information with ESMA.
+Finally, ESMA will also handle effectively correspondence received from victims of
+fraudsters which have used ESMA name and logo to promote scams and will increase
+awareness about these kinds of frauds through its website, and regular social media
+campaigns, in coordination with NCAs and the IOSCO secretariat.
+
+                                       Main outputs
+
+                                    Ongoing Activities
+   •   Legal advice on policy matters, institutional issues and supervisory measures and
+       actions. This includes advising on the establishment of new supervisory mandates
+       for EU Green Bond external reviewers, ESG rating providers and consolidated tape
+       providers for equities and bonds, and on data sharing requests.
+   •   Legal review of acts of general application such as technical standards and
+       guidelines, of individual binding decisions and of tools pursuing convergence such
+       as Opinions and Recommendations.
+   •   Submissions and representation of ESMA in litigation cases and representation of
+       ESMA in preliminary rulings.
+   •   Awareness raising and advice on ethics & integrity, data privacy and good
+       administration principles.
+   •   Handling requests for access to documents.
+   •   Handling breach of Union law complaints and correspondence related to frauds.
+   •   Legal advice on internal processes for adopting ESMA decisions, including via
+       delegation.
+   •   Settle NCA disputes through mediation.
+   •      Maintenance of ESMA’s personal data records register.
+                                                                                Due date
+                              Specific outputs
+                                                                                 2026
+
+
+
+                                                                                            43
+   Annual Declarations of interest of staff and non-staff.                         Q1
+
+   Revised Code of Good Administrative Behaviour.                                  Q4
+
+
+2.3.3 Human Resources
+
+Objectives
+
+In line with the People Strategy 2024-2028, the Diversity, Equity and Inclusion Strategy
+2024-2027 and of the Competency Framework, ESMA HR will support the organisation and
+implement relevant actions and initiatives in order to:
+   - Attract diverse capable candidates.
+   - Promote motivation and flexible talent management.
+   - Foster management and leadership excellence.
+   - Promote and enhance a diverse, inclusive, and flexible work environment.
+   - Continuously improve towards effective and efficient HR management.
+Overview and results
+
+The Human Resources function will continue to support ESMA in achieving its overall
+strategic objectives by providing the organisation with sound, efficient and effective human
+resource management. Therefore, the Human Resources will aim to fuel ESMA’s overall
+success by reinforcing a culture of engagement, fostering talents, and aligning its purpose
+with the organisation’s broader mission.
+To deliver on ESMA’s new mandates, recruitment and onboarding will constitute a critical
+activity in 2026. ESMA will continue its outreach effort to attract (and source from) under-
+represented groups/areas; in parallel, ESMA will develop in the area of competency-based
+recruitment and resource planning to ensure that the organisation is equipped with the right
+skills and expertise.
+The Human Resources function will also continue to support staff in their development
+needs, notably by further promoting internal mobility, secondments and exchange
+programmes with EU Institutions, elevating feedback mechanisms, and offering a wide
+range of training and learning opportunities, both onsite and through agile and customisable
+online solutions. Building on recent successes, ESMA will further expand the use of bite-
+sized learning, broadening the range of topics delivered through innovative, short and
+focused formats. This approach supports ESMA’s people strategy by enabling flexible talent
+development and encouraging continuous learning in the flow of work. Continuous efforts
+are made, in cooperation with Management, to design and deliver a learning offer that not
+only supports individual growth but also ensures that staff are equipped with the skills and
+knowledge needed to meet ESMA’s evolving responsibilities and strategic objectives. This
+is achieved through both individual and group development initiatives. ESMA will implement
+adequate initiatives for the staff’s health and well-being.
+
+
+
+                                                                                           44
+Tangible results are also expected in the areas of diversity and inclusion planned over the
+next few years, through a variety of initiatives aimed at fostering a culture where diversity is
+regarded as a source of enrichment, innovation and creativity, and where inclusion is
+promoted by managers and all staff.
+Lastly, the organisation will continue to benefit from the digitalisation of its internal HR
+procedures, notably the implementation of new SYSPER modules, the EC’s HRMS (human
+resources management system) tool progressively deployed at ESMA since 2022.
+
+                                        Main outputs
+
+                                   Ongoing Activities
+   •   Implementation of the “People Strategy 2024-2028”.
+   •   Implementation of the “Diversity, Equity and Inclusion Strategy 2024-2027”.
+   •   Implementation of the staffing and training plan.
+   •   Implementation of the Competency Framework.
+
+
+2.3.4 Finance and Procurement
+
+Objectives
+
+Continue enhancing the efficiency of ESMA’s financial and procurement processes and
+ensuring their accuracy and regularity in light of the EU Financial Regulation.
+
+Overview and results
+
+Starting in 2026, ESMA will have two additional fee-funding sources with the recently
+adopted supervisory tasks on external reviewers under the European Green Bond
+Framework and on ESG Rating providers. Furthermore, ESMA will fully integrate in its
+revenues the annual oversight fees to be paid by the critical third-party service providers
+designated under the DORA oversight framework. This will come in addition to existing fees
+collected from various entities, including benchmark administrators, DRSPs, CRAs, TRs
+under EMIR and SFTR, SRs, Third Country CCPs, as well as the EU subsidy and NCAs'
+contributions.
+In light of the increasing complexity of the ESMA’s fee-funding system, ESMA is working
+with the EC with the intention to streamline the current model and allow a more flexible and
+efficient allocation of its resources, while ensuring fairness and proportionality and long-term
+sustainability.
+ESMA’s budget planning and cost reporting will continue to benefit and rely on ESMA’s
+Activity-Based Management methodology which is now supported by a well-customised and
+performant cloud-based tool. Furthermore, ESMA has been developing structured and
+comprehensive processes involving all relevant internal stakeholders to ensure a sound,
+efficient and accurate budget monitoring and implementation across the financial year.
+
+
+
+
+                                                                                               45
+In addition, in the area of procurement ESMA will continue to fully benefit from the EC’s
+Public Procurement Management Tool (PPMT).
+ESMA will also migrate the management of its financial circuits to SUMMA, the new EC tool
+replacing ABAC. Preparatory work is expected to start in 2026 and go-live on 1st January
+2027.
+
+                                        Main outputs
+
+                                   Ongoing Activities
+   •   ESMA’s budget planning, monitoring and reporting.
+   •   Revenue collection including fee management.
+   •   Procuring goods and services.
+   •   Financial contract management.
+   •   Payments and reimbursements.
+                                                                                   Due date
+                              Specific outputs
+                                                                                    2026
+  Opening budget for the year N+1.                                                   Q4
+
+
+2.3.5 Corporate Services
+
+Objectives
+
+Provide proactive and effective support by ensuring the smooth running of ESMA’s facilities
+and the acquisition and sound management of goods and services, in accordance with the
+EU public procurement rules and procedures.
+Ensure the health and safety of ESMA staff and visitors.
+Provide support to ESMA’s core business by offering a modern and appropriate working
+place for staff and visitors, organising missions and events, and managing a secure, robust,
+efficient, and collaborative document management system fulfilling the regulatory
+requirements and business needs of an EU authority.
+
+Overview and results
+
+In 2026, in preparation for the expiration of the current lease in 2028, ESMA will work to
+ensure the continued availability of suitable office premises. This will support the
+uninterrupted delivery of its activities, in line with its operational, financial, and statutory
+requirements. This effort represents a strategic project critical to ensuring the long-term
+stability and effectiveness of ESMA’s mission.
+Another area of focus will continue to be the maintenance and regular adaptation of the
+premises to efficiently support ESMA’s activities and provide staff and visitors with a safe,
+healthy, comfortable, productive, cooperative, sustainable and flexible work environment.
+Further areas to reduce costs and optimise space occupancy will also continue to be
+explored during the course of 2026. Corporate Services will continue to support the smooth
+day-to-day running of the organisation and will rely on effective and efficient tools and
+
+                                                                                               46
+resources for the management of missions, organisation of meetings and catering services,
+organisation of events, and handling of visitors. To do so, Corporate Services rely on
+established planning and reporting procedures and a robust document management
+system.
+
+Finally, ESMA Corporate Services will support the organisation’s environmental agenda by
+improving its environmental performance through the EMAS.
+
+                                       Main outputs
+
+                                  Ongoing Activities
+    •   Maintenance of ESMA’s premises.
+    •   Environmental performance monitoring and improvement (EMAS maintenance).
+    •   Implementation of ESMA’s Document Management System.
+    •   Corporate Services support for staff and visitors.
+
+
+2.3.6 Horizontal ICT Services
+
+Objectives
+
+Contribute to ESMA’s operations by leveraging information technologies, by delivering IT
+services and solutions, and advise and collaborate to deliver ESMA’s objectives. Provide
+effective and proactive ICT support to staff and manage ESMA’s ICT resources in a flexible
+and efficient way.
+
+Overview and results
+
+ESMA will ensure the maintenance and life cycle upgrades of IT digital workplace tools,
+unified communications and collaborations tools, and will provide support to internal and
+external users of ESMA’s IT systems.
+
+Furthermore, ESMA will continue to support and maintain the existing cybersecurity posture,
+while reinforcing the cybersecurity and resilience of its IT systems. ESMA will manage the
+cybersecurity environment, which remains challenging due to a constantly expanding threat
+landscape, will continuously enhance its existing detection systems and automate threat
+responses, as well as strengthen the overall process of communication of cyber incidents
+and threats with the NCAs. In 2026, ESMA will run a crisis preparedness drill focused on
+ensuring timeliness and availability of communication channels in case of crisis (e.g. cyber-
+attack) and ensuring that the cyber-attack is not propagated through the supervisory
+community.
+
+ESMA will also run projects to increase organisational flexibility and strengthen core
+administrative processes, such as the HR or Finance and procurement processes, or
+documents and records management.
+
+                                       Main outputs
+
+
+                                                                                            47
+                                  Ongoing Activities
+ • ICT support to ESMA staff and enhancement of digital workplace and collaborative
+      tools that improve the working environment.
+ • ICT take appropriate measures and perform actions to prevent and mitigate
+      potential impact of cybersecurity incidents.
+ • ICT ensures daily tasks are executed with minimal potential disruption.
+                                                                           Due date
+                            Specific outputs
+                                                                            2026
+Crisis preparedness drill.                                                   Q2
+
+
+
+
+                                                                                      48
+3 Peer Review Work Plan 2026-2027
+Peer reviews are an important tool for supervisory convergence to further strengthen
+consistency and effectiveness in supervisory practices and outcomes. ESMA performs two
+types of peer reviews: discretionary peer reviews and mandatory peer reviews. Discretionary
+peer reviews are performed on topics set by ESMA on the basis of its risk-based prioritisation
+for supervisory convergence. Mandatory peer reviews are required by sectoral EU legislation.
+ESMA also follows up on the recommendations made in the context of previous peer reviews
+to consolidate long lasting results.
+
+ESMA develops every two years a Peer Review Work Plan which identifies the topics for peer
+reviews and follow-ups to be launched in the following two years.
+
+In 2025, ESMA set the Peer Review Work Plan for the period 2026-2027. Applying a risk-
+based approach, ESMA may further adjust its plan based on the risks identified, convergence
+priorities and resources available, carrying out peer reviews where most needed. As part of
+this, ESMA may deprioritise certain peer review work or, in case of urgency or unforeseen
+events, when a peer review is considered the appropriate tool, may also decide to carry out a
+fast-track peer review as a flexible alternative to standard peer reviews.
+
+Peer reviews and follow ups expected to be launched in 2026
+
+       •   CCPs peer review on Recovery Plans;
+       •   Follow up on the CCPs peer review on due diligence of clearing members;
+       •   Follow up on the peer review into the NCAs’ handling of relocation to the EU in the
+           context of the UK’s withdrawal from the EU (Brexit).
+
+It is important to note that, in addition, in 2026 ESMA is expected to:
+
+       •   conduct a joint assessment on CAs’ supervisory independence alongside the other
+           ESAs, and
+       •   conclude the follow up on the peer review on the cross-border provision activities
+           of investment firms, expected to be launched in September 2025.
+
+
+Peer reviews and follow ups expected to be launched in 2027
+
+       •   CCPs peer review on operational and cyber resilience;
+       •   Follow up on the CCP peer review on outsourcing and intragroup governance
+           arrangements;
+       •   Follow up on the peer review on the scrutiny and approval procedures of
+           prospectuses by competent authorities;
+       •   Follow up on the fast-track peer review on a CASP authorisation and supervision.
+
+Under the above-mentioned risk-based approach, depending on the supervisory convergence
+needs and resources available, ESMA may identify in the 2027 Annual Work Plan additional
+peer review work in other sectors relevant to financial markets.
+
+                                                                                            49
+Annex I. Human Resources
+On 31 January 2025, ESMA provided a multi-annual Programming Document to the EU
+Institutions. This included a multi-annual work programme with financial and staffing outlook
+for 2027 and 2028, as well as a detailed annual work programme with a budget and staffing
+request for 2026.
+
+The following tables reflect the amended (as of April 2025) ESMA’s 2026 budget request.
+ESMA’s resources for 2026 will become final once the EU budget is decided upon at the end
+of 2025 by the Budget Authority4.
+
+    2026 draft Establishment Plan
+    (temporary posts)
+
+    AD 16               2                                                                                2026
+                                                                      Contract Agents
+                                                                                                         draft
+    AD 15               3       AST 11                                (FTE)
+                                                                                                       estimate
+    AD 14                       AST 10
+                                                                      Function Group IV                  80
+    AD 13               3       AST 9
+                                                                      Function Group III                 22
+    AD 12              11       AST 8
+                                                                      Function Group II
+    AD 11              22       AST 7              3
+                                                                      Function Group I
+    AD 10              36       AST 6              7
+                                                                      Total                              102
+    AD 9               40       AST 5              3
+
+    AD 8               34       AST 4                                                                    2026
+                                                                      Seconded National
+    AD 7               46       AST 3              2                                                     draft
+                                                                      Experts (FTE)
+                                                                                                       estimate
+    AD 6               42       AST 2
+                                                                      Total                               35
+    AD 5               24       AST 1
+
+    AD total          263       AST total         15
+
+    GRAND TOTAL                          278
+
+
+
+
+4
+    The Budget Authority is formed by the Council of the European Union and the European Parliament.
+
+
+                                                                                                                  50
+Annex II. Draft budget
+The following tables replicate ESMA’s 2026 budget request, as approved by the Board of
+Supervisors via written procedure in April 20255. The draft budget is subject to change and will
+not be final until agreed by the Budgetary Authority and by ESMA’s Boards at the end of this
+year6.
+
+
+
+
+               REVENUE                                                                                   EUR
+               Fees                                                                             32,619,410
+               EU contribution                                                                  22,142,109
+               Contribution from NCAs                                                           35,042,635
+               Contribution from EEA/EFTA                                                         1,084,911
+               Contribution from DG REFORM                                                           556,794
+               Contribution for delegated tasks                                                   1,140,112
+               TOTAL REVENUE                                                                    92,585,971
+
+
+
+               EXPENDITURE                                                                            EUR
+               Staff expenditure                                                             63,700,760
+               Infrastructure and administrative expenditure                                   9,495,108
+               Operational expenditure                                                       18,140,103
+               Delegated tasks                                                                 1,250,000
+               TOTAL EXPENDITURE                                                            92,585,9717
+
+
+
+
+5
+  Following the “Budget Circular 2026 Agency Instructions”, the tables below reflect the updated 2026 estimates, which differ
+from those communicated in the Programming Document 2026-2028. Notably, there is an increase of €326,387 (+1.5%) of the
+EU subsidy, as well as a proportional increase of €533,581 (+1.5%) in the NCAs contribution. In line with the full-cost recovery
+principle and the Commission guidance, the total amount of fees collected by ESMA has also been adjusted by €480,828
+(+1.5%). These updates were approved by the Management Board on 11 February 2025 and the Board of Supervisors via
+written procedure 41 in April 2025. All the rest remains unchanged versus the budget presented in the submitted PD 2026-2028.
+6
+  The level of 2026 revenue sources may be adjusted in light of the impact of salary indexation figures to be communicated in
+November and of the latest developments concerning the fee-funded areas. ESMA’s final budget for 2026 will be published on
+ESMA’s website and in the EU Official Journal in the beginning of next year.
+7
+  Due to the rounding, there may be 1€ difference in the totals.
+
+
+                                                                                                                              51
+Annex III. ESMA’s Key Performance Indicators (KPIs)
+ESMA has announced a new set of Key Performance Indicators (KPIs) as part of ESMA’s 2025
+AWP and reported on them in its 2024 annual report, published in June 2025. ESMA continues
+to elaborate and refine the methodology of calculation and data sources to be used for each
+of the new KPIs.
+
+Key Outcome Indicators (KOIs)
+ESMA has developed a new set of key outcome indicators which measure the extent to which
+the priorities and drivers set out in ESMA’s 2023–2028 strategy, are being achieved. A single
+KOI has been selected to measure one important aspect of each of ESMA’s strategic priorities
+and thematic drivers as set out in its 2023-2028 strategy. The indicators were selected among
+those which are reliably measurable and for which quality data is available. A target will be
+established for each of the KOIs once sufficient data to establish a baseline has been
+collected.
+                                   Objective                                                                       Target
+                                                                                                 Baseline
+                            Key outcome indicator                                                                 by 2028
+ 1 Financial stability: Published market monitoring and risk assessments
+ resulting in supervisory, policy or convergence actions during                                     TBD             TBD
+ following 12 months.
+ 2 Effective supervision: mitigating supervisory risks
+ A. Proportion of identified supervisory elevated risks reduced/addressed
+ by ESMA direct supervision < 3 years                                                               TBD             TBD
+ B. Proportion of identified supervisory elevated risks reduced/addressed
+ by convergence activities < 3 years.
+ 3 Retail investor protection: average costs (8) and charges for RI                            Ref 2019-23
+ products
+ A. Active funds                                                                                  1.87 %          < 1.87 %
+ B. Passive funds – non-ETF                                                                       0.75 %          < 0.75 %
+ C. Passive funds – ETF                                                                           0.57 %          < 0.57 %
+ 4 Sustainable finance: greenwashing risks in the funds industry                                 Ref. 2022
+ A. Share of funds with sustainability-related features with inconsistent
+ name relative to regulatory documentation.                                                        0.9 %
+ B. Share of funds with sustainability-related features using vague,                                                TBD
+ unsubstantiated ESG language                                                                      50 %
+ C. Share of funds with an ESG name possibly inconsistent with their
+ portfolio due to the low positive impact of the portfolio on ESG factors or                        TBD
+ to the high negative impact on ESG factors
+ 5 Effective data usage: Number of users on the ESMA data platform.                                 TBD             TBD
+
+
+
+
+(8)Costs are taken from PRIIPs key information document (KID) and exclude fees paid directly from the investor to the
+distributor
+
+
+                                                                                                                            52
+                                                                   Baseline
+            Key performance indicator                                                               Annual target
+                                                               (2019-23 average)
+            Completion rate of the AWP                                91.7 %                             > 85 %
+                                                                                             -15.4% by 2027 and -31.4%
+       Greenhouse gas (GHG) emissions (9)                          457.1 tCO2e
+                                                                                                        by 2030
+                  Staff turnover rate                                 3.8 %                        > 5 % and < 10 %
+   Implementation rate of budget appropriations                        99 %                              > 95 %
+         IT Maintenance budget execution                              98.6 %                             > 95 %
+
+
+
+
+(9) The baseline value stands at 457.1 tCO2e (tonnes of carbon dioxide equivalent) for 2023, after actual emissions (430 tCO2e)
+have been adjusted based on projected FTEs (by 2026) stemming from new mandates. The 2027 and 2030 targets are set in
+gross GHG emission reduction terms, relative to the 2023 baseline value. These targets are consistent with emissions reduction
+targets defined in the ESMA Climate Transition Plan, published in June 2025.
+
+
+                                                                                                                            53
+Annex IV. Overview of ESMA 2026 outputs by output type
+This Annex provides an overview of ESMA’s deliverables by output type including along with
+a brief description of each type.
+
+Rules §
+
+In response to specific legal mandates, ESMA provides draft ITS and RTS. Statutory guidelines
+which are developed in response to a specific legal mandate are included in this category. The
+new and revised technical standards to be delivered in 2026 which are currently known are
+listed in the table below.
+
+                                Technical standards and statutory guidelines to be delivered in
+     Legal Act10
+                                                                2026
+                                  • Technical advice to the Commission and technical standards as
+     Retail investor                resulting from the Retail Investment Strategy (RIS) [if agreed by
+     protection                     the co-legislators].
+
+     Investment                    •    Annual update of guidelines on MMF stress testing (update of
+     management                         the parameters of the stress tests scenarios).
+     Issuer disclosure             •Annual Amendments to the RTS on ESEF, ESEF XBRL
+                                    Taxonomy files.
+                              EMIR 3 implementation:
+                                • RTSs on collateral requirements, haircuts APC, and acceptance
+                                    of bank guarantees, on admission criteria, and on CCP risk
+                                    management requirements for interoperability arrangements.
+                                • ITS on the electronic format of the application for (extension of)
+                                    authorisation or model validation in the central database.
+                                • GLS on interoperability assessments, public entity exposure and
+                                    contribution calculations.
+     Central
+                                • Revised GLs on CCP supervisory colleges, and the supervisory
+     Counterparties                 review and evaluation process.
+                                • Report setting the framework of the 6th CCP stress test and
+                                    launching the exercise.
+                                • Annual report to the European Parliament, the Council and the
+                                    Commission on the results of the activities of the Joint
+                                    Monitoring Mechanism (JMM).
+                                • Annual Reviews of Tier 2 CCPs.
+
+     Central Securities
+                                   •    RTS on deferred net settlement.
+     Depositories
+                              EMIR 3 Implementation:
+     Trading
+                                • RTS on the clearing thresholds.
+
+
+
+10
+  The list of legislative acts might be adjusted to align with the prioritisation of DG FISMA of technical standards and delegated
+acts.
+
+
+                                                                                                                                 54
+                          •       RTS on post trade risk reduction services.
+
+ Annually reviewed        •       Annual amendments to the RTS on ESEF, ESEF XBRL
+ technical                        Taxonomy files reflecting sustainability disclosure
+ standards                        requirements for listed SMEs.
+
+
+In addition to the technical standards listed in the table above, there are several directives and
+regulations currently under review which are likely to result in additional mandates for ESMA
+to revise existing technical standards or develop new ones in 2025.
+
+
+Reports
+
+In response to specific legal mandates, ESMA provides technical advice and analysis to the
+European Commission on the application and potential improvement of the legislation within
+ESMA’s remit. This includes several annual publications as well as ad-hoc reports and
+technical advice on specific issues. The recurrent reports which are delivered every year or
+every other year are listed in the subsequent table.
+
+    Sub-Activity                                   Recurrent Reports
+Effective markets             •    TRV Risk Monitor No.1 and 2, 2026.
+                              •    ESMA market report on carbon markets.
+and financial
+                              •    ESMA market report on Costs and Performance of retail
+stability                          investment products, crowdfunding and prospectus.
+                              •    Annual report on data collection concerning cross-border
+                                   investment services in EU/EEA.
+Investment services
+                              •    Annual publication of market capitalisation ratio for the
+                                   purposes of FASTER Directive.
+                              •    Annual ESMA market report on crowdfunding.
+                              •    Annual Corporate reporting enforcement and regulatory
+                                   activities report.
+                              •    Annual Extracts of financial information enforcement
+Issuer disclosure                  decisions.
+                              •    Annual ESMA market report on EU Prospectuses.
+                              •    Annual Public Statement on European Common Enforcement
+                                   Priorities.
+Market transparency           •    Annual Report on the quality and use of transaction data.
+infrastructure                •    Annual Assessment of the DRSP derogation criteria.
+                              •    Annual Data Report of Tier 1 CCPs and regulatory and
+EU CCPs
+                                   supervisory developments in equivalent third country.
+                              •    CSDR Guidelines on standardised procedures and
+                                   messaging protocols.
+Central Securities
+                              •    CSDR Report on the handling of TC-CSDs’ notifications to
+Depositories                       ESMA on the settlement services they provide in the EU.
+                              •    CSDR Report on internalised settlement and CSD settlement.
+
+
+
+
+                                                                                                55
+                          •   Annual Report on the supervisory measures and penalties
+                              imposed by NCAs regarding counterparties’ compliance with
+Trading
+                              EMIR.
+                          •   ESMA report on the monitoring of the activity of NFCs.
+Market Integrity          •   Annual report on STORs.
+                          •   2027-2029 Programming Document.
+Governance and            •   2025 Annual Report.
+External Affairs          •   2027 Annual Work Programme.
+                          •   2027 JC Annual Work Programme.
+Legal and                 •   Annual Revised Conflict of interest and Ethics policy for non-
+Compliance                    staff.
+                          •   2026 cross-sectoral report on sanctions and administrative
+Effective supervision
+                              measures adopted by NCAs.
+                          •   EMIR 3 Reports (regular or ad-hoc) on quantitative Anti-
+Central                       Procyclicality, account segregation, CCP definition
+Counterparties                extension, and central bank access.
+
+
+The specific reports and technical advice to be delivered in 2026 which are currently known
+are listed in the table below.
+
+    Sub-Activity                 2026 Specific Technical Advice and Reports
+
+                          •   Joint European Supervisory Authorities’ report on the
+ Effective supervision
+                              independence of supervisory authorities.
+
+                          •   Thematic notes on transition finance.
+ Sustainable Finance
+                          •   Thematic notes on sustainability claims.
+
+ Effective use of data    •   Report on a holistic review of transactional reporting under
+                              MiFIR, EMIR and SFTR.
+ and Technological
+                          •   Report on the integrated reporting in the context of
+ innovation                   AIFMD/UCITS review.
+                          •   Report on 2025 CSA on Compliance and Internal Audit
+                              Functions of UCITS Management Companies and AIFMs.
+ Investment               •   Report regarding the development of the integrated collection
+ management                   of supervisory data in the asset management sector.
+                          •   Public project brief for TSI project on tackling greenwashing
+                              risk in the sustainable investment fund market.
+
+ Investment services      •   Report on 2024/2025 CSA on MiFID II sustainability topics.
+
+
+
+
+CSAs
+
+
+
+                                                                                           56
+CSAs are important tools for promoting supervisory convergence. The CSA is the application
+of a common assessment framework on supervisory questions in a priority area among
+national supervisors as well as ongoing exchanges between supervisors on these questions.
+
+    Sub-Activity                                      2025 CSAs
+ Investment services        •   2026 CSA on MiFID II topics related to retail investors.
+
+
+Guidance
+
+ESMA has the power to provide guidance to competent authorities and market participants on
+how to comply with and supervise the rules and regulations within its remit using different legal
+instruments. Depending on the addressee and the nature of the topic, ESMA commonly
+publishes guidance in the form of Q&As; opinions; statements; supervisory briefings; and
+ESMA own-initiative guidelines and recommendations. ESMA constantly reviews, revises,
+adds and repeals guidance across all areas to ensure that ESMA guidance is easy to navigate,
+consistent, complete and up-to-date in light of new developments in regulation, technology,
+risks, business models and investor needs. Guidance is a cornerstone of ESMA’s supervisory
+convergence efforts to achieve effective and consistent high quality supervisory outcomes
+across the EU. The guidance outputs to be delivered in 2026 which are currently known are
+listed in the table below.
+
+    Sub-Activity                         Guidance to be delivered in 2025
+ Investment                 •   Guidelines on suspensions of subscription and redemption
+ management                     and other NCAs’ powers.
+                            •   Update to ESMA Q&As and Guidelines related to the
+ Issuer disclosure              Prospectus Regulation on the basis of the Listing Act.
+                            •   Review of guidelines and other supervisory convergence tools
+                                on MiFID II investor protection topics resulting from the CSA,
+ Investment services            if needed.
+                            •   Follow-up work to the Call for Evidence on retail investor
+                                journey.
+ Central                    •   3 Resolution briefings on operationalisation of write down,
+ Counterparties                 conversion of instruments tool, and resolution scenarios.
+ Crypto-assets and
+ Distributed Ledger         •   Guidelines on the exemptions granted to operators of DLT
+ Technology                     market infrastructures.
+
+                            •   Revision of MAR Guidelines on delayed disclosure of inside
+                                information.
+ Market integrity           •   Supervisory briefing on prevention and detection of market
+                                abuse in crypto asset trading.
+
+ Credit Rating
+                            •   Update to ESMA Guidelines on Disclosure for credit ratings
+ Agencies
+
+
+
+
+                                                                                               57
+Annex V. Acronyms
+Acronyms
+AI         Artificial Intelligence
+AIFs       Alternative Investment Funds
+AMPs       Accepted Market Practices
+APAs       Approved Publication Arrangements
+ARMs       Approved Reporting Mechanisms
+BUL        Breach of Union Law
+CA         Contract Agent
+CCP        Central Counterparty
+CCP SC     CCP Supervisory Committee
+CEAOB      Committee of the European Audit Oversight Bodies
+CRA        Credit Rating Agency
+CSA        Common Supervisory Action
+CSD        Central Securities Depository
+CTPs       Consolidated Tape Providers
+DEP        Digital Europe Programme
+DG         Directorate General
+DLT        Distributed Ledger Technology
+DRSPs      Data Reporting Service Providers
+EBA        European Banking Authority
+EC         European Commission
+ECB        European Central Bank
+EEA        European Economic Area
+EFRAG      European Financial Reporting Advisory Group
+EFTA       European Free Trade Association
+EIOPA      European Insurance and Occupational Pensions Authority
+ELTIF      European Long-term Investment Funds
+EMAS       Eco-Management and Audit Scheme
+ESA        European Supervisory Authority
+ESEF       European Single Electronic Format
+ESFS       European System of Financial Supervision
+ESG        Environmental, Social and Governance
+ESMA       European Securities and Markets Authority
+
+                                                                    58
+ESRB      European Systemic Risk Board
+ESRS      European Sustainability Reporting Standards
+EU        European Union
+EURIBOR   Euro Interbank Offered Rate
+EuSEF     European Social Entrepreneurship Funds
+EuVECA    European Venture Capital Funds
+FSB       Financial Stability Board
+FTE       Full Time Equivalent
+GLESI     Guidelines on Enforcement of Sustainability Information
+IFR       Investment Firms Framework
+IFRS      International Financial Reporting Standards
+IOSCO     International Organization of Securities Commissions
+ISA       International Standards on Auditing
+ISSA      International Sustainability Standards on Auditing
+ISSB      International Sustainability Standards Board
+ITS       Implementing Technical Standards
+JMM       Joint Monitoring Mechanism
+KPIs      Key Performance Indicators
+LFS       Legislative Financial Statement
+MFF       Multiannual Financial Framework
+MMF       Money Market Funds
+MoU       Memorandum of Understanding
+MTI       Market Transparency Infrastructure
+NCA       National Competent Authority
+NGFS      Network for Greening the Financial System
+OTC       Over-the-counter
+Q&As      Questions and answers
+RIS       Retail Investment Strategy
+RTS       Regulatory Technical Standard
+SMSG      Securities and Markets Stakeholder Group
+SNE       Seconded National Expert
+SR        Securitisation Repository
+STORs     Suspicious Transaction and Order Reports
+STS       Simple, transparent and standardised
+TA        Temporary Agent
+
+                                                                    59
+TR                Trade Repository
+TRACE             ESMA’s Trade Repository Data Reporting tool
+TRVs              Trends, risks and vulnerabilities
+UCITS             Undertakings for Collective Investment in Transferrable Securities
+USSPs             Union-wide Strategic Supervisory Priorities
+
+Abbreviations of the legislations
+AIFMD             Alternative Investment Fund Managers Directives
+BMR               Benchmarks Regulation
+CCP RRR           CCP Recovery and Resolution Regulation
+CRAR              Credit Rating Agencies Regulation
+CRD               Capital Requirements Directive
+CRR               Capital Requirements Regulation
+CSDR              Central Securities Depositories Regulation
+CSRD              Corporate sustainability Reporting Directive
+DLTR              Regulation on Distributed Ledger Technology Pilot Regime
+DORA              Digital Operational Resilience Act
+ECSPR             European Crowdfunding Service Providers Regulation
+EMIR              European market infrastructure regulation
+ESAP              European Single Access Point
+EuGB              European Green Bond Regulation
+MAR               Market Abuse Regulation
+MiCA              Markets in Crypto Assets
+MiFID             Markets in Financial Instruments Directive
+MiFIR             Markets in Financial Instruments Regulation
+MMFR              Money Market Funds Regulation
+PRIIPs            Regulations on Packaged Retail and Insurance-based Investment Products
+SECR              Securitisation Regulation
+SFDR              Sustainable Finance Disclosure Regulation
+SFTR              Securities Financing Transactions Regulation
+SSR               Short Selling Regulation
+UCITS             Undertakings for Collective Investment in Transferrable Securities
+
+
+
+
+                                                                                       60
+

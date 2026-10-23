@@ -1,0 +1,46 @@
+SOURCE: Defined ranking system
+REFERENCE: ESMA_QA_2853
+DATE: 2026-05-22
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2853
+FILE: sources/QA_2853.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2853
+
+22/05/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Defined ranking system
+
+ Original question
+
+What practical components should an ESG rating feature to demonstrate the existence of a defined ranking system of rating categories, as required by Article 3 of Regulation (EU) 2024/3005? 
+
+ESMA Answer
+
+22-05-2026
+
+ Original language
+
+ESG ratings, either in the form of opinions, scores or a combination of both, express a rating provider’s value judgement of a rated item and are prepared based on an established methodology and a defined ranking system of rating categories. 
+
+The defined ranking system reflects the rating provider’s value judgement in an ordinal or hierarchical structure and comprises two or more pre-determined rating categories, including the minimum and maximum levels, enabling consistent comparison across rated items. The rating categories can be represented by numbers, letters, colours or other symbols. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Scope (including exemptions)

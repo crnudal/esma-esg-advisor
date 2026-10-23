@@ -1,0 +1,48 @@
+SOURCE: Small ESG rating provider no longer meeting size requirements
+REFERENCE: ESMA_QA_2740
+DATE: 2025-12-18
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2740
+FILE: sources/QA_2740.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2740
+
+18/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Small ESG rating provider no longer meeting temporary regime size requirements
+
+ Original question
+
+If an ESG rating provider established in the Union registered under the temporary regime ceases to meet the criteria in order to be categorised as a small undertaking, can it continue operating until it is authorised pursuant to Article 8?
+
+ESMA Answer
+
+18-12-2025
+
+ Original language
+
+If a small ESG rating provider ceases to meet the criteria for the temporary regime, Article 5(3) of the Regulation applies, i.e. the ESG rating provider becomes subject to all provisions of the Regulation and must apply to ESMA for authorisation under Article 6 within six months. 
+
+The ESG rating provider remains listed in the register referred to in Article 14 and may continue providing services in the EU until its application has been examined by ESMA and a decision to grant authorisation adopted. In this instance, the register is updated to reflect that the ESG rating provider has become authorised in accordance with Article 8 and is no longer registered under the temporary regime for small ESG rating providers.
+
+If it does not apply for authorisation within the six-month period or if ESMA decides to refuse authorisation, the ESG rating provider must immediately cease all activities and will be removed from the register of ESG rating providers. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Temporary regime for small providers

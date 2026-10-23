@@ -1,0 +1,554 @@
+<!doctype html>
+<html lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ESG Rating Regulation (EU 2024/3005) – Self-Assessment Tool</title>
+  <style>
+    :root{
+      /* ESMA presentation palette */
+      --bg:#ffffff;
+      --panel:#ffffff;
+      --ink:#0b1220;
+      --muted:#6B7280;
+      --stroke:#E5E7EB;
+      --accent:#005EB8;
+      --success:#8DC63F;
+      --warn:#FFD966;
+      --danger:#E74C3C;
+      --success-ink:#0f3810;
+      --warn-ink:#6b4e00;
+      --danger-ink:#5a0002;
+    }
+
+    html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif}
+    .wrap{max-width:980px;margin:32px auto 56px;padding:0 20px}
+    h1{font-weight:800;letter-spacing:.2px;margin:6px 0 2px}
+    .subtitle{color:var(--muted);margin:0 0 20px}
+
+    .grid{display:grid;gap:16px}
+    .card{background:var(--panel);border:1px solid var(--stroke);border-radius:14px;padding:18px;box-shadow:0 1px 2px rgba(16,24,40,.06)}
+    .q-head{display:flex;gap:12px;align-items:flex-start}
+    .q-num{background:var(--accent);color:#fff;border:1px solid var(--accent);width:28px;height:28px;border-radius:8px;display:grid;place-items:center;font-weight:700}
+    .q-title{font-weight:700}
+    .help{color:var(--muted);font-size:.94rem;margin-top:6px}
+    .row{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+
+    button{appearance:none;border:1px solid var(--stroke);background:#fff;color:var(--ink);padding:10px 14px;border-radius:10px;font-weight:700;cursor:pointer;transition:.15s ease}
+    button:hover{border-color:#cfd4dc}
+    .choice[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:1px}
+
+    .result{border-radius:12px;padding:14px 16px;border:1px solid var(--stroke);margin-top:8px}
+    .in{background:color-mix(in srgb, var(--success) 16%, #fff);border-color:color-mix(in srgb, var(--success) 60%, var(--stroke));color:var(--success-ink)}
+    .ex{background:var(--warn);color:var(--warn-ink);border-color:#e8c24e}
+    .hidden{display:none}
+
+    .note{font-size:.95rem;color:var(--muted)}
+    .hr{height:1px;background:var(--stroke);margin:14px 0}
+    .badge{font-size:.78rem;background:#eef4ff;color:#003f83;border:1px solid #d6e4ff;padding:3px 8px;border-radius:999px}
+    .section-title{font-weight:800;margin:10px 0 6px;color:#111827}
+  </style>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:f289fbc384b1484ea5f6ff6b522b513c msdt:dt="string">Note|b9e1c92e-303a-4555-86f0-5c711c65937e</mso:f289fbc384b1484ea5f6ff6b522b513c>
+<mso:dd0664d3f47447a8943f346211d0253e msdt:dt="string">Restricted|187aa7e6-627f-4951-b138-6ff841dc883d</mso:dd0664d3f47447a8943f346211d0253e>
+<mso:TaxCatchAll msdt:dt="string">6;#Restricted|187aa7e6-627f-4951-b138-6ff841dc883d;#394;#ESG Ratings|82dfcc83-0ad0-4ecf-9f6c-25c68e7d8011;#9;#Credit Ratings Agency Unit|ac587c9e-f6a3-4205-8197-96cf16201777;#5;#Note|b9e1c92e-303a-4555-86f0-5c711c65937e</mso:TaxCatchAll>
+<mso:Year msdt:dt="string">2025</mso:Year>
+<mso:ab8b5864a6dc4f2ea5aeb44d6d375f74 msdt:dt="string">ESG Ratings|82dfcc83-0ad0-4ecf-9f6c-25c68e7d8011</mso:ab8b5864a6dc4f2ea5aeb44d6d375f74>
+<mso:DocumentType msdt:dt="string">5;#Note|b9e1c92e-303a-4555-86f0-5c711c65937e</mso:DocumentType>
+<mso:i3322e601ac8421cbd1b686355963f37 msdt:dt="string">Credit Ratings Agency Unit|ac587c9e-f6a3-4205-8197-96cf16201777</mso:i3322e601ac8421cbd1b686355963f37>
+<mso:k47b2c662a4d451c94b6991b27ccdf61 msdt:dt="string"></mso:k47b2c662a4d451c94b6991b27ccdf61>
+<mso:EsmaAudience msdt:dt="string"></mso:EsmaAudience>
+<mso:TeamName msdt:dt="string">9;#Credit Ratings Agency Unit|ac587c9e-f6a3-4205-8197-96cf16201777</mso:TeamName>
+<mso:Topic msdt:dt="string">394;#ESG Ratings|82dfcc83-0ad0-4ecf-9f6c-25c68e7d8011</mso:Topic>
+<mso:ConfidentialityLevel msdt:dt="string">6;#Restricted|187aa7e6-627f-4951-b138-6ff841dc883d</mso:ConfidentialityLevel>
+<mso:SubTopic msdt:dt="string"></mso:SubTopic>
+<mso:hb56520e44e642c88c7a09896d1bc2ee msdt:dt="string"></mso:hb56520e44e642c88c7a09896d1bc2ee>
+<mso:_dlc_DocId msdt:dt="string">ESMA84-1427279869-1348</mso:_dlc_DocId>
+<mso:_dlc_DocIdItemGuid msdt:dt="string">5c435740-33d4-4df6-8dd7-7010ff20602e</mso:_dlc_DocIdItemGuid>
+<mso:_dlc_DocIdUrl msdt:dt="string">https://securitiesandmarketsauth.sharepoint.com/sites/sherpa-craunit/_layouts/15/DocIdRedir.aspx?ID=ESMA84-1427279869-1348, ESMA84-1427279869-1348</mso:_dlc_DocIdUrl>
+<mso:_docset_NoMedatataSyncRequired msdt:dt="string">0</mso:_docset_NoMedatataSyncRequired>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+  <div class="wrap">
+    <h1>Self-Assessment Tool - ESG Rating Regulation (EU 2024/3005)</h1>
+    <p class="subtitle">For any query contact sup-info@esma.europa.eu <span class="badge">Check if your entity is in scope</span></p>
+
+    <div class="section-title">The tool will guide you in understanding whether your entity may fall within the scope of the ESG Rating Providers Regulation.</div>
+
+    <p class="note">
+      An <strong>ESG rating</strong> means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors.
+      It is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as “ESG rating”, “ESG opinion” or “ESG score”.
+      If you think your entity issues such a product or service, please proceed through the decision tree below to understand whether you are in scope as an ESG rating provider.
+    </p>
+
+    <!-- Q1 -->
+    <div id="block-professional" class="card">
+      <div class="q-head">
+        <div class="q-num">1</div>
+        <div>
+          <div class="q-title">Is it issued <em>on a professional basis</em>?</div>
+          <div class="help">Issued on a professional basis where the entity’s activities include issuing and publishing or distributing ESG ratings as a professional or commercial service.</div>
+          <div class="row">
+            <button class="choice" data-key="q2" data-val="yes">Yes</button>
+            <button class="choice" data-key="q2" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q2 -->
+    <div id="block-operating" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">2</div>
+        <div>
+          <div class="q-title">Are you <em>operating in the Union</em>?</div>
+          <div class="help">Select whether your entity is established in the EU or outside the EU.</div>
+          <div class="row">
+            <button class="choice" data-key="q3" data-val="eu">Established in the EU</button>
+            <button class="choice" data-key="q3" data-val="tc">Established outside the EU</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q2.1 (EU) -->
+    <div id="block-eu-details" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">2.1</div>
+        <div>
+          <div class="q-title">Do you issue and publish ESG ratings on your website or through other means?</div>
+          <div class="help"></div>
+          <div class="row">
+            <button class="choice" data-key="q3a" data-val="yes">Yes</button>
+            <button class="choice" data-key="q3a" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q2.2 (EU fallback) -->
+    <div id="block-eu-distribute" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">2.2</div>
+        <div>
+          <div class="q-title">Do you issue or distribute ESG ratings to EU regulated financial undertakings/undertakings under Directive 2013/34 or 2004/109 / Union or Member State authorities?</div>
+          <div class="help">This includes distributing ESG ratings (for example by contract or subscription) to EU regulated financial undertakings, entities under EU accounting or transparency directives, or Union or Member State authorities.</div>
+          <div class="row">
+            <button class="choice" data-key="q3a2" data-val="yes">Yes</button>
+            <button class="choice" data-key="q3a2" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q3 (third-country: own initiative) -->
+    <div id="block-tc-owninit" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">3</div>
+        <div>
+          <div class="q-title">Are the ESG ratings distributed at the EU user’s <em>own exclusive initiative</em>?</div>
+          <div class="help">Own exclusive initiative means the EU user approached the provider without any solicitation, marketing, or advertising by the provider.</div>
+          <div class="row">
+            <button class="choice" data-key="q3b" data-val="yes">Yes</button>
+            <button class="choice" data-key="q3b" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q3.1 (recurrent distribution) -->
+    <div id="block-tc-recurrent" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">3.1</div>
+        <div>
+          <div class="q-title">Does the distribution permit <em>recurrent</em> distribution to the user or distribute to any other user in the Union?</div>
+          <div class="help">Recurrent distribution means the arrangement would permit repeated distribution to the same user or to any other user in the Union.</div>
+          <div class="row">
+            <button class="choice" data-key="q3c" data-val="yes">Yes</button>
+            <button class="choice" data-key="q3c" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q3.2 (market share / language) -->
+    <div id="block-tc-marketlang" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">3.2</div>
+        <div>
+          <div class="q-title">Do you have <em>substantial market share in the EU</em> or a <em>website in an official EU language</em> not customary in international finance?</div>
+          <div class="help"></div>
+          <div class="row">
+            <button class="choice" data-key="q3d" data-val="yes">Yes</button>
+            <button class="choice" data-key="q3d" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q3.3 (substitute) -->
+    <div id="block-tc-substitute" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">3.3</div>
+        <div>
+          <div class="q-title">Is there a substitute for these ratings offered by an ESG rating provider authorised under the Regulation?</div>
+          <div class="help">A substitute refers to a comparable ESG rating available from a provider authorised under the Regulation.</div>
+          <div class="row">
+            <button class="choice" data-key="q31" data-val="yes">Yes</button>
+            <button class="choice" data-key="q31" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q4 (Exemptions) -->
+    <div id="block-exemptions" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">4</div>
+        <div>
+          <div class="q-title">Check exemptions</div>
+          <div class="help">Answer each exemption. Then click <strong>Evaluate</strong>.</div>
+          <div class="hr"></div>
+
+          <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">
+            <div>
+              <div class="q-title">Private ESG rating only?</div>
+              <div class="help">Individual client order, not intended for public disclosure or distribution.</div>
+              <div class="row"><button class="choice" data-key="ex_private" data-val="yes">Yes</button><button class="choice" data-key="ex_private" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Internal or intragroup only by an EU regulated financial undertaking?</div>
+              <div class="help">Used exclusively in-house or within the group.</div>
+              <div class="row"><button class="choice" data-key="ex_internal" data-val="yes">Yes</button><button class="choice" data-key="ex_internal" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Embedded in a regulated product or service (and disclosed)?</div>
+              <div class="help">Ratings issued by an EU regulated financial undertaking, incorporated in regulated products or services and disclosed to a third party.</div>
+              <div class="row"><button class="choice" data-key="ex_regulated" data-val="yes">Yes</button><button class="choice" data-key="ex_regulated" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Public authority or Union body or ESCB and not published or distributed for commercial purposes?</div>
+              <div class="help">Applies where ESG ratings are issued by public bodies or ESCB and not published or distributed for commercial purposes.</div>
+              <div class="row"><button class="choice" data-key="ex_public" data-val="yes">Yes</button><button class="choice" data-key="ex_public" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Accreditation or certification only (not for investment or financial decisions)?</div>
+              <div class="help">Applies where the activity is limited to accreditation or certification and not intended for investment or financial decisions.</div>
+              <div class="row"><button class="choice" data-key="ex_accred" data-val="yes">Yes</button><button class="choice" data-key="ex_accred" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Labelling activities without disclosing an ESG rating?</div>
+              <div class="help">Applies where only a label is provided without disclosing an ESG rating.</div>
+              <div class="row"><button class="choice" data-key="ex_label" data-val="yes">Yes</button><button class="choice" data-key="ex_label" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Non-profit and non-commercial publication?</div>
+              <div class="help">Provided that the non-profit does not charge rated items or issues of rated items to report data or to get rated through their platform, or charge users of ESG ratings to access any information on ESG ratings.</div>
+              <div class="row"><button class="choice" data-key="ex_npo" data-val="yes">Yes</button><button class="choice" data-key="ex_npo" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">External reviews or second-party opinions on sustainable bonds without an ESG rating</div>
+              <div class="help">External reviews or second-party opinions on environmentally sustainable or sustainability-linked bonds, loans or other debt instruments marketed as sustainable, where the review does not contain an ESG rating issued by the reviewer or opinion provider.</div>
+              <div class="row"><button class="choice" data-key="ex_bondopin" data-val="yes">Yes</button><button class="choice" data-key="ex_bondopin" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">External reviews of European Green Bonds</div>
+              <div class="help"></div>
+              <div class="row"><button class="choice" data-key="ex_egb" data-val="yes">Yes</button><button class="choice" data-key="ex_egb" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">Activities expressly excluded</div>
+              <div class="help">Data-only services, data products, credit ratings, investment research, mandatory SFDR or Taxonomy disclosures.</div>
+              <div class="row"><button class="choice" data-key="ex_express" data-val="yes">Yes</button><button class="choice" data-key="ex_express" data-val="no">No</button></div>
+            </div>
+
+            <div>
+              <div class="q-title">ESG ratings issued by an authorised ESG rating provider and published or distributed by a third party</div>
+              <div class="help">Applies where ESG ratings are issued by an ESG rating provider authorised under the Regulation, and such ratings are subsequently published or distributed by a third party.</div>
+              <div class="row"><button class="choice" data-key="ex_thirdparty" data-val="yes">Yes</button><button class="choice" data-key="ex_thirdparty" data-val="no">No</button></div>
+            </div>
+          </div>
+
+          <div class="hr"></div>
+          <div class="row">
+            <button id="btn-evaluate" title="Evaluate the exemptions">Evaluate</button>
+            <button id="btn-reset" title="Clear all answers">Reset</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="result" class="result hidden"></div>
+
+    <div id="nextsteps" class="note hidden">
+      <div class="hr"></div>
+      <strong>Next steps if the entity is in scope:</strong>
+      <ul>
+        <li>Choose access route: <strong>Authorisation</strong> (Art. 4 and 6 to 8), <strong>Third-country Equivalence</strong> (Art. 10), <strong>Endorsement</strong> (Art. 11), or <strong>Recognition</strong> (Art. 12).</li>
+        <li>Check the temporary regime for small providers established in the Union (Art. 5).</li>
+        <li>Prepare governance, methodology transparency and conflict-of-interest arrangements (Title III).</li>
+      </ul>
+    </div>
+
+    <p class="note" style="margin-top:14px">
+      This tool aims to help entities self-assess whether they may fall within the scope of Regulation (EU) 2024/3005, in accordance with Articles 2 and 3 thereof. It is provided purely for information purposes, does not constitute legal or other advice, and is without prejudice to ESMA’s specific assessment of each case. Entities should not rely solely on this tool to make compliance decisions and ESMA does not assume any liability for its content.
+    </p>
+  </div>
+
+<script>
+(function(){
+  "use strict";
+
+  const state = Object.create(null);
+  let evaluated = false;
+
+  const byId = (id) => document.getElementById(id);
+  const show = (id) => { const el = byId(id); if(el) el.classList.remove("hidden"); };
+  const hide = (id) => { const el = byId(id); if(el) el.classList.add("hidden"); };
+
+  const resultEl = byId("result");
+
+  const EXEMPT_MAP = {
+    ex_private: "Private ESG rating only (Article 2(2)(a)).",
+    ex_internal: "Internal or intragroup use only by an EU regulated financial undertaking (Article 2(2)(b)).",
+    ex_regulated: "Embedded in a regulated product or service and disclosed (Article 2(2)(c)).",
+    ex_public: "Public authority or Union body or ESCB and not published or distributed for commercial purposes (Article 2(2)(j),(l)).",
+    ex_accred: "The company may be in  scope, but the activities are excluded as provided for under the Regulation according to: Accreditation or certification only, not for investment or financial decisions (Article 2(2)(o)).",
+    ex_label: "Label or award without disclosing an ESG rating (Article 2(2)(p)).",
+    ex_npo: "Non-profit and non-commercial publication (Article 2(2)(q)).",
+    ex_bondopin: "The company may be in  scope, but the activities are excluded as provided for under the Regulation according to: External reviews or second-party opinions on sustainable bonds without an ESG rating (Article 2(2)(i)).",
+    ex_egb: "The company may be in  scope, but the activities are excluded as provided for under the Regulation according to: European Green Bonds (Article 2(2)(h)).",
+    ex_thirdparty: "ESG ratings issued by an authorised ESG rating provider and published or distributed by a third party (Article 2(2)(k)).",
+    ex_express: "The company may be in  scope, but the activities are excluded as provided for under the Regulation according to: Activities expressly excluded (Article 2(2) (e),(f),(g),(m),(n))."
+  };
+
+  const EX_KEYS = Object.keys(EXEMPT_MAP);
+
+  const DOWNSTREAM = {
+    q2: ["q3","q3a","q3a2","q3b","q3c","q3d","q31", ...EX_KEYS],
+    q3: ["q3a","q3a2","q3b","q3c","q3d","q31", ...EX_KEYS],
+    q3a: ["q3a2", ...EX_KEYS],
+    q3a2: [...EX_KEYS],
+    q3b: ["q3c","q3d","q31", ...EX_KEYS],
+    q3c: ["q3d","q31", ...EX_KEYS],
+    q3d: ["q31", ...EX_KEYS],
+    q31: [...EX_KEYS]
+  };
+
+  function resetPressed(key){
+    document.querySelectorAll('.choice[data-key="' + key + '"]').forEach((b) => b.setAttribute("aria-pressed","false"));
+  }
+
+  function clearKeys(keys){
+    keys.forEach((k) => {
+      if(k in state) delete state[k];
+      resetPressed(k);
+    });
+  }
+
+  function setResult(html, cls){
+    if(!resultEl) return;
+    resultEl.className = "result " + (cls || "");
+    resultEl.innerHTML = html;
+    resultEl.classList.remove("hidden");
+  }
+
+  function clearResult(){
+    if(!resultEl) return;
+    resultEl.className = "result hidden";
+    resultEl.innerHTML = "";
+  }
+
+  function hideAll(){
+    hide("block-operating");
+    hide("block-eu-details");
+    hide("block-eu-distribute");
+    hide("block-tc-owninit");
+    hide("block-tc-recurrent");
+    hide("block-tc-marketlang");
+    hide("block-tc-substitute");
+    hide("block-exemptions");
+    hide("nextsteps");
+  }
+
+  function selectedExemptions(){
+    return EX_KEYS.filter((k) => state[k] === "yes").map((k) => EXEMPT_MAP[k]);
+  }
+
+  function allExemptionsAnswered(){
+    return EX_KEYS.every((k) => state[k] === "yes" || state[k] === "no");
+  }
+
+  function allExemptionsNo(){
+    return EX_KEYS.every((k) => state[k] === "no");
+  }
+
+  function evaluateExemptionsOrWait(){
+    show("block-exemptions");
+    if(!evaluated) return;
+
+    if(!allExemptionsAnswered()){
+      setResult("<strong>Incomplete:</strong> Please answer all exemptions (Yes or No), then click Evaluate.", "ex");
+      return;
+    }
+
+    const reasons = selectedExemptions();
+    if(reasons.length){
+      setResult("<strong>Exempt:</strong> " + reasons.join(" "), "ex");
+      return;
+    }
+
+    if(allExemptionsNo()){
+      setResult("<strong>Company IN SCOPE:</strong> Proceed with next steps under the Regulation.", "in");
+      show("nextsteps");
+    }
+  }
+
+  function render(){
+    hideAll();
+    clearResult();
+
+    if(state.q2 === "no"){
+      setResult("<strong>Exempt:</strong> Not issued on a professional basis.", "ex");
+      window.scrollTo({top:0, behavior:"smooth"});
+      return;
+    }
+
+    if(!state.q2) return;
+
+    show("block-operating");
+    if(!state.q3) return;
+
+    if(state.q3 === "eu"){
+      show("block-eu-details");
+      if(!state.q3a) return;
+
+      if(state.q3a === "yes"){
+        evaluateExemptionsOrWait();
+        return;
+      }
+
+      show("block-eu-distribute");
+      if(!state.q3a2) return;
+
+      if(state.q3a2 === "no"){
+        setResult("<strong>Exempt:</strong> Not operating in the Union within Article 2(1).", "ex");
+        return;
+      }
+
+      evaluateExemptionsOrWait();
+      return;
+    }
+
+    if(state.q3 === "tc"){
+      show("block-tc-owninit");
+      if(!state.q3b) return;
+
+      // 3 = No  -> open 4 (Exemptions)
+      // 3 = Yes -> open 3.1
+      if(state.q3b === "no"){
+        evaluateExemptionsOrWait();
+        return;
+      }
+
+      show("block-tc-recurrent");
+      if(!state.q3c) return;
+
+      // 3.1: Yes -> open 4
+      // 3.1: No  -> open 3.2
+      if(state.q3c === "yes"){
+        evaluateExemptionsOrWait();
+        return;
+      }
+
+      show("block-tc-marketlang");
+      if(!state.q3d) return;
+
+      // 3.2: Yes -> open 4
+      // 3.2: No  -> open 3.3
+      if(state.q3d === "yes"){
+        evaluateExemptionsOrWait();
+        return;
+      }
+
+      show("block-tc-substitute");
+      if(!state.q31) return;
+
+      // 3.3: Yes -> open 4
+      // 3.3: No  -> Exempt
+      if(state.q31 === "yes"){
+        evaluateExemptionsOrWait();
+        return;
+      }
+
+      setResult("<strong>Exempt:</strong> Not operating in the Union within Article 2(1).", "ex");
+      return;
+    }
+  }
+
+  function onChoiceClick(btn){
+    const key = btn.dataset.key;
+    const val = btn.dataset.val;
+
+    resetPressed(key);
+    btn.setAttribute("aria-pressed","true");
+
+    if(DOWNSTREAM[key]) clearKeys(DOWNSTREAM[key]);
+
+    evaluated = false;
+    hide("nextsteps");
+
+    state[key] = val;
+    render();
+  }
+
+  document.querySelectorAll(".choice").forEach((btn) => btn.addEventListener("click", () => onChoiceClick(btn)));
+
+  const evalBtn = byId("btn-evaluate");
+  if(evalBtn) evalBtn.addEventListener("click", () => {
+    evaluated = true;
+    render();
+    const r = byId("result");
+    if(r) r.scrollIntoView({behavior:"smooth", block:"center"});
+  });
+
+  const resetBtn = byId("btn-reset");
+  if(resetBtn) resetBtn.addEventListener("click", () => {
+    evaluated = false;
+    Object.keys(state).forEach((k) => delete state[k]);
+    document.querySelectorAll(".choice").forEach((b) => b.setAttribute("aria-pressed","false"));
+    render();
+    window.scrollTo({top:0, behavior:"smooth"});
+  });
+
+  function runTests(){
+    console.assert(typeof render === "function", "render should exist");
+    console.assert(!!byId("block-professional"), "block-professional should exist");
+    console.assert(!!byId("block-operating"), "block-operating should exist");
+    console.assert(!!byId("block-exemptions"), "block-exemptions should exist");
+    console.assert(!!byId("btn-evaluate"), "Evaluate button should exist");
+    console.assert(!!byId("btn-reset"), "Reset button should exist");
+    console.assert(typeof window.state === "undefined", "state should not be global");
+    console.assert(EX_KEYS.length >= 8, "Expected at least 8 exemptions");
+    console.assert(Array.isArray(DOWNSTREAM.q2) && DOWNSTREAM.q2.length > 0, "Downstream map should be present");
+  }
+
+  runTests();
+  render();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,166 @@
+SOURCE: Self-Assessment Tool - scope
+REFERENCE: 
+DATE: 2026-02
+URL: https://www.esma.europa.eu/sites/default/files/2026-02/esg_scope_decision_tool.html
+FILE: sources/ESMA_tool_scope_self_assessment.html
+
+Self-Assessment Tool - ESG Rating Regulation (EU 2024/3005)
+
+For any query contact sup-info@esma.europa.eu Check if your entity is in scope
+
+The tool will guide you in understanding whether your entity may fall within the scope of the ESG Rating Providers Regulation.
+
+ An ESG rating means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors.
+ It is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as “ESG rating”, “ESG opinion” or “ESG score”.
+ If you think your entity issues such a product or service, please proceed through the decision tree below to understand whether you are in scope as an ESG rating provider.
+
+1
+
+Is it issued on a professional basis?
+
+Issued on a professional basis where the entity’s activities include issuing and publishing or distributing ESG ratings as a professional or commercial service.
+
+ Yes
+ No
+
+2
+
+Are you operating in the Union?
+
+Select whether your entity is established in the EU or outside the EU.
+
+ Established in the EU
+ Established outside the EU
+
+2.1
+
+Do you issue and publish ESG ratings on your website or through other means?
+
+ Yes
+ No
+
+2.2
+
+Do you issue or distribute ESG ratings to EU regulated financial undertakings/undertakings under Directive 2013/34 or 2004/109 / Union or Member State authorities?
+
+This includes distributing ESG ratings (for example by contract or subscription) to EU regulated financial undertakings, entities under EU accounting or transparency directives, or Union or Member State authorities.
+
+ Yes
+ No
+
+3
+
+Are the ESG ratings distributed at the EU user’s own exclusive initiative?
+
+Own exclusive initiative means the EU user approached the provider without any solicitation, marketing, or advertising by the provider.
+
+ Yes
+ No
+
+3.1
+
+Does the distribution permit recurrent distribution to the user or distribute to any other user in the Union?
+
+Recurrent distribution means the arrangement would permit repeated distribution to the same user or to any other user in the Union.
+
+ Yes
+ No
+
+3.2
+
+Do you have substantial market share in the EU or a website in an official EU language not customary in international finance?
+
+ Yes
+ No
+
+3.3
+
+Is there a substitute for these ratings offered by an ESG rating provider authorised under the Regulation?
+
+A substitute refers to a comparable ESG rating available from a provider authorised under the Regulation.
+
+ Yes
+ No
+
+4
+
+Check exemptions
+
+Answer each exemption. Then click Evaluate.
+
+Private ESG rating only?
+
+Individual client order, not intended for public disclosure or distribution.
+
+YesNo
+
+Internal or intragroup only by an EU regulated financial undertaking?
+
+Used exclusively in-house or within the group.
+
+YesNo
+
+Embedded in a regulated product or service (and disclosed)?
+
+Ratings issued by an EU regulated financial undertaking, incorporated in regulated products or services and disclosed to a third party.
+
+YesNo
+
+Public authority or Union body or ESCB and not published or distributed for commercial purposes?
+
+Applies where ESG ratings are issued by public bodies or ESCB and not published or distributed for commercial purposes.
+
+YesNo
+
+Accreditation or certification only (not for investment or financial decisions)?
+
+Applies where the activity is limited to accreditation or certification and not intended for investment or financial decisions.
+
+YesNo
+
+Labelling activities without disclosing an ESG rating?
+
+Applies where only a label is provided without disclosing an ESG rating.
+
+YesNo
+
+Non-profit and non-commercial publication?
+
+Provided that the non-profit does not charge rated items or issues of rated items to report data or to get rated through their platform, or charge users of ESG ratings to access any information on ESG ratings.
+
+YesNo
+
+External reviews or second-party opinions on sustainable bonds without an ESG rating
+
+External reviews or second-party opinions on environmentally sustainable or sustainability-linked bonds, loans or other debt instruments marketed as sustainable, where the review does not contain an ESG rating issued by the reviewer or opinion provider.
+
+YesNo
+
+External reviews of European Green Bonds
+
+YesNo
+
+Activities expressly excluded
+
+Data-only services, data products, credit ratings, investment research, mandatory SFDR or Taxonomy disclosures.
+
+YesNo
+
+ESG ratings issued by an authorised ESG rating provider and published or distributed by a third party
+
+Applies where ESG ratings are issued by an ESG rating provider authorised under the Regulation, and such ratings are subsequently published or distributed by a third party.
+
+YesNo
+
+ Evaluate
+ Reset
+
+ Next steps if the entity is in scope:
+
+Choose access route: Authorisation (Art. 4 and 6 to 8), Third-country Equivalence (Art. 10), Endorsement (Art. 11), or Recognition (Art. 12).
+
+Check the temporary regime for small providers established in the Union (Art. 5).
+
+Prepare governance, methodology transparency and conflict-of-interest arrangements (Title III).
+
+ This tool aims to help entities self-assess whether they may fall within the scope of Regulation (EU) 2024/3005, in accordance with Articles 2 and 3 thereof. It is provided purely for information purposes, does not constitute legal or other advice, and is without prejudice to ESMA’s specific assessment of each case. Entities should not rely solely on this tool to make compliance decisions and ESMA does not assume any liability for its content.

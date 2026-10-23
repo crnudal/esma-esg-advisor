@@ -1,0 +1,162 @@
+SOURCE: ESMA ESG Rating Providers hub page
+REFERENCE: 
+DATE: live
+URL: https://www.esma.europa.eu/esmas-activities/investors-and-issuers/esg-rating-providers
+FILE: sources/ESMA_page_ESG_Rating_Providers_hub.html
+
+Skip to main content
+
+ Search
+
+ ESG Rating Providers
+
+Environmental, Social and Governance [ESG] Rating providers offer activities including the issuance, and the publication or distribution of ESG ratings on a professional basis. ESMA is the direct supervisor of ESG Rating providers offering their services within the EU, under Regulation (EU) 2024/3005 (‘ESG Ratings Regulation’).
+
+ Background
+
+In November 2024, the Regulation on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities (‘ESG Ratings Regulation’) was published in the Official Journal of the European Union. The date of application for the ESG Ratings Regulation is 2 July 2026. This is the date from which ESG Rating Providers will need to consider notifying ESMA about their intention to continue operating in the Union. Following these notifications ESG Rating Providers should then submit an authorisation application.
+
+After notifying ESMA, the ESG rating provider shall be temporarily listed in the register referred to in Article 14 and be permitted, until its application has been approved or denied, to continue operating in the Union, and may endorse an ESG rating provided by an ESG rating provider established outside the Union and belonging to the same group under Article 11.
+
+ESMA has developed two self-assessment tools: one to assist entities in determining whether they fall within the scope of the ESG Ratings Providers Regulation, and one to support the determination of whether a product qualifies as an ESG rating. The tools can be accessed below:
+
+Self-Assessment Tool – ESG Ratings Regulation (EU 2024/3005)
+
+Self-Assessment Tool: Products – ESG Ratings Regulation (EU 2024/3005)
+
+The specific timelines for both the completeness and the compliance phases of applications are defined: 
+
+For EU-based ESG Rating Providers in Article 7 of the ESG Ratings Regulation.
+
+For small EU-based ESG Rating Provides under the temporary regime for small ESG Ratin Providers in Article 5 of the ESG Ratings Regulation.
+
+For ESG Rating Providers endorsing ESG Rating Providers established outside the EU in Article 11 of the ESG Ratings Regulation.
+
+For third-country ESG Rating Providers in Article 12 of the ESG Ratings Regulation.
+
+The timelines for these different actions are set out in the graphic at the bottom of this page.
+
+white_background
+
+primary_grey_background
+
+primary_grey_background
+
+Registration
+
+ESMA is responsible for the registration and supervision of ESG rating providers. Article 4 of the ESG Ratings Regulation requires ESG rating providers to register with ESMA in order to provide services defined as ESG ratings in the EU, in accordance with Article 3(1) of the ESG Ratings Regulation. 
+
+ESG rating providers will first have to notify ESMA of their intention to continue offering ESG rating services in the European Union. Following this notification, ESG rating providers will have to formally apply for registration, starting from 2 August 2026 and at the latest by 2 November 2026.
+
+ESG rating providers are encouraged to submit their notifications and applications in line with the explanatory table and templates below. These should be submitted to esgrpauth@esma.europa.eu. Applicants are expected to notify ESMA informally 2 weeks ahead of submitting their application. Applicants will be charged a registration fee in accordance with Commission Delegated Regulation C(2026)2580 of 24/04/2026. Further information on how ESMA processes applications can be found in our dedicated section.
+
+Firms should complete the ‘Application for authorisation’ tab from the ESGRR Master Application Template, as well as any other sheets that are applicable to them, depending on whether they wish to apply for recognition, endorsement or lodge a request with ESMA to be authorised to provide benchmarks under Article 16(3) of the ESG Ratings Regulation. We also ask firms to carefully review the ‘Rules of submission’ when preparing their application. This will help them to submit a complete set of documents.
+
+Timeline and process
+
+Small ESG Rating Providers
+
+Medium and large ESG Rating providers
+
+What do I need to do?
+
+Submit a notification under Article 5
+
+Step 1: Submit a notification of intention to apply
+Step 2: Submit an application for authorisation
+
+What is the timeline?
+
+Between 2 July and 2 August 2026
+
+Step 1: Between 2 July and 2 August 2026
+Step 2: At any point after the notification until 2 November 2026 (ESMA encourages all firms to submit their applications between 2 September and 2 November 2026)
+
+What do I need to submit?
+
+Temporary Regime Notification
+
+Step 1: Notification of intention to apply
+Step 2: ESGRR Master Application Template
+
+Where do I need to send it?
+
+esgrpauth@esma.europa.eu
+
+esgrpauth@esma.europa.eu
+
+ESG rating providers intending to submit a request to ESMA for exemption from the requirements set out in Article 15(6), (8) and (10) of the ESG Ratings Regulation should include, alongside their application, a separate note to that effect, taking due account of the requirements of Article 22.
+
+primary_grey_background
+
+ Q&As
+
+ESMA has published the following Questions and Answers on Regulation (EU) 2024/3005:
+
+Defined ranking system 
+
+Transitional provisions
+
+ESG rating providers established after date of entry into force
+
+Material changes to registration information
+
+Small ESG rating provider no longer meeting temporary regime size requirements
+
+Content of temporary regime notification
+
+ESMA assessment of temporary regime notification
+
+Group-affiliated small ESG rating providers
+
+Consulting activities to investors or undertakings
+
+Application of two working day notification period
+
+Scope of two working day notification period
+
+Access to dataset for factual error review
+
+Notifications without a designated contact
+
+Obligation to consider issuer feedback
+
+ESG ratings used for internal purposes or in-house financial services
+
+Exemption for SPO providers 
+
+white_background
+
+primary_grey_background
+
+primary_grey_background
+
+Temporary regime for small ESG rating providers established in the EU wishing to provide ESG rating activities in the EU
+
+Article 5 of the ESG Ratings Regulation establishes a three‑year temporary regime offering more proportionate requirements for small ESG rating providers. To qualify, providers must meet the size criteria for small undertakings defined in the EU Accounting Directive (Directive 2013/34/EU). Notably, they must not exceed two of the following at an individual and, where relevant, group level: 
+
+Balance sheet total: ≤ €5 million
+
+Net turnover: ≤ €10 million
+
+Average employees: ≤ 50
+
+A small ESG rating provider must submit a notification to ESMA indicating its intention to enter the temporary regime. Once notified, ESMA will verify whether the provider meets the Accounting Directive thresholds and, if so, include the entity in its public register of ESG rating providers pursuant to Article 14(1)(a).
+
+Should you have any questions on the authorisation process and ESMA expectations for firms wishing to become authorised with ESMA to provide ESG rating activities within the EU, please contact ESGR_queries@esma.europa.eu
+
+grey_3_background
+
+ESG Rating Providers - timeline 🡫
+
+white_background
+
+ ESMA Links
+
+ External Links
+
+List of registered ESG providers
+
+List of firms that have notified ESMA under Article 51 of Regulation (EU) 2024/3005 
+
+Regulation (EU) 2024/3005

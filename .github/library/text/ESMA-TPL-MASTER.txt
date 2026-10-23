@@ -1,0 +1,208 @@
+SOURCE: ESGRR Master Application Template
+REFERENCE: 
+DATE: 2026-05
+URL: https://www.esma.europa.eu/sites/default/files/2026-05/ESGRR_Master_Application_Template.xlsx
+FILE: sources/ESMA_template_ESGRR_Master_Application.xlsx
+
+=== SHEET: Rules of submission ===
+Item | Rules of submission | Complete (Y/N)* | ESMA comments*
+1 | Commission Delegated Regulation C(2026)3334 of 26/05/2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the information to be included in the application for authorisation as an ESG rating provider and in the application for recognition of an ESG rating provider ('RTS')
+RTS Art 3 (1)
+Applicants shall provide a unique reference number to each document that they submit to ESMA. Applicants shall clearly identify which specific requirement the submitted information refers to and which document that information is provided in.
+2 | RTS Art 3 (2)
+Applicants shall provide ESMA with the information referred to in Annexes II-V of the RTS in a machine-readable format which:
+(a) allows the information to remain accessible for a period of time adequate for the purposes of the application;
+(b) allows for the unchanged reproduction of the information stored.
+3 | RTS Art 3 (3)
+Applicants shall accompany their application for registration with a letter signed by a member of the applicants’ senior management, attesting that the submitted information is accurate and complete to the best of that member’s knowledge, as of the date of that submission.
+4 | Commission Delegated Regulation C(2026)2580 of 24/04/2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to ESG rating providers
+Applicants shall accompany their application for registration with a declaration stating that they are aware of the relevant authorisation and registration fees.
+=== SHEET: Application for authorisation ===
+Item | Legal Requirement | Unique reference number of the document | Title of the 
+document | Specific requirement of Regulation (EU) 2024/3005 to which the document relates | Chapter or section or page of the document where the information is 
+provided | Applicant comments | Complete (Y/N)* | ESMA comments*
+# | Annex I of Regulation (EU) 2024/3005
+An application for authorisation shall contain all of the following information:
+1 | a) the full name of the applicant, the address of its registered office within the Union, the applicant’s website and, where
+available, the applicant’s legal entity identifier (LEI)
+2 | (b) the name and contact details of a contact person at the applicant
+3 | (c) the legal status of the applicant
+4 | (d) the ownership structure of the applicant
+5 | (e) the identity of entities within the ownership structure of the applicant that will provide ESG ratings or any of the
+activities listed in Article 16(1)
+6 | (f) the identity of the members of the senior management of the applicant and their level of qualification, experience and
+training
+7 | (g) the number of rating analysts, employees and other persons working for the applicant who are directly involved in ESG
+rating activities, and their level of experience and training
+8 | (h) the expected market coverage of ESG ratings
+9 | (i) a description of the procedures and methodologies used to issue and review ESG ratings implemented by the applicant, whether the applicant expects to use information disclosed under Regulation (EU) 2019/2088 and Directive 2013/34/EU, and whether the applicant expects to use methodologies that are based on scientific evidence and takes into account the targets and objectives of the Paris Agreement or any other relevant international agreements
+10 | (j) the policies or procedures implemented by the applicant to identify, manage and disclose any conflicts of interest as
+referred to in Article 15 of this Regulation
+11 | (k) where applicable, documents and information related to any existing or planned outsourcing arrangements for
+activities covered by this Regulation
+12 | (l) where applicable, information about other activities, including expected endorsement, carried out by the applicant, or
+which the applicant intends to carry out
+13 | (m) where applicable, information about the specific measures implemented by the applicant as referred to in Article 16(2)
+and (3) of this Regulation
+14 | (n) where applicable, information about previous ESG rating activities
+# | Annex II of Commission Delegated Regulation C(2026)3334 of 26/05/2026 
+Information to be provided in an application for authorisation or recognition
+Part A - General information
+1 | (a) full name of the applicant | [enter information here]
+(b) address of the registered office of the applicant within the Union [Member State, city, street address, postal code] or address of the registered office of the applicant outside the Union [country, city, street address, postal code], as relevant | [enter information here]
+(c) hyperlink to the applicant's website | [enter information here]
+(d) where available, the applicant's legal entity identifier (LEI) number | [enter information here]
+Part B - Contact person details
+2 | (a) name | [enter information here]
+(b) title | [enter information here]
+(c) address | [enter information here]
+(d) email address | [enter information here]
+(e) telephone number | [enter information here]
+Part C - Legal status
+3 | Proof of the legal status of the applicant, such as an excerpt from the relevant commercial or court register, or other equivalent evidence.
+Part D - Ownership structure
+4 | (a) articles of association of the applicant
+(b) ownership structure of the applicant, specifying 
+(i) the percentage of capital; 
+(ii) nature of the holding (direct or indirect); 
+(iii) percentage of the voting rights of relevant owners.
+(c) a chart setting out the ownership links between the applicant, its parent undertaking(s) and its subsidiaries, with all undertakings included in the chart identified by their full legal name.
+Part E - Activities
+5 | For each undertaking included in the chart referred to in point (c) of Part D) that carries out ESG rating activities or any of the activities listed in Article 16(1) of Regulation (EU) 2024/3005: 
+(a) the type of activity carried out, indicating whether it is an ESG rating activity or any of the activities listed in Article 16(1) of that Regulation 2024/3005; | [enter information here]
+(b) where applicable, the name of the competent authority responsible for supervising the activity concerned. | [enter information here]
+Part F - Senior management
+6 | (a)	an organisational chart detailing the applicant’s organisational structure, including a clear identification of the role, duties and responsibilities for each member of senior management.
+(b)	for each member of senior management:
+(i)	name;
+(ii)	place of birth;
+(iii)	date of birth;
+(iv)	role within the senior management of the applicant;
+(v)	curriculum vitae showing at least the level of qualification, experience and training;
+(vi)	a proof of the absence of criminal records relating to money laundering, terrorist financing, provision of financial services or data services, acts of fraud or embezzlement, through an official certificate. | [enter information in table below]
+For the purposes of point (b)(vi), where such a certificate is not available in the country concerned, a self-declaration of good repute and the authorisation to ESMA to request from the authorities concerned information on whether that member has been convicted of a criminal offence in connection with money laundering, terrorist financing, the provision of financial services or data services or in relation to acts of fraud or embezzlement. | [enter information in table below]
+Part G - Staffing resources
+7 | (a)	the number of rating analysts who are directly involved in ESG rating activities and a summary of their overall industry experience, level of training and level of seniority**; | [enter information here]
+(b)	excluding the staff referred to in point (a), the number of employees and other persons working for the applicant that are directly involved in ESG rating activities, together with a summary of industry experience, level of training and level of seniority by area of responsibility**, and that are engaged in any of the following:
+(i)	the development and review of methodologies;
+(ii)	the collection and analysis of data;.
+(iii)	the development, implementation and maintenance of the information technology systems, resources, internal policies and procedures of the ESG rating provider necessary to comply with Regulation (EU) 2024/3005. | [enter information here]
+Part H - Expected market coverage
+8 | (a)	the number of ESG rating products that the applicant intends to provide in the Union. | [enter information here]
+(b)	for each ESG rating product that the applicant intends to provide in the Union:
+(i)	the name of that product;
+(ii)	a description of that product;
+(iii)	the number or expected number of rated items covered. | [enter information in table below]
+Part I - Procedures and methodologies of ESG ratings
+9 | (a)	for each ESG rating product indicated pursuant to Part H, a description of applicable procedures and methodologies to issue ESG ratings, including information on:
+(i)	whether the applicant expects to use information disclosed under Regulation (EU) 2019/2088 of the European Parliament and of the Council  and Directive 2013/34/EU of the European Parliament and of the Council;
+(ii)	whether the applicant expects to use methodologies that are based on scientific evidence and takes into account the targets and objectives of the Paris Agreement or any other relevant international agreements; | [enter information in table below]
+(b)	procedures for the review of ESG ratings;
+(c)	procedures for the review of ESG rating methodologies.
+Part J - Policies or procedures to identify, manage and disclose conflicts of interest
+10 | The policies or procedures implemented by the applicant to identify, manage and disclose any conflicts of interest as referred to in Article 15 of Regulation (EU) 2024/3005, including the following information:
+(a)	 a description of internal reporting channels for receiving and handling information provided by persons reporting actual or potential breaches of the independence principle and of measures ensuring the protection of such persons’ identity;
+(b)	 the review and approval process for the onboarding of new clients, employee personal account dealing, external business activities and the acceptance of gifts and hospitality;
+(c)	 the criteria to determine the remuneration of the persons referred to in Part G;
+(d)	 the terms of reference for the management body.
+Part K - Outsourcing arrangements
+11 | Where applicable, documents and information related to any existing or planned outsourcing arrangements for activities covered by Regulation (EU) 2024/3005, including:
+(a)	the outsourcing policy or other documents demonstrating compliance with the requirements of Annex II, point 2, of Regulation (EU) 2024/3005;
+(b)	a copy of any existing outsourcing agreements.
+Part L - Other activities, including expected endorsements
+Where applicable, information about the applicant’s other commercial activities, including:
+(a) the name and description of any other business activities carried out by the applicant, or which the applicant intends to carry out; | [enter information here]
+(b) where applicable, the name of the competent authority responsible for supervising the activities referred to in point (a). | [enter information here]
+Part M - Sepecific measures to be implemented by the applicant
+13 | (a) for any of the activities referred to in Article 16(1), points (c), (d) and (f), of Regulation (EU) 2024/3005, information regarding the specific measures that the applicant has put in place in accordance with Commission Delegated Regulation C(2026)2495 of 21/04/2026 supplementing Regulation 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the measures and safeguards to be implemented by ESG rating providers to separate their ESG rating activities from their other activities; | [enter information here]
+(b) an explanation as to why the measures referred to in point (a) are deemed sufficient by the applicant. | [enter information here]
+Part N - Previous ESG rating activities
+Where applicable, information about previous ESG rating activities, including:
+(a)	any relevant licences held, indicating their periods of validity; | [enter information here]
+(b)	any ESG rating products previously provided which are not indicated under Part H; | [enter information here]
+(c)	the name of the legal entity under which such activities were carried out; | [enter information here]
+(d)	where appliable, the name of the authority responsible for supervising such activities. | [enter information here]
+* For ESMA to complete
+**In order streamline the application process, the information provided should be at the level of the team or group of persons performing the activities
+Part F(b) - Senior Management
+# | Name | Place of birth | Date of birth | Role | Submitted documents
+CV | Proof of the absence of criminal records referred to in Article 1(2), point (a), of Commission Delegated Regulation (EU) (EU) 2025/2180** | Self-declaration of good repute | Authorisation to ESMA to request from the authorities concerned information on whether that member has been convicted of a criminal offence
+1 | [First name], [Last name] | [City, Country] | [DD/MM/YYYY] | [Unique reference number] | [Unique reference number] | [Unique reference number] | [Unique reference number]
+2
+3
+4
+Part H,I - For each ESG rating product
+Expected market coverage | Name of ESG rating product
+Description of ESG rating product
+Number or expected number of rated items covered
+Procedures & methodologies | Does the applicant expect to use information disclosed under Regulation (EU) 2019/2088 of the European Parliament and of the Council  and Directive 2013/34/EU of the European Parliament and of the Council? | Y/N
+Does the applicant expect  to use methodologies that are based on scientific evidence and takes into account the targets and objectives of the Paris Agreement or any other relevant international agreements? | Y/N
+=== SHEET: RTS Annex III - Recognition ===
+Application for recognition
+Legal representative in the Member State of reference
+Information on legal entity | Full name
+Legal entity identifier (LEI)
+Contact person | Name
+Title
+Address
+Email address
+Telephone number
+Description of the measures put in place by the legal representative to monitor compliance on an ongoing basis
+Assessment by the legal representative of the adequacy of the measures put in place by the ESG rating provider to comply with the Regulation | [Provide the unique reference number and title of the submitted document(s)]
+Articles of incorporation, articles of association or other constitutional documents | [Provide the unique reference number and title of the submitted document(s)]
+Information on whether the legal representative is supervised and the name of the supervisory authority
+Written confirmation of the competent authority of the legal representative to act on behalf of the ESG rating provider in accordance with Article 12(3) of Regulation (EU) 2024/3005 | [Provide the unique reference number and title of the submitted document(s)]
+Information on activities outside the Union
+Name of third-country competent authority responsible for supervision
+Address of third-country competent authority
+Activity for which the ESG rating provider is licenced or supervised
+Respective dates for which the ESG rating provider has been licensed or supervised
+Documentation to be provided
+A copy of the ESG rating provider’s annual financial reports, for the last three consecutive years, including individual and consolidated financial statements, where applicable | [Provide the unique reference number and title of the submitted document(s)]
+Audit reports on the annual and consolidated financial statements, where those are subject to independent external audits | [Provide the unique reference number and title of the submitted document(s)]
+Where no audit reports are available, an assessment by an independent external auditor or a certification of the competent authority of the third country where the ESG rating provider is established, of the annual net turnover of all of its activities | [Provide the unique reference number and title of the submitted document(s)]
+The list, in .csv format, of actual or prospective ESG ratings which at the date of application are intended for publication or distribution in the Union | [Provide the unique reference number and title of the submitted document(s)]
+=== SHEET: RTS Annex IV - Endorsement ===
+Authorisation for endorsement
+Item | Legal reference under Article 11(1) of Regulation (EU) 2024/3005 | Relevant Section of Commission Delegated Regulation C(2026)3334 of 26/05/2026 | Information to be provided in accordance with the Table of Concurrence in Section 5.2 of the Draft ESMA Guidelines on Endorsement under Article 11 of Regulation (EU) 2024/3005** | Unique reference number of the document | Title of the 
+document | Chapter or section or page of the document where the information is 
+provided | Applicant comments | Complete (Y/N)* | ESMA comments*
+1 | 11(1)(b)(i) | Annex IV Point (d) | A valid certificate of registration or incorporation issued by the relevant authority to prove legal establishment in a Member State
+2 | 11(1)(b)(i) | Annex IV Point (d) | Proof of the existence of own premises or premises for exclusive use in a Member State, including through a lease or purchase agreement
+3 | 11(1)(b)(ii) | Annex IV Point (d) | Copies of bank statements or official correspondence from a bank confirming the existence and ownership of the account
+4 | 11(1)(b)(iii) | Annex IV Point (d) | A reasoned analysis explaining how presence in the Union is sufficient to ensure the effective performance, oversight and accountability as regards the ESG ratings the ESG rating provider intends to endorse addressing, where relevant:
+a.	the allocation of analytical and decision-making functions between staff located in the Union and those in third countries
+b.	the role and level of responsibility of staff in the Union in relation to the endorsement process, internal review, quality assurance and compliance
+c.	how governance and reporting lines ensure that key decisions related to the endorsed ESG ratings are effectively taken within the Union
+5 | 11(1)(d) | Annex IV Point (d) | Confirmation that the ESG rating provider has verified that the issuance and distribution of ESG ratings are subject to requirements that are at least as stringent as the requirements of ESGRR and a description of how any divergences between EU requirements and third country rules have been addressed
+6 | 11(1)(d) | Annex IV Point (d) | Periodic reviews to confirm that the third-country ESG rating provider continues to meet equivalent standards both in terms of conduct and policies over time and clear internal policies describing how any identified gaps are addressed, including through additional controls or adaptations by the EU entity prior to endorsement
+7 | 11(1)(e) | Annex IV Point (b) | Confirmation that the ESG rating provider has the necessary expertise among staff to monitor the endorsed ESG ratings and any associated risks
+8 | 11(1)(e) | Annex IV Point (d) | Details of the information sharing agreements in place within the group to enable the ESG rating provider to monitor the ESG ratings provided by the ESG rating provider established outside the EU
+9 | 11(1)(g) | Annex IV Point (d) | Evidence of arrangements and procedures that enable it to provide to ESMA in a timely, complete and reliable manner information that ESMA may request to assess compliance with the ESGRR, as needed***
+10 | 11(1)(h) | Annex IV Point (d) | Verification that cooperation arrangements are in place between ESMA and any relevant supervisory authority of the third country of establishment outside the Union
+* For ESMA to complete
+** These Guidelines are not final and are currently undergoing a public consultation (ESMA84-900617762-2699 Consultation Paper for Guidelines on Endorsement under Article 11 of the ESG Rating Regulation of 29/04/2026)
+*** Such arrangements may include, as appropriate:
+•	internal policies or group-wide procedures governing the exchange of information between the Union entity and the third-country ESG rating provider;
+•	contractual clauses or service-level arrangements ensuring that information can be provided promptly, accurately and in the format requested by ESMA; and
+•	clearly defined points of contact and communication channels to facilitate the collection and transmission of data, documents or explanations relevant to the endorsed ESG ratings
+For each expected endorsement*
+Number of ESG rating products that the applicant intends to provide in the EU
+Legal entities from which the ESG ratings will be endorsed | Name of legal entity
+Legal entity identifier (LEI) | [where available]
+Expected market coverage | Name of ESG rating product
+Description of ESG rating product
+Number or expected number of rated items covered
+Objective reasons for endorsement**
+* Replicate table below as needed
+** The objective reason(s) may be based on one or more of the factors listed in Article 11(1)(f) of the ESGRR. The ESG rating provider may also rely on other objective reasons, provided that such reasons are clearly identified  and supported by evidence demonstrating their relevance and necessity for the endorsement of ESG ratings within the Union. On an ongoing basis, ESMA expects that where the reason(s) cease to apply or cannot be evidenced, the ESG rating provider is expected to inform ESMA without undue delay
+=== SHEET: RTS Annex V - Benchmarks ===
+Authorisation to provide benchmarks
+Provision of benchmarks
+# | Does the ESG Rating Provider provide or intend to provide benchmarks that pursue sustainability objectives, in particular EU Climate Transition Benchmarks as defined in Article 3, point (23a), of  Regulation (EU) 2016/1011 of the European Parliament and of the Council, or a EU Paris-aligned Benchmark, as defined in Article 3, point (23b), of that Regulation? | [Y/N]  
+
+[If ‘Y’, provide an assessment of the potential risk of conflicts of interest in relation to ESG ratings activities]
+Specific measures put in place in accordance with Article 3 of Commission Delegated Regulation C(2026)2495 of 21/04/2026
+# | Measure implemented | Self-assessment
+[1, 2, 3…] | [Provide a detailed explanation of the measure, including governing policy or procedure, actors, key dependencies, approval channels, frequency and actions] | [Provide an explanation as to why the implemented measure is appropriate and sufficient regarding the potential risks of conflicts of interest]
+=== SHEET: Test ===

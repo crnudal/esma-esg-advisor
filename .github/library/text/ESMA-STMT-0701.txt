@@ -1,0 +1,108 @@
+SOURCE: ESMA Public Statement - publication or distribution of ESG ratings by third parties from 2 July 2026
+REFERENCE: ESMA84-1427279869-1396
+DATE: 2026-07-01
+URL: https://www.esma.europa.eu/sites/default/files/2026-07/ESMA84-1427279869-1396_Public_Statement_on_Publication_or_distribution_of_ESG_ratings_by_third_parties_in_the_period_from_2_July_2026_until_authorisation__recogniti.pdf
+FILE: sources/ESMA_2026-07-01_Public_Statement_Third_Party_Distribution.pdf
+
+                                                                                                             01 July 2026
+                                                                                                  ESMA84-1427279869-1396
+
+
+
+
+Public Statement
+Publication or distribution of ESG ratings by third parties in
+the period from 2 July 2026 until authorisation, recognition
+or registration of ESG rating providers
+Background
+
+The ESGR Regulation (the ‘Regulation’)1 will apply from 2 July 2026.
+
+This Regulation introduces a common regulatory approach to enhance the integrity,
+transparency, comparability, responsibility, reliability, good governance and independence of
+ESG rating activities. In this regard, the Regulation requires ESG rating providers who are
+issuing and publishing or distributing ESG ratings in the Union to apply to ESMA for
+authorisation.
+
+Pursuant to Article 51 of the Regulation, existing ESG rating providers other than small ESG
+rating providers 2 who wish to continue operating in the Union must notify ESMA of their
+intention to apply for authorisation by 2 August and apply for authorisation no later than 2
+November. Small ESG rating providers who wish to benefit from the temporary regime must
+notify ESMA no later than 2 November 2026.
+
+Exemption under Article 2(2)(k) of the ESGR Regulation
+
+Article 2(2) of the Regulation provides for a number of exemptions to its scope of application.
+
+In particular, Article 2(2)(k) exempts ESG ratings issued by an “authorised ESG rating provider”
+where such ratings are published or distributed by a third party.
+
+This exemption aims to avoid a duplicative application of the Regulation’s requirements when
+ESG ratings produced pursuant to the Regulation are subsequently published or distributed by
+third parties. In practice, this could cover a scenario where a financial undertaking, such as a
+fund manager, publishes or distributes the ESG ratings of an ESMA authorised ESG rating
+provider as part of their marketing material.
+
+
+
+
+1
+  https://eur-lex.europa.eu/eli/reg/2024/3005/oj/engRegulation (EU) 2024/3005 of the European Parliament and of the Council of
+27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and
+amending Regulations (EU) 2019/2088 and (EU) 2023/2859 (OJ L, 2024/3005).
+2
+  ‘Small ESG rating providers’ refers to those ESG rating providers who are eligible for, and choose to register under, the
+Temporary Regime for small ESG rating providers as set out under Article 5 of the Regulation.
+
+ESMA - 201-203 rue de Bercy - CS 80910 - 75589 Paris Cedex 12 - France - www.esma.europa.eu                                 1
+Issue encountered
+
+There is a need to provide the market with clarity as to whether third parties that are publishing
+or distributing the ESG ratings of existing, but still unauthorised, ESG rating providers will be
+able to continue doing so from 2 July 2026.
+
+Statement
+
+To avoid market disruption and ensure the effectiveness of the transitional regime, ESMA
+deems it appropriate to clarify how it will apply this exemption in the time-period from 2 July to
+2 November 2026.
+
+To this end, ESMA:
+
+     •    recalls that ESG rating providers other than small ESG rating providers who wish to
+          continue operating in the Union after 2 July 2026 shall notify ESMA by 2 August 2026
+          of their intention to apply for authorisation or recognition and shall then also submit
+          their application for authorisation or recognition by 2 November 2026 at the latest;
+
+     •    recalls that small ESG rating providers who wish to continue operating in the Union
+          shall notify ESMA by 2 November 2026 of their intention to benefit from the temporary
+          regime for those providers;
+
+     •    considers that from 2 July 2026 third parties may continue publishing or distributing the
+          ESG ratings of such ESG rating providers until ESMA has adopted a decision to grant
+          or refuse the application for authorisation or recognition, or to register the notifier as a
+          small ESG rating provider, as relevant. To this end, ESMA will publish and update at
+          regular intervals a list of entities that have notified it of their intention to continue
+          operating in the Union after that date.
+
+After 2 November 2026, it will no longer be possible for third parties to publish or distribute the
+ESG ratings of an ESG rating provider, unless such provider (i) has submitted an application
+for authorisation or recognition, or has submitted a notification for registration under the
+temporary regime for small ESG rating providers; and (ii) is listed in the Article 14 register3 that
+will become available on the ESMA website.
+
+After 2 November 2026, third parties should consult this register to determine the identities of
+the ESG rating providers from which it will be possible to continue to publish or distribute ESG
+ratings.
+
+
+
+3
+ In accordance with Article 14 of the Regulation, ESMA shall establish and maintain a publicly accessible register on its website,
+which shall contain, among other elements, the identities of ESG rating providers authorised pursuant to Article 8, recognised
+pursuant to Article 12 or registered pursuant to Article 5 of the Regulation. ESMA shall also temporarily list in the same register
+ESG rating providers who have notified it of their intention to continue operating in the Union in accordance with Article 51 of the
+Regulation.
+
+                                                                                                                                  2
+

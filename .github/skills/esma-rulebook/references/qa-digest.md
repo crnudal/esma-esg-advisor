@@ -1,0 +1,24 @@
+# ESMA Q&As on the ESG Ratings Regulation: digest
+
+Q&As are not legally binding, but they state how ESMA (or the Commission, where noted) reads the Regulation and will supervise. URL pattern: `https://www.esma.europa.eu/publications-data/questions-answers/<ID>`. Checked against the downloaded Q&A pages (`library/text/QA-<ID>.txt`) on 23 Oct 2026; quote from those files. New batches appear in ESMA's "New Q&As available" news items; checking ESMA's site is read-only, but adding new Q&As to the library needs the user's go-ahead (see `library-maintenance.md`).
+
+| ID | Date | Topic | Answer in one line |
+|---|---|---|---|
+| 2716 | 11 Dec 2025 | Art 15(12) issuer feedback | No duty to adopt the rated item's comments, but they must be weighed before issuance; the provider stays responsible for quality. |
+| 2717 | 11 Dec 2025 | Art 15(12) no designated contact | Take all reasonable steps to reach the rated item (IR, press office, debt management office for sovereigns); generic mailboxes only as a fallback; **keep records of efforts**. |
+| 2719 | 11 Dec 2025 | Art 15(12) application in time | Applies to ratings issued on or after 2 Jul 2026. Earlier ratings must be notified once for fact-check when updated or revised after 2 Jul 2026, incl. after a material methodology change. Intra-group transfer of a portfolio without material methodology change is not a "first issuance". |
+| 2890 | 10 Jul 2026 | Art 15(12) scope of 2 days | The 2 working days cover notification and the dataset-access request only. The fact-check may run longer at the provider's discretion; after 2 days the provider may issue without waiting. |
+| 2891 | 10 Jul 2026 | Art 15(12) dataset access | Access must be granted "upon request of the issuer or rated item … as soon as possible", or automatically together with the notification. |
+| 2737 | 18 Dec 2025 | Art 5 group-affiliated small providers | A small entity in a medium or large group cannot use the temporary regime (recital 48, anti-circumvention). |
+| 2738 | 18 Dec 2025 | Art 5 ESMA assessment | ESMA checks only small-undertaking status (Accounting Directive Art 3(2)/(5)), not compliance with Art 15(1), (5), (7), 23, 24, 32-37. |
+| 2739 | 18 Dec 2025 | Art 5 notification content | At minimum audited annual financial statements and employment records; new entities may give projections signed off by management. |
+| 2740 | 18 Dec 2025 | Art 5 outgrowing the regime | Full obligations apply; apply within 6 months under Art 6; may operate while pending; must stop and is removed if no application or refused. |
+| 2806 | 18 Mar 2026 | Art 2(2)(b) internal use (Commission answer) | Internal or in-house use by regulated financial undertakings is exempt if not published or distributed to third parties: e.g. treasury, risk management, internal lending, intragroup portfolio building, product-offer decisions where the rating is not disclosed. |
+| 2807 | 18 Mar 2026 | Art 2(2)(i) SPO providers (Commission answer) | SPOs are in scope only if they contain an ESG rating: a distinguishable rating embedded in the SPO, an SPO marketed as a rating, or a relabelled rating. Requirements then apply to the rating part. |
+| 2853 | 22 May 2026 | Definition: defined ranking system | An "ordinal or hierarchical structure" with "two or more pre-determined rating categories, including the minimum and maximum levels, enabling consistent comparison"; categories may be numbers, letters, colours or symbols. |
+| 2854 | 22 May 2026 | Transitional provisions | Small existing providers notify by 2 Nov 2026 and "should, ideally, notify ESMA by 2 September". Non-small existing providers notify by 2 Aug 2026, then apply within 4 months of 2 Jul 2026, operating meanwhile. Otherwise cease. |
+| 2855 | 22 May 2026 | Providers established after entry into force | Successors with structural links (subsidiary, affiliate, trading name, IP, beneficial ownership, control) to an entity operating at entry into force may use Art 51; others must use an Art 4 route or Art 5. |
+| 2856 | 22 May 2026 | Material changes (Art 6(5); also EuGB) | Changes that may affect the initial conditions of registration: legal status or ownership; key personnel or outsourcing; **methodologies, models, key assumptions, review procedures**, conflict arrangements; new offices or services (esp. conflicting ones); financial difficulty, crossing size thresholds, sanctions. Notify ESMA. |
+| 2889 | 10 Jul 2026 | Art 16(1)(a) consulting | Consulting to be separated is advice that could affect rating independence (e.g. advising how to improve a rating, KPIs or disclosure strategy); unrelated tax or accounting advice is not. |
+
+Contacts (ESMA hub page): filings `esgrpauth@esma.europa.eu`; questions `ESGR_queries@esma.europa.eu`. ESMA asks applicants to notify it informally two weeks before submitting an application.

@@ -1,0 +1,248 @@
+SOURCE: Self-Assessment Tool - products
+REFERENCE: 
+DATE: 2026-06
+URL: https://www.esma.europa.eu/sites/default/files/2026-06/esg_rating_product_self_assessment.html
+FILE: sources/ESMA_tool_product_self_assessment.html
+
+Self-Assessment Tool - ESG Rating Regulation (EU 2024/3005)- Product assessment 
+
+For any query contact ESGR_queries@esma.europa.eu Determine whether your product qualifies as an “ESG rating” and falls within the regulatory scope
+
+How to use this tool
+
+ This questionnaire follows a two-step structure aligned with the Regulation:
+ (1) assess whether the product meets the definition of an ESG rating (Article 3); and
+ (2) if so, assess whether a scope exclusion applies (Article 2(2)).
+ This tool is provided purely for information purposes, does not constitute legal or other advice, and is without prejudice to ESMA’s specific assessment of each case. Entities should not rely solely on this tool to make compliance decisions and ESMA does not assume any liability for its content.
+
+1
+
+Indicate whether the product concerns any of the following topics:
+
+Select all that apply.
+
+ Profile or characteristics with regard to environmental, social, human rights, and/or governance factors.
+ Exposure to risks on environmental, social, human rights, and/or governance factors.
+ Impacts on environmental, social, human rights, and/or governance factors.
+ None of the above.
+
+ Validate answer
+
+2
+
+Indicate whether the ESG product concerns any of the items listed below:
+
+Select all that apply.
+
+ Legal persons.
+ Financial instruments as listed in Section C of Annex I to Directive 2014/65/EU.
+ E.g., Transferable securities, Money-market instruments, Units in collective investment undertakings.
+
+ Financial products.
+ Public authorities or bodies governed by public law.
+ None of the above.
+
+Disclaimer: The items identified above are considered to fall within the scope of the ESG product irrespective of whether they are explicitly or implicitly rated by it, whether the product is requested, or whether the legal person, public authority or body governed by public law has provided information for that ESG product.
+
+ Validate answer
+
+3
+
+Is the ESG product based on an established methodology?
+
+ Yes
+ No
+
+4
+
+Is the ESG product based on a defined ranking system of rating categories?
+
+Disclaimer: The defined ranking system reflects the rating provider’s value judgement in an ordinal or hierarchical structure and comprises two or more pre-determined rating categories, including the minimum and maximum levels, enabling consistent comparison across rated items. The rating categories can be represented by numbers, letters, colours or other symbols. 
+
+ Yes
+ No
+
+5
+
+Does the ESG product meet any of the following descriptions:
+
+Select one option.
+
+ An ESG assessment involving directly a rating analyst in the rating process.
+ Rating analyst means a person who performs analytical functions for the purpose of issuing the ESG product.
+
+ An ESG measure derived from data and based only on a pre-established statistical or algorithmic system or model, without any additional substantial analytical input from a rating analyst.
+ Rating analyst means a person who performs analytical functions for the purpose of issuing the ESG product.
+
+ Combination of both.
+
+6
+
+Is it a private ESG rating?
+
+Private ESG ratings are not intended for public disclosure or distribution.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+7
+
+If your entity is a regulated financial undertaking in the Union, is the ESG rating used exclusively for internal purposes?
+
+I.e., including in-house or intragroup financial services or products
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+8
+
+If your entity is a regulated financial undertaking in the Union, is the ESG rating incorporated in an already regulated financial product or service under Union law, and disclosed to a third party?
+
+E.g., social security systems, sustainability‐related disclosures in the financial services sector, European crowdfunding service providers for business, markets in crypto-assets, indices used as benchmarks in financial instruments and financial contracts.
+
+Including under Regulation (EC) No 883/2004 of the European Parliament and of the Council, Regulation (EU) 2019/2088, Directives 2013/36/EU, 2014/65/EU, 2009/138/EC, 2009/65/EC, 2011/61/EU and (EU) 2016/2341 of the European Parliament and of the Council and Regulations (EU) 2020/1503, (EU) 2023/1114 and (EU) 2016/1011 of the European Parliament and of the Council.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+9
+
+Is it a credit rating or a ESG-related score or assessment produced/published as part of the methodologies for credit ratings?
+
+I.e., including ESG-related score or assessment produced/published as an input or output of the creditworthiness assessment for credit ratings.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+Disclaimer: Credit ratings issued pursuant to Regulation (EC) No 1060/2009.
+
+ Yes
+ No
+
+10
+
+Does the product or service incorporate an element of an ESG Rating?
+
+E.g., Investment research as laid down in Directive 2014/65/EU (MiFID II)
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+11
+
+Is it an external review of European Green Bonds under Regulation (EU) 2023/2631?
+
+ Yes
+ No
+
+12
+
+Is it an external review or second-party opinion on a bond/debt instrument marketed as sustainable that does not contain an ESG rating issued by the reviewer/second-party opinion provider?
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+13
+
+Is the ESG Rating part of the mandatory disclosure under Regulation (EU) 2019/2088 (SFDR)?
+
+Articles 6, 8, 9, 10, 11 and 13 of Regulation (EU) 2019/2088, on sustainability‐related disclosures in the financial services sector.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+14
+
+Is the ESG Rating part of the disclosures under Regulation (EU) 2020/852?
+
+Articles 5, 6 and 8 of Regulation (EU) 2020/852, on the establishment of a framework to facilitate sustainable investment.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+15
+
+Is the ESG Rating developed exclusively for certification or accreditation processes, which do not target investment/financial analysis or decision-making, or for labelling activities?
+
+Warning: If developed for labelling activities, the label granted to the relevant entities, financial instruments or financial products must not involve the disclosure of the ESG rating.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+16
+
+Does the product involve ESG ratings published or distributed for non-commercial purposes and issued by Union institutions, bodies, offices and agencies, Member State public authorities, members of the European System of Central Banks, or by non-profit organisations (the latter only if provided free of charge)?
+
+Warning: Where non-profit organisations charge rated items or issuers of rated items to report data or to get rated through their platform, or where they charge users of ESG ratings to access any information on ESG ratings, they shall be subject to the requirements of this Regulation.
+
+Disclaimer: User of ESG ratings means a natural or legal person, a public authority, an agency or other body governed by public law, to which an ESG rating is distributed by subscription or other contractual relationships.
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+17
+
+Is the ESG product the publication or distribution of data on environmental, social and human rights, and governance factors?
+
+ Yes
+ No
+
+18
+
+If the ESG rating is issued by ESG rating providers established outside the Union that are not authorised or recognised under Title II, does it meet all the following conditions?
+
+a) The ESG rating is distributed at the own exclusive initiative of the user of the ESG rating established in the Union without any prior contact, solicitation, promotion, advertisement or any other initiative by the ESG rating provider, or by any third party on behalf of the provider.
+
+b) There is no substitute for the ratings offered by any ESG rating provider authorised under the Regulation (EU) 2024/3005.
+
+Disclaimer:The ESG rating provider established outside the Union should not have a substantial market share in the Union for its ESG rating activities or should not have a website in at least one of the official languages of the Union that is not customary in international finance in order for the ESG rating to be considered as distributed at the own exclusive initiative of the user.
+
+Warning:The own exclusive initiative of a user of ESG rating shall not entitle an ESG rating provider established outside the Union to distribute ESG ratings to that user in a recurrent manner, nor to distribute ESG ratings to any other user of ESG ratings in the Union.
+
+ Yes
+ No
+
+19
+
+Is the ESG rating issued by an authorised ESG rating provider but is published or distributed by a third party?
+
+Disclaimer: ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.
+
+ Yes
+ No
+
+Definition likely met — now check regulatory scope
+
+ Go back
+ Continue to scope checks
+
+ Indicative next steps if the product appears to be in scope:
+
+Confirm the scope assessment against Articles 2 and 3, including any applicable exclusions.
+
+Assess whether you are providing an ESG rating as an ESG rating provider.
+
+Choose access route: Authorisation (Art. 4 and 6 to 8), Third-country Equivalence (Art. 10), Endorsement (Art. 11), or Recognition (Art. 12).
+
+Prepare governance, methodology transparency and conflict-of-interest arrangements (Title III).
+
+Check the temporary regime for small providers established in the Union (Art. 5).
+
+ This tool aims to help entities self-assess whether they may fall within the scope of Regulation (EU) 2024/3005, in accordance with Articles 2 and 3 thereof. It is provided purely for information purposes, does not constitute legal or other advice, and is without prejudice to ESMA’s specific assessment of each case. Entities should not rely solely on this tool to make compliance decisions and ESMA does not assume any liability for its content.

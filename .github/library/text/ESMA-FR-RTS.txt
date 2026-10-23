@@ -1,0 +1,2909 @@
+SOURCE: ESMA Final Report on draft Technical Standards under the ESG Rating Regulation
+REFERENCE: ESMA84-2037069784-1184
+DATE: 2025-10-15
+URL: https://www.esma.europa.eu/sites/default/files/2025-10/ESMA84-2037069784-1184_Final_Report_on_Technical_Standards_under_ESG_Rating_Regulation.pdf
+FILE: sources/ESMA_2025-10-15_Final_Report_RTS_ESGR.pdf
+
+                                                                 15 October 2025
+                                                         ESMA84-2037069784-1184
+
+
+
+
+Final Report
+Technical Standards under the Regulation on the transparency and
+integrity of Environmental, Social and Governance (ESG) rating activities
+
+
+
+
+                                                                              1
+                                                                                                                  15 October 2025
+                                                                                                          ESMA84-2037069784-1184
+
+
+
+
+Table of Contents
+
+1     Executive Summary ....................................................................................................... 3
+2     Overview of the Final Report .......................................................................................... 4
+3     Feedback Statement ...................................................................................................... 6
+4     Next Steps.....................................................................................................................29
+5     Annexes ........................................................................................................................30
+    5.1     Annex I – Cost Benefit Analysis..............................................................................30
+    5.2     Annex II Draft Technical Standards ........................................................................34
+      5.2.1    Draft Regulatory Technical Standard under Article 6(3) and 12(9) of EU
+      Regulation 2024/3005 ...................................................................................................34
+      5.2.2   Draft Regulatory Technical Standard under Article 16(5) of EU Regulation
+      2024/3005 .....................................................................................................................48
+      5.2.3    Draft Regulatory Technical Standard under Articles 23(4) and 24(3) of EU
+      Regulation 2024/3005 ...................................................................................................52
+    5.3     Annex III List of Questions......................................................................................59
+    5.4     Annex IV Securities Markets Stakeholder Group Advice to ESMA .........................60
+
+
+
+
+                                                                                                                                      2
+                                                                                     15 October 2025
+                                                                             ESMA84-2037069784-1184
+
+
+
+
+1 Executive Summary
+  Reasons for publication
+
+ The Regulation on the transparency and integrity of Environmental, Social and Governance
+ (ESG) rating activities (‘the Regulation’) was published in the Official Journal of the European
+ Union on 12 December 2024. This regulation introduces a common regulatory approach to
+ enhance the integrity, transparency, comparability where possible, responsibility, reliability,
+ good governance and independence of ESG rating activities. In so doing it aims to contribute
+ to the transparency and quality of ESG ratings and to the sustainable finance agenda of the
+ European Union.
+
+ In order to facilitate the smooth implementation of the Regulation there are a number of
+ empowerments for ESMA to deliver draft regulatory technical standards in the areas of
+ authorisation, recognition, separation of activities and disclosures.
+
+ ESMA launched a public consultation on these draft regulatory technical standards in May
+ 2025. The public consultation closed on 20 June. In total 57 responses were received in
+ response to the public consultation from a wide variety of stakeholders including financial
+ market participants, industry associations, academics, rating providers and other interested
+ parties.
+
+ ESMA has revised the three RTS to take into account the feedback received to the public
+ consultation. For the RTS on authorisation and recognition this has involved the removal or
+ simplification of a number of information requirements. For the RTS on separation of business,
+ the requirement for a physical separation of staff remains, however other requirements such
+ as requirements for network segmentation have been clarified or removed when it was judged
+ to be imposing excessive burden. For the RTS on Disclosures a number of elements have
+ been revised to ensure they are practically achievable by ESG rating providers, while others
+ have been removed when it was judged they did not provide sufficient added value for the
+ burden that was imposed.
+
+ Elsewhere, ESMA has maintained the approach of the consultation paper with regards to the
+ Table that sets out the sequence and structure of disclosures, and has kept it limited only to
+ those items intended for public disclosure. Limited revisions have been made to the cost
+ benefit analysis to reflect views provided.
+
+ Contents
+
+ The main body of this Final Report (section 3) summarises the contributions received to the
+ consultation conducted by ESMA and explains how this feedback has been considered in the
+ revised technical standards.
+
+
+                                                                                                    3
+                                                                                       15 October 2025
+                                                                               ESMA84-2037069784-1184
+
+
+
+
+     Annex I presents the revised cost benefit analysis.
+
+     Annex II presents the full text of the final draft RTS.
+
+     Annex III sets out the list of questions contained in the Consultation Paper.
+
+Next Steps
+
+ESMA has submitted the draft technical standards to the European Commission for adoption
+by means of a Commission Delegated Regulation (for RTS). The technical standards will also
+be subject to non-objection by the European Parliament and Council.
+
+
+
+ 2 Overview of the Final Report
+
+ 2.1 Background
+
+ 1. The Regulation was published in the Official Journal of the European Union on 12
+    December 2024 and entered into force on 3 January 2025 1 . It included a number of
+    empowerments for ESMA to provide technical advice to the European Commission on draft
+    regulatory technical standards, with a deadline of 2 October 2025.
+
+ 2. This Final Report contains the technical standards covering under Articles 6(3), 12(9),
+    23(4) and 24(3) of the Regulation. The content of these technical standards relates to (i)
+    applications for authorisation (ii) applications for recognition (iii) separation of business (iv)
+    disclosures to the public, users and rated items.
+
+
+ 2.2 Public Consultation Process
+
+ 3. ESMA launched a public consultation on these draft regulatory technical standards in May
+    2025. The public consultation closed on 20 June.
+
+ 4. Feedback received to the public consultation provided significant levels of information for
+    ESMA to consider. In considering this feedback ESMA has also been mindful of the wider
+    initiative for simplification and burden reduction. As a result, the revisions to the finalised
+    RTS have aimed at removing or clarifying elements which could be considered unduly
+    onerous or ambiguous.
+
+
+
+
+ 1
+  REGULATION (EU) 2024/3005 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27
+ November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating
+ activities, and amending Regulations (EU) 2019/2088 and (EU) 2023/2859
+                                                                                                    4
+                                                                         15 October 2025
+                                                                 ESMA84-2037069784-1184
+
+
+
+
+5. In the revised draft RTS ESMA has aimed to strike a balance between the competing
+   objectives of the Regulation and interests of relevant stakeholders.
+
+
+
+
+                                                                                      5
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+3 Feedback Statement
+
+3.1 Applications for Authorisation and Recognition
+6. A total of 44 respondents provided comments in response to Question 1 of the Consultation
+   Paper.
+
+7. In this regard, the finalised proposed draft RTS under Articles 6(3) and 12(9) is set out
+   under Annex II Section 7.2.1 of this Final Report
+
+8. A total of eleven respondents indicated full agreement with the proposed draft RTS.
+   Feedback was also largely supportive of the draft RTS and the approach of merging the
+   empowerments for authorisation and recognition applications into a single technical
+   standard.
+
+9. All other respondents provided general remarks that suggested areas where the draft RTS
+   could be simplified, clarified or reduced in terms of the level of information being requested.
+
+10. General comments on the RTS were provided as follows:
+
+11. Regarding the approach of consolidating the technical standards for both authorization and
+    recognition into a single RTS, three respondents support ESMA’s effort to reduce
+    duplication and regulatory simplification, while one respondent highlights that the
+    regulatory, geopolitical, and economic conditions may diverge over time and that a unified
+    RTS could limit ESMA’s flexibility to adapt these frameworks separately in the future. Five
+    respondents indicated that the ESG Rating definition provided by Level 1 regulation is
+    broad and vague, resulting in unclear boundaries regarding which products fall within or
+    outside the scope of the Regulation.
+
+12. Two respondents agreed with the machine-readable requirement for submitted
+    documentation but requested concrete examples to reduce regulatory uncertainty.
+
+13. Two respondents stressed the need for guidance from ESMA on what kinds of
+    circumstances, according to Article 6(5), would be considered material if changed and
+    therefore required to be communicated to ESMA, in order to avoid a large number of
+    burdensome notifications.
+
+14. One respondent stressed that certain global organisations operate through several legal
+    entities across jurisdictions and that some organisational functions may be provided at
+    group level or from group affiliates. This organisation model may result in multiple entities
+    contributing to the work of assigning ESG ratings.
+
+
+
+
+                                                                                                 6
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+15. Three respondents raised the lack of a clear definition for consulting services as being an
+    issue hindering implementation, while one of them also noted that the ability to mutualise
+    group support functions was not clearly defined.
+
+16. Regarding the recognition of third-country ESG rating providers, one respondent
+    mentioned that they considered the requirements are overly restrictive compared to other
+    regulations and more burdensome than those for authorisation of EU-based providers.
+    Additionally, two other participants requested the removal of the net turnover limit for non-
+    EU providers.
+
+17. One respondent agreed that requiring rating providers to submit detailed explanations of
+    their models, rating assumptions and sectoral materiality frameworks is critical to ensuring
+    consistency and comparability. It recommended to assess whether applicants have
+    procedures in place for engaging with rated entities, particularly those in complex sectors.
+    Understanding whether and how a provider incorporates issuer feedback or sectoral
+    expertise can provide early insights into methodological integrity.
+
+18. Finally, one respondent suggested that applicants should also provide a signed statement
+    outlining how their governance and data-quality controls mitigate potential systemic ESG
+    rating failures. This statement should additionally describe how the rating models
+    incorporate data from SMEs and minority-owned issuers.
+
+19. Comments on the specific requirement listed in Annex II of the RTS were provided as
+    follows:
+
+20. Seven respondents commented on the ownership structure and the chart showing
+    ownership ( Part D) links between any parent undertaking, subsidiaries, and other
+    associated entities. Six of them stressed that the requirement goes beyond the scope of
+    the Level 1 provision by extending it to subsidiaries and, in particular, associated entities.
+    These respondents suggested providing only a clear and comprehensive overview of the
+    applicant entity’s ownership structure. One respondent requested clarification on the
+    definition of "associated entities."
+
+21. Five participants commented on Part F (Senior Management) . ESMA received four
+    comments regarding the requirement for recent criminal records of senior management.
+    Three respondents highlighted that, in some jurisdictions, obtaining such records can be
+    costly and difficult—especially if the individual left their country of origin at a young age.
+    They suggested allowing a self-declaration instead. Another participant in the consultation
+    requested clarification on the term “recent”. Two respondents stressed that certain
+    information of personal nature (e.g. place of birth, date of birth) should not be necessary.
+
+22. Twelve participants provided comments on Part G (on Analytical resources). Four
+    respondents requested clarification on the meaning of “directly involved” in “ESG rating
+    activities.” One respondent noted that some providers may not have employees who meet
+
+                                                                                                 7
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+   the definition of rating analysts, as their score calculations are performed by algorithms
+   based on predefined rules and formulas for aggregating and weighting ESG data, without
+   any analyst discretion. Another respondent questioned whether it is necessary for ESG
+   rating providers to disclose information about “any person” suggesting this may be
+   excessive, as not all individuals are critical to the ESG rating business.
+
+23. Four respondents argued that requiring the disclosure of analysts’ names, roles, and types
+    of contracts goes beyond the scope of the Level 1 text. To remain proportionate and aligned
+    with the Regulation, they suggested limiting the requirement to reporting the average
+    number of years in a role and in the industry, per role category. One respondent also
+    emphasized that the distinction between rating analysts and other staff is already defined
+    in the Regulation, and ESMA should ensure consistency so that the scope of these
+    obligations remains aligned with the Level 1 requirements.
+
+24. Seven respondents provided comments on Part H (Expected Market Coverage). Four
+    participants requested clarification on the definition of “ESG Rating product,” noting that it
+    could encompass a wide range of ESG data products. Two respondents argued that the
+    requirement to report on geographical markets is overly burdensome and disproportionate.
+    Finally, one respondent asked for clarification on the time period that the information
+    regarding expected products and the expected number of rated items should cover. It also
+    stressed that the terms used in this section are not defined in the Regulation, but assumed
+    that an “investor-paid ESG Rating” would not be considered unsolicited by ESMA.
+
+25. Regarding Part I (on the procedures and methodologies of ESG ratings) of Annex II,
+    ESMA received comments from ten respondents. One respondent considered the process
+    onerous and likely to result in a lengthy application. Additionally, another respondent
+    highlighted that it would be burdensome for firms seeking authorisation to prepare both the
+    actual disclosures and a slightly less detailed version for the authorisation application,
+    especially since the latter does not directly map to the actual disclosures. This was seen
+    as creating an undue procedural burden.
+
+26. Conversely, one respondent suggested that the RTS should provide more guidance on the
+    structure and granularity of the expected information to assist providers in their
+    submissions. Furthermore, another respondent proposed the inclusion of the following
+    elements: i) Transparency regarding the scoring grid and any potential deviations based
+    on company-specific contexts; ii) A specific point addressing engagement procedures with
+    rating entities to ensure direct feedback can be considered, particularly in cases of factual
+    errors; iii) A specific point related to the assessment of controversies; iv) A requirement
+    that ESG ratings be based on the most recent available reporting, with a reasonable
+    timeframe for data integration. Finally, one respondent requested clarification on the
+    meaning of “model” in this context.
+
+
+
+
+                                                                                                 8
+                                                                                      15 October 2025
+                                                                              ESMA84-2037069784-1184
+
+
+
+
+27. Four respondents requested clarification on the definition of “scientific evidence” and the
+    reference to “other relevant international agreements.” Additionally, one more respondent
+    called for greater transparency when “scientific evidence” is cited.
+
+28. Four respondents commented on the review of ratings and methodologies. They noted that
+    reviewing individual ratings is burdensome, while Level 1 only requires regular review of
+    ESG rating methodologies. Accordingly, one respondent suggested deleting the proposed
+    requirements related to individual rating products, models, and assumptions, as these go
+    beyond the scope of Level 1.
+
+29. One respondent emphasized that changes to methodologies, models, and key rating
+    assumptions should be announced well in advance of their implementation, and that
+    changes during an ongoing rating process should be avoided. On the same topic, another
+    participant requested clarification on: i) When updates must be made to previously
+    provided information; ii) The threshold of significance that would trigger an update to the
+    methodology; iii) How such updates would be communicated to the market, including
+    affected rated entities.
+
+30. Finally, one respondent sought confirmation that second-party opinions (SPOs) containing
+    a form of grading would not fall within the scope of the Regulation as ESG ratings. In any
+    case, for SPOs that are in scope, the respondent suggested clarifying that the Regulation
+    and RTS apply only to the ESG ratings contained within the SPO, not to the entire SPO.
+
+31. ESMA Response: ESMA has made a number of changes to the final draft RTS to take on
+    board the comments and feedback raised during the consultation. The first main change
+    concerns Part D of Annex II (Ownership Structure). In the revised draft RTS the scope
+    of the chart showing ownership links has been reduced from parent undertakings,
+    subsidiaries and any other associated entities, to just parent undertakings and subsidiaries.
+
+32. Second, changes have been introduced under Part F of Annex II (Senior Management)
+    to simplify the provision. In order to address questions as to the potentially limited relevance
+    of a criminal record from the “country of origin”, ESMA has now revised the provision so
+    that it is looking for a criminal record file. This can now be either the country of origin,
+    countries of residence or a combination of these, depending on the personal
+    circumstances. If the person in question has been resident in multiple countries, then the
+    criminal record certificates should cover each of those countries, if the person has only
+    been resident in one country, then it is only necessary to receive the element from that
+    country. In addition, ESMA has revised the provision so that it is now only focused on a set
+    list of financial crimes. The revised wording of the provision is less prescriptive than before
+    and allows for this flexibility. The provision is now also fully aligned with other ESMA’s
+    relevant sustainable finance supervision mandates.
+
+33. Third, ESMA has simplified the provision concerning information on staffing resources
+    under Part G of Annex II (Staffing Resources). Previously it was necessary to provide 5
+                                                                                                   9
+                                                                                     15 October 2025
+                                                                             ESMA84-2037069784-1184
+
+
+
+
+   data points for each person directly involved in the provision of ESG ratings. To simplify,
+   ESMA has revised the RTS so that it is now only necessary to provide a description of the
+   number, training and experience of the staff within the entity. This has been split into
+   different parts, with a dedicated section to describe analysts, and then a separate section
+   to describe the staff that are not carrying out the function of rating analysts. ESMA
+   recognises that some entities may not employ staff that would be categorised as “rating
+   analysts” and therefore the second part which allows the applicant to describe the positions
+   of the persons that it does employ would be more applicable. In addition, there is the
+   possibility for the applicant to provide a description of the staff that are employed in support
+   roles such as compliance and information technology.
+
+34. Fourth, ESMA has simplified information to be provided in respect of Part H of Annex II
+    (Expected Market Coverage) by reducing the amount of information to be provided to a
+    description of the products to be offered in the EU and the number of rated items per
+    product.
+
+35. Fifth, the reference to the provision of “models and key rating assumptions” has been
+    removed from Part I of Annex II, it is sufficient for an entity to provide its methodology.
+
+36. Sixth, for entities applying for Recognition ESMA has reduced the information to be
+    provided in respect of Part C of Annex III (Information on ESG ratings intended to be
+    distributed in the Union). Here the RTS is no longer asking for a list of ratings that
+    includes four data points for each rating. It is now sufficient to simply provide a list of the
+    ratings in .csv format, with no specified data points. No less information can be required on
+    the basis that this is a requirement that derives from the Level 1 Regulation.
+
+37. Finally, numerous other minor changes have been introduced to improve clarity or ensure
+    that what is being requested from applicants is feasible and relevant for ESMA’s
+    supervisory assessment.
+
+
+3.2 Separation of Activities
+38. A total of 41 respondents provided comments in response to Question 2 of the Consultation
+    Paper, which dealt with the empowerments under Article 16(5) of the Regulation. A total of
+    four respondents outlined that they fully agreed with the proposed draft RTS, with no
+    additional comments or suggestions.
+
+39. Other respondents provided comments which largely focused on one particular aspect of
+    the draft regulatory technical standard, namely the requirement for the physical separation
+    of staff under Article 1(1)(b). A number of contributions opposed the proposed measure
+    on the basis of proportionality and undue imposition of costs.
+
+40. In this regard, most respondents believed that the requirement, as drafted, was too
+    prescriptive and rigid. Other respondents claimed that this was a substantially new
+                                                                                                 10
+                                                                                      15 October 2025
+                                                                              ESMA84-2037069784-1184
+
+
+
+
+   requirement not supported by Level 1 and exceeding ESMA’s mandate. One respondent
+   said that instead of requiring physical separation, several of the measures envisaged by
+   Article 2 would already achieve the goal of ensuring an appropriate level of segregation
+   between activities while also being practicable to implement. Another respondent claimed
+   that incentivizing remote work should be regarded as a viable alternative to physically
+   separate the different irreconcilable activities in the same office.
+
+41. Some respondents also expressed the view that the requirements were particularly
+    disproportionate for smaller providers. For instance, one respondent proposed that the
+    physical separation requirement should only be implemented where the ESG rating
+    provider has more than 10 full-time rating analysts at its disposal.
+
+42. In relation to the self-declaration requirement in Article 1(1)(c), one respondent claimed
+    that the requirement created only an additional obligation for ESG rating providers without
+    delivering additional benefits. Another contribution made the point that a code of ethics,
+    coupled with self-declarations on personal investments, holdings and outside activities,
+    would suffice, noting that existing policies and procedures already ensure employees have
+    roles that prevent them from engaging in the activities listed in Article 16(1). Additionally, a
+    few respondents considered that the requirement for a conflict of interest self-declaration
+    by staff to be conducted “at regular intervals” in Article 1(1)(c) was excessively vague,
+    leading to inconsistent interpretations. Finally, one respondent suggested that these are
+    signed off by the hierarchical superior of the declaring employee to ensure managerial
+    accountability for such declarations.
+
+43. A minority of contributions highlighted that ESMA’s mandate to develop the RTS, as set
+    out in Article 16(5) of the Regulation, did not extend to paragraph 1 of the same Article, but
+    only pertains to the derogation as set out in paragraphs 2, 3 and 4. As such, they suggested
+    the deletion of the entire Article 1 of the RTS, which applies to all ESG rating providers
+    covered by Article 16(1).
+
+44. In relation to Article 2(1)(a), one respondent raised concerns that achieving “network
+    segmentation” would amount to an unnecessary, costly and time-consuming endeavor.
+
+45. One contribution questioned the added value of the implementation of data classification
+    levels, as per Article 2(1)(b), noting that Level 1 already requires that non-public
+    information be treated with care.
+
+46. One respondent highlighted that clarification was needed on how frequently the training
+    set out in Article 2(1)(d) should occur and whether this should vary depending on the levels
+    of understanding demonstrated following completion.
+
+47. With respect to the “contractual measures that ensure compliance of employees,
+    throughout the term of their employment, with the internal policies of ESG rating providers”,
+    pursuant to Article 2(1)(e), one contribution suggested that such contractual provisions
+
+                                                                                                  11
+                                                                                   15 October 2025
+                                                                           ESMA84-2037069784-1184
+
+
+
+
+    are included in Article 1(1)(a) of the RTS, in order to extend to all ESG rating providers
+    covered by Article 16(1) of the Regulation.
+
+48. In relation to Article 3, one respondent stressed that to perform the assessment of conflicts
+    of interest in point (c) at group level would be significantly onerous and provide limited
+    value. Another response stated that the integration of ESG ratings into proprietary indices
+    licenced by the same corporate group is a key structural risk unaddressed by the RTS.
+
+49. More generally, several interpretational queries related to Level 1 were received, in
+    particular on the meaning of “consulting activities” and “direct involvement in the
+    assessment process”. On the latter, one respondent claimed that no legal or structural
+    separation should be required between analytical employees responsible for ESG
+    methodology development and those executing technical implementation, given their need
+    for regular collaboration.
+
+50. A number of responses called for the measures and safeguards proposed in the RTS to
+    go further, including:
+
+      •      putting in place controls around compensation arrangements to eliminate or
+             appropriately manage conflicts of interest;
+      •      requiring the disclosure of the nature of compensation arrangements or any other
+             business or financial relationships with rated entities;
+      •      conducting diversity and ethics training;
+      •      requiring public disclosure of intragroup services.
+51. One respondent stated that a clarification was needed on whether an ESG rating provider
+    and a separate entity within the same group - providing services under Article 16(1) - are
+    permitted to share functions such as IT, HR and senior management.
+
+52. ESMA Response: With regards to the request for greater proportionality for smaller
+    players, ESMA recognises that these entities face greater challenges in complying with
+    certain provisions of the RTS compared to larger entities. For this reason, the Regulation
+    includes a temporary regime under Article 5 that provides for an up to 3-year exemption
+    for small undertakings 2 from complying with Article 16, including the present RTS.
+    Furthermore, ESMA has decided not to introduce additional measures beyond those
+    already consulted on, as many of the measures proposed by respondents, such as
+
+
+
+
+2
+ ESG rating providers established in the Union categorised as a small undertaking or as a
+small group within the meaning of Article 3(2), first subparagraph, or Article 3(5), first
+subparagraph, respectively, of Directive 2013/34/EU.
+
+                                                                                               12
+                                                                                      15 October 2025
+                                                                              ESMA84-2037069784-1184
+
+
+
+
+   pre-contractual due diligence, safeguards related to compensation arrangements and
+   additional disclosures, already result from Articles 25 and 26 of the Regulation.
+
+53. ESMA accepts that the term “at regular intervals” may raise questions as to the required
+    frequency of the submission of the self-declaration under Article 1(c) and lead to
+    inconsistency in market practices. As such, ESMA has amended the provision to require
+    the submission to take place “once every 12 months”.
+
+54. In relation to the calls for the code of ethics and other internal policies and procedures of
+    entities to suffice for the statement by analysts that they will not engage in conflicting
+    activities, instead of a dedicated self-declaration, ESMA notes that if the declaration
+    already exists within a code of conduct or similar internal document and requires annual
+    attestation, the requirement can be considered to be met. Moreover, ESMA believes that
+    the increased burden of requiring a managerial sign-off for the self-declaration is not
+    justified by the little perceived benefits of such a measure in safeguarding the
+    independence of employees.
+
+55. In light of the numerous comments from respondents reflecting the complexity of the
+    proposed measures in Article 1(1)(b), ESMA has shifted from the concrete references to
+    “segregated office space” and “secure access” to a more principles-based approach
+    focused on the independence of ESG rating activities and impartial decision-making, with
+    the intent to provide more discretion for entities in fulfilling the physical separation
+    requirement. ESMA further notes that physical separation can be achieved through simple
+    measures that enable ESG rating providers to function effectively without excessively
+    hindering collaboration or incurring significant costs. For example:
+
+      •       allocating different floors or separate office wings for analysts or teams engaged
+              in conflicting tasks;
+      •       using partition walls or separate doors;
+      •       related measures, such as restricting access to shared printers and/or meeting
+              rooms or implementing a clean desk policy to ensure sensitive materials are not
+              left unattended.
+56. ESMA disagrees with the view that imposing physical separation measures would not be
+    supported by its legislative mandate to develop the present RTS under Article 16(5) of the
+    Regulation, on the basis that Article 16(1) is not explicitly referred to in the empowerment.
+    The rationale being that ESMA has been tasked with specifying "measures and safeguards
+    (...) pursuant to paragraphs 2, 3 and 4" (which in turn relate to points (d), (f) (paragraph 2),
+    (c) (paragraph 3) and (a), (b) and (e) (paragraph 4), i.e. all of paragraph 1, and considers
+    that physical separation is a justified measure or safeguard that should be taken in addition
+    to the legal separation required by Article 16(1).
+
+57. In response to the questions raised by respondents, ESMA has removed the term “network
+    segmentation” from Article 2(1)(a), as it understands the same practical result can be
+                                                                                                  13
+                                                                                   15 October 2025
+                                                                           ESMA84-2037069784-1184
+
+
+
+
+   achieved with the sole reference to “role-based access”. The rationale is to ensure that
+   employees only access what they truly need to fulfil their role. This reduces the possibility
+   for actual or potential conflicts of interest to materialise through access to sensitive
+   information.
+
+58. ESMA disagrees with the view from a minority of contributions that Article 2(1)(b) is a mere
+    replication of the Regulation’s requirement to treat confidential information adequately, as
+    it goes far beyond confidential data. The measure involves the classification of all internal
+    documentation into levels based on sensitivity or potential for misuse (e.g. public, internal
+    use only, confidential, highly confidential) in order to prevent employees or departments
+    from accessing documents that could give rise to biased decision-making or misuse for
+    personal or organisational gain.
+
+59. Despite the call for a more precise definition of the required frequency of training on the
+    importance of information barriers in Article 2(1)(d), ESMA prefers to maintain the non-
+    prescriptive term “regular”, providing flexibility for entities to make their own judgements
+    through a risk-based approach.
+
+60. In addition to the changes to Article 2 listed above, ESMA has also removed the reference
+    to the group-level applicability of the proposed measures, given that this already results
+    from Article 16(2) of the Regulation (“In implementing such measures, the ESG rating
+    provider shall also take into account the activities of the group to which it belongs, if
+    applicable”). Additionally, while keeping the need to perform compliance monitoring
+    activities vis-à-vis the identification of conflicts of interest in Article 2(1)(f), ESMA has
+    redacted the reference to the review of employees’ communications to avoid being
+    excessively prescriptive, moving this instead to Recital 2 as a non-binding example of a
+    best practice that would fulfil the requirement. Finally, ESMA has reduced the mandatory
+    frequency of the assessment of the adequacy of the measures implemented under Article
+    2 to once every 24 months, on the basis that this would not substantially affect their
+    appropriateness and sufficiency.
+
+61. In relation to the several interpretational queries vis-à-vis terms viewed by respondents as
+    ambiguous in the Regulation (“consulting activities”, “direct involvement”), ESMA takes
+    notes of these issues which are nevertheless beyond its empowerments under the
+    Regulation. However, ESMA is aware of the importance of further clarity on these issues
+    and will consider the feasibility of further action.
+
+62. ESMA also wishes to highlight that it is not the purpose of the present RTS to address the
+    topic of the sharing of functions between two or more entities within a corporate group
+    providing the services listed in Article 16(1) of the Regulation.
+
+63. Finally, other aspects raised by respondents that are unrelated to the legal empowerment
+    under consideration or that pertain to choices made by the co-legislators, fall outside the
+    scope of this Final Report and cannot be addressed herein.
+                                                                                               14
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+64. In addition to the changes set out above, ESMA has also performed minor drafting
+    amendments and language refinements to the recitals and Articles 1, 2 and 3 in order to
+    enhance the clarity and readability of the RTS.
+
+
+3.3 Disclosure to the public, users of ESG ratings, rated items and
+    issuers of rated items
+
+65. A total of 48 respondents provided comments in response to questions 3 and 4 of the
+    Consultation Paper.
+
+66. In this regard, the finalised proposed draft RTS under Article 23(4) and 24(3) is set out
+    under Annex II Section 7.2.3 of this Final Report.
+
+67. A total of three respondents outlined that they fully agreed to the request under question
+    3, with no additional comments or suggestions.
+
+68. Comments received from all other respondents generally supported ESMA’s proposals and
+    the aim for increased transparency and comparability of ESG ratings, with differing views
+    on the level of prescriptiveness. In this regard, there were a large number of respondents
+    who proposed the inclusion of elements that would have gone beyond the Level 1 mandate.
+    At the same time there were also significant number of other respondents who were
+    strongly of the view that the proposed draft RTS should be less prescriptive than currently
+    drafted. In this case, respondents requested simplified wording or deletion of requirements
+    altogether. ESMA has sought to strike a balance between these competing viewpoints in
+    the final draft RTS.
+
+69. Examples of areas where respondents requested more detail and specificity, are
+    indicatively the verification of information used by ESG rating providers and transparency
+    on data completeness, consistency checks or the monitoring of the rating production
+    process. In certain cases, respondents requested that these disclosures be made in
+    machine-readable form.
+
+70. Elsewhere, some respondents provided comments which highlighted the difficulty in
+    applying the 48-hour pre-notification rule of the level 1 framework requesting further clarity
+    in this regard. For instance, one respondent suggested to add a new article requiring
+    mandatory feedback and feedback deadlines for ESG rating providers for enquiries from
+    rated items and sufficient feedback deadlines for rated items for enquiries from rating
+    providers.
+
+71. Other comments from respondents proposed that the RTS require the disclosure of how
+    data sources are considered trustworthy or are “vetted” by the ESG rating provider, and
+    the methodology for such checks. Other respondents suggested that ESG rating providers
+    disclose how they integrate decarbonization pathways and regulatory compliance and
+    sector-specific materiality considerations into their methodologies. It was also suggested
+                                                                                                15
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+   to include minimum standards for controversy assessment and reassessment, including
+   timelines, issuer response opportunities, and disclosure of whether controversies
+   materially influenced the rating.
+
+72. Some respondents also proposed that certain disclosures should be contained in the ESG
+    rating report itself, rather than on the website of the provider, and that these could instead
+    be accompanied by relevant links to the ESG rating provider website. At the same time,
+    from the perspective of ESG rating providers, a number of respondents stressed the need
+    to preserve the confidentiality of proprietary business information with regard to
+    methodologies.
+
+73. A number of respondents also raised comments concerning scope of the level 1 regulation
+    itself, including the issues of interoperability with other pieces of related legislation. For
+    instance, some respondents invited ESMA to consider introducing the possibility to cross-
+    refer to information on organisation-related items in product-level disclosures and take
+    account of the 2019/2088 Regulation. Specifically, one respondent suggested to introduce
+    (i) machine-readable taxonomy references, (ii) version-history flag, and (iii) encourage
+    visual summaries in an infographic-style overview.
+
+74. With regards Article 1, which specifies that the RTS addresses disclosures to be made
+    under Annex III.1 and Annex III.2 of the regulation, one respondent considered there are
+    no significant benefits to combining the empowerments for these disclosures in a single
+    RTS.
+
+75. Regarding Article 2, which specifies that disclosures made in accordance with Annex III.1
+    of the Regulation should be presented in accordance with the sequence and structure of
+    the Table in Annex I of the RTS, one respondent argued against the wording “sequence
+    and structure” and requested that ESG rating providers be granted greater flexibility.
+    Another respondent suggested to include only a recommended format, rather than a
+    mandatory sequence, on the basis that this would allow providers to better accommodate
+    their methodological specificities. One respondent suggested that the information related
+    to organisational disclosures should be provided separately. A number of respondents also
+    suggested that ESG rating providers should be able to cross refer to information that has
+    already been made published to avoid duplication of disclosures.
+
+76. A large number of responses received in respect of Article 3, which requires a range of
+    rating level disclosures around what is rated and what risks and impacts are measured,
+    were strongly opposed to the formulation of Article 3(1)(a), which sought disclosures of
+    information about what was rated by those ESG ratings. These focused on the following
+    issues:
+
+      •      The disclosure of the name of the rated item or the name of its issuer would go
+             beyond the requirements of Level 1.
+
+
+                                                                                                16
+                                                                                     15 October 2025
+                                                                             ESMA84-2037069784-1184
+
+
+
+
+      •      The specification by ESMA of letter (f) of Annex III.1 of the Regulation should
+             remain focused on the general methodology regarding the type/family of E, S, G
+             rating or scoring, rather than referring to specific rated entities.
+      •      The list of rated items covered by an ESG rating can be extensive and variable.
+77. Alongside these arguments, one respondent pointed out that, while the Level 1 text
+    recognises the differences between the issuer-pays and subscriber-pays models, the RTS
+    does not sufficiently recognise that these models are not the same. Consequently,
+    requiring that ESG rating providers publish, for every rated item, its name, legal status and
+    entity-specific methodology would not be pertinent for ESG ratings under the subscriber-
+    pays model and would not be aligned with the Regulation. In the view of the respondent,
+    in a subscriber-pays model, public disclosures should be provided at a methodology level
+    for each kind of ESG rating and not per ESG rating.
+
+78. Similarly, the view was expressed that, if unchanged, Article 3(1)(a), would result in a
+    proliferation of disclosures, inadvertently leading to a risk of frontrunning and possibly harm
+    the commercial viability of ESG rating providers. In addition, disclosing the name of the
+    rated item or issuer as part of the obligations under the RTS could lead to disclosure of
+    sensitive information and cause significant harm to related legitimate business interests.
+
+79. Regarding Articles 3(1)(b) to (d), which sought disclosure of specific risks or impacts that
+    ESG ratings considered, a respondent, asked to confirm that “risks” and “impacts” used in
+    this context refer to the two aspects of double materiality and that the term “impact” is
+    intended to cover only negative impact. Another respondent referred to a requirement to
+    replicate CSRD impacts risks and opportunities framework on the specific opportunities
+    covered, where the ESG rating is assessing opportunities. Other respondents proposed to
+    add some non-exhaustive examples of what qualifies as “specific issues” or to specify
+    whether the specific risks and/or impacts are identified at a sectoral, company level, or
+    both. Respondents also proposed that ESG rating providers should refer to the list of
+    sustainability matters provided by the ESRS, where applicable.
+
+80. On the other hand, respondents argued for a less prescriptive formulation for Article 3(1)
+    (b) - (d) by deleting the reference to the specific risks and impacts. They also mentioned
+    that it appears complex in practice to assign specific percentages to each materiality
+    dimension, particularly in cases where both financial and impact materiality are intertwined.
+    In their view the information provided here could refer to a more general description of how
+    the rating provider combines the risk and impact materiality.
+
+81. Regarding Article 3(2)(a), which sought disclosure of what was covered under the E, S or
+    G factors of an ESG rating, one respondent stressed that the description of these aspects
+    should also include their weightings as well as whether the ESG rating products are
+    customized based on geographical location, company size, or e.g., the industry sector. In
+    their view, The ESG rating provider should also explain how and why the individual ESG
+    rating products are created. Another respondent stressed that most ESG Ratings providers
+                                                                                                 17
+                                                                                     15 October 2025
+                                                                             ESMA84-2037069784-1184
+
+
+
+
+   have sectoral methodologies, thus ESMA should propose disclosure requirements by
+   sectoral methodologies.
+
+82. Conversely, another respondent argued against the suitability of separate disclosures
+    under E, S and G for certain products and that providers should be allowed to apply these
+    requirements only where relevant, rather than being subject to a one-size-fits-all obligation.
+
+83. Regarding Article 3(3)(a), which sought disclosure of whether an ESG rating considered
+    alignment with the Paris Agreement or other international agreements, a number of
+    respondents asked for further guidance on what qualifies as an “international agreement”
+    and the level of granularity expected. Other respondents stressed that reference should be
+    provided by the RTS to a more comprehensive list of relevant international agreement or
+    frameworks and whether voluntary standards such as OECD Guidelines, GRI and ISSB
+    are in scope of the term.
+
+84. Regarding Article 3(4), which sought disclosure on whether an ESG rating is expressed in
+    absolute or relative values, one respondent asked for confirmation as to what the terms
+    “absolute” referred to, suggesting that absolute should be considered as the raw,
+    standalone value of a risk rating or metric, without comparison to other entities, time
+    periods, or baselines and it quantifies the risk in concrete terms, based on the underlying
+    data, useful for understanding severity or magnitude independently. The same respondent
+    considered that the term “relative” should be considered as referring to a comparative value
+    of a risk rating or metric, expressed in relation to another entity, benchmark, or time-period.
+
+85. A number of responses focused on the provisions of Article 4, on general methodological
+    disclosures. Relating to Article 4 (1), which concerned the overview of a methodology,
+    respondents raised the following comments:
+
+       •   Certain specified disclosures should only be required on a “where applicable” basis.
+
+       •   Clarity was requested on what is expected under “name or unique identifier of the
+           applicable methodology” and how standardized it is across ESG rating providers.
+
+       •   The specification on “the time-horizon of the backward-looking data and forward-
+           looking data taken into consideration” was considered to go beyond the Level 1 text
+           since the information required should be focused on the analysis, as opposed to
+           every data point.
+
+       •   Requiring public disclosure of “how major new information is taken into account in
+           the methodology” - is already prescribed in the Regulation under Annex III, point
+           2(f).
+
+86. Amongst suggested additions for the disclosure elements in the RTS, one respondent
+    proposed to also request information on whether and how industry-specific indicators
+    and/or weightings are applied. Another respondent suggested enhanced transparency on
+                                                                                                 18
+                                                                                     15 October 2025
+                                                                             ESMA84-2037069784-1184
+
+
+
+
+   the formula in case of recalculation of a relative scoring based on peers’ performance while
+   others suggested, in addition to the time-horizon of input data, to require disclosure of the
+   time-horizon of the rating assessment itself (e.g. whether long-term scenarios are used),
+   which is critical for understanding ESG relevance.
+
+87. Regarding the ranking system disclosures, a respondent argued that requiring an
+    ‘illustrative example’ of how the ESG rating system should be understood, could be
+    potentially misleading and overly simplistic.
+
+88. One respondent highlighted that the timeframe for informing users and rated entities of
+    material changes to methodologies should be reasonable so that changes are made public
+    with sufficient time before their first application and they should not be applied with
+    retrospective effect to information already published.
+
+89. Regarding Article 4(2), which sought disclosure of information on the industry classification
+    used, one respondent suggested to also require disclosure of the classification level
+    applied. Conversely, another respondent highlighted that some industry classifications are
+    private and proprietary and that there should be no obligation for the ESG rating agency to
+    publicly disclose this information.
+
+90. Another respondent suggested to delete the disclosure of “the link to the official
+    documentation of the industry classification system, if available”, as this could significantly
+    harm to the legitimate business interests of ESG rating providers who use proprietary
+    industry classification systems.
+
+91. It has also been stressed that the access to the information required under Article 4(2)
+    should be restricted to regulators and ESG rating users only since publicly disclosing such
+    information could undermine competitive business strategies and adversely affect revenue
+    models.
+
+92. Regarding Article 4(3), which sought disclosure of information on the use of scientific
+    evidence, one respondent asked to clarify the meaning of “the relevance of scientific
+    evidence to the rating methodology”. Others stressed that asking to list scientific studies
+    would be disproportionate and that requiring disclosure of ‘the title, author and publication
+    dates of the studies, models or frameworks’ had no legal basis.
+
+93. Regarding Article 4(4), which sought disclosure on the use of artificial intelligence in data
+    collection and rating process, a respondent suggested deletion of this provision as the
+    Level 1 text is sufficiently clear. In addition, the expected classification of AI technologies
+    into specific “types” introduces unnecessary uncertainty. On the other hand, the integration
+    of AI-related risks was welcomed, with one respondent requesting that the RTS go further
+    and request disclosure on the extent to which ESG rating providers rely on such
+    technologies. In addition, with regard to “risks and limitations”, ESMA was asked to confirm
+
+
+                                                                                                 19
+                                                                                      15 October 2025
+                                                                              ESMA84-2037069784-1184
+
+
+
+
+   that this disclosure obligation requires providers to disclose, for each category of AI it
+   employs, the risks and limitations resulting from the use of AI models.
+
+94. A number of respondents provided views in respect of Article 5, which sought disclosures
+    on the limitations of data sources, with some arguing that it was redundant or that it
+    exaggerated the limitations of data sources. Other respondents requested more clarity
+    around the differences between the term “data” and “information” and what was meant by
+    the term “proxy reference points”. Other respondents requested additional disclosures in
+    areas such as; data propagation methodologies and data validation and quality checks.
+
+95. One respondent requested further guidance on how complaints, made against an entity
+    being rated by an ESG rating provider, are reflected in the methodology. This respondent
+    asked if such a complaint should be disclosed as a limitation under Article 5 of the RTS, if
+    any caveats should be put on ratings where complaints are outstanding, under
+    investigation or withheld, or if it is up to the ESG rating providers to decide how to deal with
+    such issue within their own methodology.
+
+96. Regarding Article 6, which sought disclosure of an ESG rating provider’s organisational
+    information, a few respondents asked for additional disclosure elements such as the criteria
+    used in the pricing policy and how production costs are taken into account, while a large
+    number of other respondents argued for more high-level and flexible provisions to preserve
+    proprietary information, business interests and reduce unnecessary information burden.
+
+97. Comments received in respect of Article 7, which sought a higher level of methodological
+    disclosures for rated items and users of ESG ratings, welcomed disclosures addressing
+    non-public data collection and engagement with rated entities. Other comments questioned
+    whether it was needed to further specify what should be disclosed in respect of the share
+    of public versus non-public data used, the share of estimated data and the quality control
+    processes used for sources. At the same time, other respondents questioned whether
+    these may be too onerous for ESG rating providers. Finally, one respondent also proposed
+    that ESG rating providers be required to remove outdated information from ESG ratings
+    after a certain period (e.g., a maximum of 3 months) and base their assessments only on
+    current and reliable information and give rated items the opportunity to comment to
+    controversies.
+
+98. Regarding Article 7(2), which sought disclosure on engagement with rated items and
+    issuers of rated items, one respondent highlighted that it would be helpful to provide non-
+    exhaustive examples of what constitutes “engagement”. It was also requested that ESMA
+    clarify that providing a high-level explanation of engagement practices, applicable across
+    all ESG ratings, would be deemed sufficient.
+
+99. Regarding Article 7(3), which sought disclosure on any potential shortcomings in a
+    methodology, one respondent suggested deleting the RTS provisions here on the basis
+    that the requirement in Level 1 already requests disclosure of same and as a result the
+                                                                                                  20
+                                                                                  15 October 2025
+                                                                          ESMA84-2037069784-1184
+
+
+
+
+   RTS is duplicative for no added value. Another respondent asked ESMA to confirm that
+   the requirement to describe “potential shortcomings of methodologies” relates only to
+   potential shortcomings regarding “the use of pre-established statistical or algorithmic
+   systems or models in ESG measures”.
+
+100. Regarding the comments received in respect of Article 8, which sought disclosure on
+   the revision of methodologies, one respondent suggested a clarification that the disclosure
+   of the potential impact of the revision of methodologies pertains only to assessments that
+   are monitored on an ongoing basis, as opposed to one-off or point in time ratings. A
+   clarification was also requested with regard to the meaning of the “engagement with
+   stakeholders”.
+
+101. ESMA Response: ESMA notes the large volume of comments and suggestions
+   provided in respect of Question 3. In this regard some comments and suggestions were
+   focused on issues present in the Level 1 text, rather than the RTS. On the other hand,
+   some comments and suggestions made in respect of the RTS suggested additions that
+   would beyond ESMA’s empowerment and the scope of the RTS under Articles 23(4) and
+   24(3).
+
+102. At the same time, for the feedback that was appropriately addressed to matters within
+   the scope of the RTS, ESMA notes that there was a significant divergence in opinion
+   between respondents, with a significant portion expressing a need for expansion of the
+   disclosure elements, and a smaller but still significant portion of respondents calling for a
+   more flexible approach in favour of simplicity and burden and cost reduction.
+
+103. With these competing viewpoints in mind, ESMA has adjusted its proposal taking into
+   account, on the one hand, the need for market relevance but, on the same time, the
+   expected important benefits from increased transparency in this nascent regulated area.
+
+104. With regards to Article 2, and the presentation of disclosures, ESMA has revised the
+   proposed Article to allow for ESG rating providers to utilise cross references and hyperlinks
+   in their disclosure documents to the extent this is in accordance with the sequence of the
+   Table in the Annex of the RTS.
+
+105. With regards to previous Article 3 (1) (a), ESMA acknowledges the concerns raised
+   and can clarify that the intention of these disclosures was per rating product type and not
+   per specific rating. Nevertheless, the disclosure of this information may not be practical in
+   the case of ESG ratings and accordingly, Previous Article 3 (1)(a) has been removed. To
+   balance the removal of this provision ESMA has added a simpler disclosure element under
+   the general methodological disclosures of Article 4(1)(b) to require a description of the
+   different types of rated items under the Regulation in relation to the applicable
+   methodology. ESMA considers that this information is key to enable a person to understand
+   the nature of the item subject to an ESG rating.
+
+
+                                                                                              21
+                                                                                  15 October 2025
+                                                                          ESMA84-2037069784-1184
+
+
+
+
+106. In response to requests for a more flexible formulation of disclosure requirements,
+   ESMA has adapted the wording in previous paragraphs Article 3(1) (b) – (d). Instead of
+   the specific details on risks and impacts, a reference to the descriptions of risks and
+   impacts is now proposed. Similarly, ESMA has revised the proposal so that it is clear it is
+   not seeking disclosure of a numerical proportion of risk and impact, but rather a description
+   of how this materiality is taken into account in the applicable methodology.
+
+107. With regards to Article 3(2) and 3(3), ESMA takes note of a number of comments
+   related to the need for deeper transparency on the contents of E, S, G, on their applicable
+   weightings and on international agreements. ESMA has decided not to add further
+   disclosures in this regard in favour of simplification and burden reduction and considering
+   that the Level 1 formulation of Annex III.1 and Annex III.2 related points, are already
+   sufficiently comprehensive. Also, ESMA stresses that a reference to “where applicable” is
+   already included under Article 3(2).
+
+108. With regards to the previous Article 3(4), In light of requests for simplification, ESMA
+   has removed the requirement to disclose the ranking system on the basis that this is now
+   covered under the new Article 4(1) (e) of the RTS.
+
+109. With regards to article 4(1), on general methodological disclosures, significant revisions
+   have been made considering the feedback received. Along with the changes already
+   mentioned in the previous paragraphs, ESMA has included the term “where applicable”
+   under different sub-points, to accommodate the possibility that not all elements can be
+   disclosed for all ESG rating products. ESMA has also removed some disclosure
+   requirements on the basis that the burden imposed was not balanced by the value provided
+   given the requirements already included in level 1 Annex III.1 and Annex III.2. These
+   include the unique-identifier number of the methodology version, the time-horizons for data
+   taken into consideration as well as information on how major new information is taken into
+   account and data estimation methods.
+
+110. In response to concerns raised around the details put forward by ESMA on the use of
+   scientific evidence in methodologies, ESMA has reformulated previous Article 4(3) in a
+   less prescriptive way while focusing on the process for identifying relevant specific
+   evidence in accordance with the applicable methodologies. The new Article 4(4) replaces
+   the consulted version under Article 4(3), which was seeking disclosures on types of
+   Artificial Intelligence used in the data collection process. This has been removed on the
+   basis that it provided limited specification over and above what was already required by
+   Level 1.
+
+111. A number of responses focused on the need for more transparency around the
+   engagement procedures applied by providers regarding the rated items and on the various
+   sources used including public or non-public sources. Acknowledging that these are central
+   disclosures and should be publicly available, ESMA has added a disclosure specification
+   to the RTS. To this end, under Article 4(3), ESMA is now requesting transparency on the
+                                                                                              22
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+   process for engaging with rated items and issuers of rated items including how the input
+   from that engagement is taken into account.
+
+112. ESMA has revised previous Article 5 (c) to streamline the formulation along the
+   wording in this Article. ESMA has also deleted the reference to limitations stemming from
+   the engagement with rated items and issuers of rated items. This has been moved to the
+   more appropriate location of Article 4 on the basis that engagement with rated items is
+   considered to be part of the ESG rating providers related process.
+
+113. On the comments received relating to the organisational disclosures of Article 6, ESMA
+   has noted the requests for simplification of these provisions. In this regard, ESMA has
+   adopted a more flexible approach towards less regulatory burden. For example, ESMA
+   revised the wording to focus on disclosure of the main risks of conflicts of interest that are
+   posed by a provider’s organisational structure and areas of activity. It is no longer
+   necessary to provide disclosures on why identified issues are considered to pose a risk, or
+   the steps taken to mitigate those risks given also the level 1 related disclosure element.
+
+114. With regards to Article 8 and requests for more clarity on what is expected to be
+   disclosed in respect of the revision of data and methodologies, ESMA has provided more
+   clarity on the provisions and in view of related consultation feedback, requested a
+   disclosure on the criteria that ESG rating providers use for determining what constitutes a
+   material change to a methodology. ESMA considers that this should provide greater levels
+   of transparency, without being overly rigid or prescriptive for ESG rating providers. At the
+   same time and despite specific requests by other participants, ESMA has not limited the
+   public general methodological disclosures (in Article 4) only to the changes of
+   methodologies that are material. This would be contrary to the level 1 approach where all
+   changes in methodologies have to be referenced in the public disclosures (Annex III.1.a).
+
+115. Finally, a number of respondents were concerned that ESMA is requesting disclosures
+   of non-public proprietary information. ESMA did not proceed to any change in this regard
+   as article 15 (13) of the Regulation applies to all requested elements under the level 1 and
+   this RTS. At the same time, ESMA underlines that the different ESG rating products offered
+   by ESG rating providers are expected to be coupled by meaningful disclosures
+   corresponding to a sufficient level of information to the public, the users, the rated items
+   and issuers of rated items. This is to enable an appropriate level of due diligence, facilitate
+   cross comparison with other ESG rating products, and understand any limitations of the
+   product or the underlying methodologies and judge which product may best serve the
+   user’s needs.
+
+
+3.4 Expansion of proposed Table to include non-public disclosures:
+116. A total of thirteen respondents outlined that they fully agreed to the request under
+   question 4, with no additional comments or suggestions.
+
+                                                                                                23
+                                                                                   15 October 2025
+                                                                           ESMA84-2037069784-1184
+
+
+
+
+117. In general, nearly half of respondents supported the inclusion of a Table in a structured
+   sequence for all disclosures under Annex III.1 and Annex III.2 of the Regulation. These
+   stressed that an expanded table could facilitate a more efficient and coherent compliance
+   reporting process for ESG rating providers, as well as enhance the usability and
+   accessibility of the disclosed information for end users, including investors, regulators, and
+   other stakeholders. A harmonized disclosure framework would contribute to greater
+   transparency and comparability across the ESG rating landscape.
+
+118. Conversely, the other half of respondents strongly opposed to an inclusion of an
+   expanded table and, more generally, to a common sequence and structure for all
+   disclosures.
+
+119. More specifically, respondents in favour of an expanded table for all disclosures under
+   both Annex III.1 & Annex III.2 of the Regulation mainly focused on the following arguments:
+
+          •   An expanded table would support consistency across ESG rating providers and
+              offer a consolidated view of the complete set of disclosure requirements.
+              Furthermore, a standardised disclosure sequence could be particularly relevant
+              for smaller providers and would also align more easily with taxonomy mapping
+              for digital reporting (e.g., in ESEF or XBRL formats).
+
+          •   ESG rating providers would have an organised, single and clearer reference
+              point for disclosure obligations, reducing the risk of duplication or omissions.
+              They would face less compliance ambiguity under a streamlined reporting
+              process. Having a standardized table with a clear order would facilitate
+              supervision and promote regulatory efficiency.
+
+          •   An expanded table would facilitate comprehension and comparison in users’
+              analysis, enhance readability while reducing the complexity of the information
+              collection. It would also allow companies to more easily decide whom to engage
+              with.
+
+          •   A more transparent and systematic presentation of the information would enable
+              automated integration by institutional investors; standardize reporting and
+              reduced comparability issues. One respondent suggested to provide a machine-
+              readable template (e.g., CSV/XBRL) alongside guidance for human-readable
+              summary tables.
+
+          •   An expanded table would improve the user experience by making methodologies
+              more transparent and accessible, benchmarkable and informative. In addition, it
+              would eliminate potentially divergent interpretations of the draft technical
+              standards under Articles 23(4) or 24(3).
+
+
+
+                                                                                               24
+                                                                                  15 October 2025
+                                                                          ESMA84-2037069784-1184
+
+
+
+
+120. A respondent also suggested to consider the possibility of including two distinct tables,
+   one for each part of Part 1 and Part 2 of Annex III of the Regulation.
+
+121. The respondents who discouraged ESMA to propose an expanded table for all
+   disclosures under both Annex III.1 & Annex III.2 of the Regulation were more in favour of
+   a principle based and flexible approach. Overall, they did not support a table prescribing
+   the sequence and structure for the disclosures either solely in relation to Part 1 of Annex
+   III, or for Annex III.1 and Annex III.2 of ESGR. It was highlighted that a one-size-fits-all
+   structure does not reflect the diversity of ESG rating models, which vary in scope,
+   complexity, and methodology. The main arguments against the inclusion of an expanded
+   table are summarised below:
+
+          •   ESG rating providers are best placed to decide on the way in which the
+              disclosures are provided, corresponding with the structure of their other
+              publications of regulatory and non-regulatory nature. They should be able to
+              exercise their own discretion in determining how to present and format the
+              disclosures in a way that best reflects their respective businesses and product
+              offerings. This would improve the quality of, and practicability of providing such
+              disclosures.
+
+          •   Disclosure requirements in Annex III of the Regulation are already very detailed
+              with no need of further specification. Also, the RTS should be principle-based
+              and flexible to support pragmatic implementation. An overly restrictive fixed
+              structure for disclosures could require significant changes to how ESG providers
+              currently report, monitor, and track disclosures.
+
+122. A respondent additionally stressed that the proposed structure does not align with other
+   EU frameworks, and this would risk creating duplicate disclosures and confusion for users
+   trying to reconcile different reporting systems—ultimately leading to fragmented ESG
+   information.
+
+123. Finally, a number of respondents stressed that it would be beneficial to have greater
+   clarity on the expected frequency of public disclosures (e.g., asking whether such
+   disclosures should be made annually).
+
+124. ESMA Response: Taking into account the feedback received, ESMA has decided not
+   to expand the table that covers the disclosures required by both Annex III.1 and Annex
+   III.2. and retain its initial proposal covering the sequence and structure of the public
+   disclosures to be made in accordance only with Annex III.1 and Article 23(1). This is
+   because ESMA notes a clear divergence in the responses to this question depending on
+   the type of respondents and whether they were users or providers of ESG ratings.
+   Consequently, in ESMA’s view, the retained proposal is balanced and meets the needs of
+   different stakeholders without unduly burdening ESG rating providers and is reflecting the
+   formulation of the requirements under article 23 and 24 of ESGRR, respectively.
+                                                                                              25
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+3.5 Cost Benefit Analysis
+125. A total of 35 respondents provided comments in response to question 5 of the
+   Consultation Paper.
+
+126. A total of five respondents outlined that they fully agreed with no additional comments
+   or suggestions.
+
+127.   General comments received were provided as follows:
+
+128. A number of respondents disagreed with the cost benefit analysis and raised a number
+   of general comments. In particular, concerns were flagged that enhanced compliance costs
+   could be imposed in areas where the draft RTS exceed the mandates of the Level 1
+   Regulation, or where they introduced unnecessary complexities. In addition, it was
+   highlighted that structural changes proposed by the regulations are significantly greater
+   than estimated and the consequence would be that the smaller providers would be
+   crowded out. It was also highlighted that there might be also costs linked to data traceability
+   that are not taken into account. It was also considered that the imposed costs could be
+   significant for an industry that is still developing and operates with relatively low margins
+   and profitability.
+
+129. It was also argued that larger ESG raters with more market share should bear higher
+   costs than smaller ESG raters to avoid creating entry barriers for new entrants. In this
+   regard the respondent raised concerns around supervisory costs and operational costs
+   that are not adequately represented. Another respondent suggested that a tiered approach
+   to supervisory fees should be taken, with a transition period for small and medium providers
+   before fees are charged.
+
+130. General concerns were also raised for the viability of smaller and medium size entities
+   on the basis that a disproportionate volume of cost for small and medium sized providers
+   could push these providers out of the market. For smaller providers it was also flagged that
+   they may face disproportionately high fixed costs (including initial application or any
+   recurring fees) or resource requirements (legal/compliance teams).
+
+131. Other respondents considered that analysis underestimated the levels. In their view
+   costs relating to the setting up of the complaints channel on the website and to managing
+   the concerns raised by rated entities, investors or any third party about ratings,
+   methodologies and procedures, estimated could be around 2% of the current revenues
+   generated by the ESG ratings activities. In addition, it was raised that the cost benefit
+   analysis should also include the costs of setting up separated legal entities for specific
+   business activities and the costs of establishing segmented support functions.
+
+132. One respondent argued that the analysis does not consider the risk that excessive
+   methodological transparency could lead to the gamification of ESG ratings. Another
+
+                                                                                                26
+                                                                                   15 October 2025
+                                                                           ESMA84-2037069784-1184
+
+
+
+
+   respondent highlighted the case of specialist ESG data providers—often non-profits—
+   which may struggle to comply with the RTS requirements, risking increased data costs or
+   service discontinuation. This could reduce data availability and harm end-users.
+
+133. Other respondents disagreed with the cost benefit analysis on the basis that it did not
+   appropriately consider the benefits of the regulation and the accompanying RTS. In view
+   of these respondents’ certain benefits have been significantly understated and the analysis
+   should explicitly value the avoided misallocation of capital due to poor ESG ratings. In their
+   view the reduced externalities from directing capital toward truly sustainable issues, and
+   the improved access to capital for underrepresented and minority-owned firms through
+   more transparent and equitable ESG methodologies. Another respondent did not fully
+   agree with the cost-benefit analysis on the basis that the intent to streamline procedures
+   should not undermine the core objectives of compliance, transparency, and ensuring the
+   effectiveness of ESG disclosures.
+
+134. Another respondent agreed with the proposed cost-benefit analysis but suggested it
+   could be useful to conduct a follow-up analysis after the implementation phase to evaluate
+   the impact on reducing the current administrative burden stemming from multiple non-
+   aligned ESG data requests.
+
+135. Comments in respect of the RTS on Authorisation and Recognition were provided as
+   follows:
+
+136. With reference to the RTS on authorisation and disclosure, one respondent agreed with
+   the approach to align the empowerments under Articles 6(3) and 12(9) into a single-draft
+   RTS thereby reducing costs associated with compliance efforts. Another respondent
+   stressed that the costs that may be incurred under the recognition and authorisation
+   procedures may be different and that such distinction should be made in the cost-benefit
+   analysis for the purpose of transparency.
+
+137.   Comments in respect of the RTS on Separation of Business were provided as follows:
+
+138. With reference to the RTS on the separation of activities, requirements of physical
+   separation are significant it was suggested that ESMA should consider whether lower-cost
+   alternatives (e.g. information barriers and regular trainings) could be sufficient in certain
+   circumstances, especially for small-to-medium ESG rating providers, or whether
+   requirements with respect to separation of activities can be delayed/phased in.
+
+139. Other respondents argued that the physical and operational separation measures in
+   the RTS go beyond what is required at Level 1 and imply significant material costs. In their
+   view these appear to be excessive given the ESG ratings market's actual risks and aligning
+   this requirement with the credit ratings market's conflict-of-interest management framework
+   overlooks key differences in the ESG market, which is less established, more volatile, and
+   operates with lower fees and profit margins.
+
+                                                                                               27
+                                                                                    15 October 2025
+                                                                            ESMA84-2037069784-1184
+
+
+
+
+140. Finally, another respondent argued that the analysis underestimates the operational
+   and technical costs for smaller providers for which establishing separate operational
+   structures, physical and IT firewalls, and additional compliance monitoring introduces
+   material fixed costs. In addition, according to this respondent, the requirement of activities
+   separation would create a disproportionate cost for boutique or specialist providers which
+   may discourage innovation, limit market entry, or force smaller firms to reduce their service
+   scope to remain compliant.
+
+141.   Comments on RTS Disclosure were provided as follows:
+
+142. A number of respondents highlighted what they considered to the be additional high
+   costs that would be imposed by the RTS on Disclosures. In this regard, one respondent
+   considered that the disclosure requirements went beyond the Level 1 text and therefore
+   are more costly than described. Another respondent highlighted that the the granularity
+   required in the RTS would lead to increased costs for managing disclosures and this should
+   be weighed against the decreasing marginal value of individual data points with the
+   increase of total number of data points.
+
+143. On the other hand, it was highlighted that the analysis did not consider the benefit of
+   reducing information asymmetry between ESG rating providers and rated entities or users.
+   Enhanced public disclosures would support the objectives of transparency and cost
+   reduction in the ESG rating ecosystem.
+
+144. With reference to the RTS on disclosure, the respondent suggested that Table 1 should
+   also include disclosures made under Part 2 of Annex III of the Regulation to further simplify
+   the RTS, thereby reducing compliance costs for ESG rating providers.
+
+145. ESMA Response: It is important to highlight that the RTS are seeking to implement
+   provisions that are already established in the level 1 Regulation. In this regard, ESMA
+   consider that the RTS on Registration and Authorisation now represents a balance
+   between ensuring ESMA receives the information it needs and what is reasonable for
+   applicants to provide. For the RTS on Separation of Business, ESMA has maintained the
+   requirement for physical separation, but simplified and softened some of the more specific
+   requirements related to physical separation of staff. Finally, for the RTS on disclosures,
+   ESMA has made a number of revisions to reduce the granularity of the disclosures required
+   in places. ESMA has also refrained from expanding the table specifying the structure of
+   disclosures, on the basis that it would not be justified to expand to all disclosures. Finally,
+   ESMA has simplified the ability of providers to comply with the disclosure requirements
+   imposed by the RTS on Disclosures, allowing this to be met through cross-reference,
+   instead of dedicated stand-alone disclosures and introduced numerous other revisions to
+   reduce the level of granularity that is expected from the disclosures.
+
+
+
+
+                                                                                                28
+                                                                           15 October 2025
+                                                                   ESMA84-2037069784-1184
+
+
+
+
+4 Next Steps
+146. ESMA will provide its finalised input to the European Commission before the end of
+   October 2025.
+
+
+
+
+                                                                                       29
+                                                                           15 October 2025
+                                                                   ESMA84-2037069784-1184
+
+
+
+
+5 Annexes
+
+5.1 Annex I – Cost Benefit Analysis
+
+                    Costs    to   ESG Costs to regulator          Benefits
+                    Rating Providers
+
+RTS on              There may be costs       It is not foreseen   The draft technical
+Authorisation and   for ESG rating           that there will be   standards contribute
+Recognition         providers to prepare     significant extra    to the European
+                    the authorisation or     costs to ESMA        Commission’s efforts
+                    recognition              beyond those         at burden reduction
+                    applications in          already foreseen     and simplification by
+                    accordance with the      under the level 1    combining the
+                    requirements of the      regulation.          empowerments
+                    draft technical                               under Article 6(3)
+                    standards. These                              and 12(9) into a
+                    costs do not include                          single draft
+                    those imposed by                              regulatory technical
+                    the level 1 regulation                        standard, thereby
+                    which in certain                              ensuring that the
+                    cases requires                                procedures for
+                    establishment in the                          authorisation and for
+                    EU and/or the                                 recognition are as
+                    separation of certain                         aligned and
+                    activities from the                           streamlined as
+                    provision of ESG                              possible. They also
+                    ratings. These costs                          provide further
+                    are also exclusive of                         clarity on the specific
+                    any supervisory fees                          information that
+                    that would be levied                          should be provided
+                    on providers.                                 as part of their
+                                                                  application for
+                                                                  authorisation or
+                                                                  recognition.
+
+RTS on Separation There will be costs        It is not foreseen   The draft technical
+of Activities     for all ESG rating         that there will be   standards aim to
+                  providers. The level       significant extra    establish a level
+                  of costs will vary         costs to ESMA        playing field
+                  depending on the           beyond those         amongst ESG rating
+                  nature and extent of       already foreseen     providers by
+
+                                                                                        30
+                                                        15 October 2025
+                                                ESMA84-2037069784-1184
+
+
+
+
+the additional          under the level 1      ensuring that all
+activities to be        regulation, other      providers implement
+carried out by the      than the deployment    minimal measures to
+ESG rating provider.    of supervisory         ensure the
+                        resources to monitor   prevention and
+All ESG rating          compliance with the    mitigation of actual
+providers will need     requirements of the    and potential
+to implement the        RTS.                   conflicts of interest,
+organisational and                             irrespective of the
+physical measures                              complexity of their
+specified in the RTS.                          operations.
+This may entail
+costs related to                               The additional
+establishing                                   technical and control
+separated office                               measures will
+spaces for its                                 ensure an
+employees directly                             appropriate level of
+involved in the                                additional
+assessment process                             safeguards to the
+of a rated item.                               integrity of the rating
+                                               process for those
+Those ESG rating                               ESG rating providers
+providers which                                who carry out
+carry out or are                               multiple activities
+permitted to carry                             within the provider.
+out the activities
+specified in Article                           ESMA considers
+16(1)(c)(d) or (f) of                          that these provisions
+level 1 must also put                          are not
+in place additional                            disproportionate
+technical and                                  given that they are
+internal control                               intended to
+measures. This may                             compensate for the
+entail additional IT,                          increased risks
+training and                                   posed to the
+compliance                                     independence of
+monitoring costs.                              analysts when
+                                               multiple activities are
+                                               carried out within the
+                                               same ESG rating
+                                               provider. Further to
+                                               this the wording of
+                                               the RTS has been
+
+
+                                                                     31
+                                                                             15 October 2025
+                                                                     ESMA84-2037069784-1184
+
+
+
+
+                                                                    revised to ensure
+                                                                    there is sufficient
+                                                                    flexibility around how
+                                                                    physical separation
+                                                                    is ensured.
+
+RTS on Disclosures There are limited        It is not foreseen      The benefits
+                   costs imposed by         that there will be      proposed by the
+                   these regulatory         extra costs for         draft technical
+                   technical standards      ESMA beyond those       standards are
+                   over and above what      already foreseen        predominantly two-
+                   is created by the        under the level 1       fold.
+                   overarching level 1      regulation other than
+                   regulation.              the deployment of       First, they contribute
+                                            supervisory             to the European
+                   Any incremental          resources to monitor    Commission’s
+                   costs imposed by         compliance with the     initiative for burden
+                   the draft regulatory     requirements of the     reduction and
+                   technical standards      RTS.                    simplification by
+                   can be broken down                               combining the
+                   into two main                                    empowerments
+                   categories (i) costs                             under Articles 23(4)
+                   relating to specifying                           and 24(3). In doing
+                   the information that                             they consolidate all
+                   is further required by                           disclosures to be
+                   the RTS (ii) costs                               made to the public,
+                   relating to the                                  users of ratings and
+                   ongoing upkeep and                               rated entities in a
+                   maintenance of the                               single regulatory
+                   information                                      technical standard,
+                   disclosed. ESMA                                  while clearly
+                   does not consider                                identifying which
+                   that the draft                                   disclosures are to be
+                   regulatory technical                             made to each
+                   standards create                                 category of recipient
+                   any additional costs                             or reader.
+                   in respect of how
+                   this information is                              Second, they specify
+                   disclosed on the                                 the order in which
+                   basis that the                                   public disclosures
+                   modalities of this                               should be made in
+                   disclosure (on a                                 order to ensure that
+                   dedicated section of                             these disclosures
+
+
+                                                                                         32
+                               15 October 2025
+                       ESMA84-2037069784-1184
+
+
+
+
+the ESG rating        are logical and
+providers website)    coherent, thereby
+are already imposed   contributing to the
+through the level 1   regulation’s
+regulation.           overarching
+                      objective to improve
+                      transparency and
+                      comparability of
+                      ESG ratings where
+                      possible.
+
+                      As a result, it can be
+                      concluded that the
+                      costs imposed by
+                      the draft regulatory
+                      technical standards
+                      are necessary to
+                      ensure that the
+                      overarching
+                      objectives of the
+                      regulation are
+                      achieved and the
+                      disclosures made by
+                      ESG rating providers
+                      are worthy of the
+                      cost and investment
+                      necessary for them
+                      to be made.
+
+
+
+
+                                             33
+                                                                                  15 October 2025
+                                                                          ESMA84-2037069784-1184
+
+
+
+
+5.2 Annex II Draft Technical Standards
+
+5.2.1 Draft Regulatory Technical Standard under Article 6(3) and 12(9) of EU
+      Regulation 2024/3005
+
+                COMMISSION DELEGATED REGULATION (EU) 2025/…
+
+                                                of XXX
+
+      supplementing Regulation (EU) 2024/3005 of the European Parliament and of the
+      Council with regard to regulatory technical standards specifying the information
+    contained in the application for authorisation and in the application for recognition of
+                                    an ESG rating provider
+
+                                        (Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of
+27 November 2024 on the transparency and integrity of Environmental, Social and Governance
+(ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) 2023/28593, and
+in particular Article 6(3), third subparagraph, and Article 12(9), third subparagraph, thereof,
+
+Whereas:
+
+(1) In accordance with the general objectives of Regulation (EU) 2024/3005, in particular to
+enhance transparency and reliability regarding the operations of ESG rating providers, it is
+appropriate that this Regulation ensures that the information to be submitted to the European
+Securities and Markets Authority (ESMA) for the purposes of the authorisation and recognition
+processes of ESG rating providers is sufficient for enabling ESMA to make relevant informed
+decisions.
+
+(2) ESG rating providers that wish to apply for authorisation to provide benchmarks in
+accordance with Article 16(3) of Regulation (EU) 2024/3005 at the time they apply for
+authorisation to operate in the Union in accordance with Article 6(1) of that Regulation, shall
+
+
+
+
+3
+         OJ L, 2024/3005, 12.12.2024.
+
+                                                                                              34
+                                                                                      15 October 2025
+                                                                              ESMA84-2037069784-1184
+
+
+
+
+provide ESMA with additional information, necessary for ESMA to assess compliance with the
+relevant framework, including [RTS on separation of business].
+
+(3) As part of an application for authorisation or an application for recognition, ESG rating
+providers should provide sufficient information about members of senior management as such
+members significant influence over their operations. Such information should thus include
+proof of the good repute of such members, as an additional guarantee that the ESG rating
+provider will be in a position to meet its regulatory obligations. In particular, it is necessary to
+provide ESMA with an official certificate or equivalent evidence from each member of senior
+management as regards the absence of convictions for certain criminal offences. The official
+certificate should be sufficiently recent in order to provide an up to date level of assurance and
+should also cover a sufficiently long period of time.
+
+(4) The applicant should provide information about its staffing resources that are directly
+involved in ESG rating activities. This information should cover the analysts and also staff
+working to develop and review the ESG rating methodology and who implement and mantain
+the systems, resources and procedures necessary for ESG rating provider to comply with their
+obligations under Regulation (EU) 2024/3005. The information provided should be at the level
+of the team or group of persons performing the activities.
+
+(5) In order to provide assurance that an applicant has taken the necessary steps to ensure that
+the other activities or services it provides do not unduly interfere with or compromise the
+integrity of its ESG rating activities, the applicant should provide an adequate level of
+information on the measures put in place in accoradance with Article 16(2) and (3) of
+Regulation (EU) 2024/3005.
+
+(6) Since both the application for authorisation under Article 6(1) of Regulation (EU)
+2024/3005 and the application for recognition under Article 12(2) of that Regulation should
+include the information set out in Annex I thereto, it is appropriate that the present Regulation
+specifies the shared information requirements in a common annex and, in a separate annex, the
+additional information to be provided in applications for recognition.
+
+(7) To safeguard security and enhance data management and usability in light of increased
+digitalisation, any information submitted to ESMA in an application should be machine-
+readable, thus structured to be easily identified, recognised and extracted by a software
+application, and provided in a durable medium.
+
+(8) To assist ESMA in identifying the documents that an applicant has submitted as part of the
+application for registration, a unique reference number should be provided to each document.
+
+
+
+                                                                                                  35
+                                                                                            15 October 2025
+                                                                                    ESMA84-2037069784-1184
+
+
+
+
+(9) For assurance and accountability purposes, an application submitted to ESMA should
+include a letter signed by a member of the senior management of the applicant, attesting that
+the submitted information is accurate and complete to the best of that member’s knowledge.
+
+(10) Since this Regulation specifies the elements set out in Annex III of Regulation (EU)
+Regulation (EU) 2024/3005, which applies from 2 July 2026, it is appropriate to align the dates
+of application of the two Regulations.
+
+(11) This Regulation is based on the draft regulatory technical standards submitted to the
+Commission by ESMA.
+
+(12) ESMA has conducted open public consultations on the draft regulatory technical standards
+on which this Regulation is based, analysed the potential related costs and benefits and
+requested the advice of the Securities and Markets Stakeholder Group established in accordance
+with Article 37 of Regulation (EU) 1095/2010 of the European Parliament and of the Council 4,
+
+HAS ADOPTED THIS REGULATION:
+
+                                                 Article 1
+
+                Application for authorisation to operate as an ESG rating provider
+
+1. An applicant for authorisation as an ESG rating provider applying to ESMA in accordance
+with Article 6(1) of Regulation (EU) 2024/3005 shall submit the information referred to in
+Annex II of this Regulation in the manner specified in Annex I.
+
+2. An ESG rating provider submitting an application for authorisation for endorsement together
+with an application pursuant to paragraph 1 should additionally submit the information referred
+to in Annex IV.
+
+3. An ESG rating provider lodging a request to provide benchmarks in accordance with Article
+16(3) of Regulation (EU) 2024/3005 should submit the information referred to in Annex V in
+addition to the information referred to in paragraph 1.
+
+                                                 Article 2
+
+
+
+
+4
+ Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing
+a European Supervisory Authority (European Securities and Markets Authority), amending Decision No
+716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).
+
+                                                                                                         36
+                                                                                   15 October 2025
+                                                                           ESMA84-2037069784-1184
+
+
+
+
+  Application for recognition of an ESG rating provider established outside the Union
+
+An applicant for recognition as an ESG rating provider established outside the Union applying
+to ESMA in accordance with Article 12(1) of Regulation (EU) 2024/3005 shall submit the
+information referred to in Annexes II and III of this Regulation in the manner specified in Annex
+I.
+
+                                             Article 3
+
+                                    Format of the application
+
+1. An applicant shall give a unique reference number to each document it submits. It shall ensure
+that the information it submits clearly identifies to which specific requirement of this
+Regulation it refers and in which document that information is provided.
+
+
+
+2. Applicants shall provide ESMA with the information referred to in Annexes II, III, IV and V
+of this Regulation (EU) in a machine readable format which:
+
+(a) allows the information to remain accessible for a period of time adequate for the purposes
+of the application;
+
+(b) allows for the unchanged reproduction of the information stored.
+
+3. An applicant shall include in its application a letter signed by a member of the ESG rating
+provider’s senior management, attesting that the submitted information is accurate and
+complete to the best of the member’s knowledge, as of the date of that submission.
+
+                                            Article 4
+
+                                    Number of employees
+
+Any information regarding number of employees shall be estimated on a full-time equivalent
+basis calculated as the total hours worked divided by the maximum number of hours subject to
+compensation within a working year as defined by the relevant national law.
+
+                                            Article 5
+
+                                   Policies and procedures
+
+
+
+                                                                                               37
+                                                                                   15 October 2025
+                                                                           ESMA84-2037069784-1184
+
+
+
+
+An applicant shall provide information regarding its policies and procedures under this
+Regulation by submitting a copy of the relevant policies and procedures.
+
+                                           Article 6
+
+                              Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+It shall apply from 2 July 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+
+
+                                             For the Commission
+
+                                             The President
+
+
+
+
+                                                                                                 38
+                                                                                                                                15 October 2025
+                                                                                                                        ESMA84-2037069784-1184
+
+
+
+
+                                                              ANNEX I
+
+                                                    DOCUMENT REFERENCES
+
+                                                             Chapter or section or page of the document where the information is provided or
+Relevant Annex to this   Document reference   Title of the
+                                                                               reason why the information is not provided
+     Regulation              number           document
+
+         …
+
+         …
+
+         …
+
+         …
+
+
+
+
+                                                                                                                                            39
+        15 October 2025
+ESMA84-2037069784-1184
+
+
+
+
+                    40
+                                                                          ESMA REGULAR USE
+
+
+
+
+                                           ANNEX II
+
+            INFORMATION TO BE PROVIDED IN AN APPLICATION FOR
+                    AUTHORISATION OR RECOGNITION
+
+Part A) - General Information
+
+1) Full name of the applicant.
+
+2) Address of the registered office of the applicant within the Union [EU Member State, city,
+street address, postal code] or address of the registered office of the applicant outside the Union
+[country, city, street address, postal code], as relevant.
+
+3) Hyperlink to the applicant’s website.
+
+4) Where available, the applicant’s legal entity identifier (LEI) number.
+
+Part B) – Contact person details
+
+1) Name.
+
+2) Title.
+
+3) Address.
+
+4) Email address.
+
+5) Telephone number.
+
+Part C) – Legal status
+
+Proof of the legal status of the applicant such as an excerpt from the relevant commercial or
+court register, or other equivalent evidence.
+
+Part D) – Ownership structure
+
+1) Articles of association of the applicant.
+
+2) Ownership structure of the applicant, specifying the percentage of capital, nature of the
+holding (direct or indirect) and percentage of the voting rights of relevant owners.
+
+3) A chart setting out the ownership links between the applicant, its parent undertaking and its
+subsidiaries. All undertakings included in the chart shall be identified by their full legal name.
+
+Part E) - Activities
+
+
+                                                                                                 41
+                                                                         ESMA REGULAR USE
+
+
+
+
+For each undertaking referred to in point 3 of Part D) that carries out ESG rating activities or
+any of the activities listed in Article 16(1) of Regulation (EU) 2024/3005:
+
+       a) the type of activity carried out, indicating whether it is an ESG rating activity or any
+       of the activities listed in Article 16(1) of that Regulation;
+
+       b) where applicable, the name of the competent authority responsible for supervising
+       the activity concerned.
+
+Part F) - Senior management
+
+1) Organisational chart detailing the applicant’s organisational structure, including a clear
+identification of the role, duties and responsibilities for each member of senior management.
+
+2) For each member of senior management:
+
+       a) name;
+
+       b) place of birth;
+
+       c) date of birth;
+
+       d) role of the members within the senior management of the applicant;
+
+       e) curriculum vitae showing at least the level of qualification, experience and training;
+
+       f) a proof of the absence of criminal records relating to money laundering, terrorist
+       financing, provision of financial services or data services, acts of fraud or
+       embezzlement, notably through an official certificate. Where such a certificate is not
+       available in a relevant country, a self-declaration of good repute and the authorisation
+       to ESMA to request such information from the relevant authorities on whether that
+       member has been convicted of a criminal offence in connection with money laundering,
+       terrorist financing, the provision of financial services or data services or in relation to
+       acts of fraud or embezzlement.
+
+Part G) - Staffing resources
+
+1) The number of rating analysts who are directly involved in ESG rating activities and a
+summary of their overall industry experience, level of training and level of seniority.
+
+2) Excluding the staff listed under point 1, the number of employees and other persons working
+for the applicant that are directly involved in ESG rating activities, together with a summary of
+industry experience, level of training and level of seniority by area of responsibility, engaged
+in the following:
+
+       a) the development and review of methodologies or the collection and analysis of data.
+                                                                                                42
+                                                                                 ESMA REGULAR USE
+
+
+
+
+        b) the development, implementation and maintenance of the information technology
+        systems, resources, internal policies and procedures of the ESG rating provider
+        necessary to comply with Regulation (EU) 2024/3005.
+
+Part H) - Expected market coverage
+
+1) The number of ESG rating products that the applicant intends to provide in the Union.
+
+2) For each product listed pursuant to point (1):
+
+        a) name of the product;
+
+        b) a description of the product;
+
+        c) the number or expected number of rated items covered;
+
+Part I) - Procedures and methodologies of ESG ratings
+
+1) For each ESG rating product listed pursuant to Part H, a description of applicable procedures
+and methodologies to issue ESG ratings, including information on:
+
+        a) whether the applicant expects to use information disclosed under Regulation (EU)
+        2019/2088 of the European Parliament and of the Council5 and Directive 2013/34/EU
+        of the European Parliament and of the Council6; and,
+
+        b) whether the applicant expects to use methodologies that are based on scientific
+        evidence and takes into account the targets and objectives of the Paris Agreement or any
+        other relevant international agreements.
+
+2) Procedures for the review of ESG ratings.
+
+3) Procedures for the review of ESG rating methodologies.
+
+Part J) - Policies or procedures to identify, manage and disclose conflicts of interest
+
+The policies and procedures referred to in Article 15 of Regulation (EU) 2024/3005, including
+the following information:
+
+
+
+
+5
+  Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on
+sustainability-related disclosures in the financial services sector (OJ L 317, 9.12.2019, p. 1).
+6
+  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial
+statements, consolidated financial statements and related reports of certain types of undertakings, amending
+Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives
+78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+                                                                                                         43
+                                                                         ESMA REGULAR USE
+
+
+
+
+       a) a description of internal reporting channels for receiving and handling information
+       provided by persons reporting actual or potential breaches and for ensuring the
+       protection of such persons’ identity;
+
+       b) the review and approval process for the onboarding of new clients, employee personal
+       account dealing, outside business activities and the acceptance of gifts and hospitality;
+
+       c) the criteria to determine the remuneration of the persons referred to in Part G;
+
+       d) the terms of reference for the management body as defined in Article 3(11) of
+       Regulation (EU) 2024/3005.
+
+Part K) - Outsourcing arrangements
+
+Where applicable, documents and information related to any existing or planned outsourcing
+arrangements for activities covered by Regulation (EU) 2024/3005, including:
+
+       a) the outsourcing policy or other documents demonstrating compliance with the
+       requirements of Annex II point 2 of that Regulation;
+
+       b) a copy of any existing outsourcing agreements.
+
+Part L) – Other activities
+
+Where applicable, information about the applicant’s other commercial activities, including the
+name and description of any other business activities carried out by the applicant, or which the
+applicant intends to carry out and, where applicable, the name of the competent authority
+responsible for supervising such activities.
+
+Part M) – Specific measures implemented by the applicant
+
+1) For any activities referred to in Article 16(1), (c), (d) and (f) of Regulation (EU) 2024/3005,
+information regarding the specific measures that the applicant has put in place in accordance
+with [RTS on Separation of Business]:
+
+2) An explanation as to why the measures referred to in point 1) are deemed sufficient by the
+applicant.
+
+Part N) – Previous ESG rating activities
+
+Where applicable, information about previous ESG rating activities, including:
+
+       a) any relevant licences held, indicating their periods of validity;
+
+       b) any ESG rating products previously provided which are not listed under Part H;
+                                                                                                44
+                                                                          ESMA REGULAR USE
+
+
+
+
+       c) the name of the legal entity under which such activities were carried out;
+
+       d) where appliable, name of the authority responsible for supervising such activities.
+
+                                          ANNEX III
+
+  ADDITIONAL INFORMATION TO BE PROVIDED IN AN APPLICATION FOR
+                        RECOGNITION
+
+Part A) - Legal representative in the Member State of reference
+
+With respect to the legal representative referred to in Article 12(3) of Regulation (EU)
+2024/3005:
+
+       a) Full name;
+
+       b) the Legal Entity Identifier, where available;
+
+       c) articles of incorporation, articles of association or other constitutional documents;
+
+       d) information on whether it is supervised and the name of the supervisory authority;
+
+       e) written confirmation of the authority of the legal representative to act on behalf of the
+       applicant in accordance with Article 12(3) of Regulation (EU)2024/3005;
+
+       f) the name, title, address, email address and telephone number of a contact person
+       within the legal representative.
+
+
+
+Part B) – Information on compliance measures
+
+       As regards compliance with the requirements of Regulation (EU) 2024/3005, ESG
+       rating providers shall provide:
+
+       a) an assessment by the legal representative of the adequacy of the measures put in place
+       by the ESG rating provider;
+
+       b) a description of the measures put in place by the legal representative to monitor
+       compliance on an on-going basis.
+
+Part C) - Information on turnover
+
+For each of the last three consecutive years:
+
+
+                                                                                                  45
+                                                                        ESMA REGULAR USE
+
+
+
+
+       a) a copy of the ESG rating provider’s annual financial reports, for the last three
+       consecutive years, including individual and consolidated financial statements, where
+       applicable.
+
+       b) where the financial statements referred to in point (a) are subject to external
+       independent audit, the financial reports shall be accompanied by the audit reports on the
+       annual and consolidated financial statements;
+
+       c) where no audit reports as referred to in point (b) are available, the financial reports
+       shall be accompanied by an assessment by an independent external auditor or
+       certification of the competent authority of the third country where the ESG rating
+       provider is established of the annual net turnover of all of its activities.
+
+Part D) – Information on ESG ratings intended to be distributed in the Union
+
+The list, in .csv format, of actual or prospective ESG ratings which at the date of application
+are intended for publication or distribution in the Union.
+
+Part E) – Information on activities outside the Union
+
+Where applicable, with reference to activities outside the Union:
+
+       a) Name of third country authority;
+
+       b) address of third country authority;
+
+       c) activity for which applicant was licenced or supervised;
+
+       d) respective dates for which applicant was licensed or supervised.
+
+
+
+                                          ANNEX IV
+
+     ADDITIONAL INFORMATION TO BE PROVIDED IN THE CONTEXT OF
+                   ENDORSEMENT OF ESG RATINGS
+
+Indication of whether the ESG rating provider is requesting authorisation to endorse ESG
+ratings provided by an ESG Rating provider established outside the Union in accordance with
+Article 11(1), point (a) of Regulation (EU) 2024/3005, and if so, for each expected
+endorsement:
+
+       a) The name, and where available, LEI, of the legal entities from which ratings will be
+       endorsed;
+
+                                                                                               46
+                                                                     ESMA REGULAR USE
+
+
+
+
+       b) the information required under Part H, Annex II of this Regulation for each ESG
+       rating product to be endorsed;
+
+       c) objective reasons for the endorsement of each ESG rating product;
+
+       d) the measures put in place by the ESG rating provider to ensure compliance with
+       Article 11(1) of Regulation (EU) 2024/3005.
+
+
+
+
+                                         ANNEX V
+
+ ADDITIONAL INFORMATION TO BE PROVIDED IN A REQUEST TO ESMA TO
+             BE AUTHORISED TO PROVIDE BENCHMARKS
+
+        (a) Indication of whether the ESG rating provider is requesting to be authorised to
+            provide benchmarks in accordance with Article 16(3) of Regulation (EU)
+            2024/3005 and, if so:
+
+1. The specific measures that the applicant has put in place in accordance with [Article 3 of
+   RTS on Separation of Business];
+
+2. an assessment as to why the measures referred to in point 2) are deemed sufficient by the
+   applicant;
+
+3. information on whether the ESG Rating Provider provides or intends to provide benchmarks
+   that pursue sustainability objectives, in particular EU Climate Transition Benchmarks and
+   EU Paris-aligned benchmarks in accordance with Regulation (EU) 2016/1011.
+
+
+
+
+                                                                                           47
+                                                                         ESMA REGULAR USE
+
+
+
+
+5.2.2 Draft Regulatory Technical Standard under Article 16(5) of EU Regulation
+      2024/3005
+
+              COMMISSION DELEGATED REGULATION (EU) 2025/…
+
+                                            of XXX
+
+ supplementing Regulation 2024/3005 of the European Parliament and of the Council
+with regard to regulatory technical standards specifying the details of the measures and
+safeguards to be implemented by ESG rating providers in relation to the separation of
+                                 business and activities
+
+                                 (Text with EEA relevance)
+
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of
+27 November 2024 on the transparency and integrity of Environmental, Social and Governance
+(ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) 2023/2859, and
+in particular Article 16(5), third subparagraph thereof,
+
+
+Whereas:
+(1)    ESG rating providers should ensure that employees who are directly involved in the
+       assessment process of rated items have clearly delineated roles and responsibilities and
+       are assigned to distinct structures within the organisation, in order to avoid the creation
+       of conflicts of interest that could arise if such critical staff of the ESG rating provider
+       were to be involved in any of the activities mentioned in Article 16(1) of Regulation
+       (EU) 2024/3005. To prevent the inadvertent flow of sensitive information within
+       different structures or business areas and activities, ESG rating providers should also
+       apply physical separation measures, such as assigning dedicated workspaces to rating
+       analysts, distinct from those of other employees of the ESG rating provider involved in
+       the activities referred to in Article 16 of Regulation (EU) 2024/3005.
+
+(2)    In order to adequately preserve the independence of the rating process, ESG rating
+       providers already engaged or intending to engage in investment services and activities,
+       activities of credit institutions and insurance or reinsurance activities should have in
+       place additional safeguards in the form of information security and network-related
+       controls, internal policies and procedures, training, contractual measures and
+       compliance monitoring checks, such as reviewing communications of employees
+       involved in the assessment process of a rated item.
+
+
+                                                                                                48
+                                                                         ESMA REGULAR USE
+
+
+
+
+(3)      An ESG rating provider intending to engage in the provision of benchmarks through the
+         same legal entity should complement organisational, physical, technical and internal
+         control measures with additional safeguards in relation to the remuneration and
+         compensation arrangements of employees or other persons directly involved in the
+         assessment process, the production and offering of ESG ratings, as well as pre-
+         contractual arrangements aiming to identify actual or potential conflicts of interest.
+
+(4)      Since this Regulation specifies the elements set out in Annex III of Regulation (EU)
+         Regulation (EU) 2024/3005, which applies from 2 July 2026, it is appropriate to align
+         the dates of application of the two Regulations.
+
+(5)      This Regulation is based on the draft regulatory technical standards submitted by ESMA
+         to the European Commission.
+
+(6)      ESMA conducted open public consultations on the draft regulatory technical standards
+         on which this Regulation is based and analysed the potential related costs and benefits
+         and requested the advice of the Securities and Markets Stakeholder Group established
+         in accordance with Article 37 of Regulation (EU) No 1095/2010 of the European
+         Parliament and of the Council2,
+
+
+HAS ADOPTED THIS REGULATION:
+
+                                      Article 1
+  Measures and safeguards in relation to the activities referred to in Article 16(1) of
+                            Regulation (EU) 2024/3005
+ESG rating providers shall:
+
+      a) Put in place decision-making procedures and organisational structures which specify
+      reporting lines and allocate functions and responsibilities in a manner that ensures that
+      employees directly involved in the assessment process of a rated item are not involved in
+      any of the activities referred to in Article 16(1) of Regulation (EU) 2024/3005;
+
+      b) implement physical separation measures that safeguard the independence of ESG rating
+      activities and ensure impartial decision-making by employees and other persons directly
+      involved in the assessment process of a rated item;
+
+      c) ensure that employees and other persons directly involved in the assessment process of a
+      rated item submit once every 12 months a self-declaration stating that they do not provide
+      any of the activities referred to in Article 16(1) of Regulation (EU) 2024/3005.
+
+
+                                             Article 2
+
+
+                                                                                               49
+                                                                            ESMA REGULAR USE
+
+
+
+
+ Measures and safeguards in relation to the activities referred to in points (d) and (f) of
+                     Article 16(1) of Regulation (EU) 2024/3005
+
+1. When involved in the activities listed in points (d) or (f) of Article 16(1) of Regulation (EU)
+2024/3005, ESG rating providers shall implement the following measures:
+
+   a) Digital controls providing for role-based access;
+
+   b) information controls that enable watermarking methods and data classification levels;
+
+   c) policies and procedures for managing confidential information;
+
+   d) regular employee training on the importance of information barriers;
+
+   e) contractual obligations requiring employees to comply with internal policies throughout
+   their employment;
+
+   f) compliance monitoring activities to identify conflicts of interest.
+
+2. ESG rating providers shall perform an assessment of the adequacy of the measures
+implemented pursuant to paragraph 1 at least once every 24 months. The management body
+shall approve the outcome of this assessment.
+
+
+
+                                        Article 3
+  Specific measures and safeguards in relation to the activity referred to in point (c) of
+                      Article 16(3) of Regulation (EU) 2024/3005
+
+ESG rating providers involved in the provision of benchmarks as defined in Article 3(1), point
+(5), of Regulation (EU) 2016/1011 authorised by ESMA to provide benchmarks within the
+meaning of Article 16(3) of Regulation (EU) 2024/3005 shall implement the measures set out
+in Article 2 and adopt the following additional safeguards:
+
+a) measures to ensure that the compensation and performance evaluation arrangements
+   applicable to employees and other persons directly involved in the assessment process of a
+   rated item are not affected by actual or potential conflicts of interest originating from the
+   ESG rating provider’s involvement in the activity of benchmarks provision;
+
+b) arrangements to ensure that the production and offering of ESG ratings does not rely on a
+   mechanistic use of the constituents or output of a benchmark for which the ESG rating
+   provider is the administrator;
+
+c) performance and documentation of an assessment of the existence of any actual or potential
+   conflicts of interest before entering into a contract for the provision of services to a rated
+
+                                                                                                50
+                                                                         ESMA REGULAR USE
+
+
+
+
+   item, issuer of a rated item or an investor who has an established client relationship with the
+   ESG rating provider or, where applicable, a member of its group.
+
+
+                                           Article 4
+                               Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+
+It shall apply from 2 July 2026.
+
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+
+Done at Brussels,
+
+
+
+                                                                    For the Commission
+                                                                    The President
+
+
+
+
+                                                                                                 51
+                                                                           ESMA REGULAR USE
+
+
+
+
+5.2.3 Draft Regulatory Technical Standard under Articles 23(4) and 24(3) of EU
+      Regulation 2024/3005
+
+COMMISSION DELEGATED REGULATION (EU) 2025/…
+
+                                               of XXX
+
+       supplementing Regulation (EU) 2024/3005 of the European Parliament and of the
+       Council with regard regulatory technical standards specifying the elements to be
+      disclosed to the public and to users of ESG ratings, rated items and issuers of rated
+                                               items
+
+                                     (Text with EEA relevance)
+
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of
+27 November 2024 on the transparency and integrity of Environmental, Social and Governance
+(ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) 2023/2859 (Text
+with EEA relevance)7, and in particular Articles 23(4), third subparagraph, and Article 24(3),
+third subparagraph, thereof,
+
+Whereas:
+
+(1)        Recognising that ESG rating providers may offer multiple ESG rating products, it is
+           important that they provide sufficient information to the public, users, rated items and
+           issuers of rated items in relation to each ESG rating product. A sufficient level of
+           disclosures is deemed appropriate to ensure transparency, enable due diligence and
+           facilitate cross-comparison with other ESG rating products. This should allow a better
+           understanding of the characteristics of such products and enable the public, users, rated
+           items and issuers or rated items to identify those ESG rating products that best meet
+           their needs.
+(2)        In particular, the availability on the website of the ESG rating provider of
+           comprehensive elements concerning methodologies, models and key rating assumptions
+           supporting ESG rating activities is important to foster transparency at the level of each
+           ESG rating product. To that end, ESG rating providers should disclose the relevant
+           information to the public in the sequence set out in the Annex to this Delegated
+           Regulation so as to facilitate comparison.
+
+
+
+7
+    OJ L, 2023/2631, 30.11.2023.
+                                                                                                  52
+                                                                        ESMA REGULAR USE
+
+
+
+
+(3)    Given that the disclosures to be made available to users of ESG ratings, rated items and
+       the issuers of rated items are complementary to those intended for the public it is
+       appropriate to consolidate in a single regulation the empowerments set out in Article
+       23(4) and Article 24(3) of Regulation (EU) 2024/3005 in a single regulation. At the
+       same time, this Delegated Regulation clearly distinguishes, in separate articles, the
+       specific disclosures to be made to each category of relevant parties.
+
+(4)    Since this Regulation specifies the elements set out in Annex III of Regulation (EU)
+       Regulation (EU) 2024/3005, which applies from 2 July 2026, it is appropriate to align
+       the dates of application of the two Regulations.
+
+(5)    This Regulation is based on the draft regulatory technical standards submitted to the
+       Commission by ESMA.
+
+(6)    ESMA has conducted open public consultations on the draft regulatory technical
+       standards on which this Regulation is based, analysed the potential related costs and
+       benefits and requested the advice of the Securities and Markets Stakeholder Group
+       established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the
+       European Parliament and of the Council8,
+
+
+HAS ADOPTED THIS REGULATION:
+                                            Article 1
+                            Specification of disclosure elements
+ESG rating providers shall ensure that the information to be disclosed pursuant to points 1 and
+2 of Annex III to Regulation (EU) 2024/3005 includes the elements specified in this Delegated
+Regulation.
+
+                                          Article 2
+                                Presentation of information
+1. ESG rating providers shall ensure that the information to be disclosed pursuant to point 1
+   of Annex III to Regulation (EU) 2024/3005 is presented in accordance with the order set
+   out in the Annex to this Delegated Regulation.
+
+2. In fulfilling the requirement referred to in point 1 ESG rating providers may cross-reference
+   to the relevant information made available on their website, including via hyperlinks or
+   other appropriate technological means.
+
+
+
+
+                                                                                              53
+                                                                            ESMA REGULAR USE
+
+
+
+
+                                           Article 3
+                                 Rating product disclosures
+1.      As part of the information referred to in point 1, letter (f) of Annex III to Regulation
+        (EU) 2024/3005, ESG rating providers shall disclose at the level of each ESG rating
+        product:
+
+
+       (a) a description of the risks covered, where the ESG rating is assessing risks;
+
+       (b) a description of the impacts covered, where the ESG rating is assessing impacts;
+
+       (c) information on how the risk and impact materiality are taken into account according
+           to the double materiality principle, where applicable;
+
+       (d) where the ESG rating is based on other materiality dimensions, a description of those
+           dimensions.
+
+
+ 2. As part of the information referred to in point 1, letter (g) of Annex III to Regulation
+    (EU) 2024/3005, ESG rating providers shall disclose at the level of each ESG rating
+    product:
+
+     (a) a description of what is covered under the E, S or G factors and which factors are
+         aggregated, where applicable;
+
+     (b) a description of the specific issues that the ESG rating covers.
+
+
+ 3. As part of the information referred to in point 1, letters (o) and (p) of Annex III to
+    Regulation (EU) 2024/3005, ESG rating providers shall at the level of each ESG rating
+    product, where applicable:
+
+     (a) include an indication of whether the ESG rating takes into account the targets and
+         objectives of the Paris Agreement and which other international agreements are
+         considered, with reference to basic identifying information on these agreements together
+         with an explanation of their relevance to the ESG rating;
+
+     (b) specify whether the ESG rating is assessing alignment of commitments against the
+         objectives of the agreements referred to in point (a).
+
+
+                                          Article 4
+                              General methodological disclosures
+
+                                                                                               54
+                                                                         ESMA REGULAR USE
+
+
+
+
+1. As part of the information referred to in point 1, letter (a), of Annex III to Regulation (EU)
+   2024/3005, ESG rating providers shall disclose:
+
+         (a) the title of the rating methodology used;
+
+         (b) a description of the types of rated items in relation to which the methodology
+             referred to in point (a) applies;
+
+         (c) the time horizon over which the ESG rating is considered valid, where applicable
+
+         (d) a list and overview of the relevant supporting models and key rating assumptions,
+             where applicable; information on measures and procedures to ensure the quality
+             and reliability of data used;
+
+         (e) a description of the defined ranking system of rating categories used, with
+             reference to:
+
+          i.   the meaning of each rating category for absolute and relative values and how the
+               ranking system should be interpreted;
+
+         ii.   in the case of relative values, an explanation as to whether they are relative to a
+               specific industry, geographical area, peer groups or other comparative references
+               and their respective description.
+
+         (f) the dates of the most recent update of the methodology and a description of the
+             changes introduced to the previous version.
+
+
+2. As part of the information referred to in point 1, letter (b) of Annex III to Regulation (EU)
+   2024/3005, ESG rating providers shall provide:
+
+       (a) the name of the issuing body of the industry classification used;
+
+       (b) the name and version of the industry classification used;
+
+       (c) any publicly available link to the official documentation of the industry
+           classification system.
+
+3. As part of the information referred to in point 1, letter (c) of Annex III to Regulation (EU)
+   2024/3005, ESG rating providers shall include a description of the engagement process with
+   rated items or issuers of rated items, including how the input from such engagement is taken
+   into account.
+
+4. As part of the information referred to in point 1, letter (e) of Annex III to Regulation (EU)
+   2024/3005, ESG rating providers shall where applicable, describe the process for
+   identifying relevant scientific evidence.
+                                                                                                55
+                                                                      ESMA REGULAR USE
+
+
+
+
+                                      Article 5
+            Limitations in data sources, methodologies and information
+As part of the information referred to in point 1, letters (m) and (q) of Annex III to
+Regulation (EU) 2024/3005, ESG rating providers shall explain any limitations in respect
+of the following:
+
+(a) the availability or consistency of data used in the rating process;
+
+(b) the completeness, timeliness and accuracy of information;
+
+(c) the use of assumptions, proxy reference points and data estimation.
+
+
+                                        Article 6
+                              Organisational disclosures
+1. As part of the information referred to in point 1, letter (n) of Annex III to Regulation
+   (EU) 2024/3005, ESG rating providers shall indicate the areas of the ESG rating
+   provider’s activities, services or organisational structure from which the main risks of
+   conflicts of interest may arise.
+
+2. As part of the information referred to in point 1, letter (d) of Annex III to Regulation
+   (EU) 2024/3005, ESG rating providers shall disclose:
+
+   (a) a chart illustrating their ownership links with any parent undertaking and
+       subsidiaries. The chart shall indicate, where applicable, whether any of those entities
+       perform any of the activities listed in Article 16 (1) or services referred to in Article
+       16(6) of Regulation (EU) 2024/3005.
+
+
+3. As part of the information referred to in point 1, letter (l) of Annex III to Regulation
+   (EU) 2024/3005, ESG rating providers shall disclose the following:
+
+(a) how the criteria they apply for establishing fees ensure that fees are fair, reasonable,
+    transparent and non-discriminatory in accordance with Article 27 of Regulation (EU)
+    2024/3005;
+
+(b) whether the ESG rating provider operates a subscription-paid model, an issuer-paid
+    model, a combination of those models, or another model;
+
+(c) a description of the relevant business model, and the proportion of total annual revenue
+    derived from each model;
+
+
+
+
+                                                                                             56
+                                                                         ESMA REGULAR USE
+
+
+
+
+   (d) where applicable, the impact of fees charged for services other than ESG rating activities
+       on the determination of fees for ESG ratings, together with a description of those other
+       services.
+
+
+                                         Article 7
+                           Specific Methodological Disclosures
+1. As part of the information referred to in point 2, letter (b), subpoint (i) of Annex III to
+   Regulation (EU) 2024/3005, ESG rating providers shall specify the methods used to collect
+   any non-public data.
+
+2. As part of the information referred to in point 2, letter (a), subpoint (iv) of Annex III to
+   Regulation (EU) 2024/3005, ESG rating providers shall disclose a description of any
+   potential shortcomings relating to the use of preestablished statistical or algorithmic systems
+   or models in ESG measures.
+
+
+                                           Article 8
+                             Revision of data and methodologies
+
+1. As part of the information referred to in point 2, letter (a), subpoint (v) of Annex III to
+   Regulation (EU) 2024/3005, ESG rating providers shall provide an explanation of the
+   following items:
+
+       (a) the process and frequency for revising methodologies;
+
+       (b) the conditions for determining the need for revising a methodology;
+
+       (c) where applicable, the procedure for stakeholder consultation during the revision
+           process;
+
+       (d) the process for assessing the potential impact of the revision of methodologies on
+           ESG ratings produced pursuant to the relevant methodology;
+
+       (e) the criteria for determining what constitutes a material change to a methodology.
+
+2. As part of the information referred to in point 2, letter (b), subpoint (iii) of Annex III to
+   Regulation (EU) 2024/3005, ESG rating providers shall explain the steps taken to ensure
+   the accuracy and consistency of the data revision process.
+
+3. As part of the information referred to in point 2, letter (a), subpoint (vii) of Annex III to
+   Regulation (EU) 2024/3005, ESG rating providers shall specify the version number of the
+   methodology.
+
+
+
+                                                                                                57
+                                                                           ESMA REGULAR USE
+
+
+
+
+                                            Article 9
+                               Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+It shall apply from 2 July 2026
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels,
+
+                                               For the Commission
+                                               The President
+
+                                              Annex
+
+                                              Table 1
+
+List of elements to be disclosed pursuant to Annex III, point 1, of Regulation (EU) 2024/3005
+
+                                           Annex III.1      Delegated
+                                                            Regulation
+                    Rating Product         Annex III.1.f    Article 3(1)
+                    Disclosures            Annex III.1.g    Article 3(2)
+                                           Annex III.1.h    N/A
+                                           Annex III.1.i    N/A
+                                           Annex III.1.j    N/A
+                                           Annex III.1.o    Article 3(3)
+                                           Annex III.1.p    Article 3(3)
+                    Basic Methodological   Annex III.1.a    Article 4(1)
+                    Disclosures            Annex III.1.b    Article 4(2)
+                                           Annex III.1.c    Article 4(3)
+                                           Annex III.1.e    Article 4(4)
+                                           Annex III.1.k    N/A
+                    Limitations in data    Annex III.1.m    Article 5
+                    sources,               Annex III.1.q    Article 5
+                    methodologies and
+                    information
+                    Organisational         Annex III.1.d    Article 6(2)
+                    Disclosures            Annex III.1.l    Article 6(3)
+                                           Annex III.1.n    Article 6(1)
+
+
+
+
+                                                                                                 58
+                                                                  ESMA REGULAR USE
+
+
+
+
+5.3 Annex III List of Questions
+
+Q1     Do you agree with ESMA’s proposals for the draft technical standard under Articles
+       6(3) and 12(9)?
+
+Q2     Do you agree with ESMA’s proposals for the draft technical standard under Article
+       16(5)?
+
+Q3     Do you agree with ESMA’s proposals for the draft technical standard under Articles
+       23(4) and 24(3)?
+
+Q4     Do you consider that the draft technical standards under Articles 23(4) or 24(3)
+       should instead provide an expanded table in Annex proposing a sequence and
+       structure for all disclosures to be made under parts 1 and 2 of Annex III? If yes,
+       please explain the benefits of such an approach.
+
+Q5     Do you agree with ESMA’s proposed cost benefit analysis? If not, please explain.
+
+
+
+
+                                                                                          59
+                                                                        ESMA REGULAR USE
+
+
+
+
+5.4 Annex IV Securities Markets Stakeholder Group Advice to ESMA
+
+Advice to ESMA
+SMSG advice to ESMA on its consultation paper on draft technical standards under the
+Regulation on the transparency and integrity of Environmental, Social and Governance
+(ESG) rating activities
+
+
+Executive Summary
+The SMSG welcomes the opportunity to comment on to ESMA’s Consultation Paper (CP) on
+the draft technical standards (the RTS) under the Regulation on the transparency and integrity
+of Environmental, Social and Governance (ESG) rating activities (the Regulation).
+
+The SMSG welcomes the simplification approach taken by ESMA, but notes that there may be
+room for even more simplification. The SMSG would like to see further analysis done to
+determine if the right information is requested, for whom such information would be useful, and
+how information once provided would have to be updated.
+
+The SMSG in this advice gives some examples of where information requirements relating to
+ESG analysts and methodology may be reconsidered, modified or taken out. The SMSG also
+asks for further clarity about the applicability and rules relating to SMEs and start-ups as well
+as to outsourcing.
+
+The SMSG questions the reference to “scientific methodology” and notes the risks with
+including such reference. The SMSG would further like to see more clarity around certain
+definitions used, as well as on what applies in areas where there is (not yet) an established
+scientific methodology, but where there may be “standards” or similar.
+
+The SMSG notes that users of ESG ratings may be interested in learning what weight an ESG
+rating provider gives to certain factors or data. The SMSG also raise the concern amongst
+rated companies that ESG rating providers do not communicate with them and that providers
+fail to correct information that is not correct. The SMSG therefor ask ESMA to consider if more
+can be done to improve data-verification within timeframes to be determined by ESMA and
+methodological transparency for ESG rating providers, so as to bolster the reliability and
+impartiality of their published ratings.
+
+The SMSG notes that reviews are presently ongoing of several other ESG related regulatory
+frameworks incl. the CSRD and would like some further clarity on what the implications of such
+reviews may have on the Regulation and the forthcoming RTS.
+
+
+
+
+                                                                                               60
+                                                                           ESMA REGULAR USE
+
+
+
+
+Introductory remarks
+1. on the draft technical standards (the RTS) under the Regulation on the transparency and
+   integrity of Environmental, Social and Governance (ESG) rating activities (the Regulation).
+
+1. The SMSG welcomes the simplification approach taken by ESMA, in that one RTS covers
+    several areas and that ESMA takes a “building blocks” approach on the information side.
+
+2. This said the SMSG notes that there may be room for even more simplification as it can be
+    questioned if all information requested is needed. Further analysis is also required to
+    determine if the right information is requested, for whom such information would be useful,
+    and how information once provided would have to be updated. The SMSG welcomes the
+    opportunity to comment on to ESMA’s Consultation Paper (CP).
+
+.Information requirements
+
+2. As regards the information that is proposed to be provided by ESG rating providers, the
+   SMSG questions the usefulness of all details regarding ESG analysts employed by the ESG
+   rating provider. While it is useful for a user or ratings to learn e.g. if the provider is a small
+   “boutique” or a global firm, we wonder why details of all analysts etc.is needed and if so
+   for what purpose.
+
+3. The SMSG finds that if details of all analysts are provided, it may put undue pressure on
+   the individual analysts. A question in this regard is here to what extent such information
+   would be made public and if/how often this information would have to be updated.
+
+SMEs and start-ups in the rating sector
+4. The SMSG notes that further clarity could be provided if and if so to what extent the rules
+   set out in the draft RTS will apply to SMEs and start-ups. As the rules are drafted they seem
+   to imply that the ESG rating provider already has an operation up and running, as details
+   seem to have to be provided about existing operations and does not leave room for
+   presenting such information in the form of business plans etc.
+
+
+
+
+                                                                                                   61
+                                                                           ESMA REGULAR USE
+
+
+
+
+Methodology
+5. As regards the requirements to provide information about methodology, the SMSG
+   considers that a balance must be struck between such proprietary information as a provider
+   has a legitimate interest in keeping inhouse, and transparency towards the users of ESG
+   ratings.
+
+6. The SMSG also questions the reference to “scientific methodology” and would like to see
+   further clarity on what applies in areas where there is (not yet) an established scientific
+   methodology, but where there may be “standards” or similar.
+
+7. In connection with the above, the SMSG sees a risk that ESG rating providers may be
+   tempted to refer to a “scientific methodology” where no such methodology exists, creating
+   an illusion.
+
+8. The draft RTS also refers to “updates” or “changes” of methodologies, but it is not clear
+   when (within what timeframe) and to what extent ESG rating providers must provide
+   information about updates.
+
+9. It could e.g. be questioned how significant a change must be to require an “update” or
+   “change” and it is unclear who takes the decision on when an “update” is needed, and prop
+   what the consequences are if no “update” is provided.
+
+10. Example: Would a change (or not) of an approach/a view from a human rights perspective
+    on a country be an “update” or “change” of methodology by an ESG rating provider - this
+    may be a very important matter for some users.
+
+11. The SMSG also notes that users of ESG ratings may be interested in learning what weight
+    an ESG rating provider gives to certain factors or data, so that they can consider this in their
+    own use of the rating.
+
+Relationship with rated companies
+12. The SMSG notes that there is a concern amongst rated companies that ESG rating providers
+    do not communicate with them and that providers fail to correct information that is not
+    correct. Against this background, the SMSG would like to ask ESMA to consider if more
+    can be done to improve data-verification within timeframes to be determined by ESMA and
+    methodological transparency for ESG rating providers, so as to bolster the reliability and
+    impartiality of their published ratings.
+
+
+
+
+                                                                                                  62
+                                                                         ESMA REGULAR USE
+
+
+
+
+Outsourcing
+13. The SMSG notes that it is unclear if and to what extent rules apply in the case of outsourcing
+    requirements and would like to see further clarity on this matter.
+
+Interaction with other regulatory frameworks
+14. The SMSG notes that reviews are presently ongoing of several other ESG related regulatory
+    frameworks incl. the CSRD and would like some further clarity on what the implications of
+    such reviews may have on the Regulation and the forthcoming RTS.
+
+15. This advice will be published on the Securities and Markets Stakeholder Group section of
+    ESMA’s website.
+
+Adopted on 24 June 2025
+
+[Signed]                              [Signed]
+
+Giovanni Petrella                     Urban Funered
+Chair                                 Rapporteur
+Securities and Markets
+Stakeholder Group
+
+
+
+
+                                                                                                63
+

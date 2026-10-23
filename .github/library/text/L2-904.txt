@@ -1,0 +1,320 @@
+SOURCE: Delegated Regulation (EU) 2026/904 - procedure for fines and periodic penalty payments
+REFERENCE: OJ L 2026/904
+DATE: 2026-07-30
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600904
+FILE: sources/L2_DelReg_2026-904_Fines_Procedure.pdf
+
+            Official Journal                                                                                                             EN
+            of the European Union                                                                                                   L series
+
+                                                                 2026/904                                                        30.7.2026
+
+                                     COMMISSION DELEGATED REGULATION (EU) 2026/904
+                                                               of 24 April 2026
+                supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with
+                  regard to rules of procedure on fines and periodic penalty payments imposed to ESG rating
+                                  providers by the European Securities and Markets Authority
+
+                                                           (Text with EEA relevance)
+
+
+
+
+      THE EUROPEAN COMMISSION,
+
+
+
+      Having regard to the Treaty on the Functioning of the European Union,
+
+
+      Having regard to Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the
+      transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations
+      (EU) 2019/2088 and (EU) 2023/2859 (1), and in particular Article 39(9) thereof,
+
+
+      Whereas
+
+
+      (1)    To give full effect to the right to be heard, as guaranteed in Article 39(7) of Regulation (EU) 2024/3005, a person that
+             is subject to an investigation by European Securities and Markets Authority (‘ESMA’) should have the right to make
+             written comments in response to statements of findings issued by ESMA’s investigating officer and ESMA’s Board of
+             Supervisors. That person should be allowed to be assisted by a counsel of his or her choice.
+
+
+      (2)    ESMA should assess the completeness of the file submitted by the investigating officer based on a list of documents.
+             To ensure that the person subject to the investigation is able to adequately prepare their defense, ESMA should,
+             before adopting a final decision to impose a fine or periodic penalty payment, give that person the right to provide
+             further written comments.
+
+
+      (3)    Under Article 37(1), point (b)(ii), of Regulation (EU) 2024/3005 ESMA is to impose periodic penalty payments where
+             a person subject to investigation refuses to submit to such an investigation or to provide information requested by
+             ESMA. To fully guarantee the right of defence of such persons, ESMA should give the person the opportunity to
+             provide written submissions on the matter subject to investigation or on the fact whether such periodic penalty
+             payment is appropriate in the case at hand before such periodic penalty is imposed.
+
+
+      (4)    Both the power to impose fines and periodic penalty payments and the power to enforce fines and periodic penalty
+             payments should be exercised within a reasonable time and therefore be subject to a limitation period. For reasons of
+             consistency and taking into account ESMA’s experience in applying legislation applicable to the imposition and
+             enforcement of penalties on supervised entities, limitation periods for the imposition and enforcement of fines or
+             periodic penalty payments should be the same as in such legislation.
+
+
+      (5)    To ensure the safekeeping of collected fines and periodic penalties, ESMA should deposit the amounts received due to
+             those fines and periodic penalties on interest-bearing accounts that are opened exclusively for the purpose of a single
+             fine or periodic penalty payment. As a matter of budgetary prudence, ESMA should only transfer the amounts to the
+             Commission once the decisions are final due to the fact that the rights to appeal have been exhausted or have lapsed,
+
+
+      (1) OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj.
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/904/oj                                                                                      1/5
+EN                                                                                                                         OJ L, 30.7.2026
+
+
+
+      HAS ADOPTED THIS REGULATION:
+
+
+
+
+                                                                 Article 1
+
+                         Rules of procedure in infringement proceedings before the investigating officer
+
+
+      1.     Upon completion of the investigations in accordance with Article 33 of Regulation (EU) 2024/3005 and before
+      submitting the file to ESMA’s Board of Supervisors pursuant to Article 3(1) of this Regulation, the investigating officer
+      shall set out the facts liable to constitute the infringement, including any aggravating or mitigating factors in a statement of
+      findings.
+
+      The investigating officer shall inform of the findings the person subject to investigation in the written statement of findings
+      and shall invite that person to make written submissions pursuant to paragraph 3 of this Article.
+
+
+      2.     The investigating officer shall set a reasonable time limit in the draft statement within which the person subject to
+      investigation may make its written submissions. The investigating officer may consider written submissions received after
+      that time limit has expired.
+
+
+      3.    In its written submissions, the person subject to investigation may set out all the facts relevant to its defence. The
+      person subject to investigation shall attach any relevant documents as proof of the facts set out. The person subject to
+      investigation may propose that the investigating officer hear other persons who may corroborate the facts set out in the
+      submissions. The person subject to investigation may be assisted by a counsel of their choice in the preparation of their
+      written submissions.
+
+
+      4.    The investigating officer may invite a person subject to investigation to which a statement of findings has been
+      addressed to attend an oral hearing. The persons subject to investigation may be assisted by a counsel of their choice. Oral
+      hearings shall not be held in public.
+
+
+      5.    The investigating officer shall send the finalised statement of findings to the person subject to investigation.
+
+
+
+                                                                 Article 2
+
+                  Rules of procedure to be followed by ESMA with regard to fines and supervisory measures
+
+
+      1.    The investigating officer shall submit to ESMA’s Board of Supervisors the following documents:
+
+      (a)   copy of the statement of findings that he addressed to the ESG rating provider;
+
+      (b)   copy of the written submissions by the ESG rating provider;
+
+      (c)   minutes of any oral hearing.
+
+
+      2.     Where ESMA’s Board of Supervisors considers that the file submitted by the investigating officer is not complete, it
+      shall send back the file to the investigating officer with reasoned request for additional documents.
+
+
+      3.    Where ESMA’s Board of Supervisors considers, on the basis of a complete file, that the facts, described in the
+      statement of findings, appear not to disclose any possible infringement, it shall take a decision stating that and notify such
+      a decision to the persons subject to investigation.
+
+
+      4.     Where ESMA’s Board of Supervisors agrees with the findings of the investigating officer, it shall inform the persons
+      subject to investigation accordingly. Such communication shall set a reasonable time limit within which the person subject
+      to investigation may make written submissions. ESMA’s Board of Supervisors may consider written submissions received
+      after the expiry of that time limit for adopting a decision on the existence of an infringement and on supervisory measures
+      and the imposition of a fine in accordance with Articles 35 and 36 of Regulation (EU) 2024/3005.
+
+2/5                                                                                     ELI: http://data.europa.eu/eli/reg_del/2026/904/oj
+OJ L, 30.7.2026                                                                                                                        EN
+
+      ESMA’s Board of Supervisors may also invite the persons subject to investigation to which a statement of findings has been
+      addressed to attend an oral hearing. The persons subject to investigation may be assisted by a counsel of their choice. Oral
+      hearings shall not be held in public.
+
+
+      5.     Where ESMA’s Board of Supervisors has decided that an infringement has been committed by a person subject to
+      investigation and has adopted a decision imposing a fine in accordance with Article 36 of Regulation (EU) 2024/3005, it
+      shall notify immediately such decision to the person subject to investigation.
+
+
+
+
+                                                                Article 3
+
+                  Right to be heard by ESMA’s Board of Supervisors with regard to periodic penalty payments
+
+
+      1.    Before imposing a periodic penalty payment pursuant to Article 37 of Regulation (EU) 2024/3005, the Board of
+      Supervisors shall submit a statement of findings to the person subject to the proceedings setting out the reasons justifying
+      the imposition of a penalty payment and the amount of the penalty payment per day of non-compliance. The statement of
+      findings shall set a time limit within which the person concerned may make written submissions. The Board of Supervisor
+      may consider written submissions received after the expiry of that time limit for deciding on the periodic penalty payment.
+
+
+      2.    ESMA’s Board of Supervisors shall no longer impose a periodic penalty payment once the ESG rating provider or
+      person concerned has complied with the relevant decision referred to in Article 37(1), points (a) and (b), of Regulation
+      (EU) 2024/3005.
+
+
+      3.    ESMA’s Board of Supervisors may invite the person subject to the proceedings to attend an oral hearing. The person
+      subject to the proceedings may be assisted by a counsel of their choice. Oral hearings shall not be held in public.
+
+
+
+
+                                                                Article 4
+
+                                               Access to the file and use of documents
+
+
+      1.   Upon request, ESMA shall grant access to the file to the parties to whom the investigating officer or the Board of
+      Supervisors has sent a statement of findings. Access shall be granted following the notification of any statement of findings.
+
+
+      2.   File documents accessed pursuant to this Article shall be used by the person referred to in paragraph 1 only for the
+      purposes of judicial or administrative proceedings concerning the application of Regulation (EU) 2024/3005.
+
+
+
+
+                                                                Article 5
+
+                          Limitation periods for the imposition of fines and periodic penalty payments
+
+
+      1.    ESMA shall not impose fines and periodic penalty payments on ESG rating providers after the expiry of limitation
+      period of five years.
+
+
+      2.    The limitation period of time referred to in paragraph 1 shall begin to run on the day following that on which the
+      infringement is committed. However, in the case of continuing or repeated infringements, those periods of time shall
+      begin to run on the day on which the infringement ceases.
+
+
+      3.    Any action taken by ESMA for the purpose of the investigation or proceedings in respect of an infringement of
+      Regulation (EU) 2024/3005 shall interrupt the limitation period for the imposition of fines and periodic penalty
+      payments. That limitation period shall be interrupted with effect from the date on which the action is notified to the ESG
+      rating provider or the person subject to the investigating or proceedings.
+
+ELI: http://data.europa.eu/eli/reg_del/2026/904/oj                                                                                     3/5
+EN                                                                                                                         OJ L, 30.7.2026
+
+
+
+      4.    Each interruption as referred to in paragraph 3 shall start a new limitation period as referred to in paragraph 1. That
+      new limitation period shall expire at the latest on the day on which a period equal to twice the original limitation period has
+      elapsed without ESMA having imposed a fine or a periodic penalty payment. That period shall be extended by the time
+      during which the limitation period is suspended pursuant to paragraph 5.
+
+
+      5.    The limitation period for imposing fines shall be suspended for as long as the decision of ESMA is the subject of
+      proceedings pending before the Board of Appeal, in accordance with Article 60 of Regulation (EU) No 1095/2010 of the
+      European Parliament and of the Council (2), and before the Court of Justice of the European Union, in accordance with
+      Article 41 of Regulation (EU) 2024/3005.
+
+
+
+                                                                 Article 6
+
+                                        Limitation periods for the enforcement of penalties
+
+
+      1.    The ESMA shall not enforce decisions taken pursuant to Articles 36 and 37 of Regulation (EU) 2024/3005 after the
+      expiry of limitation period of five years.
+
+
+      2.   The limitation period referred to in paragraph 1 shall start to run on the day following that on which the decision
+      becomes final.
+
+
+      3.  The limitation period for the enforcement of penalties shall be interrupted by any action of ESMA designed to enforce
+      payment or payment terms and conditions of the fine or periodic penalty payment.
+
+
+      4.    Where the interruption referred to in paragraph 3 occurs, the limitation period referred to in paragraph 1 shall start
+      anew.
+
+
+      5.    The limitation period referred to in paragraph 1 shall be suspended for so long as:
+
+      (a)   time to pay is allowed;
+
+      (b)   enforcement of payment is suspended pursuant to a pending decision of ESMA Board of Appeal, in accordance with
+            Article 60 of Regulation (EU) No 1095/2010, and the Court of Justice of the European Union, in accordance with
+            Article 41 of Regulation (EU) 2024/3005.
+
+
+
+                                                                 Article 7
+
+                                         Collection of fines and periodic penalty payments
+
+
+      1.    ESMA shall lodge the amounts of fines and periodic penalty payments to an interest-bearing account opened by
+      ESMA until those fines and penalty payments become final. In the case of multiple fines and periodic penalty payments
+      collected by ESMA in parallel, ESMA shall ensure that those fines and penalty payments are lodged to different accounts or
+      subaccounts. Fines and periodic penalty payments paid shall not be entered into ESMA’s budget or recorded as budgetary
+      amounts.
+
+
+      2.     Where ESMA establishes that the fines or periodic penalty payments have become final following the exhaustion of
+      all appeal rights, ESMA shall transfer those amounts and potential interest accruing to the Commission. Those amounts
+      shall then be entered in the general budget of the Union.
+
+
+      3.   ESMA shall report on a regular basis to the Commission on the amounts of fines and periodic penalty payments
+      imposed and their status.
+
+
+      (2) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+          Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission
+          Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84, ELI: http://data.europa.eu/eli/reg/2010/1095/oj).
+
+
+4/5                                                                                     ELI: http://data.europa.eu/eli/reg_del/2026/904/oj
+OJ L, 30.7.2026                                                                                                                      EN
+
+                                                                 Article 8
+
+                                                            Entry into force
+
+      This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+      European Union.
+
+
+
+                    This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+
+                    Done at Brussels, 24 April 2026.
+
+
+                                                                                        For the Commission
+                                                                                           The President
+                                                                                     Ursula VON DER LEYEN
+
+
+
+
+ELI: http://data.europa.eu/eli/reg_del/2026/904/oj                                                                                   5/5
+

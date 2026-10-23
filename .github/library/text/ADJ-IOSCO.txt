@@ -1,0 +1,2577 @@
+SOURCE: IOSCO Final Report - ESG Ratings and Data Products Providers
+REFERENCE: FR09/21
+DATE: 2021-11
+URL: https://www.iosco.org/library/pubdocs/pdf/IOSCOPD690.pdf
+FILE: sources/ADJ_IOSCO_2021_FR09-21_ESG_Ratings.pdf
+
+Environmental, Social and Governance (ESG)
+    Ratings and Data Products Providers
+
+                   Final Report
+
+
+
+
+                     The Board
+                      OF THE
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS
+
+FR09/21                               NOVEMBER 2021
+                       Copies of publications are available from:
+   The International Organization of Securities Commissions website www.iosco.org
+© International Organization of Securities Commissions 2021. All rights reserved. Brief
+        excerpts may be reproduced or translated provided the source is stated.
+
+
+
+
+                                           ii
+                                                             Contents
+
+Executive Summary ................................................................................................................... 1
+
+Introduction ................................................................................................................................ 3
+
+Chapter 1: Product and Market Overview ................................................................................. 6
+
+Chapter 2: ESG ratings and Data Products Providers.............................................................. 16
+
+Chapter 3: Private and Public Users of ESG ratings and Data Products ................................. 24
+
+Chapter 4: Companies and ESG Ratings and Data Products Providers................................... 28
+
+Chapter 5: Final Recommendations ......................................................................................... 32
+
+Annex 1: Glossary.................................................................................................................... 44
+
+Annex 2: Final IOSCO Recommendations ............................................................................. 46
+
+Annex 3: WS3 Consultation Report Feedback ........................................................................ 48
+
+
+
+
+                                                                      iii
+Executive Summary
+
+The use of environmental, social and governance (ESG) ratings and data products has grown
+considerably in response to investors’ mounting interest in investing in companies that take
+account of sustainability in the way they are run. As a result, the role and influence of ESG
+ratings and data products providers 1 in financial markets more generally, and in the sustainable
+finance ecosystem more specifically, have grown significantly. This has led some securities
+markets regulators to take a closer interest in the activities and business models of these
+providers.
+
+Given that this part of the market does not currently fall within the typical remit of securities
+regulators, IOSCO has sought to strengthen its knowledge by undertaking a fact-finding
+exercise with ESG ratings and data products providers, users of ESG ratings and data products,
+and the companies that are the subject of these ESG ratings or data products.
+
+The fact-finding exercise revealed that:
+
+    •   there is little clarity and alignment on definitions, including on what ratings or data
+        products intend to measure;
+    •   there is a lack of transparency about the methodologies underpinning these ratings or
+        data products;
+    •   while there is wide divergence within the ESG ratings and data products industry, there
+        is an uneven coverage of products offered, with certain industries or geographical areas
+        benefitting from more coverage than others, thereby leading to gaps for investors
+        seeking to follow certain investment strategies;
+    •   there may be concerns about the management of conflicts of interest where the ESG
+        ratings and data products provider or an entity closely associated with the provider
+        performs consulting services for companies that are the subject of these ESG ratings
+        or data products; and
+    •   better communication with companies that are the subject of ESG ratings or data
+        products was identified as an area meriting further attention given the importance of
+        ensuring the ESG ratings or other data products are based on sound information.
+
+IOSCO issued a Consultation Report on 26 July 2021 which explored these developments and
+challenges and sought to better understand the implications of the increasingly important role
+of ESG ratings and data products for financial markets. 2 It did so by identifying potential
+areas for improvement within this part of the sustainable finance ecosystem, which in turn form
+the basis for a series of proposed recommendations for securities markets regulators as well as
+ESG ratings and data products providers, users of ESG ratings and data products and the
+companies that are the subject of these ratings or data products. ESG ratings and data products
+providers are broadly treated the same in this Report for efficiency. However, not everything
+stated to apply to ESG ratings providers may apply to ESG data products providers, and vice
+versa.
+
+1
+        The term ESG ratings and data products providers, as used in this report, covers providers who offer ESG
+        ratings and/or ESG data products. Where there is a need to single out ESG data products providers who
+        do not provide ESG ratings, the term ESG data products providers is used.
+2
+        CR02/2021 Environmental, Social and Governance (ESG) Ratings and Data Products Providers,
+        available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD681.pdf
+                                                      1
+We received a total of sixty-one (61) responses to the Consultation Report. A summary of the
+responses is provided in Annex 2 of this Report. Overall, respondents were supportive of
+IOSCO’s work and were broadly in agreement with the proposed recommendations set out in
+the Consultation Report. The IOSCO Board is grateful for the responses received and took
+them into consideration when preparing this Report.
+
+The Final Report (Report) is structured around five chapters. Chapter 1 provides an overview
+of the market for ESG ratings and data products; Chapter 2 discusses the current practices of
+ESG ratings and data products providers. Chapter 3 discusses observations in relation to users
+of ESG ratings and ESG data products while Chapter 4 elaborates on the interactions between
+companies that are the subject of ESG ratings or data products and ESG ratings and data
+products providers. Finally, Chapter 5 discusses areas for improvement highlighted in the
+fact-finding exercise and sets out recommendations for securities markets regulators, ESG
+ratings and data products providers, users of these products and services, and companies subject
+to these providers’ review.
+
+The recommendations start with a proposal that regulators could consider focusing greater
+attention on the use of ESG ratings and data products and the activities of ESG rating and data
+products providers in their jurisdictions. This is followed by a set of recommendations
+addressed to ESG ratings and data products providers, setting out that they could consider a
+number of factors related to issuing high quality ratings and data products, including publicly
+disclosed data sources, defined methodologies, management of conflicts of interest, high levels
+of transparency, and handling confidential information. The recommendations also suggest
+that users of ESG ratings and data products could consider conducting due diligence on the
+ESG ratings and data products that they use within their internal processes. The
+recommendations close with suggestions that ESG ratings and data products providers, and
+entities subject to assessment by ESG ratings and data products providers could consider to
+improve information gathering processes, disclosures and communication between providers
+and entities subject to assessment.
+
+
+
+
+                                               2
+Introduction
+
+Background
+
+IOSCO has established a Board-level Sustainable Finance Task Force (STF), with the aim of:
+(i) improving sustainability–related disclosures made by issuers and asset managers; (ii)
+collaborating with other international organisations to avoid duplicative efforts and enhance
+coordination of relevant regulatory and supervisory approaches; and (iii) preparing case studies
+and analyses of transparency, investor protection and other relevant issues within sustainable
+finance.
+
+To achieve these objectives, the STF is carrying out work in three areas:
+
+    •   Workstream 1 (WS1): sustainability-related disclosures for issuers;
+    •   Workstream 2 (WS2): sustainability-related practices, policies, procedures and
+        disclosures for asset managers; and
+    •   Workstream 3 (WS3): ESG ratings and data products providers.
+
+This Report focuses on questions related to ESG ratings and data products, with the aim of
+understanding the implications of the activities of ESG ratings and data products providers on
+sustainable investing. Indeed, as investors become more sensitive to the potential financial risks
+posed by climate change and the potential impact of other ESG considerations, such
+considerations are becoming increasingly significant in investment decision making. Investor
+demand, as well as regulatory developments, are encouraging the development of new ESG
+ratings and data products. 3
+
+These evolutions have led to a surge in demand, on a global basis, for ESG ratings and data
+products by financial market participants, as they seek to assess the sustainability track record
+of companies in which they invest. In that context, ESG ratings and data products providers,
+for example, offer investors a way to screen companies for ESG performance.
+
+This rise in demand has led to the proliferation of participants in the ESG ratings and data
+products industry, including established market participants such as credit rating agencies
+(directly or through their affiliates) or market infrastructure providers such as exchanges. This
+trend, which is accompanied by a growing concentration in the industry, is expected to
+continue, with some predicting the market for ESG data products could reach USD 1 billion
+by 2021, with an expected annual growth of 20%, while ESG indexes could grow by 35%. 4
+
+The increasing reliance on ESG ratings and data products from private providers may have been
+compounded, in part, by the fact that ESG reporting by companies is a relatively new
+
+
+
+
+3
+        For example, asset managers in the EU will be required to integrate ESG considerations into their
+        fiduciary duties from January 2022: more information available at Sustainability-related disclosure in the
+        financial services sector | European Commission (europa.eu)
+4
+        Anne-Laure Foubert, 2020-03-09, ESG Data Market: No Stopping Its Rise Now,
+        http://www.opimas.com/research/547/detail/
+                                                       3
+development in contrast to financial reporting. 5 This currently makes it difficult for investors
+to assess ESG performance and risk management based on standardised criteria; hence their
+inclination to use ESG ratings and data products from private providers. Transparency in ESG
+ratings and data methodologies is paramount, particularly as these methodologies vary
+significantly in terms of the ESG topics they cover, how these topics are weighted, and the
+metrics used to measure ESG performance.
+
+Given that the activities of ESG ratings and data products providers are not generally subject to
+regulatory oversight at the moment, increasing reliance on these services raises concerns about
+the potential risks they pose to investor protection, the transparency and efficiency of markets,
+risk pricing, and capital allocation. In addition, the lack of standards in this area may present
+the risk of greenwashing or misallocation of assets and could lead to a lack of trust in ESG
+ratings or in the data products’ robustness or relevance.
+
+To better understand this part of the sustainable finance ecosystem, IOSCO conducted a fact-
+finding exercise, consisting of (i) a series of roundtables with market participants organised in
+December 2020 and (ii) a survey questionnaire for market participants in January 2021. The
+questionnaire was sent to more than 65 participants including ESG ratings and data products
+providers, users of such products, and companies that are assessed by these providers. Some of
+the feedback received by specific participants has been highlighted within the Report, as these
+statements provided salient examples of the broader topics discussed within sections of the
+Report. Finally, IOSCO members contributing to this project have conducted desktop research
+in collaboration with the IOSCO Secretariat.
+
+Here, and elsewhere in the Report where relevant, “snapshots” of stakeholder feedback have
+been provided, where the statements made were salient examples of the broader topics
+discussed within sections of the Report. The “snapshot” boxes include selected statements of
+particular fact-finding participants and are not representative or summary statements of all
+stakeholder feedback. They are also not intended to reflect IOSCO’s views.
+
+Synergies with the other STF workstreams
+
+IOSCO, through WS1, has engaged with the International Financial Reporting Standards
+(IFRS) Foundation as the IFRS Foundation has worked towards the establishment of an
+International Sustainability Standards Board (ISSB). The IFRS Foundation launched the new
+board at the United Nations (UN) Climate Summit (COP 26) in November 2021.
+
+IOSCO has strongly supported the IFRS Foundation in its work towards delivering a global
+baseline for investor-oriented sustainability-related disclosure standards focussed on enterprise
+value creation, which jurisdictions could consider incorporating or building upon as part of
+their mandatory reporting requirements as appropriate and consistent with their domestic legal
+frameworks. This could promote international consistency and comparability in sustainability-
+related information and also form the basis for the development of an audit and assurance
+framework.
+
+
+
+5
+       IOSCO is working in close collaboration with the IFRS Foundation in establishing the International
+       Sustainability Standards Board aimed at providing a global baseline of sustainability reporting standards
+       to meet investor needs and set the basis for a globally comprehensive corporate reporting system.
+                                                      4
+IOSCO recognises that individual jurisdictions have different domestic arrangements for
+adopting, applying or otherwise availing themselves of international standards. It will be
+important for individual jurisdictions to consider how the common global baseline of standards
+can be adopted, applied or utilised within the context of these arrangements and wider legal
+and regulatory frameworks in a way that promotes consistent and comparable sustainability
+disclosures across jurisdictions.
+
+IOSCO has strongly encouraged the ISSB to leverage existing sustainability-related reporting
+principles, frameworks and guidance, including the Task Force on Climate-related Financial
+Disclosures Framework (TCFD Framework), as it develops investor-oriented standards
+focused on enterprise value, beginning with climate change. Prior to launching the ISSB, the
+IFRS Foundation trustees convened a working group to develop recommendations to give the
+new board a ‘running start’. Consistent with IOSCO’s vision, this technical readiness work
+leveraged the TCFD Framework and other content from existing sustainability reporting
+organisations.
+
+IOSCO has encouraged a ‘building blocks’ approach to establishing a globally comprehensive
+corporate reporting system. This could provide a consistent and comparable global baseline of
+sustainability-related information that is investor-focused and material to enterprise value
+creation, while also providing flexibility for interoperability with reporting requirements that
+capture wider sustainability impacts. These important elements of an ISSB under the IFRS
+Foundation are covered in the WS1 report. 6
+
+These efforts by WS1 are intended to drive much-needed international consistency and
+comparability in sustainability-related information and form the basis for the development of
+an audit and assurance framework to enhance reliability of disclosures. In turn, this information
+could become an essential part of any methodology underpinning the development of ESG
+ratings or data products. In that way, these efforts could have the additional benefit of
+increasing users’ trust in the ratings and data products developed by ESG ratings and data
+products providers.
+
+Nevertheless, given the current lack of consistent information at the level of corporate
+disclosures, ESG-focussed investors may need to place greater reliance on the ESG ratings and
+data products developed by ESG ratings and data products providers. The WS2, which focusses
+on the activities of asset managers as an important agency-model business which channels
+investor capital into sustainable finance, notes the importance of ESG ratings and data products
+in the decisions made by these asset managers. 7
+
+Some institutional asset owners have indicated they use ESG ratings as a basis for reviewing
+the activities of their asset managers and to assess the implementation of investment mandates
+or identify where further engagement is necessary. As such, the activities of ESG ratings and
+data products providers feature prominently across all three IOSCO STF workstreams due to
+the central role ESG ratings and data products play in the broader ecosystem of sustainable
+finance.
+
+6
+       The STF Workstream 1 report can be accessed at the following link:
+       https://www.iosco.org/library/pubdocs/pdf/IOSCOPD678.pdf
+7
+       The STF Workstream 2 report can be accessed at the following link:
+       https://www.iosco.org/library/pubdocs/pdf/IOSCOPD688.pdf
+                                                    5
+Chapter 1: Product and Market Overview
+
+Introduction
+
+This chapter provides an overview of the market for ESG ratings and data products. It outlines
+the types of firms that act as ESG ratings and data products providers before providing an
+overview of some of the current products available to financial market participants.
+
+Scoping of industry
+
+In a rapidly moving and diversified market, and in the absence of global standards for this
+industry, developing an overview of the market for ESG ratings and data products providers is
+challenging. While steps have been carried out to map existing providers and products in some
+jurisdictions, the mapping is only partial. 8 Nonetheless, KPMG estimates that there are 160
+ESG ratings and data products providers worldwide. 9 These include both for-profit and non-
+profit companies that offer large or specialised ESG-related products. At a regional level, a
+report recently prepared for the European Commission (EC) identified 30 to 40 other smaller
+providers of ESG ratings, data and research products and services domiciled in the European
+Union (EU), although such data is harder to find in other jurisdictions. 10 From a revenue
+perspective, according to a recent study by UBS, global revenues generated by ESG data and
+services could more than double by 2025. 11
+
+Products and market overview
+
+The market for ESG ratings and data products is currently in a phase of rapid growth and is
+expected to continue growing at pace over the coming years. The reasons behind this growth
+are two-fold. First, there is increasing legislative and regulatory focus on financial market
+participants’ consideration of the ESG characteristics of potential investments, with some
+jurisdictions imposing or considering imposing new regulatory obligations. Second, there is
+increasing demand from investors for products that will push society towards a greener
+economy and mitigate the risks stemming from climate change. These two drivers are only
+likely to increase in intensity over the coming years, leading to ESG ratings and data products
+taking on a more important role in the financial sector.
+
+
+Providers and consolidation
+
+8
+       December 2020: AMF Report on Provision of Non-Financial data: Mapping of stakeholders, products
+       and services available at https://www.amf-france.org/en/news-publications/publications/reports-
+       research-and-analysis/provision-non-financial-data-mapping-stakeholders-products-and-services.
+       January 2021 Study by European Commission on Sustainability-related ratings, data and research
+       available at Sustainability-related disclosure in the financial services sector | European Commission
+       (europa.eu).
+9
+       KPMG, Sustainable Investing: Fast-Forwarding Its Evolution, February 2020 available at
+       https://assets.kpmg/content/dam/kpmg/xx/pdf/2020/02/sustainable-investing.pdf.
+10
+       European Commission, Study on Sustainability-Related Ratings, Data and Research, Report prepared by
+       Sustainability,   January    2021     available     at    https://op.europa.eu/en/publication-detail/-
+       /publication/d7d85036-509c-11eb-b59f-01aa75ed71a1/language-en/format-PDF/source-183474104.
+11
+       https://www.ubs.com/global/en/investment-bank/in-focus/covid-19/2020/esg-data-and-services.html
+                                                    6
+The global market for ESG ratings and data products is concentrated around a small number of
+providers with a global presence, alongside a larger number of providers with a more regional
+focus or offering more specialized services.
+
+Following consolidation moves in recent years, some of these larger, more established market
+participants – notably credit rating agencies, exchanges, data and index providers – have begun
+to acquire smaller and more specialised ESG providers (see Table 1) and/or have invested
+significant resources to develop their own ESG expertise/capacities. However, where
+consolidations have occurred, only a few companies appear to have been fully integrated into
+the acquiring company, with the vast majority of acquired companies retaining their legal status
+by becoming a subsidiary of the acquiring entity.
+
+  Table 1: Examples of recent mergers and acquisitions in the ESG ratings and data provision market.
+ Year        Target                                                        Acquirer
+ 2016        Trucost (UK)                                                  S&P Global (US)
+ 2017        Sustainalytics (Netherlands) – acquisition of a 40% stake     Morningstar (US)
+             South Pole (Switzerland) (Investment Climate Data Division)   ISS (US)
+ 2018        Solaron (India)                                               Sustainalytics (Netherlands)
+             Oekom (Germany)                                               ISS (US) (acquired in 2020 by
+                                                                           Deutsche Börse Group)
+ 2019        Vigeo-Eiris (France)                                          Moody’s Corp (US)
+             Beyond Ratings (France)                                       London Stock Exchange (UK)
+             Four Twenty Seven (US)                                        Moody’s Corp (US)
+             GES International (Sweden)                                    Sustainalytics (Netherlands)
+             Carbon Delta (Switzerland)                                    MSCI (US)
+             SynTao Green Finance (China) - minority stake                 Moody’s Corp (US)
+             Ethical Corp (US)                                             Thomson Reuters (US)
+             Robecosam AG-ESG ratings Business (Switzerland)               S&P Global (US)
+ 2020        Sustainalytics (Netherlands) – 100% stake                     Morningstar (US)
+             Ecovadis (France) - Non-controlling interest                  CVC Growth Partners (US)
+             TrueValueLab (US)                                             Factset (US)
+Source: Company releases
+
+Smaller companies operate in the ESG ratings and data products market alongside those large,
+international providers. These smaller actors generally tend to have a specific regional presence
+and/or specialisation in specific data sets (e.g., climate, controversies), coverage (e.g., small
+and medium enterprises (SMEs), sovereign issuers) or services (e.g., certification, second party
+opinions and consulting services). There are also a number of start-ups and fintech companies
+entering the market and offering new products, which usually focus on using and leveraging
+big data and artificial intelligence in their product offerings.
+
+A variety of ESG ratings and data products provided and growth of new offerings
+
+A wide variety of ESG ratings and data products have emerged in response to investor needs,
+reflecting the importance of the availability of these products for investment decision processes
+and other uses. ESG ratings and data product offerings are constantly evolving to respond to
+                                                 7
+new topics of interest (e.g., share of green activities, contribution to the UN Sustainable
+Development Goals) and emerging areas of attention (e.g., environmental, diversity and
+inclusion, and biodiversity). Some of these products are set out for illustrative purposes within
+Table 2 alongside a reminder of how these terms are to be understood within this Report. 12 It
+should however be noted that product names, objectives and methodological practices can vary
+significantly across ESG ratings and data products providers, even for comparable products.
+
+ Table2: Overview of ESG ratings and Data Products - Sample Provider 1
+ 1    Controversy Activity Screening: Assessment of a company’s level of involvement in 17 controversial activities
+ 2    Controversial Weapons Screenings: Assessment of a company’s involvement in 10 types of weapons
+ 3    Controversy Risk Assessments: Aggregate view of a company’s exposure to and management of ESG and Climate
+      related controversies
+ 4    Sustainable Goods and Services Assessments: Assessment of a company’s level of involvement in 90+ sustainable
+      goods and services. Covers a broad range of ESG and Sustainability factors including contribution to climate change
+      mitigation and adaptation.
+ 5    Sustainable Development Goals (SDG) Assessments: Measures a company’s level of contribution across the SDGs
+      through their products & services and business behaviour
+ 6    UN Global Compact Assessment: Normative framework assessment of a company’s capacity to manage ESG
+      responsibilities outlined by the UN Global Compact
+ 7    Corporate ESG Assessments and Scores: Scores a company’s capacity to manage ESG factors as defined by
+      international standards. Scores include scores for 28 ESG drivers, an E, S, G and a composite ESG score, derived
+      from public information
+ 8    Sovereign ESG Assessments and Scores: Scores a Sovereign entity’s performance on 172 ESG risk and performance
+      indicators
+ 9    Sustainability Ratings: Analysis of a company’s multi-stakeholder impact taking into account performance under
+      dual materiality considerations. The sustainability rating includes a company’s risk exposure to ESG factors, their
+      management of ESG factors and their ESG impact (positive)
+ 10   ESG Benchmark Analysis: Customised peer benchmarking for a company including ESG assessment ranking and
+      best practice insights
+ 11   Corporate Physical Climate Risk Scores: Asset-level data on exposure to floods, heat stress, hurricanes and
+      typhoons, sea level rise, water stress and wildfires
+ 12   Sovereign Physical Climate Risk Scores: Aggregate physical climate risk scores for each jurisdiction based on the
+      total and percentage of agriculture, population and GDP (purchasing power parity) exposed.
+ 13   Corporate Transition Risk Scores:
+        •     Brown share data to assess exposure to fossil fuels, including a company’s revenue, reserves, potential
+              emission and power fossil fuels
+        •     Carbon footprint measuring a company’s carbon emissions
+        •     Temperature alignment assessing how a company’s emissions reduction targets align with different
+              temperature pathways.
+ 14   Energy Transition Score: Measures a company’s preparedness for the transition to a low-carbon economy.
+
+
+
+12
+        A more detailed overview is available in European Commission Report (2021), available at:
+        https://op.europa.eu/en/publication-detail/-/publication/d7d85036-509c-11eb-b59f-
+        01aa75ed71a1/language-en/format-PDF/source-183474104
+                                                             8
+ Table2: Overview of ESG ratings and Data Products - Sample Provider 1
+ 15   Physical Risk Management: Demonstrates how a company anticipates, prevents and manages physical risks.
+ 16   TCFD climate strategy: Analyses how a company’s disclosures align with the TCFD’s recommendations.
+ 17   Sovereign Transition Risk: Measures emission by jurisdiction covering its whole production-based emissions and
+      carbon intensity (emission per unit of GDP).
+ 18   Daily Monitoring and Alerts: Daily monitoring of ESG related events covering 38 ESG Criteria and 160+
+      underlying topics on ~8,000 companies.
+Source IOSCO WS3 Questionnaire
+
+The ESG ratings and data products offered by another provider are illustrated below:
+
+            Table 3: Overview of ESG ratings and Data Product Offerings: Sample Provider 2
+ 1    Carbon Risk Rating Evaluates to what extent a company copes with future challenges related to climate change and
+      seizes opportunities arising from a transition to a low-carbon economy using 100+ carbon performance indicators,
+      most of which are industry-specific.
+ 2    Climate Solutions Supports financial market participants in understanding, measuring, and acting on climate-related
+      risks and their impact on investments across asset classes. ESG’s analysis is based on a proprietary database of
+      company greenhouse gas (“GHG”) information.
+ 3    Controversial Weapons Screening Helps investors make decisions regarding companies directly or indirectly
+      involved in the development, production, maintenance or sale of controversial weapons including, but not limited to,
+      biological and chemical weapons, nuclear weapons, anti-personnel mines, and cluster munitions.
+ 4    Energy & Extractives Screening Assesses companies’ involvement in the extraction of fossil fuels and the
+      generation of power from fossil fuel, nuclear and renewable sources.
+ 5    E&S Disclosure Quality Score Measures and identifies companies’ environmental, social and governance disclosure
+      practices with data-driven scoring and screening solutions.
+ 6    Global Sanctions Screening Assesses companies with ties to jurisdictions of concern and/or jurisdictions under UN
+      United States (US) or EU sanctions.
+ 7    Norm-Based Research Assesses companies’ adherence to international norms on human rights, labour standards,
+      environmental protection and anti-corruption as set out in the UN Global Compact and the Organisation for Economic
+      Cooperation and Development (OECD) Guidelines.
+ 8    Pooled Engagement A dialogue and engagement service carried out with companies identified through its Norm-
+      Based Research as facing credible allegations of corporate misconduct according to the four norm pillars noted in the
+      UN Global Compact: human rights, labour standards, environment, and anti-corruption. Pooled Engagement serves
+      as a continuation and escalation of company and stakeholder dialogue.
+ 9    Sector-Based Screening Assesses companies’ involvement in sectors and products such as alcohol, animal welfare,
+      cannabis, for-profit correctional facilities, gambling, pornography, and tobacco.
+ 10   SDG Solutions Assessment Determines the positive or negative impact of companies’ product and service portfolios
+      on the UN Sustainable Development Goals.
+ 11   ESG Index Solutions Enables investors to identify, benchmark, and track portfolio companies with superior
+      environmental, social, and governance performance and to successfully realize their own indexing strategies. The
+      ESG Index Solutions offering consists of Turnkey Index Solutions and Custom Index Solutions.
+ 12   Cyber Risk Helps investors, insurers and companies to accurately assess, continually monitor, and judiciously
+      benchmark enterprise cyber risk management programs
+
+
+
+                                                            9
+                Table 3: Overview of ESG ratings and Data Product Offerings: Sample Provider 2
+ 13       EU Taxonomy Alignment Solution Enables asset managers, pension funds, insurers, banks and other investors to
+          identify the level of alignment of their investments and financial products with defined taxonomy activities and
+          quantify respective revenues in order to comply with the upcoming disclosure obligations.
+ 14       Jurisdiction Ratings Provides detailed information on the sustainability performance of all EU, OECD and BRICS
+          jurisdictions, as well as key sovereign issuers in Asia and South America.
+ 15       ESG Corporate Rating Assesses to what extent companies – now and in the future - are positioned to, on the one
+          hand, adequately manage the specific ESG risks associated with their individual business model and exposure, and,
+          on the other hand, capitalize on opportunities offered by transformations towards sustainable development.
+ 16       SDG Impact Rating Determines a company’s positive or negative impact on the UN Sustainable Development Goals
+          across three key pillars: products and services, operations management and controversies.
+
+
+ESG ratings products
+
+The term “ESG ratings” can refer to the broad spectrum of rating products in sustainable finance
+and include ESG scorings and ESG rankings. 13 ESG ratings, rankings and scorings serve the
+same objective, namely the assessment of an entity, an instrument or an issuer exposure to ESG
+risks and/or opportunities. However, they differ in the resources and methodologies used. ESG
+scores usually result from quantitative analysis whereas ESG ratings are produced using both
+quantitative models and qualitative analysis and are accompanied by analyst reports to explain
+the ratings. On that basis, ratings may therefore incorporate an element of analytical judgement
+or opinion. Ratings providers select key issues for each ESG component and assess the
+exposure to these sustainability risks and the way in which they are managed. ESG ratings,
+scorings, and rankings are usually not defined in absolute terms (although some are 14) but are
+generally assessments relative to a peer group.
+
+ESG data products
+
+ESG data products providers have developed a wide range of products and services in order to
+meet investors’ growing demand for ESG-related information. Feedback from providers
+suggests the potential for innovation remains high. . Common ESG data products are explained
+below:
+
+      •     Raw data is gathered by ESG data products providers from companies’ public
+            disclosures or from other publicly available information or collected through
+            questionnaires; if raw data is not available, corresponding data points can be
+            approximated. Feedback suggests that all data products derive from either collected or
+            estimated raw data.
+
+      •     Screening tools assess the exposure of companies, jurisdictions and bonds to ESG risks
+            in order to define a portfolio based on ESG criteria.
+
+
+
+13
+           ESG rankings are included here on the basis that the underlying analytical process can be understood as
+           a scoring process for multiple entities or issuers that results in a ranking of entities or issuers in a given
+           sector.
+14
+           https://www.sustainalytics.com/esg-data
+                                                              10
+   •    Controversies alerts enable investors to track and monitor behaviours and practices
+        that could lead to reputational risks and affect the company and more broadly its
+        stakeholders. Controversies can also be taken into account in ESG ratings.
+
+Other ESG products and services
+
+In addition to the increasing range of ESG ratings and data products, some ESG ratings and
+data products providers also offer other ESG products and services. These include inter alia:
+
+    •    ESG indices;
+    •    consulting services such as portfolio analysis, advisory services to companies for
+         ESG strategy development;
+    •    provision of certification and second-party opinions;
+    •    regulatory reporting assistance for companies and financial market participants’
+         compliance with new sustainability regulations; and
+    •    advisory services to companies on ESG ratingss improvement techniques.
+
+Coverage of ESG ratings and data products
+
+Another important issue is the scope of coverage of the ESG ratings and data products – that
+is, which companies or instruments do ESG ratings and data products cover, and what is the
+breadth and depth of ESG ratings and data coverage available from providers. Here, IOSCO
+provides an initial analysis of the issue broken down into the categories of ESG ratings and
+ESG data products.
+
+ESG ratings products
+
+For ratings coverage, the fact-finding exercise showed that while some providers do cover
+private companies, there is a heavier weighting of ratings coverage for publicly listed
+companies. There is also more coverage of larger companies over SMEs. This is perhaps
+unsurprising given that ratings providers rely on public disclosures (and other information) for
+their analysis. In addition, from a demand perspective, the clients of ESG ratings and data
+products providers are more likely to invest in publicly listed companies.
+
+      Table 4: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ ESG ratings/data coverage can depend on sophistication of financial market
+ The individual ESG scores are geographically diverse across developed markets with higher coverage in
+ well-developed markets as data disclosure increases.
+
+ Coverage of private unlisted companies less systematic than publicly listed companies
+ There is [thus] no systematic coverage of private unlisted companies, as there is with publicly listed
+ companies. Two main reasons for this difference appear:
+ •   ESG demand in these asset classes is relatively new and there is yet to be sufficient demand for a
+     systematic coverage,
+ •   Unlisted private companies face fewer obligations in regard to ESG disclosure: direct dialogue
+     appears necessary to gather (de facto internal) information and as such implies a mandate from an
+     investor or lender.
+
+From a geographic basis, coverage can be considered from two perspectives. On the one hand,
+coverage delivered by providers is generally weighted towards the “home” financial markets
+of the providers. But even allowing for this, there is still a weighting in favour of jurisdictions
+                                               11
+with either sophisticated or developed financial markets, disclosure requirements or both.
+Meanwhile, mainstream rating methodologies and assessments are generally set against the
+developmental stage and regulatory regimes of developed markets, and may not consider
+appropriately differences when assessing issuers from growth and emerging markets. An
+overview of one provider’s level of coverage illustrating these aspects is provided in Table 6
+below.
+
+ Table 5: Sample level of ESG ratings Coverage of publicly listed companies by major geographic region
+                        from US Headquartered ESG ratings and data provider.
+                  Products                                     Coverage by Region
+ Carbon Risk Ratings
+
+
+
+
+ ESG Corporate Ratings
+
+
+
+
+ SDG Impact Ratings and SDG Solutions
+ Assessment
+
+
+
+
+ESG data products
+
+Given their reliance on the same raw data inputs, the findings relating to the coverage of ESG
+ratings products are, to a large degree, replicated for ESG data products. However, given the
+diversity of products available under this heading, an additional area of interest is which ESG
+data products are considered by data products providers to be most commonly used, and
+whether there are regional variations for the popularity of these products.
+
+Most popular data product offerings
+
+A selection of the most commonly offered products from two ESG ratings and data products
+providers is set out below. Notwithstanding differences in labelling and some commonalities
+in preferences or screening and ESG related scoring, it is notable that there is some degree of
+variance between the most popular data product offerings from these two providers. It is
+                                                 12
+possible that these providers are catering to different segments of the market, different regions
+or to different needs in terms of focus and purpose. It is also possible that the differences may
+be indicative of the developing market for ESG data, where the balance between the products
+that clients need and the products that can be provided has yet to be found.
+
+      Table 6: Comments Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Comparison of the most common ESG data products used by clients of two ESG [ratings and] data
+                                      products providers
+   • ESG Scores                                     • Sector-Based Screening
+   • Daily Monitoring and Alerts                    • Norm-Based Research (NBR) and
+   • Corporate Physical Climate Risk                    Sovereign NBR
+       Scores                                       • Controversial Weapons Research
+   • Corporate Transition Risk Scores               • Climate Solutions
+   • Controversial Activity Screening
+
+Variations in geographic preferences
+
+Across providers, the popularity of ESG ratings and data products can vary by geographic
+region, and in some cases, vary within individual jurisdictions. For example, a number of ESG
+data products providers highlighted that demand for their data products was higher in
+jurisdictions with a higher level of legislative and regulatory or client focus on ESG investing,
+namely Europe and the US. Furthermore, within Europe, there was a noted preference for
+certain products in particular countries. To some extent, these preferences can be seen as a
+combination of investor demand and regulatory requirements, where all jurisdictions have a
+general level of demand for ESG data arising from client preferences, but certain jurisdictions
+have more specific demands on the basis of legal requirements.
+
+Smaller versus larger institutions
+
+Outside of Europe and the US, respondents highlighted that demand for ESG data products
+was related to the size of the client, with differences also apparent in the types of ESG data
+products demanded. Smaller institutions were more likely to subscribe to platforms with
+scoring information, while larger clients subscribed to databases of raw ESG data.
+
+           Table 7: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Greater use of ESG data products prevalent in certain jurisdictions
+ All products are most commonly used in Europe. Norm-Based Research and ESG Corporate Ratings are most
+ popular in this region as it is historically a more European approach to ESG investing. Controversial Weapons
+ Research is particularly demanded in certain European markets with regulations for controversial weapons
+ exclusions. Newcomer markets like Asia are for the time being very focussed on climate. In the US, there is a
+ strong demand for raw data, but Sector-Based Screening, Controversial Weapons Research and Climate
+ Solutions are also relatively popular.
+ Preferences for certain products also exist within jurisdictions
+ There are regional variations, which link to historical differences in terms of approach to socially responsible
+ investment. For example, for Europe screening approaches are more prominent in the Nordics, The Netherlands
+ and Germany. Meanwhile, the most advanced market is France. We are also seeing broad interest in Europe
+ and the US for our Corporate Physical and Transition Risk scores.
+
+Public disclosure of ESG ratings and data products
+
+Practices regarding the public disclosure of ESG ratings and data products can vary
+significantly, this being dependent to some degree on the providers’ remuneration models. In
+                                              13
+this regard, the public disclosure of fund level aggregate ESG ratings appears more systematic
+than for company ratings, while non-profit companies tend to make their ratings public. In
+addition, some ESG ratings providers, when contributing their rating as an input to the design
+and production of ESG indices, also publish the ratings of the companies included in the indices,
+although this is not systematic. In the last few years, several ESG ratings providers have
+published high level ESG ratings of companies on their websites without any paywall. 15
+
+A market which is largely unregulated
+
+ESG ratings and data products are at an early stage of adoption by financial market participants,
+although their usage and role are growing rapidly. Consequently, the market remains largely
+unregulated, with some isolated attempts at self-regulation through codes of conduct. A number
+of voices (national regulators, 16 industry associations, 17 as well as providers themselves) have
+called for a regulation of the market.
+
+IOSCO considered the existence of regulatory requirements or voluntary standards in members’
+jurisdictions. These could provide a real-world example of regulatory or standard setting
+requirements for these activities or indicate where there may be potential for overlap or conflict
+with any of IOSCO’s proposed recommendations. IOSCO took a bottom-up approach to this
+scoping exercise, asking the ESG ratings and data products providers whether they were subject
+to any supervisory or regulatory frameworks. The feedback received identified only a limited
+number of national regulatory frameworks applicable to providers of these or similar products.
+For example, the legal and regulatory framework in the EU for benchmarks 18 and United
+Kingdom 19 may be relevant for certain providers of benchmarks with an ESG or climate
+dimension.
+
+However, this framework is not directly relevant for the broad scope of ESG ratings and data
+products as described and foreseen in this report. As a result, the current situation would appear
+to be one in which there are few examples of legal and regulatory frameworks of direct
+relevance for ESG ratings and data products, and no voluntary frameworks of direct relevance,
+outside of those being applied more generally by providers of Financial Benchmarks.
+
+
+
+
+15
+       A non-exhaustive list of these firms being: MSCI, Sustainalytics, Vigeo Eiris, Arabesque
+16
+       AFM/AMF, French and Dutch financial market authorities call for a European regulation of ESG data,
+       ratings, and related services; ESMA, ESMA calls for legislative action for ESG ratings and assessment
+       tools.
+17
+       AFEP-MEDEF: French Initiative on the relations between Companies and Non-Financial Rating
+       Agencies
+18
+       Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices
+       used as benchmarks in financial instruments and financial contracts or to measure the performance of
+       investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation EU (No
+       596/2014)
+19
+       https://www.legislation.gov.uk/uksi/2019/657/contents/made?view=plain
+
+
+                                                    14
+     Table 8: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+                   Voluntary Frameworks for certain aspects appear to be the norm
+ We strive to avoid any potential conflict of interest or appearance of conflict. Our scores products rely 100%
+ on disclosed data. We consider third party frameworks from NGOs (TCFD, SASB, GRI, CDP), industry
+ associations (IPIECA, American Petroleum Institute, etc.), regulators and standard setting organisations that
+ provide disclosure recommendations, and reconcile with existing disclosure approaches, existing company
+ reported fields and new fields needed for scoring.
+
+ For actual scores design guidance, we built on the OECD Handbook on Constructing Composite Indicators,
+ among other scoring and evaluation approaches, to (1) attempt to reduce the dimensions represented in
+ scores and therefore noise/risk of distortion (2) incorporate the multidimensional nature of evaluating
+ sustainability performance without losing ability to identify red flags (3) give users transparent access to
+ more complex, granular information and scoring decisions while still aggregating in a way that advances
+ our core principles (e.g., to reward good relative and absolute performance, good disclosure, quantitative
+ reporting and consistent performance across dimensions).
+
+Some jurisdictions are currently developing frameworks for regulating ESG ratings and data
+products providers. For example, the EC announced it is investigating the market for
+sustainability ratings and research as part of its 2018 Action plan for sustainable finance.
+Subsequently, the EC published its Strategy for Financing the Transition to a Sustainable
+Economy in which it outlined that it would take action to improve the reliability and
+comparability of ESG ratings and further assess certain aspects of ESG research, to decide on
+whether an intervention is necessary. 20
+
+In the UK, in 2021 the Financial Conduct Authority (“FCA”) published a discussion chapter
+seeking feedback on certain ESG issues in capital markets, including the currently unregulated
+field of ESG data and ratings. The consultation set out governance, transparency and conflicts 21
+issues in this area and asked stakeholders whether there is a case for regulatory intervention in
+this market. More recently, the UK HM Treasury published a roadmap 22 to sustainable
+investing in which it confirmed that the government is considering bringing relevant firms into
+the scope of FCA authorisation and regulation.
+
+
+
+
+20
+        Action 4 of the European Commission’s Strategy for Financing the Transition to a Sustainable Economy
+21
+        https://www.fca.org.uk/publication/consultation/cp21-18.pdf
+22
+        https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1031
+        805/CCS0821102722-006_Green_Finance_Paper_2021_v6_Web_Accessible.pdf
+
+                                                       15
+Chapter 2: ESG ratings and Data Products Providers
+
+Introduction
+
+Whereas Chapter 1 of this Report covered the market for ESG ratings and data products
+providers, this chapter discusses the practices and experiences of these providers. In particular,
+this chapter considers how ESG ratings and data products providers source their ESG data and
+the methods used in the industry. In doing so, it will identify some of the principal challenges
+in this space. It will also provide an overview of the business models used in the industry.
+
+Reliability and availability of Inputs – Raw ESG data
+
+ESG ratings and data products providers rely on data inputs to support their analysis for ESG
+ratings and data products. The availability of reliable and high-quality data inputs is a critical
+component of ESG ratings and data products. Depending on a product’s focus, the information
+relied upon by an ESG ratings and data products provider to assess an entity can be broad. The
+number of data points used differs from one provider to another, some using thousands of data
+points. This can include information relating to an entity’s governance framework, financial
+strategy and management expertise, as well as information on physical and transition climate
+risks.
+
+While ESG-related disclosure requirements are being introduced across some jurisdictions,
+there remains limited consistency in the disclosures required and their implementation is still
+at a fairly early stage in most jurisdictions. The WS1 is looking to improve both the consistency
+and comparability of disclosures as well as introducing a common international baseline
+through the creation of an ISSB under the IFRS Foundation. As such, in some cases, the
+information on which ESG ratings and data products are based will be sourced from external
+entities and third parties, or approximated using internal metrics. Irrespective of how the
+information is sourced, the quality, reliability, and consistency of this information is an
+important consideration.
+
+                          Table 9: Measurement Objectives of Selected ESG ratings
+        Example statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+                            Differences in ESG ratings Measurement Objectives
+              ESG ratings Provider 1                                ESG ratings Provider 2
+ Our Sustainability Ratings consider issuers’ multi- [ESG ratings Provider 2]’s Ratings aim to measure a
+ stakeholder impact, considering the identification and company’s resilience to long-term financially relevant
+ management of material ESG risks and opportunities ESG risks on following aspects:
+ and the ability to create long-term value.                 • Of the negative externalities that companies
+                                                               in an industry generate, which issues may
+ ESG ratings can be based on publicly available                turn into unanticipated costs for companies
+ information      only,     proprietary     information,       in the medium to long term.
+ subscription-based services and information provided       • Conversely, which ESG issues affecting an
+ by issuers and their management. ESG ratings                  industry may turn into opportunities for
+ providers may also offer related and unrelated                companies in the medium- to long- term.
+ products and services, including through affiliates.
+
+Difficulties with entities’ disclosure practices
+
+Given the importance of reliable data inputs as a starting point to developing reliable products,
+IOSCO considered the principal difficulties that ESG ratings and data products providers
+                                                      16
+encounter in sourcing this information. In this regard, the feedback IOSCO received pointed to
+problems of:
+
+    •    availability (varying levels of ESG disclosures). More specifically, ESG ratingss and
+         data products providers highlighted the low volumes of ESG information in certain
+         regions as a particular issue that can negatively affect the levels of quality and coverage
+         of their products. One provider highlighted the relatively lower volumes of ESG
+         disclosures in emerging markets and the Asia-Pacific region as an example of this issue.
+
+    •    inconsistency (format, content and location of disclosures). Specifically, disclosed
+         ESG data may be spread across multiple reports of the company, for example, the
+         annual report, corporate sustainability report and individual webpages. While this
+         scenario is preferable to one in which no public disclosures are made, it does create the
+         risk that not all relevant information will be gathered by all providers.
+
+The lack of standardisation of corporate disclosures therefore impacts the quality and
+availability of information that can be used by ESG ratings and data products providers. These
+findings are largely consistent with IOSCO’s observations from the investor standpoint, namely
+that sustainability-related information needs are currently not being met, and there is an urgent
+need to improve the consistency, comparability, and reliability of sustainability reporting.
+
+ESG ratings and data products providers can request or procure ESG information from entities
+that are the subject of these ratings or data products on a bilateral basis, and in this case,
+minimise the impact of a number of the above issues. However, where this occurs, there may
+be risks around transparency, verifiability and ensuring a level playing field for both providers
+and entities that are the subject of these ratings or data products.
+     Table 10: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Collection of ESG data hampered by multiple factors
+ Low Volume of ESG Information
+
+ In certain regions and asset classes the total volume of ESG and Climate information (qualitative and
+ quantitative) that is disclosed remains low. Specifically, we see lower volumes of disclosures in Emerging
+ Markets and in the Asia Pacific region.
+
+ ESG Reporting Fragmentation
+
+ It is not uncommon to see ESG data and climate information spread across multiple reports (Annual Report,
+ CSR Report, specific website pages or ‘deep dives’ etc.). That is not negative per se, as we recognize that this
+ information is of interest to multiple parties. However, consolidation within one primary document, a main
+ section of a report, or a main section of a website would reduce the risk of lost information indicators on
+ whether or how progress is being made against the policies.
+
+ Issues with Supporting Information for Targets
+
+ Where targets are set on ESG or Climate issues, we observe that baselines are not always made clear, and that
+ progress on these targets (on track/off track information) is rarely provided.
+
+ Lack of Key Performance Indicator (KPI) Consistency
+
+ We also observe that where metrics or KPIs are provided by entities, restatements of prior figures are not
+ always made clear; time series data is not always made available; and that the scope of the data is not always
+ made clear.
+
+                                                       17
+IOSCO has worked with the IFRS Foundation to support the establishment of an ISSB which
+will develop a common set of international standards for sustainability-related disclosure across
+jurisdictions and form the basis for the development of an audit and assurance framework. 23
+Over time, this type of standardisation will also likely mitigate the other issues identified
+through IOSCO’s fact-finding exercise.
+
+Remuneration: “Issuer Pays” versus “Subscriber Pays” model
+
+Feedback from respondents to the fact-finding exercise indicates that the fee model for ESG
+ratings and data products is largely, although not exclusively, based on a “subscriber pays”
+basis. While there are some examples of the “issuer pays” model from certain providers, these
+are mostly focused on ESG ratings. Where figures in terms of ratio of revenues from
+“subscriber pays” versus “issuer pays” were provided, these put the split at between 85% and
+100% of revenues being derived from “subscriber pays.”
+
+This mix has been described as being relatively stable over a number of years and no
+respondents to the fact-finding questionnaire noted a shift in recent years. Nevertheless, a shift
+towards greater use of an “issuer pays” model could occur in the ESG ratings, as a result of
+many potential factors, such as upcoming regulation and evolving market practices. For
+example, if the incentive or financial benefit for an issuer to be the subject of an ESG ratings
+or data product were to increase, this would increase the financial benefit or incentive for an
+issuer to pay for the ESG ratings or data product.
+
+Depending on the remuneration model put in place, the potential risks of conflicts of interest
+will differ. If ESG ratings and data products are provided on a “subscriber pays” basis, smaller
+investors may be at a disadvantage, as their ability to subscribe to multiple product packages
+will likely be constrained by cost. Even if an investor were to have the ability to subscribe to a
+single product package, without the ability to understand the underlying data inputs and
+methodological approach, the investor may not be able to make an informed choice between
+product offerings.
+
+It is useful to note that ESG ratings providers are increasingly providing their high level ESG
+scores on their websites for public access. On that basis, smaller investors would still have
+access to some ESG ratings as well as to the sustainability-related disclosures of listed
+companies.
+
+Finally, the “subscriber pays” model potentially creates pressure for the provider to prioritise
+quantity of information over quality of information. Indeed, users of ESG ratings and data
+products will seek access to broad coverage across geographies and sectors, possibly putting
+pressure on the provider to deliver this coverage even where availability and robustness of
+underlying data are not sufficient or lead to declining overall quality of analysis.
+
+
+
+
+23
+       IOSCO press release dated 24 February 2021, available at:
+       https://www.iosco.org/news/pdf/IOSCONEWS594.pdf
+                                                   18
+    Table 11: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ ESG data fee’s model is predominantly “subscriber pays”
+ [ESG ratings and Data Provider] ESG Research business model is not an issuer pays business model and
+ issuers do not pay for their ratings. However, issuers can subscribe to [ESG ratings and Data Products
+ Providers] ESG ratings, our flagship offering, in order to benchmark their ESG practices against industry
+ peers.
+ But market could shift in coming years
+ The subscriber pays vs. issuer pays revenue mix has been stable for several years. We are cognizant of the fact
+ that many factors could lead to a tilt at some point (upcoming regulation and market practice, as evidenced by
+ the way Credit Rating Agencies have seen their business model evolve over the last decades).
+
+Methods used in the industry
+
+Interactions with companies
+
+While ESG ratings and data products providers rely on a broad range of sources for gathering
+information, one of the most significant sources for a number of providers is the information
+gained from entities that are the subject of these ratings or data products. There is no “standard”
+market practice for the manner in which ESG ratings and data products providers gather
+information from entities that are the subject of these ratings or data products.
+
+The nature and frequency of these interactions can differ depending on the business model
+or/and proprietary methodologies of ESG ratings and data products providers. For example,
+some ESG ratings and data products providers only engage with the entities that are the subject
+of these ratings or data products at a late stage of the rating process. In this case, the ESG ratings
+and data products provider would refer to publicly available data for its analysis and thereafter
+engage with the entity subject to assessment to check the accuracy of the data or/and to receive
+feedback on the assessment performed. However, this is not the only approach and some
+respondents to the fact-finding exercise noted that they prefer to engage in a more continuous
+relationship with the entities they assess. Some, for example, employ questionnaires to gather
+information from entities. Even then, the frequency and depth of these interactions differ widely
+according to the methodologies, policies and procedures in place at the ESG ratings and data
+products providers.
+
+Methodological approaches and transparency
+
+The methodological approaches underlying ESG ratings and data products are very diverse,
+which, when combined with issues regarding the availability, quality and comparability of ESG
+data, can result in low correlation and high divergence in ESG ratings and data products
+between providers even where products are aiming to address the same objective. 24
+
+
+
+
+24
+        Berg, F., J. F. Koelbel, and R. Rigobon (2020): “Aggregate Confusion: The Divergence of ESG ratings”,
+        MIT Sloan School Working Paper; Christensen D., G. Serafeim and A. Sikochi (2019): “Why is corporate
+        virtue in the eye of the beholder? The case of ESG ratings,” Harvard Business School Working Paper;
+        Chatterji K., R. Durand, D. I. Levine, and S. Touboul (2016): “Do ratings of firms converge? Implications
+        for managers, investors and strategy researchers”, Strategic Management Journal; Kotsantonis S. and G.
+        Serafeim (2019): “Four Things No One Will Tell You About ESG Data”, Journal of Applied Corporate
+        Finance.
+                                                      19
+A recent report by the OECD describes some of these differences in methodologies among
+providers: 25
+
+•    Data may be collected according to methods specific to each provider and can result in the
+     combination of information from a variety of sources:
+        o Information publicly reported by companies or published by third parties such as
+           press agencies, non-governmental organisations, or other sources of information.
+        o Questionnaires sent directly to assessed companies.
+        o Data produced or gathered by third party suppliers through subscriptions or
+           partnerships.
+
+•    Data used may be presented as collected (raw), aggregated, processed in order to be usable
+     (cleaned) or even estimated.
+
+•    Processes for verification and update of data may vary among providers. In some cases, the
+     information collected may be supplemented, specified or corrected through discussions with
+     the assessed companies.
+
+•    In other cases, a lack of reporting can either lead providers to use industry averages, thereby
+     possibly creating an incentive for poor performers not to report their information, or lead
+     the provider to negatively assess the company.
+
+•    The weight given to quantitative and qualitative analysis varies from one ESG ratings and
+     data products provider to another. Some give particular importance to qualitative
+     information, while others base their analysis mainly on figures and quantitative models. The
+     number and role of analysts can vary, depending on the business models and products and
+     services offered.
+
+•    Methodologies may vary in the number of data points, indicators or KPIs used to measure
+     an issue (which can amount to hundreds, or, in some cases, thousands) and, in the case of
+     scorings and ratings, the weighting applied, between different pillars (environmental, social
+     and governance) and different sub-categories and indicators; methodologies are generally
+     reviewed on an annual basis.
+
+•    Ratings may vary in their finality, with a focus on performance or risks, or have different
+     approaches to materiality. For example, some ESG ratings measure a company’s exposure
+     to ESG risks and others measure the impact of ESG factors on an entity.
+
+This challenge can be further exacerbated where little transparency exists about methodologies
+for users of these products, noting in addition that the differences observed for corporates are
+likely to be observed for other entities that are the subject of these ratings or data products, such
+as sovereign issuers, or products, such as investment funds, although information is still scarce
+on these segments.
+
+
+
+
+25
+        See, OECD (2020), ESG Investing: Practices, Progress and Challenges, OECD, Paris.
+                                                  20
+Use of sector-specific methodologies
+
+ESG ratings and data products providers predominantly use sector-specific methodologies and
+risk assessments, rather than one single methodology that is applied to all entities that are the
+subject of these ratings or data products. A large majority of fact-finding respondents indicated
+that they use both general and sectoral metrics in their assessments, weighting them in different
+ways depending on the final product. For example, the vast majority of ESG ratings and data
+products providers use a standard set of “universal ESG metrics/measurements” from a cross-
+sectoral approach, complemented by more ad-hoc metrics, depending on either the industry in
+which the assessed entity is active, its geographic location, or its size.
+
+In addition, the nature of the indicators or criteria used might depend on which ESG criteria is
+applied. For example, there seems to be a general level of consensus with respect to governance
+(G) criteria, which tend to include a more limited set of metrics that are considered relevant
+regardless of the size or sector of the entity subject to assessment. In contrast, the social (S)
+and environmental (E) criteria appear to be applied in a less universal way, allowing for more
+industry or size-specific metrics to reflect the diverse nature of material issues to be dealt with
+in these two aspects of ESG ratings and data products.
+
+     Table 12: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Use of Sector- Specific Methodologies for ESG ratings and data products
+ The ESG methodology blends components which can be applied across all sectors with sector- specific
+ sustainability factors. The need for sector- specific factors reflects the very different ESG risks and opportunities
+ profile depending on the sector. The relevance of sub-factors can vary considerably by industry as well as the
+ key performance indicators we use. Having sector specific indicators does not prevent the ESG Evaluation from
+ having a globally and cross sector consistent approach. The way we achieve cross sector comparability is by
+ using different starting points depending on the sector and jurisdiction in which the entity operates in and
+ complementing this information with a relative analysis of the entity ESG performance compared to its sector.
+
+Use of data collection tools
+
+IOSCO also looked at the state of play with regard to ESG ratings and data products providers’
+use of machine learning (ML) and artificial intelligence (AI) techniques. Feedback from the
+ESG ratings and data products providers indicates heterogeneous practices in this area, both in
+regard to the state of progress and the present or future uses of AI and ML.
+
+For example, while some providers have based their business practices around the application
+of AI and ML techniques to improve their data collecting, research, or/and indexing processes,
+other providers are still assessing how AI and ML can supplement existing practices. The
+feedback received by IOSCO indicated significant differences in the projected implementation
+of these capabilities, with the majority of respondents emphasising that they were still at the
+prototyping/pilot stage of deploying these capabilities.
+
+Uses (whether actual or intended) of AI and ML were almost unanimously flagged as mainly
+for the support of human analysis and would in no case act as a substitution to the work currently
+being performed by human analysts. Such AI/ML help would allow for more frequent updates
+of the data or for more convenient data collection processes, therefore freeing human resources
+for more valuable tasks such as analysis, making recommendations and determining outcomes.
+
+
+
+                                                         21
+While AI and ML have a role in simplifying the data compilation process, other uses have also
+been observed. These include using AI and ML techniques for the purpose of assessing
+sentiment and behaviour of the market towards key ESG issues, or to provide estimates of
+historical carbon emissions.
+
+ Table 13: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Use of artificial intelligence and machine learning techniques evidenced but still at early stage
+ In recent years, we have been utilizing Natural Language Processing to a greater degree, which improves
+ efficiency in data extraction and enables us to cast a wider net when processing news and media data sources.
+ With the increase in ESG data requirements and with more companies and third parties reporting relevant
+ data, we are collecting more data points for more companies now than 2 years ago. Machine Learning and
+ Natural Language Processing capability helps us tackle increased volume and scope of publicly available data.
+ Please note that the technology is used to assist research process, but not substitute it.
+
+Conduct of information gathering exercises by ESG ratings and data products providers
+
+The fact-finding exercise revealed a wide range of information gathering practices performed
+by ESG ratings and data products providers. The practices for information gathering tended to
+differ depending on the nature of the ESG-related information and the channel through which
+it has been obtained.
+
+For example, information that is gathered through publicly available sources would first be
+compiled in bulk for an entity before being reviewed by the ESG ratings and data products
+providers. This “quality-check” stage would then assess the information according to the
+providers’ methodology. These checks can include, depending on the process: scrutinising for
+plausibility, screening for potential incoherencies, statistical and logical checks (looking for
+abnormal spikes and outliers, either at the company or/and at the industry level), checks against
+other sources such as governmental databases, and deviations against a peer group or against
+previous years.
+
+When potential incoherencies are flagged during the information gathering and review process,
+ESG ratings and data products providers generally favoured dialogue with the assessed entities
+to confirm or inform the KPIs/metrics.
+
+ Table 14: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Information gathering by ESG ratings and data products providers
+ Information disclosed by companies is generally scrutinised for plausibility by analysts. In case of well-
+ founded reasons to doubt the veracity or accuracy of data based on contextual information, it will not be
+ considered for performance assessments, or only after verifying the credibility of the content in dialogue with
+ the company.
+
+ Similarly, inconsistencies in reporting are thoroughly screened for the reason of apparent inconsistent
+ information (e.g., different scope of reporting period of various company publications). If it cannot without
+ doubt be determined which information is correct or the most comprehensive, it will not be considered
+ performance assessment, unless all doubt can be eliminated through company dialogue.
+ Additionally, the quality and scope of external assurance of a company’s sustainability/ESG reporting is
+ assessed in a dedicated data point, as is the case for GHG emissions inventories.
+
+ For climate data (emission reported) used in our climate offerings there is also a plausibility check. If
+ data is not deemed plausible, it is estimated instead.
+
+
+
+
+                                                       22
+Benchmarking against other providers
+
+A final methodology question was the extent to which ESG ratings and data products providers
+benchmark the performance of their products against those of other ESG ratings and data
+products providers. Here, respondents were unanimous in stating that they did not compare
+their own analyses with those of their competitors. In some respects, this is a positive aspect
+of market behaviour and indicates that providers’ assessments are not influenced by a desire to
+coalesce around a common market view. However, there is also likely a practical reason for
+this, in so far as if their methodologies and products are inherently different, are not disclosed,
+or have different measurement objectives, then benchmarking is not feasible.
+
+ Table 15: Example Statements Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Use of benchmarking against other providers
+ [ESG ratings and data products provider] does not directly compare its ESG ratings to that of other ESG
+ ratings providers. As discussed previously, the methodologies used can be different in scope and content, and
+ do not necessarily aim at measuring the same elements.
+
+
+
+
+                                                      23
+Chapter 3: Private and Public Users of ESG ratings and Data Products
+
+Introduction
+
+The purpose of this chapter is to focus on private (asset or fund managers and corporate users)
+and public (public pension funds, central banks, and government-owned financial institutions)
+sector users of ESG ratings and data products. This chapter summarises some of the views
+provided mainly by large private and public users. These views include the mandate under
+which ESG ratings and data products are used, how this information is consumed by these users,
+whether and how they conduct due diligence on this information, and whether they identify
+any issues regarding governance and management of conflicts of interest.
+
+During the fact-finding exercise, IOSCO received feedback from 19 user organisations (13
+private users and 6 public users). In terms of regional representation, 37% of participants were
+from the European region, 32% from the Inter-American region, 26% from the Asia Pacific
+region. The rest of the responses (5%) came from global trade associations, as illustrated below.
+
+                                                                         5%
+
+
+                32%                                                26%             37%
+
+
+                             68%
+
+                                                                         32%
+
+
+                                                    Europe                     Inter-America
+          private users      public users           Asia Pacific               Global trade association
+
+
+Given the growing role of ESG ratings and data products in the investment decision process or
+investment ecosystem, IOSCO predominantly collected views from users in light of their
+investment purposes.
+
+Overview of findings
+
+Variation of objectives for using ESG ratings and ESG data products
+
+The fact-finding exercise indicated that most respondents use ESG ratings, albeit for diverse
+objectives. Some asset managers mentioned that they use ESG ratings to integrate ESG factors
+in their investment process, manage sustainability exposure and/or opportunities of their
+investment portfolio, or develop and oversee sustainable products. One asset manager uses
+ratings to guide its stakeholder engagement strategy with invested companies or produce ESG
+reports for clients. One asset owner uses ESG ratings to monitor external asset managers as a
+trustee by assessing their exposure to ESG, and more specifically, climate risks.
+
+Participants were asked about how ESG ratings are incorporated into their investment decisions
+or other perspectives. Most respondents indicated that ESG ratings are generally incorporated
+into investment decisions but did not describe how ESG ratings are used in investment
+decision-making processes. Some institutions noted that ESG ratings are not systematically
+                                             24
+included in all investment decisions, but rather that ESG ratings are used to reinforce internal
+analyses and investment decisions by helping to identify risks and opportunities.
+
+As for ESG data products, views provided during the fact-finding exercise were to some extent
+different from those on ESG ratings. The responses highlighted that slightly more participants
+use ESG data products than ESG ratings. Managing sustainability risks or opportunities was a
+common objective, however, broader objectives including negative screening, the development
+of sustainable product offerings and regulatory reporting were mentioned. Some asset
+management firms indicated that they mainly use ESG data for environmental analysis such as
+monitoring the alignment of investment portfolios to the Paris Agreement.
+
+Most respondents use both ESG ratings and ESG data products and have contracts with a
+variety of large providers. This is because the scope, coverage or areas of specialisation of ESG
+data products and expertise of ESG ratings or data products providers are different. In this
+regard, one asset management firm noted that by using more than one ESG ratings or data
+products provider they are able to gain a more comprehensive ESG perspective. A few asset
+managers are using ESG data but not external ESG ratings, which they view as not fit for their
+purpose. This may result in the development of in-house ESG ratings rather than relying on
+external ESG ratings.
+
+                  Table 16: Objectives of using ESG ratings and ESG data products
+                 ESG ratings                                       ESG data products
+ •   Manage sustainability-related risks or   •        Manage sustainability-related risks or
+     opportunities                                     opportunities
+ •   Design and oversee sustainable           •        Meet compliance with CSR policy
+     products                                 •        Negative screening (e.g. products that provide
+ •   Guide engagement strategies that drive            names of companies producing weapons)
+     positive change in the invested          •        Offer sustainable investing products
+     companies                                •        Meet regulatory reporting requirements
+ •   Guide corporate sustainability           •        Analyse environmental impacts (e.g. GHG
+     initiatives                                       emissions, carbon intensity, monitoring the
+ •   Report to clients                                 alignment of the financial portfolio to the Paris
+ •   Monitor external asset managers as                Agreement)
+     trustee by assessing the exposure of
+     ESG and climate risks
+
+Reliability of ESG ratings and data products
+
+Reliable ESG ratings and data products are important, particularly for users such as institutional
+investors to inform their investment decisions. Given the practice that ESG ratings or ESG
+data are generally provided to users in accordance with the contract terms on a “subscriber-
+paid” basis (Please see Chapter 2), users have a vested interest in the quality of ESG ratings
+and data products. Further to this, IOSCO sought views on whether and how private and public
+users conduct due diligence or verification of ESG ratings, data products and these providers.
+
+Responses to the questionnaire revealed that users generally do not conduct any formal
+verification of the ESG ratings and ESG data products. Some asset managers noted that they
+may engage with ESG ratings or ESG data products providers on an ad-hoc basis when they
+observe an inconsistency between the ESG ratings or ESG data products and their own analysis.
+However, it is noted that all public users, and some private users, responded that they do not
+                                                  25
+implement verification processes on raw ESG data underlying ESG ratings or ESG data
+products because such processes are resource intensive and may not be possible with available
+information.
+
+The fact-finding exercise indicated that there are generally similar factors impacting reliability
+of ESG ratings and ESG data products. Most organisations pointed out the lack of transparency
+of methodologies including aspects such as the scope of the underlying data, definitions of
+materiality, the timing of data collection and the frequency of review or update of the ESG
+ratings or ESG data products. Of note, one respondent mentioned that the evaluation criteria of
+ESG ratings and data products are a “black box” and whilst it should be transparent, the models
+used could be confidential to the extent that they are considered to be intellectual property
+developed by ESG ratings and data products providers.
+
+With regard to the underlying ESG data, the more fundamental issue raised concerned the need
+for improvements to corporate disclosures. Some respondents pointed out that standardisation
+of corporate-level ESG disclosure would increase availability of raw ESG data used for
+development of ESG ratings or data products. In addition, these respondents encouraged third-
+party assurance which would increase the reliability of the data. These views are consistent
+with the observations and priorities of IOSCO’s work on sustainability related issuer disclosure,
+as already noted in the Introduction and Chapter 2 of this Report.
+
+Furthermore, most respondents outlined that they tend to conduct an assessment on the ESG
+ratings or ESG data products providers rather than on the ESG ratings and data products. Some
+asset managers carry out due diligence of new ratings or data products providers at the initial
+on-boarding stage by reviewing how these providers manage the ratings or data gathering and
+quality control process. The Table below shows the summary of approaches to due diligence
+by users.
+
+                         Table 17: Examples of approaches to due diligence
+     Before the agreement with providers                  After the agreement with providers
+ •   Check quality control processes                 •   Go back to data sources (e.g. annual
+ •   Check governance and transparency of                reports) when identifying data discrepancy
+     providers by visiting providers’ offices and        or abnormal data.
+     conducting Q&A session (e.g. to check           •   Engage with providers when identifying
+     whether internal processes to build                 defective data to check to what extent data
+     methodologies are well governed).                   products reflect the current practices of
+ •   Verify wether criteria used in assessment           entities
+     process are science based, quantitative,        •   Ask providers for clarification/further
+     verifiable and aligned with existing                information about the result of ESG ratings.
+     standards and taxonomies.
+
+
+It was also highlighted that regardless of the sequencing of the due diligence exercise, users of
+ESG ratings and data products could benefit from evaluating whether the criteria utilised in the
+assessment process are science based, quantitative, verifiable and aligned with existing
+reputable standards and taxonomies. These due diligence processes could be expanded to
+include an evaluation of the relative weighting of these criteria in the process as well as the
+extent of the qualitative judgement exercised by the ESG ratings or data provider.
+
+
+                                                    26
+External ESG ratings vs internal ESG ratings
+
+One key takeaway from the roundtable is that the lack of transparency around external ESG
+rating methodologies is a key factor in encouraging users to build proprietary rating
+methodologies. IOSCO’s questionnaire revealed that almost all large asset managers are using
+or currently developing their own ESG ratings to supplement, or form part of their investment
+processes. Most respondents argued that the wholesale adoption of third party ESG ratings and
+their methodologies might not align with their investment strategies, although a minority of
+respondents indicated that using external ESG ratings could save them time with regards to
+their own analyses.
+
+Most asset managers tend to develop internal ESG rating systems customised to their specific
+investment strategies and philosophies. One example of developing internal ESG ratings is to
+identify ESG criteria that are relevant for the sector(s) in which the asset manager is seeking to
+invest, before constructing a methodology underpinned by these criteria. Another example is
+to select a limited set of KPIs to be considered by the asset manager as part of its review of the
+performance of underlying portfolio companies. Conversely, none of the public users indicated
+that they are using, or have plans to develop, proprietary ESG rating methodologies.
+
+In addition, participants in the fact-finding exercise were asked whether they benchmark their
+internally developed ESG ratings against external ESG ratings. Most of them responded that
+they did not assess external ESG ratings against their own in-house ESG ratings because of the
+different methodologies used.
+
+Furthermore, users noted a tendency to reduce their reliance on externally provided ESG
+ratings. Some respondents are generally working towards building capacity and upskilling to
+develop in-house capabilities. They also indicated a preference to rely on externally provided
+ESG data from providers rather than externally provided ESG ratings while they are in early
+stages of developing proprietary capabilities. One organisation raised the view that using ESG
+data products from a recognised provider was beneficial because ESG information is not
+disclosed consistently.
+
+On the other hand, producing proprietary internal ESG ratings may not be feasible or cost
+effective for small or medium sized asset managers. These managers often have limited
+capabilities and resources available for analysing external ESG ratings or developing in-house
+ESG ratings. Moreover, as described in the section above, large asset managers tend to have
+contracts with several ESG ratings or data products providers to gather different perspectives
+of entities’ ESG profiles for their internal processes, however, small or medium sized firms are
+unable to do so largely due to budget constraints.
+
+
+
+
+                                               27
+Chapter 4: Companies and ESG Ratings and Data Products Providers
+
+Introduction
+
+This chapter explores how ESG ratings and data products providers engage with companies and
+the challenges these companies may face when providers seek more specific data and in their
+general communications with these providers. 26
+
+Overview of key findings
+
+The level of interactions between companies and ESG ratings and data products providers
+
+Generally, there are three phases during which companies can interact with ESG ratings and
+data products providers: (1) data collection, at which point the ESG ratings or data products
+providers will typically reach out to a company to request information that will assist with its
+ESG ratings or data product, (2) data assessment, during which the ESG ratings or data products
+providers use all the information they gather pursuant to their methodology to determine their
+ESG ratings or data product, and (3) pre-publication of the final ESG ratings or data products,
+where the ESG ratings or data products provider may inform the company of the outcome of
+its assessments, and in some circumstances, provide the company with the opportunity to offer
+additional information which may alter the assessment.
+
+The following sections explore the challenges faced by companies in more detail. However, it
+is worth highlighting that, in many cases, most of the engagement between ESG ratings and
+data products providers and companies occurs during the data collection and the data
+assessment phases. Based on the feedback received during the fact-finding exercise, the
+engagement tends to be more limited during the pre-publication phase, and where it takes place,
+it often happens at the request of the companies in order to address any errors or omissions
+related to the use of the companies’ information.
+
+     i.   Phase 1: Data collection – time consuming for companies
+
+The fact-finding exercise showed that the majority of respondents had concerns that data
+requests from ESG ratings and data products providers are time-consuming because of the
+number and frequency of the questions set out in the questionnaires. For example, where a
+company receives multiple requests for information with limited or no ability for forward
+planning, this creates a risk that there will be a poorer quality of response. This is an unwanted
+outcome for both companies and ESG ratings and data products providers as it may require
+allocation of additional resources to deal with any follow-up questions to address errors or
+omissions.
+
+Another challenge highlighted by companies was the timing of the questionnaires. For
+example, each ESG ratings and data products provider may decide the timing of data requests
+to companies that are the subject of these ratings or data products according to their own
+internal timeline. This could cause requests to companies with different timings from different
+26
+          IOSCO’s fact-finding exercise mainly covered the interaction of companies with ESG ratings providers
+          but also collected views on the interaction with ESG data products providers. Issues identified in terms
+          of interaction with ESG ratings providers exist in the context of interaction with ESG data products
+          providers.
+                                                        28
+providers. Respondents suggested that ESG ratings and data products providers could consider
+whether it would be feasible, without affecting the timeliness, accuracy and independence of
+their reviews and subsequent ratings or data products, to communicate to companies when their
+ESG ratings and data products will be subject to review. Respondents suggested that this could
+enable companies subject to assessment to allocate resources in advance of when they are
+needed. Respondents also noted that, if all providers published the expected timelines for their
+requests, again if possible and without diminishing quality, timeliness and independence, this
+approach could provide more predictability than currently appears to be the case.
+
+Finally, the context for some of the questions to which companies are asked to respond within
+the questionnaires can sometimes be unclear to companies, who are left confused as to how the
+data they provide will be used by ESG ratings and data products providers in making their
+assessments, or by investors in their decision-making process. One company noted that there
+are cases in which additional questions are asked without sufficient explanations or reasons
+from providers. In terms of providers’ resources, another company pointed out that the high
+turnover of analysts and the need to bring them up to speed each time is a significant resource
+strain for companies.
+
+ Table 18: Views of Companies: Data Collection
+ •     Time consuming to respond to questionnaires of differing frequency and focus.
+ •     Limited forward visibility on receipt of requests for information from providers.
+ •     Lack of explanation for questions being addressed to covered entity
+
+ ii.     Phase 2: Data assessment – lack of transparency of evaluation methodology
+
+Respondents to IOSCO’s fact-finding exercise highlighted the lack of engagement and
+transparency from ESG ratings and data products providers with the companies throughout the
+data assessment and evaluation process. For example, as mentioned in Chapter 3, one
+respondent categorized the whole evaluation phase by the ESG ratings and data products
+providers as a “black-box” even if some aspects of the methodology are disclosed.
+
+This can create challenges for the companies as they may not always understand how the ESG
+ratings and data products providers have reached their outcome, making it difficult for them to
+amend their business models and practices in order to receive better ESG scores, ratings or
+other product outcomes.
+
+As such, many respondents called for increased transparency and explanations/disclosures of
+the methodologies used by ESG rating and data products providers, including the ESG factors
+used, the weight of each factor, absolute or relative scoring, materiality, and industry ranking
+considerations.
+
+Moreover, even where methodologies may be more transparent, companies pointed out that
+some ESG ratings and data products providers change their methodologies relatively often
+without prior notification to either companies or market participants. This can increase
+difficulties in comparing how a company has performed over time and result in confusion for
+both market participants and companies, particularly where the methodologies are not
+published.
+
+
+
+                                                   29
+Finally, some companies believe that ESG ratings and data products providers sometimes give
+a ‘failing grade’ or a negative result for not providing the data which they requested, without
+having disclosed the fact that not providing a particular data set can influence the rating or
+outcome that will be given to the company. Some companies suggested that questionnaires
+should provide space to describe why the data was not provided or simply show that a specific
+data set was not available. This could prevent ESG ratings and data products providers from giving
+a ‘failing grade’ or negative outcome without any explanation.
+
+               Table 19: Views of companies regarding interaction phase 2: Data assessment
+ •      Lack of transparency of the rating or data product methodology and criteria (the “black-box”;
+        ESG factors, weight, absolute and relative scoring)
+ •      Limited explanation of the outcome
+ •      Interpretation of the ranking or outcome
+ •      Ranking or assessment criteria
+ •      Limited explanation of the final assessment
+ •      Change of rating or data product methodologies without publication or notification
+
+ iii.     Phase 3: Pre-publication – lack of opportunity of review prior to publication
+
+A majority of respondents highlighted the lack of interaction between companies and ESG
+ratings and data products providers ahead of the publication of the final ESG ratings or data
+product report, suggesting this interaction often only took place at the request of the company
+themselves.
+
+Where interaction takes place, companies noted that they were sometimes asked to pay to gain
+access to the report. This is also seen at the post publication phase. Given the current
+“subscriber-pay” model, in general there is no specific incentive for the ESG ratings or data
+products providers to interact meaningfully with the companies.
+
+This lack of interaction leaves companies with limited opportunity to check the accuracy of the
+content of the final report, meaning they are unable to indicate factually incorrect or insufficient
+information in a timely manner. This is particularly the case where, as usually happens,
+investors receive the final report on the ESG ratings or data product ahead of the companies.
+This creates potential reputational risks for the companies, and could possibly lead to poor
+investment decisions on the part of the investor paying for and using ESG ratings or data
+products that are based on erroneous or limited information.
+
+                Table 20: Views of companies regarding interaction phase 3: Pre-publication
+ •      Lack of possibility to get the final report for free making it difficult for the company to provide
+        comments or corrections in a timely manner
+ •      Lack of opportunity to amend incorrect information
+ •      Tight deadline for review
+ •      Ineffective amendment after publication of final report
+ •      Risk of investment decision based on inaccurate information without review in advance of
+        publication
+
+
+
+
+                                                     30
+Potential conflicts of interest
+
+ESG ratings and data products providers sometimes require companies to pay for something
+related to rating or assessment processes, especially for the access to the final rating or data
+products report at the pre-publication phase.
+
+In addition, as described in Chapter 1, ESG ratings and data products providers may offer other
+types of services, notably to companies with regard to their ESG performance. These services
+can, for example, include consulting services such as portfolio analysis, the provision of
+certification and second-party opinions as well as advisory services on corporate ESG strategy.
+In certain cases, it can include support such as insight into how ESG ratings and data products
+are developed or support with reporting that influences ESG ratings and data products (e.g.
+review of responses to providers’ questionnaires, guidance on how to improve the quality of
+reporting). Some ESG ratings and data products providers also offer regulatory reporting
+assistance to help companies and financial market participants comply with new sustainability
+regulations while others, in addition to providing ESG ratings or data products, advise
+companies on how to improve their ESG ratings or data products. This could result in conflicts
+of interest where the consulting side of business may provide information to the company to
+allow said company to gain an advantage in terms of receiving a good rating or data product
+outcome from the ESG ratings or data product side of the business. This type of potential
+conflict of interest was highlighted as another potential concern by users of ESG ratings and
+data products.
+
+In this regard, some respondents observed that some ESG ratings and data products providers
+are seeking to identify and mitigate the risk of conflicts of interest. For example, one response
+mentioned that some global ESG ratings and data products providers are separating the function
+between ESG ratings or data products and indices to ensure their independence and
+transparency. IOSCO received limited information from respondents about good practices by
+ESG ratings and data products providers to avoid potential conflicts of interest.
+
+
+
+
+                                               31
+Chapter 5: Final Recommendations
+
+Introduction
+
+Before determining whether it was appropriate for IOSCO to propose recommendations in this
+area, IOSCO canvassed the opinions of stakeholders to understand: (i) whether developments
+in the area of ESG ratings and data products providers pose risks to investor protection; (ii)
+whether there are already existing standards or guidance in the market for ESG ratings and data
+products providers; and, (iii) whether there would be value in IOSCO playing a role to provide
+this guidance.
+
+To receive feedback on this issue, IOSCO addressed specific questions to stakeholders during
+the fact-finding exercise and also included a request for further information at the consultation
+stage. IOSCO asked ESG ratings and data products providers to identify practical steps that
+could be taken to improve the usability and reliability of the information entities currently
+disclose. Respondents suggested the following:
+
+     •   entities could, to the extent possible, use one existing report as their primary form of
+         ESG disclosure, such as an annual sustainability report. Respondents noted that this
+         would help place the reporting of ESG data on par with financial data. 27
+     •   entities could work to ensure consistency of the KPIs referred to in these reports, for
+         example by making clear where figures are being restated from a previous year, making
+         clear the scope of the figures that are being presented, and providing time series
+         information where possible.
+     •   entities could provide more transparency about the timing of disclosures and dialogues
+         with ESG ratings and data products providers. For example, respondents suggested that
+         if, at the start of the year, entities were to publish a calendar for when and where their
+         ESG disclosures were to be made, this would help ESG ratings and data products
+         providers align their review frequencies with the availability of information.
+     •   there could be more dialogue between entities and ESG ratings and data products
+         providers to understand when ESG ratings and data products will be subject to
+         review/update to ensure both are aware of when engagement may be beneficial to
+         address information gaps, or errors/omissions in ESG ratings and data products.
+
+Based on the fact-finding exercise and consultation responses, IOSCO believes that there are
+some areas that could be improved from the users’ perspective.
+
+Reliability of raw ESG data
+
+Raw data is a key factor to determine the quality of ESG ratings and data products. Given that
+the quality of raw ESG data relies to a large degree on the quality of corporate disclosure, most
+users expect that improvements in the quality of corporate disclosures would contribute to
+enhancing the consistency of ESG ratings and data products. This could also contribute to
+improving the availability of raw data, which would allow users to directly access data points
+to access raw data.
+
+
+27
+         As stated in IOSCO’s press release of 24 February 2021, IOSCO aims to promote closer integration with
+         financial reporting and independent assurance of companies’ disclosures.
+                                                     32
+Lack of transparency around ESG ratings methodology and ESG data products
+
+In addition to having good quality underlying raw data, the quality of ESG ratings depends on
+the robustness of ESG ratings methodologies. Likewise, for ESG data products, data collection,
+frequency and verification will impact data quality. Lack of transparency on the process of
+developing ESG ratings and ESG data products could make it difficult for users to understand
+and interpret providers’ outputs.
+
+Reliability of ESG ratings and data products and potential conflicts of interest
+
+To help users make more informed investment decisions, reliability of ESG ratings and data
+products is a key issue. This relates primarily to ESG ratings and data products providers
+having robust and transparent governance processes around business models and fee structures,
+conflicts of interest policies, and quality management systems. This could include, for instance,
+explicit measures to help ensure independence and separation of ESG ratings and data products
+and consulting services.
+
+Where ESG ratings and data products providers also receive fees related to other services such
+as consulting services from entities, potential conflicts of interest could arise from such
+interplay of services. Most respondents suggested that there should be procedures in place at
+the level of the provider to separate the staff responsible for ESG ratings and data products
+from the staff providing consulting services.
+
+Communication between ESG ratings and data products providers and entities
+
+As noted in Chapter 4, the lack of interaction between ESG ratings and data products providers
+and entities exists in the three different phases of the providers’ process to varying degrees.
+The data collection process could be improved through more transparency about the timing of
+the questionnaires, pre-filled baseline surveys with historical or publicly available information
+to assist resource-constrained entities and more transparency about how the requested data will
+be used by the ESG ratings or data products provider.
+
+Respondents suggested that ESG ratings and data products providers could consider submitting
+a copy of the company’s last completed questionnaire for the company to update. Respondents
+noted that this could likewise reduce the effort required on the part of the company subject to
+assessment and could enable it to focus its efforts on verifying the accuracy of the available
+information or updating information where needed.
+
+In the ‘data assessment’ phase, the lack of transparency behind the factors and criteria that
+underpin methodologies has raised concerns amongst entities. Similar to the feedback received
+from users of ESG ratings and data products, some entities have asked for clearer and more
+transparent disclosure of information on how an ESG ratings or data product is derived and the
+opportunity to correct any erroneous information through ongoing dialogue.
+
+In the ‘pre-publication’ phase, the seeming lack of opportunity given to entities to correct any
+errors could lead users to make investment decisions based on erroneous information.
+
+As a result of these challenges, respondents to the fact-finding exercise were of the view that
+providers should engage more actively with entities once they have finalised their assessment,
+                                               33
+before publication, rather than wait for the company to approach them to rectify any potential
+error or provide additional information. In this regard, it should be noted that there is a potential
+risk of conflicts of interest in the interaction between ESG ratings and data products providers
+and entities.
+
+Support for IOSCO Guidance
+
+There was clear support from stakeholders for IOSCO to provide guidance that addressed a
+broad spectrum of ESG ratings and data products; support which also came through the
+responses to IOSCO’s consultation report. This spectrum ranged from recommendations
+addressing the internal processes of the providers themselves, the uses and users of the
+products, as well as interactions between covered entities and the providers. On this basis,
+IOSCO has proceeded with recommendations addressing the key areas of concern.
+
+Overview of Recommendations
+
+Based on specific suggestions and stakeholder feedback received from the fact-finding exercise
+conducted by the STF, as well as the public consultation responses, this chapter sets out high-
+level recommendations and guidance on possible policies and procedures for meeting the
+objectives of the recommendations. The suggestions for policies and procedures are provided
+as guidance on the implementation of the goals of the high-level recommendations. They are
+intended to serve as illustrations for specific steps that can be voluntarily taken for each
+recommendation. They are intended as helpful concrete suggestions that regulators could
+consider as ways to address recommendation 1 and that market participants could consider with
+respect to recommendations 2-10. Given the nascent and developing nature of the ESG ratings
+and data products market, the guidance on policies and procedures might need to be updated
+as the ESG industry evolves.
+
+The set of recommendations are provided according to 5 sections:
+
+    •   Section 1 provides recommendations on possible regulatory and supervisory
+        approaches.
+    •   Section 2 provides recommendations on the internal processes of ESG ratings and data
+        products providers.
+    •   Section 3 provides recommendations concerning the use of ESG ratings and data
+        products.
+    •   Sections 4 and 5 provide recommendations concerning the interactions of ESG ratings
+        and data products providers with entities subject to assessment by ESG ratings and data
+        products providers.
+
+How these recommendations could be implemented may depend upon the priorities of
+stakeholders, local market circumstances and jurisdictions’ legal and regulatory frameworks.
+For their part, ESG ratings and data products providers, and entities covered by ESG ratings
+and data products providers, could consider inclusion of the relevant provisions in their internal
+policies and procedures. In some cases, regulators could consider the recommendations in the
+development of their regulatory frameworks or in the supervision of their supervised or
+regulated entities. Regulators could also consider whether their existing regulatory regimes are
+sufficient for oversight, or, where appropriate, clarify or expand their existing regulatory
+regime where additional regulatory authority may be appropriate.
+                                                 34
+5.1    Recommendations for Authorities concerning ESG ratings and data products
+
+Where regulatory or supervisory authorities have authority over ESG ratings and data products
+providers, they could consider whether the reliability, comparability and interpretability of
+ESG ratings and data products could be enhanced by taking steps to improve the governance
+and transparency of the assessment process and the management of conflicts of interest of the
+providers. This could include the possibility of establishing regulatory expectations around
+good practices in corporate governance to help ensure appropriate independence, objectivity
+and challenge at board or other appropriate level within the providers.
+
+The recommendations focus on ways through which authorities could enable ESG ratings and
+data products providers to deliver high quality and independent ESG ratings and data products,
+whilst appropriately addressing conflicts of interest. The ESG ratings and data products market
+is still developing and includes a diverse range of providers and products covering for example,
+aggregated ESG assessments as well as analyses of individual E, S and G issues, using different
+approaches. This diversity of views, independent methodologies, innovation and competition
+can be beneficial to the markets and investors, with sufficient transparency and robust
+governance, calling for providers to issue ratings and data products that are internally consistent
+with their own disclosed in-house methodologies. The implementation of these measures could
+in turn contribute to a greater level of confidence in the use of these products within the
+financial system, supporting a greater up-take in usage while simultaneously helping to protect
+investors and ensure that markets are fair and efficient, in line with IOSCO objectives.
+However, mechanistic or over-reliance on ESG ratings or data products should be avoided. For
+this reason, it is not recommended that regulators use ESG ratings in legal, regulatory or
+supervisory frameworks (e.g., for disclosure, risk management, product construction or
+scenario analysis) as the basis for compliance.
+
+Where regulators have authority over Credit Rating Agencies (CRAs) or exchanges that also
+issue ESG ratings and data products, these regulated entities should consider whether there
+exists the potential for conflicts of interest between a CRA’s or an exchange’s offerings and its
+ESG ratings or data product offerings, and if so, the steps they could consider to mitigate and
+address those potential conflicts of interest.
+
+Finally, regulators, could consider whether there are opportunities to encourage industry
+participants to develop and follow voluntary common industry standards or codes of conduct
+and IOSCO could also consider what role it can play in supporting the development of such
+voluntary standards or codes.
+
+ Recommendation 1: Regulators could consider focusing more attention on the use of ESG
+ ratings and data products and ESG ratings and data products providers that may be subject
+ to their jurisdiction.
+
+   Regulators could examine their existing regulatory regimes and where applicable
+    consider whether there is sufficient oversight of ESG ratings and data products
+    providers.
+
+   Regulators could support voluntary industry-led development of standardised
+    definitions for the terminology used and referred to by ESG rating and data products
+    providers.
+
+                                                35
+ Where regulators have authority over ESG ratings and data products providers, they
+  could consider:
+
+   o Requiring the provider to identify, disclose and, to the extent possible, mitigate
+     potential conflicts of interest that may arise betweenESG ratings and data product
+     offerings and other relationships with the covered entities such as provision of third
+     party opinions for green finance products and ESG consulting services.
+
+   o Whether the corporate governance organisational and operational structures of the
+     provider are sufficient to identify, manage and mitigate any potential conflicts of
+     interest.
+
+   o Whether the data and information sources that the provider relies on are publicly
+     disclosed, including the use of industry averages, estimations or other
+     methodologies when actual data is not available or not publicly disclosed.
+
+   o Whether the provider’s methodologies are publicly disclosed, including whether
+     and how the methodologies are defining the individual components Environmental,
+     Social, Governance of “ESG”, including the specific issues being assessed, the
+     KPIs used and measurement methodologies underlying each KPI.
+
+   o Whether the providers’ ESG ratings and data products are issued in a manner that
+     is internally consistent with the relevant provider’s in-house methodologies.
+
+   o Whether the underlying processes and methodologies of the ESG ratings and data
+     products are subject to the provider’s written policies and procedures and/or
+     internal controls designed to help ensure the processes and methodologies are
+     rigorous, systematic, and applied consistently.
+
+   o Whether to provide facilities for the reporting of complaints or misconduct relating,
+     but not limited to, the independence, transparency or integrity of ESG rating or data
+     products.
+
+ Regulators, could consider whether there are opportunities to encourage industry
+  participants to develop and follow voluntary common industry standards or codes of
+  conduct. IOSCO could also consider what role it can play in supporting the
+  development of such voluntary standards or codes, regarding:
+
+   o the identification, management and mitigation of potential conflicts of interest for
+     ESG ratings and data products providers;
+
+   o the integrity, transparency and independence of ESG ratings and data product
+     methodologies; and/or
+
+       the disclosure of ESG rating and data products terminology to help improve
+       understanding of these terms in the markets.
+
+
+                                          36
+5.2    Recommendations for ESG ratings and data products providers
+
+For ESG ratings and data products providers, IOSCO has received feedback that there is scope
+for guidance to improve the reliability, comparability, and interpretability of ESG ratings and
+data products.
+
+The focus of these recommendations is on the providers’ production of high quality ESG
+ratings and data products, consistent with the internal methodology and procedures of the
+ratings or data products provider. IOSCO has provided recommendations regarding
+transparency and the providers’ internal consistency in the application of the in-house rating
+and assessment process, the identification, management, and mitigation of conflicts of interest,
+transparency of data sources, and disclosures and handling of confidential information. The
+goal here is to provide high level recommendations for ESG ratings and data products providers
+that are sufficiently flexible to accommodate a diversity of views, innovation and competition
+within the context on the developing nature of this market.
+
+ Recommendation 2: ESG ratings and data products providers could consider adopting and
+ implementing written procedures designed to help ensure the issuance of high quality ESG
+ ratings and data products based on publicly disclosed data sources where possible and other
+ information sources where necessary, using transparent and defined methodologies.
+
+   ESG ratings and data products providers could consider:
+
+      o adopting and implementing written policies and procedures designed to help ensure
+        that the ESG ratings and data products they issue are based on a thorough analysis
+        of all relevant information available to them.
+
+      o adopting, implementing and providing transparency around methodologies for their
+        ESG ratings and data products that are rigorous, systematic, applied continuously
+        while maintaining a balance with respect to proprietary or confidential aspects of
+        the methodologies.
+
+      o for ESG ratings, publishing on a regular basis an evaluation of their methodologies
+        against the outputs which they have been used to produce.
+
+      o subjecting these methodologies to regular review, with sufficient communication
+        regarding changes made to the methodologies as well as potential impacts of these
+        changes to the ESG ratings and data products.
+
+      o providing transparency, where reasonably possible, around the sources of data used
+        in determining their ESG ratings and data products, including the use of any
+        industry averages, estimations or other methodologies when actual data is not
+        available. This may include transparency around whether the data used is up to date,
+        and the time period that data is relevant to as well as whether the data is publicly
+        sourced or proprietary in nature, including through approximations.
+
+      o monitoring on an ongoing basis, and regularly updating, their ESG ratings and data
+        products, except where specifically disclosed that the rating is a point in time rating.
+
+
+                                              37
+     o maintaining internal records to support their ESG ratings and data products.
+
+     o sufficient resources to carry out high-quality ESG-related assessments, including
+       sufficient personnel and technological capabilities, to seek out information they
+       need in order to make an assessment, analyse all the information relevant to their
+       decision-making processes, and provide quality assurance.
+
+     o     how to ensure personnel involved in the deliberation of ESG ratings and data
+           products are professional, competent, and of high integrity.
+
+     o     Offering ESG ratings and data products to clients in a machine-readable format.
+
+
+Recommendation 3: ESG ratings and data products providers could consider adopting and
+implementing written policies and procedures designed to help ensure their decisions are
+independent, free from political or economic interference, and appropriately address
+potential conflicts of interest that may arise from, among other things, the ESG ratings and
+data products providers’ organizational structure, business or financial activities, or the
+financial interests of the ESG ratings and ESG data products providers and their officers and
+employees.
+
+Recommendation 4: ESG ratings and data products providers could consider identifying,
+avoiding or appropriately managing, mitigating and disclosing potential conflicts of interest
+that may compromise the independence and objectivity of the ESG rating and ESG data
+products provider’s operations.
+
+
+  ESG ratings and data products providers could consider:
+
+         o adopting written internal policies and procedures and mechanisms designed to (1)
+           identify, and (2) eliminate, or manage, mitigate and disclose, as appropriate, any
+           actual or potential conflicts of interest related to their ESG ratings or data products
+           that may influence the opinions and analyses ESG ratings and data products
+           providers make or the judgment and analyses of the individuals they employ who
+           have an influence on their ESG ratings or data product decisions.
+
+         o disclosing such conflict avoidance and management measures.
+
+         o taking steps to help ensure the ESG ratings and data products would not be
+           affected by the existence of or potential for a business relationship between the
+           ESG ratings and data products providers (or their affiliates) and any entity or any
+           other party for which it provides ESG ratings or data products.
+
+         o putting in place measures to help ensure their staff members refrain from any
+           securities or derivatives trading presenting inherent conflicts of interest with the
+           ESG ratings and data products.
+
+         o structuring reporting lines for their staff and their compensation arrangements to
+           eliminate or appropriately manage actual and potential conflicts of interest related
+                                                 38
+           to their ESG ratings and data products.
+
+      o not compensating or evaluating staff on the basis of the amount of revenue that an
+        ESG rating and data products provider derives from an entity that staff provides
+        ESG ratings and data products for, or with which staff regularly interacts
+        regarding such ESG ratings and data products.
+
+      o    where consistent with confidentiality, contractual and other business, legal and
+           regulatory requirements, disclosing the nature of the compensation arrangement
+           or any other business or financial relationships that exist with an entity for which
+           the ESG ratings and data products provider provides ESG ratings or data products.
+
+Recommendation 5: ESG ratings and data products providers could consider making
+adequate levels of public disclosure and transparency a priority for their ESG ratings and
+data products, including their methodologies and processes to enable the users of the product
+to understand what the product is and how it is produced, including any potential conflicts
+of interest and while maintaining a balance with respect to proprietary or confidential
+information, data and methodologies.
+
+  ESG ratings and data products providers could consider:
+
+          o making public disclosure and transparency a priority for their ESG ratings and
+            data product offerings, subject to commercial sensitivity considerations.
+
+          o clearly labeling their ESG ratings and data products to enable the user to
+            understand the ESG rating’s or ESG data product’s intended purpose including
+            its measurement objective.
+
+          o publicly disclosing the data and information sources they rely on in offering
+            ESG ratings and data products, including the use of industry averages,
+            estimations or other methodologies when actual data is not available.
+
+          o publishing sufficient information about the procedures and methodologies
+            underlying their ESG ratings and data products to enable the users of these
+            products to understand how their outputs were determined.
+
+  Information regarding methodologies that ESG ratings and data products providers
+   could consider publishing include, but is not limited to:
+
+            o the measurement objective of the ESG rating or data product;
+            o the criteria used to assess the entity or company;
+            o the KPIs used to assess the entity against each criterion
+            o the relative weighting of these criteria to that assessment;
+            o the scope of business activities and group entities included in the assessment;
+            o the principal sources of qualitative and quantitative information used in the
+              assessment as well as information on how the absence of information was
+              treated;
+            o the time horizon of the assessment; and
+            o the meaning of each assessment category (where applicable).
+                                              39
+ Recommendation 6: ESG ratings and data products providers could consider adopting and
+ implementing written policies and procedures designed to address and protect all non-public
+ information received from or communicated to them by any entity, or its agents, related to
+ their ESG ratings and data products, in a manner appropriate in the circumstances.
+
+   ESG ratings and data products providers could consider :
+
+           o adopting and implementing written policies and procedures and mechanisms
+             related to their ESG ratings and data products designed to address and protect
+             the non-public nature of information shared with them by entities under the
+             terms of a confidentiality agreement or otherwise under a mutual understanding
+             that the information is shared confidentially.
+           o adopting and implementing written policies and procedures designed to address
+             the use of non-public information only for purposes related to their ESG ratings
+             and data products or otherwise in accordance with their confidentiality
+             arrangements with the entity.
+           o including information on data confidentiality management and on the protection
+             of non-public information to the extent terms of engagement are published.
+
+
+5.3     Recommendations for market participant users of ESG ratings and data products
+
+For the users and uses of ESG ratings and data products, IOSCO has been able to draw on the
+process of its fact-finding exercise and consultation responses. The fact-finding exercise
+showed that ESG ratings and data products may underpin many ESG indices, and screening
+criteria for certain ESG-oriented products. IOSCO has identified that it would be beneficial to
+provide recommendations that promote the adoption of written policies and procedures
+designed to address the conduct of due diligence, or information gathering and review, and
+governance to help ensure mechanistic reliance on ESG ratings and data products is avoided
+where at all possible.
+
+ Recommendation 7: Market participants could consider conducting due diligence, or
+ gathering and reviewing information on the ESG ratings and data products that they use in
+ their internal processes. This due diligence or information gathering and review could
+ include an understanding of what is being rated or assessed by the product, how it is being
+ rated or assessed and, limitations and the purposes for which the product is being used.
+
+   Market participants could consider evaluating the published methodologies of any ESG
+    ratings or data products that they refer to in their internal processes. This evaluation
+    could cover:
+
+      o the sources of information used in the product, the timeliness of this information,
+        whether any gaps in information are filled using estimates, and if so, the methods
+        used for arriving at these estimates;
+
+      o An evaluation of the criteria utilised in the ESG assessment process, including if they
+        are science-based, quantitative, verifiable, and aligned with existing standards and
+        taxonomies, the relative weighting of these criteria in the process, the extent of
+        qualitative judgement and whether the covered entity was involved in the assessment
+
+                                               40
+          process; and
+
+      o   a determination as to the internal processes of the financial market participant for
+          which the product is suitable.
+
+
+5.4       Recommendations on how ESG ratings and data products providers could
+          consider interacting with entities subject to assessment
+
+IOSCO has drawn on feedback received during the fact-finding exercise and the consultation
+process to provide recommendations that providers could consider to help address some of the
+reported shortcomings with respect to interactions with entities covered by ESG ratings and
+data products. For ESG rating and data providers this means providing greater forward
+visibility to covered entities as to what to expect from their assessment processes. An example
+of how this can be addressed could be the introduction of “Terms of Engagement” that are
+agreed upon between ESG ratings and data product providers and the covered entities. These
+terms of engagement could provide covered entities with visibility on the assessment process,
+when data is likely to be requested and how it will be treated by the ESG rating and data
+provider.
+
+ Recommendation 8: ESG ratings and data products providers could consider improving
+ information gathering processes with entities covered by their products in a manner that leads
+ to more efficient information procurement for both the providers and these entities.
+
+ Recommendation 9: Where feasible and appropriate, ESG ratings and data products
+ providers could consider responding to and addressing issues flagged by entities covered by
+ their ESG ratings and data products while maintaining the objectivity of these products.
+
+
+   Where they collect information from covered entities on a bilateral basis, ESG ratings
+    and data products providers could consider:
+
+            o communicating sufficiently in advance when they expect to request this
+              information regarding their ESG ratings and data products.
+
+            o including in their requests, pre-inputted information either from publicly
+              available sources or from the covered entities previous submissions, where
+              possible, for the covered entities’ review or confirmation.
+
+   ESG ratings and data products providers could consider:
+      o providing a clear and consistent contact point with whom the covered entity can
+          interact to address any queries relating to the assessment provided by the ESG
+          ratings and data products provider.
+
+            o   informing covered entities of the principal grounds on which an ESG rating or
+                ESG data product is based before the publication of the ESG rating or data
+                product.
+
+            o   allowing the covered entity time to draw attention to any factual errors in the
+                product, including the data and information underlying the product.
+                                                41
+            o publishing terms of engagement describing how and when the ESG rating and
+              data providers will typically engage with their covered entities, including
+              when information is likely to be requested and the opportunities available to
+              the covered entity for review.
+
+
+5.5      Recommendation on how covered entities could consider interacting with ESG
+         ratings and data products providers
+
+The final part of IOSCO’s recommendations addresses those entities covered by ESG ratings
+and data products providers. This element is included with the intention to address the full
+spectrum of issues relevant to the production of ESG ratings and data products. For the entities
+covered by these products, IOSCO recommends that they consider disclosing information in a
+manner that is consistent, predictable and easy to access. In this regard, some practical steps
+that could be considered might include making sustainability information public and
+consolidating it in the minimum number of locations, with maximum visibility over previous
+and upcoming disclosures. These steps may help provide ESG ratings and data products
+providers with the information they need to carry out up to date and accurate assessments,
+which might reduce the burden on covered entities to follow up with providers to discuss any
+errors or omissions. 28
+
+As discussed in greater detail in the Introduction to this report, IOSCO, through WS1, has
+engaged with the IFRS Foundation as the IFRS Foundation has worked towards the
+establishment of an ISSB. IOSCO considers that the newly launched ISSB can deliver a global
+baseline for investor-oriented sustainability-related disclosure standards focussed on enterprise
+value creation, which jurisdictions could consider incorporating or building upon as part of
+their mandatory reporting requirements as appropriate and consistent with their domestic legal
+frameworks. These efforts by WS1 are intended to drive much-needed international
+consistency and comparability in sustainability-related information. In turn, this information
+could become an essential part of any methodology underpinning the development of ESG
+ratings or data products. 29
+
+ Recommendation 10: Entities subject to assessment by ESG ratings and data products
+ providers could consider streamlining their disclosure processes for sustainability related
+ information to the extent possible, bearing in mind jurisdictions’ applicable regulatory and
+ other legal requirements.
+
+      Entities subject to assessment by ESG ratings and data products providers could
+       consider:
+
+         o creating a dedicated section of their website, or a corporate publication, that
+           includes links to, or coordinates for, all the entities’ sustainability related
+           publications.
+
+28
+         The STF Workstream 1 report can be accessed at the following link:
+         https://www.iosco.org/library/pubdocs/pdf/IOSCOPD678.pdf
+29
+         The STF Workstream 1 report can be accessed at the following link:
+         https://www.iosco.org/library/pubdocs/pdf/IOSCOPD678.pdf
+                                                     42
+o including, in the information provided on the dedicated section of their website or
+  corporate publication, the dates of the relevant publications, as well as the
+  timelines for which they are expected to be updated or refreshed.
+
+o designating a dedicated point of contact to address any requests from or queries
+  to ESG ratings and data products providers that provide coverage for that entity.
+
+
+
+
+                                     43
+Annex 1: Glossary
+
+In developing an overview of the market for ESG ratings and data products a common frame
+of reference is beneficial. In this regard, a common understanding of what “ESG ratings” and
+“ESG data products” refer to is called for, as different studies have looked at different markets,
+referring to broad terminologies such as ESG data products and ESG ratings.
+
+Following feedback by respondents during its fact-finding exercise and public consultation,
+IOSCO has refined these terms as per the box below. The terms used in this Report should
+therefore be understood as per the definitions within the box. Certain Financial Benchmarks
+with an ESG or climatic focus may be captured by the spirit of the below terminology. Where
+the providers of these products are already applying IOSCO’s principles for Financial
+Benchmarks 30 the recommendations applicable to ESG rating and data providers should not be
+considered as relevant for those products. The basis for this being that the governance and
+quality of these benchmarks is already being assured by these existing principles.
+
+                           Scoping Terminology – ESG Data Products and ESG Ratings
+
+     “ESG data products”: refer to the broad spectrum of data products that are marketed as providing either a
+     specific E, S, or G focus or a holistic ESG focus on an entity, financial instrument, product or company’s ESG
+     profile or characteristics or exposure to ESG, climatic or environmental risks or impact on society and the
+     environment, whether or not they are explicitly labelled as “ESG data products”.
+
+     “ESG ratings”: refer to the broad spectrum of ratings products that are marketed as providing an opinion
+     regarding an entity a financial instrument or a product, a company’s ESG profile or characteristics or exposure
+     to ESG, climatic or environmental risks or impact on society and the environment that are issued using a defined
+     ranking system of rating categories, whether or not these are explicitly labelled as “ESG ratings”.
+
+In addition to assessing whether there is a common terminology for the products that are offered
+in this market, IOSCO has sought to understand if there is a common understanding of the
+attributes that these products are intended to measure.
+
+The starting point was to assess whether there is a common understanding of the terms “ESG
+factors” and “ESG risks” among market participants and, in this context, what it meant from an
+investment decision-making perspective. Respondents suggested that there is no such common
+understanding in the market, that is, no systematic and consistent approach to assess risk
+stemming from ESG factors. As such, what these terms mean from an investment decision-
+making perspective varied by geographical regions or areas of specialisation.
+
+In the absence of a common understanding of the meaning or relevance of these terms amongst
+market participants, IOSCO sought to explore whether market participants had developed their
+own internal working definition of ESG. Responses to this question proved inconclusive. While
+some respondents indicated that they had set certain investment objectives relating to ESG or
+sustainability performance of business models, very few respondents indicated that they had
+developed an internal working definition of the term “ESG risks or factors” and were unable to
+set out what they would consider to be a good ESG profile from an investment perspective. In
+conclusion, the practices amongst the users of ESG ratings and data products seem to mirror
+
+
+30
+            FR 07/13 IOSCO Principles for Financial Benchmarks
+                                                          44
+the practices of the providers, with individual views being set according to specific investment
+or measurement objectives and different expectations on sustainability practices.
+
+                  Comments Provided by Stakeholders During IOSCO Fact-Finding Exercise
+ Term “ESG” has been defined by some market participants, although this was a minority of cases.
+ For us, ESG means a systemic risk which would be critical to our long-term return. In the short-term, it is
+ difficult to clearly identify it. But, as our investment time horizon goes beyond the short-term, it would be more
+ likely that ESG factors impact us directly or indirectly. We do ESG to maximise our risk adjusted return.
+
+ Other more ad-hoc judgements for “ESG” in place where this is not present.
+ While we have not developed a definition for ESG, we have defined what sustainability means to our company
+ to ensure we had a common understanding and to guide forward progress:
+
+ Sustainability is embedded in the way we do business. It means creating a safe and inclusive workplace,
+ partnering with local and Indigenous communities, and innovating to minimize our impact on the environment.
+ We believe striking the right balance among environmental, economic and social considerations creates long-
+ term, sustainable value.
+
+
+Beyond these key terms, other important sustainability-related terms may be used within the
+Report. IOSCO has defined them as follows:
+
+    •   Greenwashing refers to the practice by asset managers of misrepresenting their own
+        sustainability-related practices or the sustainability-related features of their investment
+        products
+
+    •   IFRS Foundation refers to International Financial Reporting Standards Foundation. A
+        not-for-profit, public interest organization established to develop a single set of high-
+        quality, understandable, enforceable and globally accepted accounting standards—
+        IFRS Standards—and to promote and facilitate adoption of the standards. IFRS
+        Standards are set by the IFRS Foundation’s standard-setting body, the IASB.
+
+    •   ISSB refers to International Sustainability Standards Board. An independent group of
+        experts with an appropriate mix of recent practical experience in setting accounting
+        standards, in preparing, auditing, or using financial reports, and in accounting
+        education. Broad geographical diversity is also required. Board members are
+        responsible for the development and publication of IFRS Standards, including the IFRS
+        for SMEs Standard. The Board is also responsible for approving Interpretations of IFRS
+        Standards as developed by the IFRS Interpretations Committee (formerly IFRIC).
+        Members are appointed by the Trustees of the IFRS Foundation through an open and
+        rigorous process that includes advertising vacancies and consulting relevant
+        organisations.
+
+    •   “Sustainability” refers to meeting the needs of the present without compromising the
+        ability of future generations to meet their needs. In that regard, it covers ESG factors.
+
+
+
+
+                                                       45
+Annex 2: Final IOSCO Recommendations
+
+Recommendation 1: Regulators could consider focusing more attention on the use of ESG
+ratings and data products and ESG ratings and data products providers that may be subject to
+their jurisdiction.
+
+Recommendation 2: ESG ratings and data products providers could consider adopting and
+implementing written procedures designed to help ensure the issuance of high quality ESG
+ratings and data products based on publicly disclosed data sources where possible and other
+information sources where necessary, using transparent and defined methodologies.
+
+Recommendation 3: ESG ratings and data products providers could consider adopting and
+implementing written policies and procedures designed to help ensure their decisions are
+independent, free from political or economic interference, and appropriately address potential
+conflicts of interest that may arise from, among other things, the ESG ratings and data products
+providers’ organizational structure, business or financial activities, or the financial interests of
+the ESG ratings and ESG data products providers and their officers and employees.
+
+Recommendation 4: ESG ratings and data products providers could consider identifying,
+avoiding or appropriately managing, mitigating and disclosing potential conflicts of interest
+that may compromise the independence and objectivity of the ESG ratings and ESG data
+products provider’s operations.
+
+Recommendation 5: ESG ratings and data products providers could consider making adequate
+levels of public disclosure and transparency a priority for their ESG ratings and data products,
+including their methodologies and processes to enable the users of the product to understand
+what the product is and how it is produced, including any potential conflicts of interest and
+while maintaining a balance with respect to proprietary or confidential information, data and
+methodologies.
+
+Recommendation 6: ESG ratings and data products providers could consider adopting and
+implementing written policies and procedures designed to address and protect all non-public
+information received from or communicated to them by any entity, or its agents, related to their
+ESG ratings and data products, in a manner appropriate in the circumstances.
+
+Recommendation 7: Market participants could consider conducting due diligence or gathering
+and reviewing information on the ESG ratings and data products that they use in their internal
+processes. This due diligence or information gathering and review could include an
+understanding of what is being rated or assessed by the product, how it is being rated or
+assessed and, limitations and the purposes for which the product is being used.
+
+Recommendation 8: ESG ratings and data products providers could consider improving
+information gathering processes with entities covered by their products in a manner that leads
+to more efficient information procurement for both the providers and these entities.
+
+Recommendation 9: Where feasible and appropriate, ESG ratings and data products providers
+could consider responding to and addressing issues flagged by entities covered by their ESG
+ratings and data products while maintaining the objectivity of these products.
+
+                                                46
+Recommendation 10: Entities subject to assessment by ESG ratings and data products
+providers could consider streamlining their disclosure processes for sustainability related
+information to the extent possible, bearing in mind jurisdictions’ applicable regulatory and
+other legal requirements.
+
+
+
+
+                                            47
+Annex 3: WS3 Consultation Report Feedback
+Feedback was submitted by the following three (3) individuals and fifty-eight (58)
+organisations to the Consultation Report.
+
+Individuals
+
+   1. Robin Whitecross
+   2. William J. Harrington
+   3. William Michael Cunningham
+
+Organisations
+
+  1.    2percent
+  2.    AIMA
+  3.    AKFI: Actionable Knowledge Foundational Institute
+   4.   Allan Gray
+
+  5.  Allianz Global Investors
+  6.  Apex ESG Rating Ltd
+  7.  Asset Management Group of the Securities Industry and Financial Markets
+      Association (“SIFMA AMG”)
+  8. Association of Real Estate Fund
+  9. Austrian Association of Investment Fund Management Companies
+  10. Austrian Federal Economic Chamber
+  11. AXA Investment Managers
+  12. Bloomberg L.P.
+  13. BVI
+  14. CaixaBank
+  15. CDP
+  16. Chartered Professional Accountants of Canada
+  17. CHFT Advisory and Appraisal
+  18. CRISIL Ratings Limited
+  19. Deloitte Touche Tohmatsu Limited
+  20. Deutsche Börse Group
+  21. EcoVadis
+  22. EFAMA
+  23. Euronext
+  24. Eurosif
+  25. FICC Markets Standards Board (FMSB)
+  26. Finance Denmark
+  27. First Nations Financial Management Board.
+  28. Fitch Ratings
+  29. Friends of the Earth (HK)
+  30. Global Financial Markets Association (GFMA)
+
+                                           48
+  31. Global Legal Entity Identifier Foundation (GLEIF)
+  32. Hermes Fund Managers Limited
+  33. ICE Data Services
+  34. IHS Markit
+  35. Institute of International Finance
+  36. Institutional Shareholder Services Inc.
+  37. International Regulatory Strategy Group
+  38. Investment Company Institute
+  39. ISO CCCC and ISO TC68
+  40. Japanese Bankers Association
+  41. LSEG
+  42. Mirova
+  43. Moody’s ESG Solutions Group
+  44. Morningstar
+  45. MSCI
+  46. Principles for Responsible Investment’s (PRI)
+  47. RAEX-Europe
+  48. S&P Global
+  49. SEC Thailand
+  50. Stichting Onderzoek Multinationale Ondernemingen (SOMO)
+  51. Superintendent of the Securities Market of Panama
+  52. The Brazilian Institute of Corporate Governance
+  53. The Investment Association
+  54. The World Federation of Exchanges
+  55. UK Finance
+  56. World Bank
+  57. World Business Council for Sustainable Development
+  58. Worldwide fund for Nature
+
+The IOSCO Board is grateful for the responses and has taken them into consideration when
+preparing this final report. The rest of this section summarises the replies received to the
+proposed recommendations and consultation questions. Overall, respondents were supportive
+of IOSCO’s work and were broadly in agreement with the proposed recommendations set out
+in the Consultation Report; although they provided further suggestions to the underlying text
+explaining how the recommendations could practically be implemented.
+
+Proposed Recommendations for IOSCO and IOSCO Members concerning ESG ratings
+and data products (Recommendation 1) as set out in the Consultation Report.
+
+
+ Recommendation 1: Regulators may wish to consider focusing more attention on the use
+ of ESG ratings and data products and ESG ratings and data products providers in their
+ jurisdictions.
+
+ Most of the respondents were supportive of this recommendation and encouraged the
+ development of regulatory framework or code for ESG ratings and data product providers.
+                                             49
+ There was overall agreement over the fact that such a framework should contain elements such
+ as the avoidance of conflicts of interest, transparency on underlying methodologies and
+ associated data collection disclosures, with some suggesting it should also consider the
+ introduction of standardised definitions for the terminology used and referred to by ESG rating
+ and data products.
+
+ A few respondents suggested that any framework contemplated for ESG ratings and data
+ products providers needs to be proportionate and remain fundamentally principles-based in
+ nature as not to stifle market innovation. As such, they noted IOSCO’s approach should not be
+ overly prescriptive and asked the action points either be deleted or clarified as voluntary in
+ nature. A couple of respondents also suggested making a more linear distinction between
+ recommendations – and the guidance underpinning them – that would apply to ESG ratings
+ providers and those which could apply to ESG data product providers.
+
+ IOSCO’s response: IOSCO welcomes respondents’ support for the view that a regulatory
+ framework should exist for ESG ratings and data product providers. We added a description of
+ the action points, now referring to them as guidance on policies and procedures, and clarifying
+ that they are provided as helpful guidance that may need to be updated as the ESG industry
+ evolves. While IOSCO agrees the way some of the recommendations applies to ESG ratings and
+ data product providers may at times need to differ to account for their underlying business
+ models, the philosophy contained within each high-level recommendation is sufficiently
+ proportionate to apply to both. Where applicable, we will make distinctions or provide examples
+ in the guidance that underpins those recommendations.
+
+Proposed Recommendations for ESG ratings and data                        products    providers
+(Recommendations 2-6) as set out in the Consultation Report.
+
+
+ Recommendation 2: ESG ratings and data products providers could consider issuing high
+ quality ESG ratings and data products based on publicly disclosed data sources where
+ possible and other information sources where necessary, using transparent and defined
+ methodologies.
+
+ Most respondents were supportive of the proposed recommendation. Some respondents pointed
+ out that regulatory efforts focused on greater standardisation of ESG and climate disclosure
+ would contribute in improving the quality of underlying inputs that go into ESG and
+ sustainability ratings, assessments, and scores. However, they also noted the need to be
+ proportionate in the implementation of this recommendation, suggesting it may not always be
+ appropriate to provide data sources where these stem from proprietary information. A number
+ of commenters raised a concern that there was a call for standardized methodologies, consistent
+ across the industry, which could be detrimental in the developing ESG market.
+
+ In respect of validation, some respondents mentioned that, statistical validation can be difficult
+ and the recommendation should instead focus on promoting the publication of ESG
+ performance reviews by the provider. On the element of ‘sufficient resources to carry out high-
+ quality ESG-related assessments’, one respondent proposed spelling out that there should be
+ sufficient resources for quality assurance of ratings provided.
+
+
+                                              50
+IOSCO’s response: IOSCO welcomes respondents’ overall support for the recommendation.
+We take on board comments about the need to be balanced in expectations on transparency and
+have made some minor amendments to the underlying guidance. We have added an explicit
+note that the focus is on transparency and internal consistency. As such, there is no call for
+standardized methodologies, consistent across the industry.
+
+Recommendation 3: ESG ratings and data products providers could consider ensuring their
+decisions are, to the best of their knowledge, independent and free from political or economic
+pressures and from conflicts of interest arising due to the ESG ratings and data products
+providers’ organizational structure, business or financial activities, or the financial interests of
+the ESG ratings and ESG data products providers’ employees
+
+Recommendation 4: ESG ratings and data products providers could consider, on a best efforts
+basis, avoiding activities, procedures or relationships that may compromise or appear to
+compromise the independence and objectivity of the ESG rating and ESG data products
+provider’s operations or identifying, managing and mitigating the activities that may lead to
+those compromises.
+Most respondents backed these recommendations, but suggested IOSCO should also consider
+disclosure of these potential conflicts of interest as part of the recommendations. One
+respondent specifically highlighted the need to be totally independent and free from any political
+or economic pressures in addition to other potential conflicts of interest.
+
+IOSCO’s response: IOSCO has slightly modified the wording of recommendation four to
+clarify its intent. We do not believe any further changes need to be made.
+
+Recommendation 5: ESG ratings and data products providers could consider making high
+levels of public disclosure and transparency an objective in their ESG ratings and data products,
+including their methodologies and processes.
+
+Most respondents agreed that transparency in methodologies is important, noting this would
+contribute in enhancing the comparability and reliability of ESG ratings and data products. One
+respondent suggested that a minimum level of disclosure could include reference to the relevant
+methodology used, where to find the methodology and any relevant supporting documents, a
+list of relevant data sets or information used to create the product, the provider’s governance
+process for the product, whether the product is based on any information that is not public, the
+terms and conditions of the product’s use, any potential conflicts of interest, and – in the case
+of an ESG rating product – whether the rating was solicited and / or paid for by the subject
+entity.
+
+Without going into the same level of detail, many respondents indicated that information
+disclosed by rating agencies should be of sufficient quality to allow stakeholders to have a
+reasonable sense of what the rating was intending to measure and how they approached this
+measurement. They however suggested a balance needs to be struck between what information
+ESG ratings and data products providers are willing to publish, given the commercial proprietary
+nature of methodologies, and the usefulness of that information.
+
+IOSCO’s response: IOSCO has made some amendments to the recommendation, to clarify that
+disclosures should be sufficiently detailed to enable the users of the product to understand what
+the product is and how it is produced, including any potential conflicts of interest. Within the
+                                              51
+guidance, we also encourage ESG ratings and data product providers to be transparent about
+how and when they will typically engage with a rated entity. We also added a note that there
+should be a balance between disclosure of methodologies and data, and preservation of
+proprietary or confidential information.
+
+Recommendation 6: ESG ratings and data products providers could consider maintaining in
+confidence all non-public information communicated to them by any company, or its agents,
+related to their ESG ratings and data products, in a manner appropriate in the circumstances.
+
+ The majority of respondents supported this recommendation, with some however noting that
+ data reliability was an issue as it was not always possible to verify the information received.
+ Generally, it was suggested that the solicitation of price-sensitive, non-public information
+ should not be encouraged. Where non-public information was shared, the ESG ratings or data
+ product provider should share information on data confidentiality management and on the
+ protection of non-public information.
+
+IOSCO’s response: We welcome respondents’ support for the recommendations and agree
+that, where non-public information is shared; the provider should have, and be transparent about,
+data confidentiality arrangements in place. We have amended the underlying guidance to
+account for this point. We also note that, in some jurisdictions, it is impermissible for public
+issuers to selectively disclose material non-public information and issuers and ESG ratings firms
+or data providers should bear in mind such restrictions.
+
+Proposed Recommendation for users of ESG ratings                      and    data   products
+(Recommendation 7) as set out in the Consultation Report.
+
+
+Recommendation 7: Financial market participants could consider conducting due diligence on
+the ESG ratings and data products that they use in their internal processes. This due diligence
+could include an understanding of what is being rated or assessed by the product, how it is being
+rated or assessed and, limitations and the purposes for which the product is being used.
+
+ The majority of respondents welcomed this recommendation, suggesting due diligence should
+ be a key aspect of investment decision making for any investors that use these products as part
+ of their processes. Some suggested due diligence should include a process for the treatment of
+ new information and quality control checks, data quality of the filtered information,
+ classification procedures of the information, methodologies, human capital management
+ policies and performance regarding talent attraction and retention of ESG experience and
+ expertise and certifications and or additional assurance, including systems testing.
+
+ IOSCO’s response: IOSCO welcomes respondents’ support for the recommendation. We do
+ not however propose, at this stage, to go into the level of detail proposed by some respondents
+ with regard to due diligence; noting that existing regulatory frameworks may already cover
+ some of these aspects.
+
+
+
+
+                                             52
+Proposed Recommendation on how ESG ratings and data products providers could
+consider interacting with entities subject to assessment (Recommendations 8-9) as set out
+in the Consultation Report.
+
+
+ Recommendation 8: ESG ratings and data products providers could consider improving
+ information gathering processes with entities covered by their products in a manner that is
+ efficient and leads to more effective outcomes for both the providers and these entities
+
+ Recommendation 9: ESG ratings and data products providers could consider responding to
+ and addressing issues flagged by entities covered by their ESG ratings and data products while
+ maintaining the objectivity of these products
+
+ Most respondents were in favour of these recommendations. They emphasised the significance
+ of the interaction between companies and rating providers in obtaining reliable data. They
+ pointed out that it is the more efficient and effective way to assess an organisation’s ESG
+ performance and encouraged companies to provide a point of contact to address any requests
+ from or queries to ESG ratings and data product providers. However, respondents wished to
+ make it clear this should not be a way for covered entities to influence the outcome of the rating.
+
+ IOSCO’s response: We welcome respondents’ feedback and will not make any changes to the
+ recommendations, with the exception of noting that recommendation 9 should be met “to the
+ extent feasible”.
+
+Proposed Recommendation on how covered entities could consider interacting with ESG
+ratings and data products providers (Recommendation 10) as set out in the Consultation
+Report.
+
+
+ Recommendation 10: Entities subject to assessment by ESG ratings and data products
+ providers could consider streamlining their disclosure processes for sustainability related
+ information to the extent possible, bearing in mind regulatory and other legal requirements in
+ their jurisdictions.
+
+ Most of the respondents were of the view that the standardisation of minimum disclosure at
+ company-level would be beneficial and allow for greater comparability. They suggested entities
+ could be asked to fill in one master questionnaire for all ESG ratings and data products providers
+ on a periodic basis. Several respondents noted the overlap with WS1 and IFRS and TCFD work
+ on ESG disclosures.
+
+ IOSCO’s response: We will keep the recommendation as it is based on feedback by
+ respondents, and have added a more explicit reference to the work and report of WS1 with
+ respect to this recommendation.
+
+
+
+
+                                               53
+

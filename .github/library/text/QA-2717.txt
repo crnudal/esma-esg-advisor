@@ -1,0 +1,46 @@
+SOURCE: Notifications without a designated contact
+REFERENCE: ESMA_QA_2717
+DATE: 2025-12-11
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2717
+FILE: sources/QA_2717.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2717
+
+11/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Notifications without a designated contact 
+
+ Original question
+
+How should ESG rating providers contact rated items in accordance with Article 15(12), when it is not in possession of a designated contact point for a rated item? 
+
+ESMA Answer
+
+11-12-2025
+
+ Original language
+
+ESG rating providers should take all reasonable steps to ensure that the rated item is successfully notified in accordance with Article 15(12). Where a designated contact point is not available, providers should use alternative contact channels that are sufficiently likely to bring the notification to the rated item’s attention. For example, investor relations, press office or, for sovereign issuers, the debt management office. 
+
+Providers should resort to publicly available contact details or generic corporate mailboxes only after taking reasonable steps to identify a more appropriate point of contact. Where such information cannot be identified, clear records should be maintained of the efforts undertaken to obtain it. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+48-hour rule

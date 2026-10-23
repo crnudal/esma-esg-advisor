@@ -1,0 +1,163 @@
+SOURCE: ESMA - External Reviewers of European Green Bonds
+REFERENCE: 
+DATE: live
+URL: https://esma.europa.eu/esmas-activities/investors-and-issuers/external-reviewers-european-green-bonds
+FILE: sources/ADJ_ESMA_page_EuGB_external_reviewers.html
+
+Skip to main content
+
+ Search
+
+ External Reviewers of European Green Bonds
+
+External reviewers provide an independent opinion on whether an issuer of European Green Bonds complies with the Taxonomy requirements of the European Green Bonds Regulation. ESMA is the direct supervisor of external reviewers of European Green Bonds within the EU, under Regulation (EU) 2023/2631 (‘EuGB Regulation’).
+
+To issue a European Green Bond, an issuer must use an external reviewer:
+
+before the issuance of a European Green Bond (‘pre-issuance review of European Green Bond factsheet') and;
+
+after the full allocation of its proceeds ‘(post-issuance review of allocation report and impact report review’).
+
+ESMA is responsible for the registration and supervision of external reviewers.
+
+primary_grey_background
+
+ Regulation
+
+The EuGB Regulation was published in the Official Journal of the European Union on 30 November 2023. 
+
+The Regulation entered into force on 21 December 2023 and has applied since 21 December 2024.
+
+white_background
+
+primary_grey_background
+
+primary_grey_background
+
+Registration
+
+Firms wishing to provide external reviewer services under the EuGB Regulation after 21 June 2026 must be registered with ESMA. Applications should be submitted to extreviewreg@esma.europa.eu using the provided template. ESMA will acknowledge receipt of the application within one working day. Applicants will be charged a registration fee of EUR 40,000, in accordance with Article 1(1) of the Commission Delegated Regulation (EU) 2025/755 of 16 April 2025. Further information on how ESMA processes applications can be found on our dedicated website.
+
+▸ EUGB Registration Information template
+
+To receive further information on the registration process, please contact sup-info@esma.europa.eu.
+
+grey_3_background
+
+List of registered external reviewers of European Green Bonds
+
+The external reviewers listed below have been registered with ESMA in accordance with Article 22 of the EuGB Regulation.
+
+Last updated: 16 October 2026
+
+Name of external reviewer
+
+Country of establishment
+
+Status
+
+Effective date
+
+Legal entity identifier
+
+Moody’s France SAS
+
+France
+
+Registered
+
+22/06/2026
+
+549300EB2XQYRSE54F02
+
+Moody’s Deutschland GmbH
+
+Germany
+
+Registered
+
+22/06/2026
+
+549300M5JMGHVTWYZH47
+
+Sustainable Fitch Ireland Limited
+
+Ireland
+
+Registered
+
+22/06/2026
+
+213800JBPPIRON5YQ587
+
+S&P Global Ratings Europe Limited
+
+Ireland
+
+Registered
+
+22/06/2026
+
+5493008B2TU3S6QE1E12
+
+ISS-Corporate AB
+
+Sweden
+
+Registered
+
+22/06/2026
+
+FSG Sustainable GmbH
+
+Austria
+
+Registered
+
+06/08/2026
+
+529900HFZVLB2JUVNM50
+
+KPMG SA
+
+France
+
+Registered
+
+16/10/2026
+
+primary_grey_background
+
+ Non-EU External reviewers
+
+The Regulation includes a third-country regime for non-EU external reviewers of EU Green Bonds.
+
+The equivalence regime applies to external reviewers established in a non-EU country whose legal and supervisory framework has been recognised as equivalent through a decision adopted by the European Commission.
+
+In the absence of an equivalence decision, an external reviewer with a legal representative established in the European Union, may apply for recognition as long as they comply with the requirements of the EuGB Regulation. Applications for recognition should be prepared and submitted to ESMA in accordance with the regulatory technical standards specifying the information, form and content of applications for recognition of third-country external reviewers in Commission Delegated Regulation (EU) 2026/544 of 12 March 2026, in particular Article 11 and the Annexes thereof.
+
+The endorsement regime is available for external reviewers established in the EU for endorsement of the services provided by a third-country external reviewer, provided that it is able to demonstrate to ESMA on an ongoing basis that the provision of services fulfils requirements which are, at least, as stringent as the requirements of the EuGB Regulation, that it has the necessary expertise to effectively monitor and manage the associated risks and that the services of the third-country external reviewer are used for objective reasons.
+
+white_background
+
+grey_3_background
+
+grey_3_background
+
+EU Green Bond Regulation implementation timeline 🡫
+
+white_background
+
+ ESMA Links
+
+ External Links
+
+List of firms that were permitted to provide external reviews under the EUGBR transition regime (art 69 & 70 of Regulation (EU) 2023/2631)
+
+EU Green Bond Regulation
+
+Workshop on the Registration of External Reviewers for EU Green Bonds
+
+The European Green Bonds Regulation
+
+Commission’s webpage on EuGB Technical Standards

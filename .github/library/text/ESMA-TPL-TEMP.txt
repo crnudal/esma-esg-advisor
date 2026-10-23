@@ -1,0 +1,27 @@
+SOURCE: Temporary Regime Notification (small providers)
+REFERENCE: 
+DATE: 2026-05
+URL: https://www.esma.europa.eu/sites/default/files/2026-05/Temporary_Regime_Notification.xlsx
+FILE: sources/ESMA_template_Temporary_Regime_Notification.xlsx
+
+=== SHEET: General information ===
+General information
+1 | Full name of notifying entity
+2 | Address of registered office within the Union
+3 | Website | [Where available]
+4 | Legal Entity Identifier (LEI) | [Where available]
+5 | Contact person | Name
+7 | Address
+8 | Email address
+9 | Telephone number
+10 | Legal form of notifying entity
+=== SHEET: Temporary Regime notification  ===
+Temporary regime notification for small ESG rating providers
+Is the notifying entity part of a group? | Yes/No | Please note if you answered yes, you must provide the below data and supporting documentation on a consolidated group level
+Item | Requirement | Response | Unique reference number of document submitted | Title of document submitted
+Balance sheet and net turnover (Article 3(2)(a) and (b) and Article 5(2)(a) and (b) of Directive 2013/34/EU)
+1 | Last audited financial statement demonstrating balance sheet total and net turnover* | [Please specify balance sheet total and net turnover in EUR]
+Number of employees (Article 3(2)(c) and Article 3(5)(c) of Directive 2013/34/EU)
+2 | Employment records for last financial year | [Please specify average number of employees during the financial year]
+* In the case of a newly established legal entity, projected figures such as founding accounts, business projections and “bona fide” estimates accompanied by managerial sign-off can be submitted instead.
+=== SHEET: Test ===

@@ -1,0 +1,542 @@
+SOURCE: ESMA Consultation Paper - Guidelines on Endorsement under Article 11
+REFERENCE: ESMA84-900617762-2699
+DATE: 2026-04-29
+URL: https://www.esma.europa.eu/sites/default/files/2026-04/ESMA84-900617762-2699_Consultation_Paper_for_Guidelines_on_Endorsement_under_Article_11_of_the_ESG_Rating_Regulation.pdf
+FILE: sources/ESMA_2026-04-29_CP_Endorsement_Guidelines.pdf
+
+                                                                 29 April 2026
+                                                       ESMA84-900617762-2699
+
+
+
+
+Consultation Paper
+Guidelines on the endorsement regime under Article 11 of the ESG Rating
+Regulation
+ Table of Contents
+ 1     Executive Summary .................................................................................................... 3
+ 2     Introduction ................................................................................................................. 4
+ 3     Approach of Guidelines on Endorsement .................................................................... 4
+ 4     Information Requirements ........................................................................................... 4
+ Question 1 – Information Requirements for Application ...................................................... 7
+ 5     On-going Requirements .............................................................................................. 7
+ Question 2 – Ongoing Requirements for Supervision ......................................................... 8
+ 6     Next Steps................................................................................................................... 8
+ 7     Annexes ...................................................................................................................... 9
+     7.1      Annex I - List of Questions .................................................................................. 9
+     7.2      Annex II - Draft Guidelines ................................................................................ 10
+
+
+
+
+ESMA - 201-203 rue de Bercy - CS 80910 - 75589 Paris Cedex 12 - France – www.esma.europa.eu                                               2
+1 Executive Summary
+     Reasons for Publication
+
+
+1. The ESG Rating Regulation1 entered into force on 1 January 2025 and will apply from 2
+   July 2026. It is from this date that entities will have one month to notify ESMA of their
+   intention to apply for authorisation, registration or recognition under the Regulation. For
+   those entities that apply for authorisation there is the possibility to also apply to endorse
+   ESG ratings from a legal entity established outside of the European Union. The
+   requirements to endorse are set out in Article 11(1) and 11(2) of the ESG Rating
+   Regulation.
+
+2. The purpose of these Guidelines is to complement these legal requirements with guidance
+   on the type of documentation that ESMA expects to be provided by applicants as part of
+   their application to endorse, in addition to guidance on the processes that ESMA would
+   expect to be demonstrated after authorisation to endorse has been granted.
+
+     Contents
+
+3. This Consultation Paper is split into two parts; information requirements, and ongoing
+   requirements. For each section respondents are invited to provide their view on the
+   appropriateness of the proposed guidance.
+
+     Next Steps
+
+4. Following a 4-week period of consultation ESMA will finalise the Guidelines and publish
+   the Final Report on its website. The Guidelines will then be published on ESMA’s website
+   and should be used by applicants to inform their applications for authorisation.
+
+
+
+
+1
+  REGULATION (EU) 2024/3005 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 on the
+transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU)
+2019/2088 and (EU) 2023/2859
+
+                                                                                                                       3
+2 Introduction
+5. The purpose of these guidelines is to ensure that ESG rating providers understand ESMA’s
+   expectations in respect of the application of Article 11(1) of the ESG Rating Regulation.
+   They further seek to explain what information should be provided as part of an ESG Rating
+   Providers request for authorisation to endorse ESG ratings and how this information should
+   be provided as part of Annex IV of the RTS on Authorisation and Recognition2.
+
+
+3 Approach of Guidelines on Endorsement
+6. The approach of these Guidelines is to follow the sequence of Article 11(1) of ESGRR. For
+   each of the provisions of Article 11(1) the Guidelines outline ESMA’s expectations, either
+   for the information to be provided or for what an ESG rating provider would need to
+   demonstrate to ESMA on an ongoing basis.
+
+7. In this regard, the Guidelines are intended to support an ESG rating provider when it is
+   assembling the information for its authorisation application. This application for
+   authorisation can be submitted either as part of the initial application for authorisation or
+   later following the authorisation.
+
+8. In either case, whether the application is submitted at initial authorisation or later, ESMA
+   considers that in the interests of consistency and simplicity it is beneficial that Annex IV of
+   [RTS on Authorisation and Recognition] should be used to submit the application.
+
+
+4 Information Requirements
+9. Before an ESG rating provider can begin to endorse ESG ratings it must first seek
+   authorisation from ESMA. This information can be provided as part of the initial
+   authorisation application, or at a later date, following the authorisation of the ESG Rating
+   Provider.
+
+10. The Guidelines aim to ensure that applicants (i) understand what information and
+    documentation should be provided to demonstrate that the requirements of Articles 11(1)
+    are met and (ii) under which part of Annex IV of the [RTS on Authorisation and Recognition]
+    this information should be included.
+
+11. The following table illustrates how the Guidelines complement these requirements and sets
+    out the documentation that ESMA expects would be provided for each item. This table
+    follows the sequence of the provisions under Article 11(1) and shows where that
+    information should be provided within Annex IV application, and what documentation
+    should be provided to evidence the requirement.
+
+
+
+
+2
+ Please note that references in this Consultation Paper to the RTS on Authorisation and Recognition refer to the draft RTS
+published in ESMA’s Final Report on Technical Standards under the ESG Rating Regulation, Section 5.2.1, pg. 34.
+
+                                                                                                                        4
+       1                  2                                      3
+
+Requirement as    Relevant Section       How can this be demonstrated by the ESG
+  set out in         of [RTS on          Rating Provider in its application or an on
+Regulation EU      Authorisation                      ongoing basis
+  2024/3005       and Recognition]
+
+   11(1)(a)       Annex IV Point (a)   The name, and where available, LEI, of the legal
+                                       entities from which ratings will be endorsed
+
+  11(1)(b)(i)     Annex IV Point (d)   A valid certificate of registration or incorporation
+                                       issued by the relevant authority to prove legal
+                                       establishment in a Member State.
+
+                                       Proof of the existence of own premises or
+                                       premises for exclusive use in a Member State,
+                                       including through a lease or purchase agreement
+
+  11(1)(b)(ii)    Annex IV Point (d)   Copies of bank statements or official
+                                       correspondence from a bank confirming the
+                                       existence and ownership of the account.
+
+  11(1)(b)(iii)   Annex IV Point (d)   A reasoned analysis which should explain how its
+                                       presence in the Union is sufficient to ensure the
+                                       effective     performance,     oversight,    and
+                                       accountability as regards the ESG ratings it
+                                       intends to endorse.
+
+                                       It should, where relevant, address:
+
+                                             a. the allocation of analytical and decision-
+                                                making functions between staff located
+                                                in the Union and those in third countries;
+                                             b. the role and level of responsibility of staff
+                                                in the Union in relation to the
+                                                endorsement process, internal review,
+                                                quality assurance, and compliance; and
+                                             c. how governance and reporting lines
+                                                ensure that key decisions related to the
+
+
+
+                                                                                                5
+                                          endorsed ESG ratings are effectively
+                                          taken within the Union
+11(1)(d)   Annex IV Point (d)   Confirmation that it has verified that the issuance
+                                and distribution of ESG ratings are subject to
+                                requirements that are at least as stringent as the
+                                requirements of ESGRR, and a description of how
+                                any divergences between EU requirements and
+                                third country rules have been addressed
+
+11(1)(e)   Annex IV Point (b)   Confirmation that the provider has the necessary
+                                expertise among staff to monitor the endorsed
+                                ESG ratings and any associated risks
+
+11(1)(e)   Annex IV Point (d)   Details of the information sharing agreements in
+                                place within the group to enable the ESG rating
+                                provider to monitor the ESG ratings provided by
+                                the ESG rating provider established outside the
+                                EU.
+
+11(1)(f)   Annex IV Point (c)   Identification and explanation of the objective
+                                reason(s) why the ESG ratings issued by the third-
+                                country ESG rating provider need to be endorsed
+                                for use in the Union.
+
+                                The objective reason(s) may be based on one or
+                                more of the factors listed in Article 11(1)(f) of the
+                                ESGRR. The ESG rating provider may also rely on
+                                other objective reasons, provided that such
+                                reasons are clearly identified and supported by
+                                evidence demonstrating their relevance and
+                                necessity for the endorsement of ESG ratings
+                                within the Union.
+
+11(1)(g)   Annex IV Point (d)   Evidence of arrangements and procedures that
+                                enable it to provide to ESMA in a timely, complete
+                                and reliable manner information that ESMA may
+                                request to assess compliance with the ESGRR, as
+                                needed.
+
+                                Such arrangements may include, as appropriate:
+
+                                   •   internal policies or group-wide procedures
+                                       governing the exchange of information
+                                       between the Union entity and the third-
+                                       country ESG rating provider;
+
+
+
+                                                                                        6
+                                             •   contractual clauses or service-level
+                                                 arrangements ensuring that information
+                                                 can be provided promptly, accurately and
+                                                 in the format requested by ESMA; and
+
+                                             •    clearly defined points of contact and
+                                                  communication channels to facilitate the
+                                                  collection and transmission of data,
+                                                  documents or explanations relevant to the
+                                                  endorsed ESG ratings
+     11(1)(h)        Annex IV Point (d)   Verification that cooperation arrangements are in
+                                          place between ESMA and any relevant
+                                          supervisory authority of the third country of its
+                                          establishment outside the Union
+
+
+
+
+ Question 1 – Information Requirements for Application
+ Q1: Do you agree with the suggested documentation to be provided under Column 3 of the
+ table?
+
+ If you do not agree, please list which item you do not agree with providing supporting
+ rationale and recommending alternative or additional documentation.
+
+
+
+5 On-going Requirements
+12. A smaller number of the Guidelines, specifically those relating to Article 11(1)(d) and
+    11(1)(f) of the ESG Rating Regulation, entail an ongoing requirement for the ESG Rating
+    Provider to either provide ESMA with information upon request or to notify ESMA if there
+    have been any changes to the objective reasons for endorsing an ESG rating.
+
+13. Here, the Guidelines elaborate how ESMA would expect an ESG Rating Provider to be
+    able to demonstrate on an ongoing basis after it had been authorised to endorse ESG
+    ratings.
+
+14. The following table illustrates how the Guidelines complement these requirements:
+
+         1                     2                                   3
+
+ Requirement as       Relevant Section       How can this be demonstrated by the ESG
+   set out in            of [RTS on          Rating Provider in its application or an on
+                                                          ongoing basis
+
+
+                                                                                              7
+  Regulation EU        Authorisation and
+    2024/3005            Recognition]
+
+      11(1)(d)         Annex IV Point (d)     On an ongoing basis, ESMA expects that the
+                                              ESG rating provider will be capable of
+                                              demonstrating:
+                                                        i.   evidence of periodic reviews to
+                                                             confirm that the third-country
+                                                             ESG rating provider continues
+                                                             to meet equivalent standards
+                                                             both in terms of conduct and
+                                                             policies over time; and
+                                                       ii.   clear internal policies describing
+                                                             how any identified gaps are
+                                                             addressed, including through
+                                                             additional controls or
+                                                             adaptations by the EU entity
+                                                             prior to endorsement.
+      11(1)(f)         Annex IV Point (c)     On an ongoing basis, ESMA expects that where
+                                              the reason(s) cease to apply or cannot be
+                                              evidenced, the ESG rating provider is expected
+                                              to inform ESMA without undue delay
+
+
+
+
+ Question 2 – Ongoing Requirements for Supervision
+ Q2: Do you agree with the expectations for ongoing supervision to be demonstrated to
+ ESMA under Column 3 of the table?
+
+ If you do not agree, please list which item you do not agree with providing supporting
+ rationale and recommending alternative or additional documentation.
+
+
+
+
+6 Next Steps
+15. ESMA will consider the responses to this consultation and finalise the draft Guidelines. The
+    Final Report will be published on ESMA’s website. The Guidelines will then be translated
+    into all official languages of the European Union.
+
+16. The Guidelines will apply from three months after the publication of the translations on
+    ESMA’s website. ESMA will consider these Guidelines for the purposes of its supervision
+    and ESG Rating Providers applications for authorisation from 2 August 2026.
+
+
+                                                                                                  8
+7 Annexes
+
+7.1 Annex I - List of Questions
+
+Information Requirements for Application
+Q1: Do you agree with the suggested documentation to be provided under Column 3 of the
+table?
+
+If you do not agree, please list which item you do not agree with providing supporting rationale
+and recommending alternative or additional documentation.
+
+
+Ongoing Requirements for Supervision
+Q2: Do you agree with the expectations for ongoing supervision to be demonstrated to ESMA
+under Column 3 of the table?
+
+If you do not agree, please list which item you do not agree with providing supporting rationale
+and recommending alternative or additional documentation.
+
+
+
+
+                                                                                               9
+7.2 Annex II - Draft Guidelines
+
+1 Scope
+Who?
+
+    2. These guidelines apply to ESG Rating Providers who submit an application for
+       authorisation to endorse ESG ratings in accordance with Article 11(1)(a) of the ESG
+       Rating Regulation.
+
+What?
+
+    3. These guidelines apply in relation to Article 11(1) of the ESG Rating Regulation.
+
+When?
+
+    4. These guidelines will apply three months after the date of the publication of the
+       guidelines on ESMA’s website in all EU official languages.
+
+
+
+
+2 Legislative references, abbreviations and definitions
+
+2.1 Legislative references
+
+    ESMA Regulation                Regulation (EU) No 1095/2010 of the European Parliament
+                                   and of the Council of 24 November 2010 establishing a
+                                   European Supervisory Authority (European Securities and
+                                   Markets Authority), amending Decision No 716/2009/EC and
+                                   repealing Commission Decision 2009/77/EC3
+
+    ESG Rating Regulation          Regulation (EU) 2024/3005 of the European parliament and
+                                   of the Council of 27 November 2024 on the transparency and
+                                   integrity of Environmental, Social and Governance (ESG)
+                                   rating activities, and amending Regulations (EU) 2019/2088
+                                   and (EU) 2023/2859
+
+    RTS on Authorisation and Commission Delegated Regulation (EU) No XXX/2026 of the
+    Recognition              European Parliament and of the Council
+
+
+
+
+3
+    OJ L 331, 15.12.2010, p. 84.
+
+                                                                                            10
+2.2 Abbreviations
+
+  CP                          Consultation Paper
+
+  ESMA                        European Securities and Markets Authority
+
+  EU                          European Union
+
+  ESGRR                       ESG Rating Regulation
+
+
+
+3 Purpose
+  1. These guidelines are based on Article 29(2) of the ESGRR and Article 16(1) of the
+     ESMA Regulation. The objective of these guidelines is to ensure the common, uniform
+     and consistent application of Article 11(1) of the ESGRR.
+
+
+4 Compliance and reporting obligations
+
+4.1 Status of the guidelines
+
+  2. In accordance with Article 16(3) of the ESMA Regulation, ESG rating providers must
+     make every effort to comply with these guidelines.
+
+  3. ESMA will assess the application of these guidelines by ESG rating providers through
+     its ongoing direct supervision.
+
+
+4.2 Reporting requirements
+  4. ESG rating providers are not required to report whether they comply with these
+     guidelines.
+
+
+5 Guidelines regarding the endorsement regime under
+  Article 11 ESGRR
+
+5.1 General guidelines
+
+  5. An ESG rating provider may endorse ESG ratings from a third-country ESG rating
+     provider only after applying for, and receiving, ESMA authorisation pursuant to Article
+     11(1) point (a) and 11(3) of the ESGRR, respectively.
+
+  6. Before submitting their application to ESMA, ESG rating providers should verify its
+     completeness, including by checking against all the elements list included in the Table
+     of Concurrence in Section 5.2. This Table should be considered, irrespective of
+
+                                                                                          11
+     whether the application for authorisation of endorsement is submitted together with an
+     application for authorisation pursuant to Article 6 ESGRR or on a subsequent, stand-
+     alone basis.
+
+  7. When assessing compliance with the conditions under Article 11(1) ESGRR, ESMA
+     may request additional information or clarifications necessary to verify that the ESG
+     rating provider complies with the ESGRR. ESG ratings providers should reply promptly
+     to such requests.
+
+  8. ESG rating providers authorised to endorse ESG ratings should notify ESMA without
+     undue delay should one or more of the relevant conditions for authorisation are no
+     longer fulfilled.
+
+
+5.2 Table of Concurrence
+
+
+
+
+                                                                                         12
+Section   Requirement as     Relevant Section of    How can this be demonstrated by the ESG Rating Provider in its application or
+            set out in      [RTS on Authorisation                              an on ongoing basis
+          Regulation EU       and Recognition]
+            2024/3005
+
+  5.1        11(1)(a)         Annex IV Point (a)    The name, and where available, LEI, of the legal entities from which ratings will be
+                                                    endorsed.
+
+  5.2       11(1)(b)(i)       Annex IV Point (d)    A valid certificate of registration or incorporation issued by the relevant authority to
+                                                    prove legal establishment in a Member State.
+
+                                                    proof of the existence of own premises or premises for exclusive use in a Member
+                                                    State, including through a lease or purchase agreement.
+
+  5.3       11(1)(b)(ii)      Annex IV Point (d)    Copies of bank statements or official correspondence from a bank confirming the
+                                                    existence and ownership of the account.
+
+  5.4       11(1)(b)(iii)     Annex IV Point (d)    A reasoned analysis which should explain how its presence in the Union is sufficient
+                                                    to ensure the effective performance, oversight, and accountability as regards the ESG
+                                                    ratings it intends to endorse.
+
+                                                    It should, where relevant, address:
+
+                                                          a. the allocation of analytical and decision-making functions between staff
+                                                             located in the Union and those in third countries;
+                                                          b. the role and level of responsibility of staff in the Union in relation to the
+                                                             endorsement process, internal review, quality assurance, and compliance;
+                                                             and
+
+
+
+
+                                                                                                                                             13
+                                            c. how governance and reporting lines ensure that key decisions related to
+                                               the endorsed ESG ratings are effectively taken within the Union
+5.5    11(1)(c)          N/A                                                    N/A
+
+5.6    11(1)(d)   Annex IV Point (d)   Confirmation that it has verified that the issuance and distribution of ESG ratings are
+                                       subject to requirements that are at least as stringent as the requirements of ESGRR,
+                                       and a description of how any divergences between EU requirements and third country
+                                       rules have been addressed.
+
+5.7    11(1)(d)   Annex IV Point (d)   On an ongoing basis, ESMA expects that the ESG rating provider will be capable of
+                                       demonstrating:
+                                                 i.   evidence of periodic reviews to confirm that the third-country ESG
+                                                      rating provider continues to meet equivalent standards both in terms
+                                                      of conduct and policies over time; and
+                                                ii.   clear internal policies describing how any identified gaps are
+                                                      addressed, including through additional controls or adaptations by the
+                                                      EU entity prior to endorsement.
+
+5.8    11(1)(e)   Annex IV Point (b)   Confirmation that the provider has the necessary expertise among staff to monitor the
+                                       endorsed ESG ratings and any associated risks
+
+5.9    11(1)(e)   Annex IV Point (d)   Details of the information sharing agreements in place within the group to enable the
+                                       ESG rating provider to monitor the ESG ratings provided by the ESG rating provider
+                                       established outside the EU.
+
+5.10   11(1)(f)   Annex IV Point (c)   Identification and explanation of the objective reason(s) why the ESG ratings issued
+                                       by the third-country ESG rating provider need to be endorsed for use in the Union.
+
+
+
+
+                                                                                                                               14
+                                       The objective reason(s) may be based on one or more of the factors listed in Article
+                                       11(1)(f) of the ESGRR. The ESG rating provider may also rely on other objective
+                                       reasons, provided that such reasons are clearly identified and supported by evidence
+                                       demonstrating their relevance and necessity for the endorsement of ESG ratings within
+                                       the Union.
+
+5.11   11(1)(f)   Annex IV Point (c)   On an ongoing basis, ESMA expects that where the reason(s) cease to apply or cannot
+                                       be evidenced, the ESG rating provider is expected to inform ESMA without undue
+                                       delay
+
+5.12   11(1)(g)   Annex IV Point (d)   Evidence of arrangements and procedures that enable it to provide to ESMA in a
+                                       timely, complete and reliable manner information that ESMA may request to assess
+                                       compliance with the ESGRR, as needed.
+
+                                       Such arrangements may include, as appropriate:
+
+                                          •   internal policies or group-wide procedures governing the exchange of
+                                              information between the Union entity and the third-country ESG rating
+                                              provider;
+
+                                          •   contractual clauses or service-level arrangements ensuring that information
+                                              can be provided promptly, accurately and in the format requested by ESMA;
+                                              and
+
+                                          •    clearly defined points of contact and communication channels to facilitate the
+                                               collection and transmission of data, documents or explanations relevant to
+                                               the endorsed ESG ratings
+5.13   11(1)(h)   Annex IV Point (d)   Verification that cooperation arrangements are in place between ESMA and any
+                                       relevant supervisory authority of the third country of its establishment outside the Union
+
+
+
+                                                                                                                                15
+

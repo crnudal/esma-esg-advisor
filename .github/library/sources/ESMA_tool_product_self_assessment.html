@@ -1,0 +1,983 @@
+<!doctype html>
+<html lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Regulation (EU) 2024/3005 – Product Self-Assessment</title>
+  <style>
+    :root{
+      --bg:#ffffff;
+      --panel:#ffffff;
+      --ink:#0b1220;
+      --muted:#6B7280;
+      --stroke:#E5E7EB;
+      --accent:#005EB8;
+      --success:#8DC63F;
+      --warn:#FFD966;
+      --danger:#E74C3C;
+      --success-ink:#0f3810;
+      --warn-ink:#6b4e00;
+      --danger-ink:#5a0002;
+    }
+
+    html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif}
+    .wrap{max-width:980px;margin:32px auto 56px;padding:0 20px}
+
+    h1{font-weight:800;letter-spacing:.2px;margin:6px 0 2px}
+    .subtitle{color:var(--muted);margin:0 0 20px}
+
+    .card{background:var(--panel);border:1px solid var(--stroke);border-radius:14px;padding:18px;box-shadow:0 1px 2px rgba(16,24,40,.06)}
+    .q-head{display:flex;gap:12px;align-items:flex-start}
+    .q-num{background:var(--accent);color:#fff;border:1px solid var(--accent);width:28px;height:28px;border-radius:8px;display:grid;place-items:center;font-weight:800}
+    .q-title{font-weight:800}
+    .help{color:var(--muted);font-size:.94rem;margin-top:6px}
+    .info{color:var(--muted);font-size:.70rem;margin-top:6px}
+    .row{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+
+    button{appearance:none;border:1px solid var(--stroke);background:#fff;color:var(--ink);padding:10px 14px;border-radius:10px;font-weight:800;cursor:pointer;transition:.15s ease}
+    button:hover{border-color:#cfd4dc}
+    button[disabled]{cursor:not-allowed;opacity:.6}
+    .choice[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:1px}
+
+    /* Option boxes (ticker style) */
+    .opt{ display: grid;  grid-template-columns: 18px 1fr; grid-template-rows: auto auto; column-gap: 10px;  align-items: start;  width: 100%;  padding: 12px 14px;  border-radius: 12px;  position: relative;}
+    .opt::before{  content: "";  display: block;  width: 18px;  height: 18px;  border: 2px solid var(--stroke);  border-radius: 4px;  background: #fff;  grid-column: 1;  grid-row: 1 / span 2;   margin-top: 2px;}
+    .opt[aria-pressed="true"]::before{background: var(--accent);  border-color: var(--accent);  box-shadow: inset 0 0 0 3px #fff;}
+    .opt .opt-text{  flex: 1 1 auto;  display: flex;  flex-direction: column;  align-items: center;  text-align: center;  min-width: 0;}
+    .opt .opt-help{  grid-column: 2;  grid-row: 1;  text-align: center;  font-weight: 600;  color: var(--muted);  font-size: .9rem;  line-height: 1.35;}
+    .opt .opt-info{  grid-column: 2;  grid-row: 2;  text-align: center;  font-weight: 400;  color: var(--muted);  font-size: .7rem;  line-height: 12px; }
+
+    .validate{margin-top:12px;display:flex;justify-content:flex-end}
+    .validate button{border-color:var(--accent)}
+
+    .disclaimer{
+      margin-top:10px;
+      padding:10px 12px;
+      border-left:4px solid var(--warn);
+      background:color-mix(in srgb, var(--warn) 10%, #fff);
+      color:#5a4a00;
+      font-size:.7rem;
+      line-height:1.45;
+      border-radius:8px;
+    }
+    .disclaimer strong{font-weight:800}
+
+    .warning{
+      margin-top:10px;
+      padding:10px 12px;
+      border-left:4px solid #ff9999;
+      background:color-mix(in srgb, #ff9999 10%, #fff);
+      color:#5a4a00;
+      font-size:.7rem;
+      line-height:1.45;
+      border-radius:8px;
+    }
+    .warning strong{font-weight:800}
+
+    .result{border-radius:12px;padding:14px 16px;border:1px solid var(--stroke);margin-top:12px}
+    .in{background:color-mix(in srgb, var(--success) 16%, #fff);border-color:color-mix(in srgb, var(--success) 60%, var(--stroke));color:var(--success-ink)}
+    .ex{background:color-mix(in srgb, var(--warn) 45%, #fff);border-color:color-mix(in srgb, var(--warn) 80%, var(--stroke));color:var(--warn-ink)}
+    .bad{background:color-mix(in srgb, var(--danger) 12%, #fff);border-color:color-mix(in srgb, var(--danger) 55%, var(--stroke));color:var(--danger-ink)}
+    .hidden{display:none !important}
+
+    /* Modal */
+    .modal-backdrop{position:fixed;inset:0;background:rgba(15,23,42,.55);backdrop-filter:saturate(120%) blur(2px);display:grid;place-items:center;z-index:50}
+    .modal{width:min(640px, calc(100vw - 32px));background:#fff;border:1px solid var(--stroke);border-radius:16px;box-shadow:0 20px 40px rgba(15,23,42,.22);padding:18px}
+    .modal h2{margin:0 0 6px;font-size:1.05rem;letter-spacing:.2px}
+    .modal p{margin:0;color:var(--muted)}
+    .modal .row{justify-content:flex-end;margin-top:14px}
+
+    .note{font-size:.95rem;color:var(--muted)}
+    .hr{height:1px;background:var(--stroke);margin:14px 0}
+    .badge{font-size:.78rem;background:#eef4ff;color:#003f83;border:1px solid #d6e4ff;padding:3px 8px;border-radius:999px}
+    .section-title{font-weight:900;margin:10px 0 6px;color:#111827}
+
+    .grid{display:grid;gap:16px}
+
+    ul{margin:8px 0 0 22px}
+    li{margin:6px 0}
+
+    .ref{font-weight:700}
+  </style>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:f289fbc384b1484ea5f6ff6b522b513c msdt:dt="string">Note|b9e1c92e-303a-4555-86f0-5c711c65937e</mso:f289fbc384b1484ea5f6ff6b522b513c>
+<mso:dd0664d3f47447a8943f346211d0253e msdt:dt="string">Restricted|187aa7e6-627f-4951-b138-6ff841dc883d</mso:dd0664d3f47447a8943f346211d0253e>
+<mso:TaxCatchAll msdt:dt="string">6;#Restricted|187aa7e6-627f-4951-b138-6ff841dc883d;#394;#ESG Ratings|82dfcc83-0ad0-4ecf-9f6c-25c68e7d8011;#9;#Credit Ratings Agency Unit|ac587c9e-f6a3-4205-8197-96cf16201777;#5;#Note|b9e1c92e-303a-4555-86f0-5c711c65937e</mso:TaxCatchAll>
+<mso:Year msdt:dt="string">2025</mso:Year>
+<mso:ab8b5864a6dc4f2ea5aeb44d6d375f74 msdt:dt="string">ESG Ratings|82dfcc83-0ad0-4ecf-9f6c-25c68e7d8011</mso:ab8b5864a6dc4f2ea5aeb44d6d375f74>
+<mso:DocumentType msdt:dt="string">5;#Note|b9e1c92e-303a-4555-86f0-5c711c65937e</mso:DocumentType>
+<mso:i3322e601ac8421cbd1b686355963f37 msdt:dt="string">Credit Ratings Agency Unit|ac587c9e-f6a3-4205-8197-96cf16201777</mso:i3322e601ac8421cbd1b686355963f37>
+<mso:k47b2c662a4d451c94b6991b27ccdf61 msdt:dt="string"></mso:k47b2c662a4d451c94b6991b27ccdf61>
+<mso:EsmaAudience msdt:dt="string"></mso:EsmaAudience>
+<mso:TeamName msdt:dt="string">9</mso:TeamName>
+<mso:Topic msdt:dt="string">394</mso:Topic>
+<mso:ConfidentialityLevel msdt:dt="string">6;#Restricted|187aa7e6-627f-4951-b138-6ff841dc883d</mso:ConfidentialityLevel>
+<mso:SubTopic msdt:dt="string"></mso:SubTopic>
+<mso:hb56520e44e642c88c7a09896d1bc2ee msdt:dt="string"></mso:hb56520e44e642c88c7a09896d1bc2ee>
+<mso:_dlc_DocId msdt:dt="string">ESMA84-1427279869-1416</mso:_dlc_DocId>
+<mso:_dlc_DocIdItemGuid msdt:dt="string">0fec8809-14a6-4f80-a859-020a3b104ae0</mso:_dlc_DocIdItemGuid>
+<mso:_dlc_DocIdUrl msdt:dt="string">https://securitiesandmarketsauth.sharepoint.com/sites/sherpa-craunit/_layouts/15/DocIdRedir.aspx?ID=ESMA84-1427279869-1416, ESMA84-1427279869-1416</mso:_dlc_DocIdUrl>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+  <div class="wrap">
+    <h1>Self-Assessment Tool - ESG Rating Regulation (EU 2024/3005)- Product assessment </h1>
+    <p class="subtitle">For any query contact ESGR_queries@esma.europa.eu  <span class="badge">Determine whether your product qualifies as an “ESG rating” and falls within the regulatory scope</span></p>
+
+    <div class="section-title">How to use this tool</div>
+    <p class="note">
+      This questionnaire follows a two-step structure aligned with the Regulation:
+      (1) assess whether the product meets the <strong>definition of an ESG rating</strong> (Article 3); and
+      (2) if so, assess whether a <strong>scope exclusion</strong> applies (Article 2(2)).
+      This tool is provided purely for information purposes, does not constitute legal or other advice, and is without prejudice to ESMA’s specific assessment of each case. Entities should not rely solely on this tool to make compliance decisions and ESMA does not assume any liability for its content.
+    </p>
+
+    <!-- STEP 1: Definition (Art 3) -->
+
+    <!-- Q1 -->
+    <div id="block-q1" class="card">
+      <div class="q-head">
+        <div class="q-num">1</div>
+        <div>
+          <div class="q-title">Indicate whether the product concerns any of the following topics:</div>
+          <div class="help">Select all that apply.</div>
+
+          <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); margin-top:12px">
+            <button class="opt q1choice" role="checkbox" type="button" data-q1="q1_char" aria-pressed="false"><span class="opt-help">Profile or characteristics with regard to environmental, social, human rights, and/or governance factors.</span></button>
+            <button class="opt q1choice" role="checkbox" type="button" data-q1="q1_risk" aria-pressed="false"><span class="opt-help">Exposure to risks on environmental, social, human rights, and/or governance factors.</span></button>
+            <button class="opt q1choice" role="checkbox" type="button" data-q1="q1_imp" aria-pressed="false"><span class="opt-help">Impacts on environmental, social, human rights, and/or governance factors.</span></button>
+            <button class="opt q1choice" role="checkbox" type="button" data-q1="q1_none" aria-pressed="false"><span class="opt-help">None of the above.</span></button>
+          </div>
+
+          <div class="validate">
+            <button id="validateQ1" type="button" disabled>Validate answer</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q2 -->
+    <div id="block-q2" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">2</div>
+        <div>
+          <div class="q-title">Indicate whether the ESG product concerns any of the items listed below:</div>
+          <div class="help">Select all that apply.</div>
+
+          <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); margin-top:12px">
+            <button class="opt q2choice" role="checkbox" type="button" data-q2="q2_pers" aria-pressed="false"><span class="opt-help">Legal persons.</span></button>
+            <button class="opt q2choice" role="checkbox" type="button" data-q2="q2_ins" aria-pressed="false"><span class="opt-help">Financial instruments as listed in Section C of Annex I to Directive 2014/65/EU.</span>
+            <span class="opt-info">E.g., Transferable securities,  Money-market instruments, Units in collective investment undertakings.</span>
+            </button>
+            <button class="opt q2choice" role="checkbox" type="button" data-q2="q2_prod" aria-pressed="false"><span class="opt-help">Financial products.</span></button>
+            <button class="opt q2choice" role="checkbox" type="button" data-q2="q2_auth" aria-pressed="false"><span class="opt-help">Public authorities or bodies governed by public law.</span></button>
+            <button class="opt q2choice" role="checkbox" type="button" data-q2="q2_none" aria-pressed="false"><span class="opt-help">None of the above.</span></button>
+          </div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> The items identified above are considered to fall within the scope of the ESG product irrespective of whether they are explicitly or implicitly rated by it, whether the product is requested, or whether the legal person, public authority or body governed by public law has provided information for that ESG product.</div>
+
+          <div class="validate">
+            <button id="validateQ2" type="button" disabled>Validate answer</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q3 -->
+    <div id="block-q3" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">3</div>
+        <div>
+          <div class="q-title">Is the ESG product based on an established methodology?</div>
+          <div class="row">
+            <button class="choice" data-key="q3" data-val="yes">Yes</button>
+            <button class="choice" data-key="q3" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q4 (new) -->
+    <div id="block-q4" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">4</div>
+        <div>
+          <div class="q-title">Is the ESG product based on a defined ranking system of rating categories?</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> The defined ranking system reflects the rating provider’s value judgement in an ordinal or hierarchical structure and comprises two or more pre-determined rating categories, including the minimum and maximum levels, enabling consistent comparison across rated items. The rating categories can be represented by numbers, letters, colours or other symbols. 
+          </div>
+          <div class="row">
+            <button class="choice" data-key="q4" data-val="yes">Yes</button>
+            <button class="choice" data-key="q4" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q5 (new) -->
+    <div id="block-q5" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">5</div>
+        <div>
+          <div class="q-title">Does the ESG product meet any of the following descriptions:</div>
+          <div class="help">Select one option.</div>
+
+          <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); margin-top:12px">
+            <button class="opt q5choice" role="radio" type="button" data-q5="a" aria-pressed="false">
+              <span class="opt-help">An ESG assessment involving directly a rating analyst in the rating process.</span>
+              <span class="opt-info">Rating analyst means a person who performs analytical functions for the purpose of issuing the ESG product.</span>
+            </button>
+            <button class="opt q5choice" role="radio" type="button" data-q5="b" aria-pressed="false">
+              <span class="opt-help">An ESG measure derived from data and based only on a pre-established statistical or algorithmic system or model, without any additional substantial analytical input from a rating analyst.</span>
+               <span class="opt-info">Rating analyst means a person who performs analytical functions for the purpose of issuing the ESG product.</span>
+            </button>
+            <button class="opt q5choice" role="radio" type="button" data-q5="c" aria-pressed="false">
+              <span class="opt-help">Combination of both.</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STEP 2: Scope exclusions (Art 2(2)) -->
+
+    <!-- Q6 -->
+    <div id="block-q6" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">6</div>
+        <div>
+          <div class="q-title">Is it a private ESG rating?</div>
+          <div class="help">Private ESG ratings are not intended for public disclosure or distribution.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q6" data-val="yes">Yes</button>
+            <button class="choice" data-key="q6" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q7 -->
+    <div id="block-q7" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">7</div>
+        <div>
+          <div class="q-title">If your entity is a regulated financial undertaking in the Union, is the ESG rating used exclusively for internal purposes?</div>
+          <div class="help">I.e., including in-house or intragroup financial services or products</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q7" data-val="yes">Yes</button>
+            <button class="choice" data-key="q7" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q8 -->
+    <div id="block-q8" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">8</div>
+        <div>
+          <div class="q-title">If your entity is a regulated financial undertaking in the Union, is the ESG rating incorporated in an already regulated financial product or service under Union law, and disclosed to a third party?</div>
+          <div class="help">E.g., social security systems, sustainability‐related disclosures in the financial services sector, European crowdfunding service providers for business, markets in crypto-assets, indices used as benchmarks in financial instruments and financial contracts.</div>
+          <div class="info">Including under Regulation (EC) No 883/2004 of the European Parliament and of the Council, Regulation (EU) 2019/2088, Directives 2013/36/EU, 2014/65/EU, 2009/138/EC, 2009/65/EC, 2011/61/EU and (EU) 2016/2341 of the European Parliament and of the Council and Regulations (EU) 2020/1503, (EU) 2023/1114 and (EU) 2016/1011 of the European Parliament and of the Council.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q8" data-val="yes">Yes</button>
+            <button class="choice" data-key="q8" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q9 -->
+    <div id="block-q9" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">9</div>
+        <div>
+          <div class="q-title">Is it a <em>credit rating</em> or a ESG-related score or assessment produced/published as part of the methodologies for credit ratings?</div>
+          <div class="help">I.e., including ESG-related score or assessment produced/published as an input or output of the creditworthiness assessment for credit ratings.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> Credit ratings issued pursuant to Regulation (EC) No 1060/2009.</div>
+          <div class="row">
+            <button class="choice" data-key="q9" data-val="yes">Yes</button>
+            <button class="choice" data-key="q9" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q10 -->
+    <div id="block-q10" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">10</div>
+        <div>
+          <div class="q-title">Does the product or service incorporate <em>an element</em> of an ESG Rating?</div>
+          <div class="help">E.g., Investment research as laid down in Directive 2014/65/EU (MiFID II)</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q10" data-val="yes">Yes</button>
+            <button class="choice" data-key="q10" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q11 -->
+    <div id="block-q11" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">11</div>
+        <div>
+          <div class="q-title">Is it an external review of European Green Bonds under Regulation (EU) 2023/2631?</div>
+          <div class="row">
+            <button class="choice" data-key="q11" data-val="yes">Yes</button>
+            <button class="choice" data-key="q11" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q12 -->
+    <div id="block-q12" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">12</div>
+        <div>
+          <div class="q-title">Is it an external review or second-party opinion on a bond/debt instrument marketed as sustainable that does not contain an ESG rating issued by the reviewer/second-party opinion provider?</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q12" data-val="yes">Yes</button>
+            <button class="choice" data-key="q12" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q13 -->
+    <div id="block-q13" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">13</div>
+        <div>
+          <div class="q-title">Is the ESG Rating part of the mandatory disclosure under Regulation (EU) 2019/2088 (SFDR)?</div>
+          <div class="help">Articles 6, 8, 9, 10, 11 and 13 of Regulation (EU) 2019/2088, on sustainability‐related disclosures in the financial services sector.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q13" data-val="yes">Yes</button>
+            <button class="choice" data-key="q13" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q14 -->
+    <div id="block-q14" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">14</div>
+        <div>
+          <div class="q-title">Is the ESG Rating part of the disclosures under Regulation (EU) 2020/852?</div>
+          <div class="help">Articles 5, 6 and 8 of Regulation (EU) 2020/852, on the establishment of a framework to facilitate sustainable investment.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q14" data-val="yes">Yes</button>
+            <button class="choice" data-key="q14" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q15 -->
+    <div id="block-q15" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">15</div>
+        <div>
+          <div class="q-title">Is the ESG Rating developed exclusively for certification or accreditation processes, which do not target investment/financial analysis or decision-making, or for labelling activities?</div>
+          <div class="warning"><strong>Warning:</strong> If developed for labelling activities, the label granted to the relevant entities, financial instruments or financial products must not involve the disclosure of the ESG rating.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q15" data-val="yes">Yes</button>
+            <button class="choice" data-key="q15" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q16 -->
+    <div id="block-q16" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">16</div>
+        <div>
+          <div class="q-title">Does the product involve ESG ratings published or distributed for <em>non-commercial purposes</em> and issued by Union institutions, bodies, offices and agencies, Member State public authorities, members of the European System of Central Banks, or by non-profit organisations (the latter only if provided free of charge)?</div>
+          <div class="warning"><strong>Warning:</strong> Where non-profit organisations charge rated items or issuers of rated items to report data or to get rated through their platform, or where they charge users of ESG ratings to access any information on ESG ratings, they shall be subject to the requirements of this Regulation.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> User of ESG ratings means a natural or legal person, a public authority, an agency or other body governed by public law, to which an ESG rating is distributed by subscription or other contractual relationships.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q16" data-val="yes">Yes</button>
+            <button class="choice" data-key="q16" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Q17 -->
+    <div id="block-q17" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">17</div>
+        <div>
+          <div class="q-title">Is the ESG product the publication or distribution of data on environmental, social and human rights, and governance factors?</div>
+          <div class="row">
+            <button class="choice" data-key="q17" data-val="yes">Yes</button>
+            <button class="choice" data-key="q17" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+        <!-- Q18 -->
+    <div id="block-q18" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">18</div>
+        <div>
+          <div class="q-title">If the ESG rating is issued by ESG rating providers established outside the Union that are not authorised or recognised under Title II, does it meet all the following conditions?</div>
+          <div class="help">a) The ESG rating is distributed at the own exclusive initiative of the user of the ESG rating established in the Union without any prior contact, solicitation, promotion, advertisement or any other initiative by the ESG rating provider, or by any third party on behalf of the provider.</div>
+          <div class="help">b) There is no substitute for the ratings offered by any ESG rating provider authorised under the Regulation (EU) 2024/3005.</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong>The ESG rating provider established outside the Union should not have a substantial market share in the Union for its ESG rating activities or should not have a website in at least one of the official languages of the Union that is not customary in international finance in order for the ESG rating to be considered as distributed at the own exclusive initiative of the user.</div>
+          <div class="warning"><strong>Warning:</strong>The own exclusive initiative of a user of ESG rating shall not entitle an ESG rating provider established outside the Union to distribute ESG ratings to that user in a recurrent manner, nor to distribute ESG ratings to any other user of ESG ratings in the Union.</div>
+          <div class="row">
+            <button class="choice" data-key="q18" data-val="yes">Yes</button>
+            <button class="choice" data-key="q18" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+            <!-- Q19 -->
+    <div id="block-q19" class="card hidden">
+      <div class="q-head">
+        <div class="q-num">19</div>
+        <div>
+          <div class="q-title">Is the ESG rating issued by an authorised ESG rating provider but is published or distributed by a third party?</div>
+          <div class="disclaimer"><strong>Disclaimer:</strong> ‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’.</div>
+          <div class="row">
+            <button class="choice" data-key="q19" data-val="yes">Yes</button>
+            <button class="choice" data-key="q19" data-val="no">No</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+    <!-- Modal shown between definition (Q5) and scope exclusions (Q6) -->
+    <div id="scopeModal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="scopeModalTitle">
+      <div class="modal">
+        <h2 id="scopeModalTitle">Definition likely met — now check regulatory scope</h2>
+        <p id="scopeModalBody"></p>
+        <div class="row">
+          <button id="modalBack" type="button">Go back</button>
+          <button id="modalContinue" type="button" style="border-color:var(--accent);">Continue to scope checks</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- RESULT -->
+    <div id="result" class="result hidden"></div>
+
+    <div id="nextsteps" class="note hidden">
+      <div class="hr"></div>
+      <strong>Indicative next steps if the product appears to be in scope:</strong>
+      <ul>
+        <li>Confirm the scope assessment against Articles 2 and 3, including any applicable exclusions.</li>
+        <li>Assess whether you are providing an ESG rating as an ESG rating provider.</li>
+        <li>Choose access route: Authorisation (Art. 4 and 6 to 8), Third-country Equivalence (Art. 10), Endorsement (Art. 11), or Recognition (Art. 12).</li>
+        <li>Prepare governance, methodology transparency and conflict-of-interest arrangements (Title III).</li>
+        <li>Check the temporary regime for small providers established in the Union (Art. 5).</li>
+      </ul>
+    </div>
+
+    <p class="note" style="margin-top:14px">
+      This tool aims to help entities self-assess whether they may fall within the scope of Regulation (EU) 2024/3005, in accordance with Articles 2 and 3 thereof. It is provided purely for information purposes, does not constitute legal or other advice, and is without prejudice to ESMA’s specific assessment of each case. Entities should not rely solely on this tool to make compliance decisions and ESMA does not assume any liability for its content.
+    </p>
+  </div>
+
+<script>
+(() => {
+  "use strict";
+
+  const state = Object.create(null);
+
+  const byId = (id) => document.getElementById(id);
+  const show = (id) => { const el = byId(id); if(el) el.classList.remove("hidden"); };
+  const hide = (id) => { const el = byId(id); if(el) el.classList.add("hidden"); };
+
+  const resultEl = byId("result");
+  const scopeModalEl = byId("scopeModal");
+  const scopeModalBodyEl = byId("scopeModalBody");
+  const modalContinueEl = byId("modalContinue");
+  const modalBackEl = byId("modalBack");
+
+  function setResult(html, cls){
+    if(!resultEl) return;
+    resultEl.className = "result " + (cls || "");
+    resultEl.innerHTML = html;
+    resultEl.classList.remove("hidden");
+  }
+
+  function clearResult(){
+    if(!resultEl) return;
+    resultEl.className = "result hidden";
+    resultEl.innerHTML = "";
+  }
+
+  const BLOCKS = [
+    "block-q2","block-q3","block-q4","block-q5",
+    "block-q6","block-q7","block-q8","block-q9","block-q10","block-q11","block-q12",
+    "block-q13","block-q14","block-q15","block-q16","block-q17",,"block-q18","block-q19","nextsteps"
+  ];
+
+  function hideAll(){
+    BLOCKS.forEach(hide);
+    if(scopeModalEl) scopeModalEl.classList.add("hidden");
+  }
+
+  function resetPressedSingle(key){
+    document.querySelectorAll('.choice[data-key="' + key + '"]').forEach((b) => b.setAttribute("aria-pressed","false"));
+  }
+
+  function clearSingle(key){
+    delete state[key];
+    resetPressedSingle(key);
+  }
+
+  function isQKey(k){
+    return typeof k === "string" && k.length > 1 && k[0] === "q" && /^[0-9]+$/.test(k.slice(1));
+  }
+
+  const DOWNSTREAM = {
+    q1: ["q1_valid","q2","q2_valid","q3","q4","q5","scopeAck","q6","q7","q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q2: ["q2_valid","q3","q4","q5","scopeAck","q6","q7","q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q3: ["q4","q5","scopeAck","q6","q7","q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q4: ["q5","scopeAck","q6","q7","q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q5: ["scopeAck","q6","q7","q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q6: ["q7","q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q7: ["q8","q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q8: ["q9","q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q9: ["q10","q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q10:["q11","q12","q13","q14","q15","q16","q17","q18","q19"],
+    q11:["q12","q13","q14","q15","q16","q17","q18","q19"],
+    q12:["q13","q14","q15","q16","q17","q18","q19"],
+    q13:["q14","q15","q16","q17","q18","q19"],
+    q14:["q15","q16","q17","q18","q19"],
+    q15:["q16","q17","q18","q19"],
+    q16:["q17","q18","q19"],
+    q17:["q18","q19"],
+    q18:["q19"],
+    q19:[]
+  };
+
+  function clearDownstream(key){
+    (DOWNSTREAM[key] || []).forEach((k) => {
+      if(k === "q1_valid" || k === "q2_valid" || k === "scopeAck"){
+        delete state[k];
+        return;
+      }
+      if(k === "q5"){
+        delete state.q5;
+        document.querySelectorAll(".q5choice").forEach((b) => b.setAttribute("aria-pressed","false"));
+        return;
+      }
+      if(isQKey(k)) clearSingle(k);
+    });
+  }
+
+  function setPressed(btn, pressed){
+    btn.setAttribute("aria-pressed", pressed ? "true" : "false");
+  }
+
+  // Q1 multi-select
+  function deriveQ1(){
+    const any = !!(state.q1_char || state.q1_risk || state.q1_imp);
+    const none = !!state.q1_none;
+
+    if(none){
+      state.q1 = "no";
+    }else if(any){
+      state.q1 = "yes";
+    }else{
+      delete state.q1;
+    }
+
+    const v = byId("validateQ1");
+    if(v) v.disabled = !(state.q1 === "yes" || state.q1 === "no");
+  }
+
+  function clearQ1Buttons(exceptNone){
+    document.querySelectorAll(".q1choice").forEach((b) => {
+      const k = b.dataset.q1;
+      if(exceptNone && k === "q1_none") return;
+      setPressed(b, false);
+      delete state[k];
+    });
+  }
+
+  document.querySelectorAll(".q1choice").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const k = btn.dataset.q1;
+      const isPressed = btn.getAttribute("aria-pressed") === "true";
+
+      clearDownstream("q1");
+      delete state.q1_valid;
+
+      if(k === "q1_none"){
+        if(isPressed){
+          setPressed(btn, false);
+          delete state.q1_none;
+        }else{
+          clearQ1Buttons(true);
+          setPressed(btn, true);
+          state.q1_none = "yes";
+        }
+      }else{
+        const noneBtn = document.querySelector('.q1choice[data-q1="q1_none"]');
+        if(noneBtn) setPressed(noneBtn, false);
+        delete state.q1_none;
+
+        if(isPressed){
+          setPressed(btn, false);
+          delete state[k];
+        }else{
+          setPressed(btn, true);
+          state[k] = "yes";
+        }
+      }
+
+      deriveQ1();
+      render();
+    });
+  });
+
+  const validateQ1Btn = byId("validateQ1");
+  if(validateQ1Btn){
+    validateQ1Btn.addEventListener("click", () => {
+      state.q1_valid = "yes";
+      render();
+      const q2 = byId("block-q2");
+      if(q2) q2.scrollIntoView({behavior:"smooth", block:"start"});
+    });
+  }
+
+  // Q2 multi-select
+  function deriveQ2(){
+    const any = !!(state.q2_pers || state.q2_ins || state.q2_prod || state.q2_auth);
+    const none = !!state.q2_none;
+
+    if(none){
+      state.q2 = "no";
+    }else if(any){
+      state.q2 = "yes";
+    }else{
+      delete state.q2;
+    }
+
+    const v = byId("validateQ2");
+    if(v) v.disabled = !(state.q2 === "yes" || state.q2 === "no");
+  }
+
+  function clearQ2Buttons(exceptNone){
+    document.querySelectorAll(".q2choice").forEach((b) => {
+      const k = b.dataset.q2;
+      if(exceptNone && k === "q2_none") return;
+      setPressed(b, false);
+      delete state[k];
+    });
+  }
+
+  document.querySelectorAll(".q2choice").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const k = btn.dataset.q2;
+      const isPressed = btn.getAttribute("aria-pressed") === "true";
+
+      clearDownstream("q2");
+      delete state.q2_valid;
+
+      if(k === "q2_none"){
+        if(isPressed){
+          setPressed(btn, false);
+          delete state.q2_none;
+        }else{
+          clearQ2Buttons(true);
+          setPressed(btn, true);
+          state.q2_none = "yes";
+        }
+      }else{
+        const noneBtn = document.querySelector('.q2choice[data-q2="q2_none"]');
+        if(noneBtn) setPressed(noneBtn, false);
+        delete state.q2_none;
+
+        if(isPressed){
+          setPressed(btn, false);
+          delete state[k];
+        }else{
+          setPressed(btn, true);
+          state[k] = "yes";
+        }
+      }
+
+      deriveQ2();
+      render();
+    });
+  });
+
+  const validateQ2Btn = byId("validateQ2");
+  if(validateQ2Btn){
+    validateQ2Btn.addEventListener("click", () => {
+      state.q2_valid = "yes";
+      render();
+      const q3 = byId("block-q3");
+      if(q3) q3.scrollIntoView({behavior:"smooth", block:"start"});
+    });
+  }
+
+  // Single-select (Yes/No)
+  function onChoiceClick(btn){
+    const key = btn.dataset.key;
+    const val = btn.dataset.val;
+
+    resetPressedSingle(key);
+    btn.setAttribute("aria-pressed","true");
+
+    clearDownstream(key);
+    state[key] = val;
+
+    render();
+  }
+
+  document.querySelectorAll(".choice").forEach((btn) => btn.addEventListener("click", () => onChoiceClick(btn)));
+
+  // Q5 ticker (radio)
+  document.querySelectorAll(".q5choice").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      clearDownstream("q5");
+      document.querySelectorAll(".q5choice").forEach((b) => b.setAttribute("aria-pressed","false"));
+      btn.setAttribute("aria-pressed","true");
+      state.q5 = btn.dataset.q5; // a | b | c
+      render();
+    });
+  });
+
+  function modalCopyForQ5(sel){
+    if(sel === "a"){
+      return "Based on the information you have provided, the product may be deemed to fall within the definition of an <span class=\"ref\">ESG rating</span>, characterised as an  <span class=\"ref\">opinion</span> pursuant to Article 3. ";
+    }
+    if(sel === "b"){
+      return "Based on the information you have provided, the product may be deemed to fall within the definition of an  <span class=\"ref\">ESG rating</span>, characterised as a  <span class=\"ref\">score</span> pursuant to Article 3. ";
+    }
+    if(sel === "c"){
+      return "Based on the information you have provided, the product may be deemed to fall within the definition of an  <span class=\"ref\">ESG rating</span>, characterised as a  <span class=\"ref\">combination of an opinion and a score</span> pursuant to Article 3. ";
+    }
+    return "Based on your answers, the product may fit the definition of an ESG rating (Article 3). ";
+  }
+
+  function setScopeModalBody(){
+    const lead = modalCopyForQ5(state.q5);
+    const tail = "The next step is to assess whether it is <span class=\"ref\">in scope of the Regulation</span> or whether a <span class=\"ref\">scope exclusion</span> applies (Article 2(2)).";
+    if(scopeModalBodyEl) scopeModalBodyEl.innerHTML = lead + tail;
+  }
+
+  // Modal
+  if(modalContinueEl){
+    modalContinueEl.addEventListener("click", () => {
+      state.scopeAck = "yes";
+      if(scopeModalEl) scopeModalEl.classList.add("hidden");
+      render();
+      const q6 = byId("block-q6");
+      if(q6) q6.scrollIntoView({behavior:"smooth", block:"start"});
+    });
+  }
+
+  if(modalBackEl){
+    modalBackEl.addEventListener("click", () => {
+      if(scopeModalEl) scopeModalEl.classList.add("hidden");
+      const last = byId("block-q5");
+      if(last) last.scrollIntoView({behavior:"smooth", block:"start"});
+      delete state.scopeAck;
+    });
+  }
+
+  if(scopeModalEl){
+    scopeModalEl.addEventListener("click", (e) => {
+      if(e.target === scopeModalEl) scopeModalEl.classList.add("hidden");
+    });
+  }
+
+  function render(){
+    hideAll();
+    clearResult();
+
+    // Q1 outcome
+    if(state.q1 === "no"){
+      setResult("<strong>Not an ESG rating (indicative) – Article 3(1):</strong> The product does not regard a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors.", "ex");
+      return;
+    }
+    if(!state.q1) return;
+    if(state.q1_valid !== "yes") return;
+
+    // Q2
+    show("block-q2");
+    if(state.q2 === "no"){
+      setResult("<strong>Not an ESG rating (indicative) – Article 3(1):</strong> The product does not regard any legal person, financial instrument, financial product, public authority or body governed by public law.", "ex");
+      return;
+    }
+    if(!state.q2) return;
+    if(state.q2_valid !== "yes") return;
+
+    // Q3
+    show("block-q3");
+    if(state.q3 === "no"){
+      setResult("<strong>Not an ESG rating (indicative) – Article 3(1):</strong> The ESG product does not appear to be produced on the basis of an established methodology.", "ex");
+      return;
+    }
+    if(!state.q3) return;
+
+    // Q4
+    show("block-q4");
+    if(state.q4 === "no"){
+      setResult("<strong>Not an ESG rating (indicative) – Article 3(1):</strong> The ESG product does not appear to be produced on the basis of a defined ranking system of rating categories.", "ex");
+      return;
+    }
+    if(!state.q4) return;
+
+    // Q5
+    show("block-q5");
+    if(!state.q5) return;
+
+    // Modal after Q5 (based on selection a/b/c)
+    if(state.scopeAck !== "yes"){
+      setScopeModalBody();
+      if(scopeModalEl) scopeModalEl.classList.remove("hidden");
+      return;
+    }
+
+    // Scope exclusions
+    show("block-q6");
+    if(state.q6 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(a):</strong> Private ESG ratings are not in scope of the Regulation.", "ex");
+      return;
+    }
+    if(!state.q6) return;
+
+    show("block-q7");
+    if(state.q7 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(b):</strong> ESG ratings issued by regulated financial undertakings in the Union and used exclusively for internal purposes or for providing in-house or intragroup financial services or products are not in scope.", "ex");
+      return;
+    }
+    if(!state.q7) return;
+
+    show("block-q8");
+    if(state.q8 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(c):</strong> ESG ratings incorporated in already regulated products/services under Union Law (and disclosed to third parties) are not in scope.", "ex");
+      return;
+    }
+    if(!state.q8) return;
+
+    show("block-q9");
+    if(state.q9 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(f):</strong> Credit ratings (and ESG-related scores or assessments that are produced or published as part of the methodologies for credit ratings) are not in scope.", "ex");
+      return;
+    }
+    if(!state.q9) return;
+
+    show("block-q10");
+    if(state.q10 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(g):</strong> Products or services that incorporate an element of an ESG rating are not in scope.", "ex");
+      return;
+    }
+    if(!state.q10) return;
+
+    show("block-q11");
+    if(state.q11 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(h):</strong> External reviews of European Green Bonds are not in scope.", "ex");
+      return;
+    }
+    if(!state.q11) return;
+
+    show("block-q12");
+    if(state.q12 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(i):</strong> External reviews or second-party opinions on bonds marketed as environmentally sustainable, sustainability-linked bonds, and bonds, loans and other types of debt instruments marketed as sustainable (to the extent that such external reviews and second-party opinions do not contain ESG ratings issued by the external reviewer or the second-party opinion provider) are not in scope.", "ex");
+      return;
+    }
+    if(!state.q12) return;
+
+    show("block-q13");
+    if(state.q13 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(m):</strong> Mandatory disclosures pursuant to Articles 6, 8, 9, 10, 11 and 13 of Regulation (EU) 2019/2088 are not in scope.", "ex");
+      return;
+    }
+    if(!state.q13) return;
+
+    show("block-q14");
+    if(state.q14 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(n):</strong> Disclosures pursuant to Articles 5, 6 and 8 of Regulation (EU) 2020/852 are not in scope.", "ex");
+      return;
+    }
+    if(!state.q14) return;
+
+    show("block-q15");
+    if(state.q15 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(o)–(p):</strong> Products developed exclusively for certification/accreditation processes which do not target investment or financial analysis/decision-making, or labelling activities are not in scope.", "ex");
+      return;
+    }
+    if(!state.q15) return;
+
+    show("block-q16");
+    if(state.q16 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(j)(l)(q):</strong> Publication/distribution by Union institutions, Member State public authorities, members of the ESCB, and non-profit organisations for non-commercial purposes is not in scope.", "ex");
+      return;
+    }
+    if(!state.q16) return;
+
+    show("block-q17");
+    if(state.q17 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(e):</strong> Publication or distribution of data on ESG factors is not in scope.", "ex");
+      return;
+    }
+    if(!state.q17) return;
+    
+   show("block-q18");
+    if(state.q18 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(d):</strong> ESG ratings issued by ESG rating providers established outside the Union that are not authorised or recognised under Title II and that meet the above mentioned conditions are not in scope.", "ex");
+      return;
+    }
+    if(!state.q18) return;
+    
+    show("block-q19");
+    if(state.q19 === "yes"){
+      setResult("<strong>Out of scope (indicative) – Article 2(2)(k):</strong> ESG ratings issued by an authorised ESG rating provider where such ratings are published or distributed by a third party are not in scope.", "ex");
+      return;
+    }
+    if(!state.q19) return;
+
+    setResult("<strong>Likely in scope (indicative):</strong> The product appears to meet the definition of an ESG rating (Article 3) and no scope exclusion appears to apply (Article 2(2)).", "in");
+    show("nextsteps");
+  }
+
+  function runTests(){
+    const mustExist = [
+      "block-q1","block-q2","block-q3","block-q4","block-q5",
+      "block-q6","block-q7","block-q8","block-q9","block-q10","block-q11","block-q12","block-q13","block-q14","block-q15","block-q16","block-q17","block-q18","block-q19",
+      "validateQ1","validateQ2","result","scopeModal","modalContinue","modalBack","scopeModalBody"
+    ];
+    mustExist.forEach((id) => console.assert(!!byId(id), `Missing element id: ${id}`));
+
+    // Unique ID check
+    const ids = Array.from(document.querySelectorAll("[id]")).map((el) => el.id);
+    const dup = ids.filter((id, i) => ids.indexOf(id) !== i);
+    console.assert(dup.length === 0, `Duplicate ids found: ${dup.join(", ")}`);
+  }
+
+  deriveQ1();
+  deriveQ2();
+  runTests();
+  render();
+})();
+</script>
+</body>
+</html>

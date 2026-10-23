@@ -1,0 +1,44 @@
+SOURCE: Obligation to consider issuer feedback
+REFERENCE: ESMA_QA_2716
+DATE: 2025-12-11
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2716
+FILE: sources/QA_2716.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2716
+
+11/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Obligation to consider issuer feedback
+
+ Original question
+
+Is an ESG rating provider obliged to take onboard comments provided pursuant to Article 15(12)?
+
+ESMA Answer
+
+11-12-2025
+
+ Original language
+
+No. Article 15(12) grants the rated item or the issuer an opportunity to inform the provider of potential factual errors prior to issuance; it does not create an obligation to amend the rating. However, the provider should carefully consider any comments received prior to issuance and retains responsibility for ensuring the quality and reliability of the rating. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+48-hour rule

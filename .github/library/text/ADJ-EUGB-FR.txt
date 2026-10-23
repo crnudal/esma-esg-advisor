@@ -1,0 +1,2962 @@
+SOURCE: ESMA Final Report - Technical Standards under EuGB (external reviewers)
+REFERENCE: ESMA84-858037815-195
+DATE: 2025-02
+URL: https://www.esma.europa.eu/sites/default/files/2025-02/ESMA84-858037815-195_Final_Report_on_Technical_Standards_under_EuGB.pdf
+FILE: sources/ADJ_ESMA_2025-02_Final_Report_EuGB_RTS.pdf
+
+                                                                                                           14 February 2025
+                                                                                                      ESMA84-858037815-195
+
+
+
+
+Final Report
+Technical Standards on the European Green Bonds Regulation
+
+
+
+
+ESMA - 201-203 rue de Bercy - CS 80910 - 75589 Paris Cedex 12 - France - Tel. +33 (0) 1 58 36 43 21 - www.esma.europa.eu   2
+                                                                                                                  14 February 2025
+                                                                                                             ESMA84-858037815-195
+
+
+
+
+Table of Contents
+1     Executive Summary .................................................................................................... 4
+2     Overview of the Final Report ....................................................................................... 5
+    2.1     Background .......................................................................................................... 5
+    2.2     Public consultation process .................................................................................. 5
+    2.3     Feedback statement ............................................................................................. 6
+      2.3.6        Cost-benefit analysis ................................................................................... 23
+      2.3.7        Additional comments ................................................................................... 24
+3     Annexes .................................................................................................................... 26
+    3.1     Annex I – Summary of questions ........................................................................ 26
+    3.2     Annex II – Legislative mandate to develop technical standards .......................... 27
+    3.3     Annex III – Cost-benefit analysis ........................................................................ 30
+    3.4     Annex IV – Advice of the Proportionality and Coordination Committee ............... 39
+    3.5     Annex V – Final draft technical standards .......................................................... 43
+                                                                                  14 February 2025
+                                                                             ESMA84-858037815-195
+
+
+
+
+1 Executive Summary
+Reasons for publication
+
+Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November
+2023 on European Green Bonds and optional disclosures for bonds marketed as
+environmentally sustainable and for sustainability-linked bonds was published in the Official
+Journal of the European Union on 30 November 2023. The Regulation empowers the
+European Securities and Markets Authority (ESMA) to develop regulatory technical
+standards (RTS) and implementing technical standards (ITS) specifying certain of its
+provisions for external reviewers.
+
+On 26 March 2024, ESMA published a Consultation Paper (CP) on the proposed draft
+technical standards on senior management requirements and analytical resourcing, sound
+and prudent management, analytical knowledge, and experience, outsourcing of
+assessment activities and forms, templates and procedures for registration. The public
+consultation closed on 14 June 2024. During this period, ESMA sought the advice of the
+Securities and Markets Stakeholder Group (SMSG) and received recommendations from
+the Proportionality and Coordination Committee (PCC). This Final Report includes the
+revised draft RTS and ITS developed taking into account all the feedback received.
+
+Further information on the rationale for the draft technical standards can be found in the CP.
+
+Contents
+
+The main body of this Final Report (section 2) summarises the contributions received to the
+consultation conducted by ESMA and explains how this feedback has been considered in
+developing the revised technical standards.
+
+Annex I sets out the list of questions contained in the CP.
+
+Annex II displays the legislative mandates to develop the draft technical standards.
+
+Annex III presents the cost-benefit analysis related to the draft technical standards.
+
+Annex IV sets forth the advice of the PCC.
+
+Annex V lays out the full text of the final draft RTS and ITS.
+
+Next Steps
+
+ESMA has submitted the draft regulatory and implementing standards to the European
+Commission for adoption by means of a Commission Delegated Regulation (for RTS) and
+                                                                                                     14 February 2025
+                                                                                                ESMA84-858037815-195
+
+
+
+
+    a Commission Implementing Regulation (for ITS). The technical standards will also be
+    subject to non-objection by the European Parliament and Council.
+
+
+
+2 Overview of the Final Report
+
+2.1 Background
+     1. The Regulation on European Green Bonds (‘EuGB Regulation’) entered into force on
+        21 December 2023.
+
+     2. This Final Report contains the technical standards for delivery to the European
+        Commission by 21 December 2024. These technical standards cover the
+        empowerments for ESMA to develop regulatory technical standards under Articles
+        23(6), 27(2), 28(1), 33(7) and the implementing technical standard under Article 23(7)
+        of the EuGB Regulation. These technical standards relate to various aspects of the
+        external reviewer regime, notably to: (i) the criteria to be assessed relating to senior
+        management, board members and analytical resources; (ii) the criteria to assess sound
+        and prudent management and management of conflicts of interest; (v) the criteria
+        applicable to outsourcing of assessment activities; and (v) the standard forms, templates
+        and procedures for the provision of registration information.
+
+
+2.2 Public consultation process
+
+     3. On 26 March 2024, ESMA published a CP on 4 draft RTS and one draft ITS in order to
+        explain the rationale underlying its proposals and gather input from stakeholders. The
+        12-week public consultation closed on 14 June 2024.
+
+     4. ESMA received a total of 21 responses (6 of which confidential) from audit, accounting
+        and assurance service providers (12), external reviewers and second-party opinion
+        (SPO) providers (3), testing, inspection and certification assessment bodies (3), credit
+        rating agencies (2) and respective associations, as well as from one trade association
+        in the capital markets industry (1). The 15 non-confidential contributions are available
+        on ESMA’s website.
+
+     5. In line with Article 10 of the ESMA Founding Regulation1, ESMA consulted the SMSG
+        on the proposed draft technical standards. The SMSG deliberated not to provide
+        technical advice to ESMA on the draft RTS/ITS.
+
+     6. Additionally, the PCC has, on its own initiative, submitted to ESMA formal advice on the
+        draft RTS/ITS. While not addressing any of the consultation questions specifically, the
+
+
+1
+ Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+Supervisory Authority (European Securities and Markets Authority).
+                                                                                     14 February 2025
+                                                                                ESMA84-858037815-195
+
+
+
+
+      PCC has provided recommendations on ESMA’s proposals, with a focus on
+      proportionality-related aspects of the supervisory mandate. The advice of the PCC is
+      presented in Annex IV.
+
+  7. The feedback statement summarises the main aspects raised in responses to the CP
+     and demonstrates how these contributions, together with the PCC advice, have been
+     taken into account in developing the final draft technical standards.
+
+
+2.3 Feedback statement
+
+  8. Respondents to the CP were broadly in support of ESMA’s proposals to specify the
+     criteria set out in the provisions of the EuGB Regulation on the external reviewer regime.
+
+  9. Proposals for amendments to the draft technical standards were mainly focused on
+     questions of proportionality, administrative burden and costs of compliance for external
+     reviewers, with a view to alleviating possible entry barriers for entities wishing to join the
+     market. In addition, some respondents chose to highlight the importance of more clearly
+     specifying the criteria that external reviewers should meet under certain draft RTS and
+     that such a change would ensure a closer alignment with the letter of the legal
+     empowerments of the relevant articles.
+
+  10. Based on this feedback, ESMA has made a number of revisions to the content and
+      structure of the draft RTS/ITS while keeping to the extent possible the substance and
+      concepts contained within the consultation paper. The most notable change is the
+      merging of the technical standard under Article 28(1) into the RTS under Article 23(6).
+      The rationale and justification for this merger is explained in section 2.3.1 of this
+      document. ESMA would also highlight that the effect of a number of these changes has
+      been to reduce the burden of reporting requirements proposed by the draft RTS, with
+      all reporting requirements now removed from the draft RTS and placed within the ITS
+      under Article 23(7).
+
+2.3.1 RTS on criteria to be assessed relating to senior management and members of
+      the board, as well as analysts, employees and other persons directly involved
+      in assessment activities, Article 23(6) – Questions 1 and 2
+
+ Q1: Do you agree with ESMA’s proposals to specify the criteria to assess the sufficiently
+ good repute, skill, professional qualifications and experience of senior management and
+ members of the board of an external reviewer?
+
+ Q2: Do you agree with ESMA’s proposals to specify the criteria to assess the sufficiency of
+ the number of analysts, employees and persons directly involved in the assessment
+ activities and of their level of knowledge, experience and training?
+                                                                                    14 February 2025
+                                                                               ESMA84-858037815-195
+
+
+
+
+11. Several respondents raised concerns over the level of detail of the information required
+    at registration under the RTS, in particular those already subject to requirements from
+    parallel regulatory frameworks (e.g. CRA Regulation) addressing the fitness and
+    propriety of senior management and board members.
+
+12. Two other contributions highlighted that members of the board of external reviewers
+    engaging in other services may have little or no specialist knowledge of European Green
+    Bonds. Therefore, they propose that only good repute and managerial skills are
+    assessed by ESMA at registration. Similarly, two other respondents highlighted that
+    board members should not be required to have sustainable finance expertise, as they
+    are not expected to have the same level of experience in undertaking technical
+    assessments as analytical staff.
+
+13. One respondent shared its appreciation for ESMA’s acknowledgement in Article 3(4) of
+    the RTS that the senior management and board should possess a “collective”
+    understanding of the activities of external reviewers, in addition to the suitability
+    requirements on an individual basis.
+
+14. On the criteria proposed by ESMA to assess good repute, one respondent stated that
+    requesting a criminal record (Article 2(a) and a self-declaration of fitness and propriety
+    (Article 2(b) seemed excessively burdensome. Another respondent added that
+    submitting a criminal record file may not be legally permitted in certain cases and
+    jurisdictions.
+
+15. Moreover, three respondents expressed their reservations over the need for external
+    reviewers to perform a separate self-assessment of skill of its senior management and
+    board members, under Article 4 of the draft RTS, on the basis of high costs, limited
+    added value vis-à-vis information already provided to ESMA and the limited expertise
+    of senior management in technical disciplines, especially in the case of multidisciplinary
+    firms. One of these contributions requested more clarity on the process of assessing
+    skill in general. One respondent also stated that the evaluation of the collective suitability
+    prescribed in Article 4(2) was excessive and even going beyond the requirements of the
+    more stringent regulatory framework for credit rating agencies.
+
+16. Four respondents proposed to differentiate between the members of senior
+    management and the board who are responsible for overseeing the business segment
+    responsible for external review activities and those who are not, for the purpose of
+    information to be provided at registration, so as to reduce the administrative burden of
+    applicants.
+
+17. Two respondents claimed that the definition and boundaries between senior
+    management and board members, for the purpose of the RTS, were not clear.
+
+18. One respondent recommended that ESMA consider the different nature of fines (i.e.
+    criminal, administrative) and possibly include a time-barring on historical fines, subject
+                                                                                    14 February 2025
+                                                                               ESMA84-858037815-195
+
+
+
+
+    to the applicant providing information as to how the infringement in question was
+    remediated.
+
+19. One respondent disagreed with the applicability of the RTS to external reviewers
+    intending to provide their services during the transitional period, citing proportionality
+    and practicality concerns.
+
+20. One respondent proposed amending Article 2(b)(v) so that disclosures are only required
+    where a fitness and propriety assessment of a regulatory body has led to a negative
+    outcome, based on the principle of presumption of innocence.
+
+21. One respondent has provided targeted amendments to trim down Article 2(b)(iii) (“has
+    been part of the senior management or board of an undertaking whose registration or
+    authorisation was withdrawn by a regulatory authority”) and Article 2(c) (“a self-
+    declaration where each member of the senior management and board of an external
+    reviewer declares whether he, or she have or have had any relationships, positions or
+    involvement that could, directly or indirectly, affect the interests of an external reviewer
+    and the integrity of its assessment activities”), in order to lessen the burden of
+    information requirements for applicants.
+
+22. One contribution suggested adding a reference in Article 2 to “relevant registered entity”
+    and, in Article 2(b)(ii), to replace “business” with “legal entity”, to provide greater clarity
+    on the applicable requirements.
+
+23. Finally, one respondent suggested the addition of “sustainability services” to the list of
+    relevant activities set out in Article 3(3), for the purposes of ascertaining the level of
+    experience of members of senior management and the board. In relation to the
+    proposed elements for assessment under Article 5(c), two respondents highlighted the
+    difficulty of estimating the duration of an external review, given the variation based on
+    the complexity of each issuance. Likewise, five respondents stated the same in relation
+    to the number of assessments to be allocated per employee in the forthcoming 12-
+    month period, given market players’ current inability to forecast the number of European
+    Green Bond issuances.
+
+24. Another respondent stressed the difficulty for both ESMA and external reviewers to
+    predict an accurate expected number of analysts, employees and people directly
+    involved in the assessment activities, claiming this would fluctuate on a case-by-case
+    basis. Another response stressed the difficulty in anticipating the size and skill level of
+    analytical teams before knowing the precise client needs.
+
+25. One contribution claimed that requiring an assessment of professional qualifications,
+    skills and expertise, the estimation of the duration of any activities performed by
+    employees and the submission of development plans, would significantly increase costs
+    of compliance and diminish the competitive advantage of smaller SPO-specialized
+    players within the market.
+                                                                                  14 February 2025
+                                                                             ESMA84-858037815-195
+
+
+
+
+26. Two respondents recommended a shift in the approach of ESMA’s assessment from
+    individual to the collective suitability of the analytical function. For instance, having
+    external reviewers satisfy the sufficient knowledge and experience requirement through
+    the demonstration of a robust firm-level training and development plan.
+
+27. One respondent claimed that requesting information from all employees of an entire
+    analytical department, including junior analysts, instead of key personnel only, is
+    unjustifiably onerous.
+
+28. A few respondents raised the prospect that ESMA may not have entirely fulfilled the
+    mandate of Article 23(6) of the EuGB Regulation by failing to clearly specify in the RTS
+    what can be considered as employing a “sufficient” number of analysts or what can be
+    considered as possessing “sufficient” knowledge.
+
+29. One contribution proposed assessing the sufficiency of analysts in context of the size of
+    the activities of the company in the space of green bonds and the collective capabilities
+    of analytical personnel, rather than assessing these separately for each individual
+    employee.
+
+30. One contribution highlighted the need for further clarity on a few aspects of the
+    assessment in Article 5. For instance, at which point the measurement of the number of
+    employees should take place (average over a year, end of the year in question, etc) and
+    whether the assessment in Article 5(c) applies annually or only to the initial year of
+    registration. Another respondent raised a question on the intended frequency of
+    submission of information on the composition of analytical teams following registration,
+    stating that it is unclear whether this should be an annual update or more frequent. In
+    this regard, another respondent highlighted that, in light of the nascent nature of the
+    market for external reviews, the substance and form of relevant training is evolving
+    rapidly. As such, providing ongoing updates to ESMA on the changing content of training
+    and development plans for analysts (Article 6(d) would be unpractical.
+
+31. In relation to Article 6, one respondent suggested that ESMA limits the period for which
+    the information is required or limits the information to an individual’s relevant experience
+    only, so as to reduce the burden of the assessment for external reviewers with limited
+    resources.
+
+32. One contribution questioned the compatibility of ESMA’s required information on
+    individual employees with EU data protection and privacy laws. Similarly, another
+    response expressed concerns over analysts potentially proving reluctant to allow for
+    their personal and professional information to be shared with ESMA.
+
+33. One respondent suggested the addition of “sustainability services” to the list of relevant
+    activities set out in Article 6(2) for the purposes of ascertaining the level of knowledge,
+    experience and training of analysts.
+                                                                                 14 February 2025
+                                                                            ESMA84-858037815-195
+
+
+
+
+34. The PCC drew attention to the possible over-prescriptiveness of the RTS on two
+    occasions. In Article 5(c), it recommended the removal of the 12-month business outlook
+    per employee. In Article 6(2), it suggested the inclusion of a prepositional phrase like
+    “such as” to clarify that the list of relevant activities for the purposes of assessing the
+    knowledge and experience of analytical staff in Article 6(2) merely illustrative.
+
+35. ESMA Response: ESMA has revised the draft RTS under Article 23(6) in order to take
+    these comments and a number of related issues into account. This process has involved
+    restructuring the proposed draft RTS in three ways (i) to more closely align the text with
+    the wording of the empowerment (ii) to reduce overlap and duplication with the RTS
+    under Article 28(3) and (iii) to address a number of specific comments provided by
+    respondents. One of the main drivers of the change under points (i) and (ii) is to ensure
+    that this RTS can function as both a level 2 measure facilitating registration, but that it
+    can also function as a level 2 measure that external reviewers must comply with on an
+    ongoing basis, as required by Article 22(2) of the regulation.
+
+36. With regards to the first change, the revised RTS now specifies the criteria against which
+    senior management and members of the board will be assessed in order to judge
+    whether they are of good repute and possess sufficient skill, professional qualifications
+    and relevant experience. The proposed approach is that the criteria set out in paragraph
+    1 of Articles 1 and 2 will be assessed according to the information that is listed in
+    paragraph 2 of Articles 1 and 2. ESMA considers that this revision will provide greater
+    clarity to applicants with regards to the criteria their applications will be assessed
+    against.
+
+37. For the second change, the revised draft RTS has now integrated the process of
+    assessment that was required under the separate RTS under Article 28(3). The purpose
+    of this is to remove overlap and duplication among the level 2 measures under the
+    regulation. The reason for the change is that the RTS under Article 23(7) is already
+    specifying the criteria for determining the adequacy of the number of analysts and other
+    employees involved in the assessment activities as well as the sufficiency of their
+    knowledge, experience and training. As a result ESMA considered it important to avoid
+    overlap and duplication between what was required of external reviewers under both
+    RTS. With the revised approach, it is now proposed that external reviewers carry out a
+    single assessment, via the RTS under Article 23(6) and that this assessment will also
+    suffice for demonstrating compliance with the requirements of Article 28(1), thereby
+    removing the need for a separate RTS under Article 28(3).
+
+38. For the third change, a number of refinements to address the comments and input
+    received during the consultation have been made, in this regard ESMA has:
+
+    •   Integrated the information required on an individual’s previous criminal convictions
+        into the self-declaration set out in Article 2(b), when such official records are not
+        available in a given jurisdiction.
+                                                                                               14 February 2025
+                                                                                          ESMA84-858037815-195
+
+
+
+
+          •   Decided to revise Article 2(b)(v) (now Article 1(b)(v)) to only require the disclosure
+              of previous fitness and propriety assessments resulting in negative or conditional
+              decisions
+
+          •   Opted to simplify the conflicts of interest self-declaration contained in Article 2(c)
+              (now Article 1(c)), by eliminating the reference to “close relatives”.
+
+          •   Removed the requirement for external reviewers to perform a standalone skill
+              assessment of its senior management and board members as foreseen by the
+              previous Article 4 and incorporated this into the criteria for assessing professional
+              qualifications and relevant experience under the revised Article 2.
+
+          •   Removed from Article 5 (now Article 3) information requirements on the roles,
+              assigned headcount, other tasks or expected allocation of analysts and assessment
+              activities planned to be outsourced, as it expects to largely receive these points
+              from other sources (for instance, as part of the registration pack listed in Article
+              23(1) of the EuGB Regulation).
+
+2.3.2 RTS on criteria to assess sound and prudent management and management of
+      conflicts of interest Article 27(2) – Questions 3 and 4
+
+    Q3: Do you agree with ESMA’s proposals to specify the criteria to assess the sound and
+    prudent management of the external reviewer?
+
+    Q4: Do you agree with ESMA’s proposals to specify the criteria to assess that any actual or
+    potential conflicts of interest are properly identified, eliminated or managed, and disclosed
+    in a transparent manner by the external reviewer?
+
+     39. Respondents generally agreed with ESMA’s proposals on the sound and prudent
+         management of external reviewers.
+
+     40. One respondent questioned the added value of requiring the policies, procedures, terms
+         of reference and meeting minutes of all committees established across the organization
+         (Article 2), as well as the identities of staff (Article 3(1) not involved in external review-
+         related activities. Similarly, five other respondents highlighted that disseminating
+         meeting minutes outside the organisation may raise confidentiality and data protection
+         concerns, as it is likely that these contain commercially sensitive and legally protected
+         information.
+
+     41. Four contributions questioned the relevance of requesting information on external
+         reviewers’ disaster recovery arrangements 2 , claiming such information would be far
+
+
+
+2
+ Section 4.2, p. 23(b), Consultation Paper - Technical Standards on the European Green Bond Regulation, ESMA84-
+2037069784-2116.
+                                                                                 14 February 2025
+                                                                            ESMA84-858037815-195
+
+
+
+
+   more relevant for regulated financial institutions. Furthermore, one respondent
+   underlined that it is unclear what information should be provided to ESMA on the
+   administrative and accounting procedures of external reviewers (Article 3).
+
+42. One respondent noted that the reference to the internal control framework in Article 4 is
+    potentially ambiguous, as it could refer to the firm-wide internal control framework or
+    solely to those internal controls pertaining to the relevant business segment responsible
+    for external reviews. Another contribution noted that corporate governance and internal
+    control frameworks can vary considering the nature and corporate structure of the
+    external reviewer.
+
+43. While expressly supporting the reference to the proportionality of internal control
+    mechanisms in Article 4(2) (more concretely, “the adequacy of the implemented internal
+    control mechanisms to the nature, scale and complexity of the external reviewer"), one
+    respondent indicated that further guidance from ESMA on how the assessment should
+    be conducted would be useful.
+
+44. One contribution requested a clarification on the concept of “sound and prudent
+    management” in the context of external reviewers. Two other respondents added that
+    the term “governance bodies” could be further specified, as entities may have different
+    interpretations.
+
+45. One respondent suggested amendments to Article 3(1) to target the information to be
+    provided by the external reviewer only to employees holding significant roles.
+
+46. Under Article 5(2)(a), one respondent questioned the added value of requiring the board
+    to formally approve the conflicts of interest policy, stressing that what should be
+    materially required of the board is the oversight over the policy.
+
+47. Respondents generally supported ESMA’s propositions on the conflicts of interest
+    framework of external reviewers.
+
+48. One respondent, however, criticised ESMA’s approach of requesting detailed
+    information from applicants, instead of setting its own supervisory expectations in the
+    RTS through a standardised set of requirements for external reviewers to comply with.
+
+49. One respondent particularly welcomed ESMA’s proposal to extend the framework to
+    potential - in addition to actual - conflicts of interest. Conversely, another respondent
+    stated it would be inappropriate to draw up a list of potential conflicts of interest, as
+    external reviewers would be unaware, at the date of submission, who their future clients
+    will be. Similarly, one respondent questioned the utility of drawing up a prescriptive list
+    of “potential” scenarios as per Article 5(4), instead recommending that the focus of the
+    RTS should be on putting in place robust policies and procedures. One respondent also
+    claimed that submitting an inventory of conflicts of interest may involve releasing
+    commercially sensitive information and breaching client confidentiality. In this regard,
+                                                                                 14 February 2025
+                                                                            ESMA84-858037815-195
+
+
+
+
+   other respondents pointed out that they expect conflicts of interest to arise on a project-
+   by-project basis, rendering it impossible to disclose these ex-ante.
+
+50. One contribution suggested the setting up of an ongoing process by ESMA for external
+    reviewers to submit updates on their changing policies and procedures and
+    organisational information.
+
+51. One response suggested that, in order to minimize workload, ESMA leverage on
+    existing available information from existing accreditations, such as transparency reports
+    of Public Interest Entities (PIE) audit firms, instead of requiring additional reporting
+    obligations.
+
+52. One contribution requested the clarification of the term “reporting mechanisms” for the
+    purposes of disclosure of conflicts of interest, as per Article 5(4)(b).
+
+53. The PCC pointed out that, under the RTS, the conflicts of interest policy is an inherent
+    part of the external reviewer’s internal control mechanism. By way of logic, it should then
+    also be governed by the proportionality principle set out in Article 4(2), a point which is
+    not clarified in the wording of Article 5.
+
+54. ESMA response: ESMA has revised the draft RTS under Article 27(2) in order to take
+    account of these comments and address a number of issues related to those which
+    were also addressed in the RTS under Article 23(7). This process has involved
+    simplifying the structure of the RTS to place a greater emphasis on the criteria that will
+    be assessed for the purpose of sound and prudent management and conflicts of
+    interest, rather than what information should be provided to ESMA at time of registration.
+
+55. In ESMA’s view this revised approach will provide greater clarity for external reviewers
+    as to how ESMA will assess their adherence to the requirements of Article 27(1)(a) and
+    (c) on an ongoing basis, while at the same time providing clarity as to what records
+    external reviewers will be required to maintain, which should be available to ESMA at
+    time of registration. Concretely, the revised RTS now includes an Article that specifies
+    criteria for the sound and prudent management of the external reviewer, and another
+    Article specifying the criteria for the management of conflicts of interest within the
+    external reviewer.
+
+56. For the sound and prudent management of the external reviewer, Article 1 of the RTS
+    sets out the elements (under points (a)-(g) that an external reviewer is required to fulfil
+    in order to ensure compliance with Article 27(1)(a). The approach here is to specify that
+    an external reviewer must have in place a number of internal safeguards such as sound
+    corporate governance arrangements, a robust internal control framework, and
+    comprehensive organisational arrangements to ensure continuity and regularity of
+    operations, amongst others. For the specific element of the ‘internal control framework’
+    the RTS goes into greater detail as to what is expected from an external reviewer under
+    this point.
+                                                                                   14 February 2025
+                                                                              ESMA84-858037815-195
+
+
+
+
+57. For the management of conflicts of interest Article 2 of the RTS sets out the elements
+    (under points (a)-(c)) that an external reviewer is required to fulfil to ensure compliance
+    with the requirements of Article 27(1)(c). The approach here is to specify that an external
+    reviewer must have in place the elements listed in points (a)-(g) of Article 2, which
+    includes elements such as a conflicts of interest policy, an appropriate and effective
+    compliance process for monitoring the policy and an inventory of actual or potential
+    conflicts of interest, amongst other elements.
+
+58. With this revised approach the RTS simplifies the approach of the initial proposed draft
+    RTS, and ensures that for Article 27(1)(a) and (c), it is clear what is expected from an
+    external reviewer under EuGB Regulation.
+
+59. Beyond these changes ESMA would also like to clarify the following elements in
+    response to comments made during the consultation:
+
+•   ESMA considers that the inventory of conflicts of interest is meant to serve as a record
+    of actual and potential scenarios in which a conflict of interest could occur (one of which
+    could be, for instance, “an analyst terminates his/her employment and joins a client”)
+    and respective mitigation strategies (using the same example, “sample-based review
+    of last 6 months of analytical work to identify instances of nonindependence”). As such,
+    ESMA does not expect the disclosure of concrete events or specific client details. It is
+    important to reinforce the utility of such a tool in transparently identifying and tracking
+    possible threats to independence, thereby reducing the likelihood of their occurrence
+    and the magnitude of their impact. Furthermore, ESMA would like to underline the
+    importance of identifying potential conflicts of interest to an external reviewer’s conflicts
+    of interest management framework. This will contribute towards the identification of
+    unrealised conflicts of interest before they escalate into actual conflicts.
+
+•   ESMA considers that nothing stops external reviewers from using information or
+    documentation used to satisfy disclosure/reporting obligations under separate
+    regulatory frameworks in their submissions to ESMA, such as transparency reports for
+    auditors of PIEs.
+
+•   ESMA notes that the EuGB Regulation already features a means for external reviewers
+    to inform ESMA of any material changes to the information provided at registration
+    before such changes are implemented. ESMA expects to address the notification
+    regime for material changes to registration when developing the ITS required under
+    Article 24(2), for 21 December 2025 delivery to the European Commission. Therefore,
+    establishing a dedicated process for the submission of updated policies, procedures or
+    organisational information to ESMA appears unnecessary.
+
+•   ESMA would like to point out that Disaster recovery arrangements are not mentioned
+    in the body of the draft RTS. Thus, there is no need to submit these as part of an
+    application to become an ESMA-registered external reviewer of European Green
+    Bonds. Yet, ESMA wishes to note that it may, at any time during the course of its
+                                                                                        14 February 2025
+                                                                                   ESMA84-858037815-195
+
+
+
+
+       supervision, request information on an external reviewer’s business continuity planning
+       arrangements.
+
+   •   ESMA considers that the internal control framework of applicants should be firm-wide
+       and adjusted to the external reviewers organisational arrangements (including the
+       existence of a parent undertaking, shared services, outsourced functions, etc) and
+       operational characteristics (people, processes, technology or product offerings).
+       Naturally, ESMA’s assessment of sound and prudent management will also take into
+       account the structure and circumstances of external reviewers.
+
+   •   ESMA notes that internationally recognised standards such as the COSO Framework,
+       can provide a useful benchmark to assist external reviewers in the assessment of the
+       adequacy of their internal control framework,.
+
+   •   ESMA disagrees with the view that requiring the board oversight of the conflicts of
+       interest policy is excessive, emphasizing the importance of establishing board
+       accountability and involvement in managing conflicts of interest of external reviewers.
+       This includes, but is not limited to, providing the final independent sign-off on the
+       conflicts of interest policy. This approval ensures that the policy is in line with the entity’s
+       values and demonstrates the board's commitment to maintaining ethical standards.
+
+   •   Finally, in order to avoid duplication or undue overlap with the content of the
+       forthcoming RTS mentioned under Article 30(3), which will include the criteria for the
+       soundness of internal control mechanisms, ESMA has removed from this RTS any
+       references to a risk management framework, as was set out in Article 4(3). However,
+       this should not be construed as ESMA discouraging external reviewers from
+       establishing and integrating a risk management framework from their internal control
+       mechanisms from the time of registration.
+
+2.3.3 RTS on criteria for assessing knowledge and experience of analysts Article
+      28(1) - Question 5
+
+Q5: Do you agree with ESMA’s proposals to specify the criteria for assessing the
+appropriateness of the knowledge, experience and training of the persons referred to in
+Article 28(1)?
+
+  60. Respondents mostly welcomed the approach of the RTS to prescribe a self-assessment
+      on the appropriateness of the knowledge, experience and training of analytical staff of
+      external reviewers.
+
+  61. However, one respondent suggested that knowledge be instead attested on a self-
+      declaration basis. The same respondent highlighted that, given the novelty element of
+      the Taxonomy and EuGB regulatory frameworks, this requirement should not create an
+      additional entry barrier for entities interested in becoming ESMA-registered external
+                                                                                14 February 2025
+                                                                           ESMA84-858037815-195
+
+
+
+
+   reviewers. Similarly, another respondent pointed out the importance of a gradual
+   adaptation to the EuGB Regulation’s knowledge requirements for analysts and the
+   practical aspects of the Taxonomy framework.
+
+62. Due to the expected difficulties in estimating the specific “types of issuances, issuers
+    and assessment activities” that will happen in the future, as per Article 3(1)(a), one
+    respondent suggested that the RTS require instead an explanation from external
+    reviewers as to how they are adequately resourced to conduct external reviews for these
+    different types of issuances, issuers and assessment activities.
+
+63. One contribution suggested that the RTS allow for external reviewers to individually
+    establish their own set of assessment criteria for determining the sought-after level of
+    knowledge, experience and training of analysts.
+
+64. Six respondents underlined that the focus of the process of assessment should be on
+    the qualifications of key individuals responsible for issuing the external review, instead
+    of the entire team of analysts (including, notably, junior employees).
+
+65. One contribution emphasized that, once analytical employees have gained sufficient
+    experience and knowledge in the business of external reviews, they are expected to
+    retain that level, questioning the need to reassess compliance against the requirements
+    annually. Similarly, another respondent noted that there will always be team members,
+    such as junior staff, who are not knowledgeable or skilled in assessment activities. As
+    such, a few respondents recommend a shift in the focus of the RTS from an individual
+    to a collective knowledge and experience assessment.
+
+66. Several respondents suggested that ESMA place a greater emphasis on the robustness
+    of the training framework put in place by external reviewers, instead of a process of
+    assessment approach. For instance, two respondents put forward a proposal whereby
+    the training plan submitted at registration, as per the RTS developed under the
+    empowerment provided by Article 23(6) of the EuGB Regulation, would be
+    complemented by ad-hoc supervisory requests to ESMA.
+
+67. One respondent pointed out that, under the annual allocation report template set out in
+    Annex II of the EuGB Regulation, the RTS should also incorporate the need for specific
+    accounting and financial skill requirements for analysts engaging in external reviews.
+
+68. Anchored on the proportionality principle, one respondent put forward an amendment
+    to Article 2(3) to reflect that the process of assessment should be subject only to the
+    oversight (and not the approval) of senior management (and not the board) of external
+    reviewers.
+
+69. One respondent noted the difference between the references to analytical staff under
+    the RTS required under Article 23 (“analysts, employees and other persons directly
+    involved in the assessment activities of the applicant”) and the RTS required under
+                                                                                 14 February 2025
+                                                                            ESMA84-858037815-195
+
+
+
+
+    Article 28 (“analysts and employees, and any other natural person whose services are
+    placed at their disposal or under their control and who are directly involved in
+    assessment activities”), questioning whether there was a meaningful difference in the
+    envisaged employees in scope of the two RTS.
+
+70. One respondent suggested that instead of undertaking an annual review of the
+    information as mandated by Article 3(2) and Article 4(2), external reviewers should only
+    be obliged to update the criteria of their process of assessment when and if relevant
+    changes occur.
+
+71. In relation to the use of AI, as mentioned in Article 3(1)(c), the PCC stated that external
+    reviewers should be aware of the risks involved and the associated governance and
+    control mechanisms. Furthermore, the PCC recommended that external reviewers
+    consider making their AI policies publicly available.
+
+72. In its recommendations, the PCC also underscored that a limited experience of a given
+    analyst may be compensated by an ambitious training programme. Hence, the PCC
+    welcomed the inclusion of a training plan in Article 4(1)(d) as an element of the external
+    reviewer’s self-assessment.
+
+73. ESMA response: ESMA has revised the draft RTS under Article 28(1) significantly
+    through the merging of its provisions and content within the RTS under Article 23(6),
+    The rationale behind this change is elaborated in further detail in the ESMA response
+    to that RTS. The effect of merging the RTS under Article 28(1) into the RTS under Article
+    23(6) is that an external reviewer will now demonstrate compliance with the provisions
+    of Article 23(2)(a)(iv) through Articles 3 and 4 of the RTS under Article 23(6) and
+    compliance with Article 28(1) through Article 5 of the RTS under Article 23(6). While
+    these changes are significant in terms of form and content, they should result in a
+    streamlining of the requirements applicable to external reviewers in respect of these
+    provisions.
+
+74. Beyond these changes ESMA would also like to clarify the following elements in
+    response to comments made during the consultation:
+
+•   ESMA considers a self-declaration to fall short of a self-assessment in establishing a
+    high benchmark for assessing the appropriateness of analytical knowledge and
+    experience. Consequently, by not providing adequate assurance, it would fail to
+    properly meet the mandate set out in Article 28 of the EuGB Regulation.
+
+•   With the aim of factoring in further proportionality into the RTS, ESMA has accepted to
+    reduce the minimum frequency of the assessment of knowledge, experience and
+    training of analysts under Article 5 of the RTS to a two-yearly basis, subject to the
+    condition that no significant deviations arise in the level of knowledge and experience
+    of analytical staff (at which point it should be immediately performed) in between
+    assessments.
+                                                                                     14 February 2025
+                                                                                ESMA84-858037815-195
+
+
+
+
+   •   Despite the suggestion for external reviewers to be able to establish their own
+       assessment criteria, the legal empowerment for the RTS, set out in Article 28(3) of the
+       EuGB Regulation, is clear in that it is for ESMA (“ESMA shall develop RTS specifying
+       the criteria…”) and not external reviewers to specify the criteria for assessing the
+       appropriateness of the knowledge, experience and training of analytical staff.
+
+   •   On the proposal to narrow the scope of the process of assessment to exclude junior
+       analysts, ESMA notes that the RTS empowerment in Level 1 does not allow for a
+       differentiation between different analysts on the basis of the length of their professional
+       experience. As such, the relevant criteria have been specified for both lead analysts or
+       persons primarily responsible for approving external reviews and the remaining
+       employees directly involved in assessment activities.
+
+   •   In relation to the proposal for a specific reference in the RTS to the need for accounting
+       and financial skills for analysts, ESMA views this as disproportionately demanding in
+       view of the limited financial content of external reviews, as set out in the templates
+       presented in Annex IV of the EuGB Regulation, with potential negative repercussions
+       in the staffing and hiring processes of external reviewers. However, ESMA emphasizes
+       that analysts should possess a solid understanding of bond structuring and financial
+       analysis fundamentals to effectively carry out their roles.
+
+   •   Finally, ESMA would like to clarify that, given the lack of historical information on market
+       practices in the nascent European Green Bonds industry, as well as its intention to
+       avoid an overly prescriptive regime, the approach to the assessment envisioned under
+       Article 5 of the proposed draft RTS is to require external reviewers to establish a
+       process and conduct a self-assessment on analytical capacity, instead of mandating
+       specific policies, procedures, systems or controls.
+
+2.3.4 RTS on criteria applicable to outsourcing of assessment activities Article 33(7)
+      - Question 6
+
+ Q6: Do you agree with ESMA’s proposals to specify the criteria for assessing the reliability
+ and capacity of a third-party service provider?
+
+  75. Respondents generally agreed with ESMA’s proposals on assessing the reliability and
+      capacity of third-party entities performing outsourced assessment activities.
+
+  76. Two respondents recommended moving from the proposed annual assessments, under
+      Article 2(2), to a 2 or 3-year assessment frequency, given the possibility to rely on the
+      external reviewers’ established internal control mechanisms for the ongoing monitoring
+      of outsourcing arrangements. Instead, another respondent proposed to require external
+      reviewers to only conduct the assessment when material changes take place. Similarly,
+      one respondent stated that assessing a third-party service provider on an annual basis
+      might not be necessary, considering that this is likely to be a long-term relationship.
+                                                                                    14 February 2025
+                                                                               ESMA84-858037815-195
+
+
+
+
+    Likewise, one respondent recommended that monitoring on outsourcing arrangements
+    is carried out on an exceptional basis rather than annually, claiming that many
+    prospective external reviewers already comply with the relevant requirements under
+    other standards.
+
+77. Four respondents proposed that intragroup arrangements should be left outside the
+    scope of application of the RTS, as they present less risk than traditional outsourcing to
+    third-parties. Similarly, several respondents in the audit profession pointed out that the
+    definition of a third-party service provider would merit further clarification, especially in
+    the context of delivery service centres that are commonly used by professional services
+    networks to undertake certain activities.
+
+78. One respondent suggested to further factor in proportionality in the prescribed
+    assessment. The same contribution argued against the required approval by senior
+    management or the management body set out in Article 2(3), on the basis that it would
+    constitute an excessively cumbersome approval process.
+
+79. One respondent considered the approach of the RTS to be overly prescriptive, when
+    requiring external reviewers to assess “the business model of the third-party service
+    provider, including their financial resources, services offered, ownership and group
+    structure, its status as a regulated or supervised entity and past performance for similar
+    services”, under Article 3(1)(b), and “the knowledge and experience of staff involved“,
+    under Article 3(1)(c).
+
+80. Conversely, one contribution suggested adding to the process of assessment an
+    obligation to review the output of the third-party service provider, serving as an
+    additional means of oversight.
+
+81. One respondent put forward a suggestion for a grandfathering clause for external
+    reviewers already engaging with a third-party service provider under an existing service
+    agreement, on the basis that time and resources may be required to amend the
+    respective contract in line with the requirements of the RTS.
+
+82. The PCC indicated that the reference to "exit strategies” is only used in relation to third-
+    country third-party service providers in Article 5(2)(c), although this would a valid
+    requirement regarding all service providers (EU-based or not).
+
+83. ESMA response: ESMA has revised the proposed draft RTS under Article 33(7) in
+    order to take account of these comments and address a number of similar issues that
+    were addressed in the proposed draft RTS under Article. In this regard, ESMA has taken
+    a more direct approach to setting the criteria for Article 33(7)(a)-(b). Specifically, ESMA
+    has moved away from establishing that the process of assessment is the criterion for
+    meeting the requirements of Article 33(7). Instead, ESMA has replaced the assessment
+    process with criteria for each of the key areas (i) ability and capacity of third party service
+    providers (ii) ensuring outsourcing does not materially impair internal control and (iii)
+                                                                                 14 February 2025
+                                                                            ESMA84-858037815-195
+
+
+
+
+    ensuring that ESMA’s ability to supervise compliance is not impaired. With the revised
+    RTS, ESMA is simplifying what is expected of external reviewers and establishing what
+    is needed to demonstrate compliance with the requirements of Article 33(7) in a more
+    direct manner.
+
+84. Beyond these changes ESMA has taken on board the following elements in response
+    to comments made during the consultation:
+
+•   ESMA considers that questions on the definition, scope and boundaries of outsourcing
+    arrangements under Article 33 of the Regulation, such as their applicability to
+    intragroup arrangements, are not a matter for specification at Level 2. External
+    reviewers are bound by the Regulation in this regard where the legislator, in turn, only
+    appears to refer to the outsourcing of assessment activities to (external) “third-party
+    service providers”.
+
+•   On the various contributions related to the proposed 12-month frequency of the self-
+    assessment, ESMA notes that it considers the outsourcing of assessment activities to
+    constitute a high-risk practice, given the loss of control and lower visibility by external
+    reviewers of the analytical process and any detrimental consequences of an inaccurate
+    or unreliable output to issuers and investors relying on external reviews. As such,
+    ESMA does not feel the need to reduce the frequency. However, ESMA wishes to
+    clarify that external reviewers not outsourcing assessment activities to third-party
+    service providers are not expected to perform the assessment prescribed in the RTS,
+    even though they are expected to comply with the RTS by putting such a process in
+    place. In other words, it is only from the eventual date when they should decide to enter
+    into an outsourcing agreement to externalise their assessment activities that they
+    should conduct the process of assessment “on a regular basis” and at least annually,
+    while the referred contract remains in effect.
+
+•   ESMA does not believe the inclusion of a grandfathering provision in the RTS is
+    necessary, as it does not expect the proposed process of assessment to result in any
+    disruption to existing service provision. Moreover, the RTS does not mandate any
+    particular contractual safeguards for existing outsourcing agreements.
+
+•   In relation to the PCC advice, while ESMA supports procedures for the timely execution
+    of exit strategies for all outsourcing agreements of external reviewers, ESMA notes that
+    the additional safeguards set out in Article 3 paragraph 1(d), in the context of
+    outsourcing to third-country providers, serve the purpose of mitigating any jurisdictional
+    difficulties in exercising contractual rights, such as audit and access rights or personal
+    data protection. ESMA notes that third-party risk can increase in the case of
+    outsourcing to certain non-EU service providers, for example, in the case of political
+    risks in the service provider’s jurisdiction, inexistence of cooperation agreements,
+    language barriers, etc.
+                                                                                     14 February 2025
+                                                                                ESMA84-858037815-195
+
+
+
+
+2.3.5 ITS on forms, templates and procedures for providing registration information
+
+
+
+    Q8: Do you agree with the practicality and efficiency of ESMA’s proposals to specify the
+    standard forms, templates and procedures for the provision of the information for an
+    application for registration as an external reviewer?
+
+      85. Respondents widely supported ESMA’s proposals on the standard forms, templates and
+          procedures for external reviewer registration applications.
+
+      86. However, a few respondents raised concerns about the disproportionality of requiring
+          extensive information from applicants.
+
+      87. One respondent mentioned the GDPR data minimisation principle, with a view to
+          proposing a more solid alignment of application forms and templates with data
+          protection and confidentiality standards.
+
+      88. Two respondents stated it was unclear how ESMA would ensure consistency in the
+          provision of information for each individual employee. One other respondent noted that,
+          under the draft ITS, it is unclear how any changes to the initial application forms would
+          be reported to ESMA.
+
+      89. ESMA response: ESMA has addressed the above contributions individually in previous
+          sections of the feedback statement. ESMA has also addressed respondents’ remarks
+          on privacy issues 3 (section 2.5.1) and material changes to registration information 4
+          (section 2.5.2).
+
+    Q9: Do you have any views or comments on the relevance of the information contained in
+    Annex I to VII of the draft ITS?
+
+      90. Respondents generally agreed with ESMA’s proposals on the information requirements
+          for submitting an application as an external reviewer. Where this was not the case, the
+          reasons for this deviation were provided in responses to questions 1-4 of the CP.
+
+      91. A few respondents have stated that they would welcome a less prescriptive and more
+          practical approach in relation to the required documentation and information to be
+          provided by applicants.
+
+      92. One respondent stated that the template under Annex V should not contain the names
+          of the employees involved in assessment activities, considering this information is
+          bound to change over time. The same respondent, in relation to Annex VI, suggested
+
+
+
+3
+    See, in particular, section 2.5.1.
+4
+    See, in particular, section 2.5.2.
+                                                                                                            14 February 2025
+                                                                                                       ESMA84-858037815-195
+
+
+
+
+         that ESMA reconsider the necessity of the information required under points 17
+         (“Assessment activities planned to be outsourced to a third-party provider”) and 18
+         (“Internal assessment”). The contribution argues that the former is already covered by
+         the previous point (“Documents and information related to any existing or planned
+         outsourcing arrangements for activities covered by this Regulation, including
+         information on entities assuming outsourcing functions”) and the latter is not expected
+         at registration phase (governed by Article 23 of the EuGB Regulation), but rather on an
+         ongoing basis, under the RTS ESMA has been empowered to develop pursuant to
+         Article 33(7) of the EuGB Regulation.
+
+    93. One respondent raised concerns that some of the information to be submitted to ESMA
+        in accordance with the Annexes to the draft ITS could comprise personal or
+        commercially sensitive information.
+
+    94. ESMA response: ESMA has revised the ITS to condense the initially proposed 11
+        Articles, split by area of relevance to the registration application, into a single Article that
+        now refers to a set of Annexes, split by area of relevance. Within these Annexes, only
+        a limited number of changes have been made in order to align the content of the ITS
+        with the revised content of the supporting RTS under Article 23(7).
+
+    95. Of most significance among these changes are those in Annex VI ‘Policies and
+        Procedures’. Here the sequence of the policies and procedures has been revised versus
+        the initially proposed ITS, in addition the explanatory text for some of the items in Annex
+        VI has been adjusted to also reflect wording and content changes in the supporting RTS.
+
+    96. More specifically, ESMA considers that significantly less information will be required
+        from potential registrants, thereby reducing the administrative burden of applicants.
+        Additionally, ESMA has opted to withdraw the requirement for applicants to list the
+        services provided by its affiliate entities, given the ambiguity surrounding the definition
+        of the term “affiliates” and possible difficulties for applicants operating in a large group
+        with several related undertakings.
+
+    97. Conversely, ESMA has added a new field to the ITS requiring applicants to submit the
+        date and place of birth for members of their senior management and board. ESMA
+        believes this addition is justified as a means to facilitate their identification, in line with
+        Article 23(1)(e) of the EuGB Regulation. This inclusion also offers the benefit of
+        harmonising the necessary information with the recently published ESAs Joint
+        Committee Guidelines on the system for the exchange of information relevant to fit and
+        proper assessments5, required under Article 31a of the ESMA Founding Regulation.
+
+
+
+
+5
+  Joint Guidelines on the system established by the European Supervisory Authorities for the exchange of information relevant to
+the assessment of the fitness and propriety of holders of qualifying holdings, directors and key function holders of financial
+institutions and financial market participants by competent authorities, JC/GL202488.
+                                                                                    14 February 2025
+                                                                               ESMA84-858037815-195
+
+
+
+
+  98. ESMA understands that respondents may question the need to provide the names of
+      employees involved in assessment activities, when these may inevitably change over
+      time. However, it emphasises that, practically speaking, the ITS applies during the
+      registration phase and ESMA’s review of the registration conditions is only relevant to
+      that specific point in time.
+
+  99. ESMA agrees with the removal of the two outsourcing-related points from the ITS, given
+      their redundancy and lack of added value at application stage.
+
+2.3.6 Cost-benefit analysis
+
+ Q10: Do you have any comments on the CBA or impact assessments outlined under the
+ preferred option?
+
+  100.     Respondents strongly endorsed ESMA’s cost-benefit analysis and impact
+     assessments consulted on.
+
+  101.        One respondent particularly welcomed the reference in the CBA recognising
+     that some of the proposed requirements place a comparatively higher burden on smaller
+     entities vis-à-vis the larger, more established external reviewers.
+
+  102.        One respondent, however, recommended that the CBA further factor in diverse
+     costs, notably of compliance with duplicative requirements and to account for a potential
+     disruption of services from the date of application of the new Level 2 requirements.
+
+  103.       More specifically, one respondent pointed out that the proposed requirements
+     to develop a training and development plan for analysts under Article 4 of the draft RTS
+     on the criteria for assessing knowledge and experience of analysts are burdensome and
+     may introduce recurring costs for external reviewers not accounted for in the CBA.
+
+  104.       A different respondent questioned whether the CBA had considered the costs
+     for certain external reviewers of ESMA not recognising compliance with existing
+     accreditations, from the lack of clarity of certain definitions and the administrative burden
+     associated with mandating detailed team-wide disclosures.
+
+  105.        ESMA response: ESMA disagrees with the argument that putting in place a
+     training and development plan for analysts will necessarily result in significant costs for
+     external reviewers. ESMA would like to clarify that none of the draft RTS consulted on
+     sets out requirements on the content or approach to training, leaving this to the
+     discretion of external reviewers. For instance, there are several types of internal training
+     activities (e.g. on-the-job training, in-house e-learning, mentoring, coaching or job
+     rotation) that would typically be expected to minimise direct costs for entities. However,
+     where training does incur costs for external reviewers, ESMA would like to emphasize
+     its value in enhancing staff knowledge and expertise, ultimately offsetting the expenses
+     involved.
+                                                                                 14 February 2025
+                                                                            ESMA84-858037815-195
+
+
+
+
+  106.       It is ESMA’s view that already complying with a similar set of requirements under
+     other regulatory frameworks is an advantage for applicants, given that the ability to
+     leverage on an existing compliance apparatus is expected to reduce costs. Furthermore,
+     ESMA notes that the lengthy transitional period set out in Level 1 (18 months) mitigates
+     any potential costs of disruption of services for external reviewers.
+
+  107.       Finally, on the cited costs related to definitions and disclosures, ESMA notes
+     that an amendment to the CBA is unjustified, due to the insufficient evidence provided
+     and limited corroboration from other respondents.
+
+Q11: Do you have any quantitative information to provide on the estimated costs of the
+options considered and proposed by ESMA that would benefit the analysis?
+
+  108.       ESMA received very few responses to this question.
+
+  109.       One respondent estimated the legal, registration and compliance costs to stand
+     at approximately 60% of expected revenues in year 1, with the caveat that there is still
+     a degree of uncertainty around the European Green Bonds market pick-up. Conversely,
+     another respondent claimed that entering the EuGB external review market would not
+     be expected to add any significant costs to their business.
+
+  110.         ESMA response: Based on feedback from consultation participants, ESMA has
+     made revisions to the five draft technical standards to lower the costs involved for
+     external reviewers. However, ESMA notes that the anticipated long-term advantages of
+     the proposed set of information and documentation to be provided at registration and of
+     complying with new requirements on an ongoing basis are expected to outweigh any
+     potential short-term costs, particularly in terms of investor protection and financial
+     stability.
+
+  111.       The CBA has not been modified to reflect responses to questions 10 and 11, as
+     no further material evidence or conclusive data was offered other than brief feedback
+     provided by a small number of respondents.
+
+2.3.7 Additional comments
+
+  112.       A few respondents claimed that the nature of ESMA’s proposals were similar to
+     existing regulatory frameworks in place for CRAs or financial institutions, making them
+     disproportionate to the nature, size and embryonic state of the external reviewer market.
+     One contribution also stressed the need for a reduction in the administrative burden for
+     external reviewers to ensure a competitive and dynamic market.
+
+  113.        The vast majority of respondents in the audit, assurance and accounting
+     professions proposed that ESMA recognise compliance with other pieces of EU
+     legislation already supervised by NCAs (e.g. Audit Directive) or internationally
+     recognised standards (e.g. IESBA Code, ISQM1, ISSA5000, ISAE3000) with
+                                                                               14 February 2025
+                                                                          ESMA84-858037815-195
+
+
+
+
+   overlapping requirements to the proposed EuGB secondary legislation, for the purposes
+   of:
+
+    1) Securing an accelerated gateway to registration as an external reviewer for
+    European Green Bonds; and
+
+    2) Obtaining an exemption from compliance with potentially duplicative or conflicting
+    requirements contained in the RTS/ITS.
+
+114.       One respondent proposed putting in place a significant transition period prior to
+   implementation to ensure external reviewers have time to adjust to the proposed Level
+   2 requirements.
+
+115.         One respondent repeatedly called for the mutualization of analytical, internal
+   control and central support functions (IT and finance in particular) in the case of group
+   companies, citing proportionality concerns and the difficulty of bearing high
+   administrative costs for small and midsized players. Similarly, one respondent sought
+   clarity from ESMA as to whether the centralisation of certain compliance activities to
+   serve a group of affiliates would be acceptable under the proposed Level 2 acts. Another
+   respondent noted in particular that the RTS on the criteria to assess sound and prudent
+   management and the management of conflicts of interest failed to refer to instances in
+   which an external reviewer may be part of a group of companies. As such, it
+   recommends that ESMA explicitly acknowledges that it is reasonable for an external
+   reviewer to rely, where appropriate, on a compliance framework established at group
+   level.
+
+116.         Several respondents provided comments on the ideal degree of alignment
+   between the EuGB regulatory framework and other EU sustainable finance legislative
+   initiatives (Taxonomy, ESG Ratings, etc).
+
+117.        ESMA response: ESMA acknowledges that the feedback received during the
+   consultation period was predominantly concerned with questions of proportionality and
+   possible excess burden imposed on applicants and external reviewers. Thus, in
+   developing the final version of the draft technical standards, ESMA has particularly tried
+   to tackle any unnecessary strain in the required information and the compliance costs
+   of assessments for external reviewers, where possible.
+
+118.        ESMA considers that the policy approach of the European Commission, when
+   proposing the European Green Bonds draft Regulation in 2021, was not to
+   accommodate already existing national accreditation schemes and supervision by
+   NCAs of third-party assurance providers. Hence, the proposed interoperability between
+   existing regulatory frameworks and oversight by different supervisory bodies is not
+   possible to tackle via the Level 2 empowerments granted to ESMA. Moreover, ESMA
+   highlights the importance of avoiding double standards and promoting a level playing
+   field in the EU external reviewer market. With this in mind, while ESMA is bound by
+                                                                                  14 February 2025
+                                                                             ESMA84-858037815-195
+
+
+
+
+      granular empowerments for technical standards in the EuGB Regulation, it has made
+      an effort to refine its proposals with a view to better balancing proportionality and
+      reducing undue burden for all prospective external reviewers, regardless of their service
+      offering or industry.
+
+  119.        ESMA considers that no further implementation or adjustment time is required
+     in addition to the 18-month period set out in Articles 69 and 70 of the EuGB Regulation,
+     where compliance on a “best efforts basis” with the provisions of the Regulation is
+     expected for external reviewers providing their services during the transitional regime.
+     ESMA notes that the technical standards consulted on will only apply to ESMA-
+     registered external reviewers from 21 June 2026.
+
+  120.       ESMA would like to clarify that its responsibilities under the EuGB Regulation
+     relate exclusively to the registration and supervision of external reviewers and the
+     development of technical standards associated with these tasks. As such, ESMA cannot
+     address miscellaneous remarks that are unrelated to its legal empowerments in the
+     Final Report.
+
+
+
+
+3 Annexes
+
+3.1 Annex I – Summary of questions
+
+Q1:    Do you agree with ESMA’s proposals to specify the criteria to assess the
+sufficiently good repute, skill, professional qualifications and experience of senior
+management and members of the board of an external reviewer?
+
+Q2:    Do you agree with ESMA’s proposals to specify the criteria to assess the
+sufficiency of the number of analysts, employees and persons directly involved in the
+assessment activities and of their level of knowledge, experience and training?
+
+Q3:   Do you agree with ESMA’s proposals to specify the criteria to assess the sound
+and prudent management of the external reviewer?
+
+Q4:    Do you agree with ESMA’s proposals to specify the criteria to assess that any
+actual or potential conflicts of interest are properly identified, eliminated or managed,
+and disclosed in a transparent manner by the external reviewer?
+
+Q5:    Do you agree with ESMA’s proposals to specify the criteria for assessing the
+appropriateness of the knowledge, experience and training of the persons referred to in
+Article 28(1)?
+                                                                                        14 February 2025
+                                                                                   ESMA84-858037815-195
+
+
+
+
+Q6:     Do you agree with ESMA’s proposals to specify the criteria for assessing the
+reliability and capacity of a third-party service provider?
+
+Q7:    Do you agree with ESMA’s proposals to specify the criteria for assessing that the
+internal control of an external reviewer is not materially impaired and ESMA’s ability to
+supervise is not limited?
+
+Q8:    Do you agree with the practicality and efficiency of ESMA’s proposals to specify
+the standard forms, templates and procedures for the provision of the information for
+an application for registration as an external reviewer?
+
+Q9:   Do you have any views or comments on the relevance of the information
+contained in Annex I to VII of the draft ITS?
+
+Q10: Do you have any comments on the CBA or impact assessments outlined under
+the preferred option?
+
+Q11: Do you have any quantitative information to provide on the estimated costs of
+the options considered and proposed by ESMA that would benefit the analysis?
+
+
+
+
+3.2 Annex II – Legislative mandate to develop technical standards
+
+3.2.1 RTS on criteria to be assessed at registration relating to senior management
+      and members of the board, as well as analysts, employees and other persons
+      directly involved in assessment activities
+
+Article 23(6) of the EuGB Regulation
+
+ Article 23 - Application for registration as an external reviewer for European Green Bonds
+
+ 2. ESMA shall register an applicant as an external reviewer only where the following conditions are
+ met:
+
+ (a) the senior management and the members of the board of the applicant:
+
+ (i) are of sufficiently good repute;
+
+ (ii) are sufficiently skilled to ensure that the applicant can perform the tasks required of external
+ reviewers pursuant to this Regulation;
+                                                                                             14 February 2025
+                                                                                        ESMA84-858037815-195
+
+
+
+
+ (iii) have sufficient professional qualifications;
+
+ (iv) have relevant experience in activities such as quality assurance, quality control, the performance
+ of pre-issuance, post-issuance and impact report reviews, the provision of second party alignment
+ opinions or financial services;
+
+ (b) the number of analysts, employees and other persons directly involved in the assessment activities
+ of the applicant, and their level of knowledge, experience and training, are sufficient in order for the
+ applicant to perform the tasks required from external reviewers pursuant to this Regulation;
+
+ 6. ESMA shall develop draft regulatory technical standards specifying the criteria referred to in
+ paragraph 2, first subparagraph, points (a) and (b).
+
+
+
+
+3.2.2 RTS on criteria to assess sound and prudent management and management of
+      conflicts of interest
+
+Article 27(2) of the EuGB Regulation
+
+ Article 27 - Senior management and members of the board
+
+ 1. The senior management and the members of the board of the external reviewer shall, respectively,
+ ensure or oversee the following:
+
+ (a) the sound and prudent management of the external reviewer;
+
+ (b) the independence of assessment activities;
+
+ (c) that any actual or potential conflicts of interest are properly identified, eliminated or managed, and
+ disclosed in a transparent manner;
+
+ (d) that the external reviewer complies with the requirements of this Regulation at all times.
+
+ 2. ESMA shall develop draft regulatory technical standards specifying the criteria to assess the
+ sound and prudent management of the external reviewer referred to in paragraph 1, point (a),
+ and the management of conflicts of interest referred to in paragraph 1, point (c).
+
+
+
+
+3.2.3 RTS on criteria for assessing knowledge and experience of analysts
+
+Article 28(3) of the EuGB Regulation
+
+ Article 28 - Analysts and employees of external reviewers, and other persons directly involved in the
+ assessment activities of external reviewers
+                                                                                             14 February 2025
+                                                                                        ESMA84-858037815-195
+
+
+
+
+ 1. External reviewers shall ensure that their analysts and employees, and any other natural person
+ whose services are placed at their disposal or under their control and who are directly involved in
+ assessment activities, have the necessary knowledge and experience for the duties assigned.
+
+ 3. ESMA shall develop draft regulatory technical standards specifying the criteria to assess the
+ appropriateness of the knowledge and experience of the persons referred to in paragraph 1.
+
+
+
+
+3.2.4 RTS on criteria applicable to outsourcing of assessment activities
+
+Article 33(7) of the EuGB Regulation
+
+ Article 33 – Outsourcing
+
+ 7. ESMA shall develop draft regulatory technical standards specifying the criteria for:
+
+ (a) assessing the ability and the capacity of third-party service providers to perform the
+ assessment activities reliably and professionally; and
+
+ (b) ensuring that the performance of assessment activities does not materially impair the
+ quality of the external reviewers’ internal control or ESMA’s ability to supervise the external
+ reviewers’ compliance with this Regulation.
+
+
+
+
+3.2.5 ITS on forms, templates and procedures for providing registration information
+
+Article 23(7) of the EuGB Regulation
+
+ Article 23 - Application for registration as an external reviewer for European Green Bonds
+
+ 1. An application for registration as an external reviewer for European Green Bonds shall contain the
+ following information:
+
+ (a) the full name of the applicant, the address of its registered office within the Union, the applicant’s
+ website and, where available, the legal entity identifier (LEI);
+
+ (b) the name and contact details of a contact person;
+
+ (c) the legal form of the applicant;
+
+ (d) the ownership structure of the applicant;
+
+ (e) the identities of the members of the senior management and the board of the applicant with their
+ curriculum vitae showing at least their levels of qualification, experience and training;
+                                                                                               14 February 2025
+                                                                                          ESMA84-858037815-195
+
+
+
+
+ (f) the number of the analysts, employees and other persons directly involved in assessment activities,
+ and their level of experience and training gained prior to and while working for the applicant in the
+ provision of external review or similar services;
+
+ (g) a description of the procedures and methodologies implemented by the applicant to issue reviews;
+
+ (h) the corporate governance arrangements and the policies or procedures implemented by the
+ applicant to identify, eliminate or manage, and disclose in a transparent manner, any actual or
+ potential conflicts of interest as referred to in Article 35;
+
+ (i) where applicable, documents and information related to any existing or planned outsourcing
+ arrangements for activities of the external reviewer covered by this Regulation, including information
+ on entities assuming outsourcing functions;
+
+ (j) where applicable, information about other activities carried out by the applicant.
+
+ 7. ESMA shall develop draft implementing technical standards to specify the standard forms,
+ templates and procedures for the provision of the information referred to in paragraph 1.
+
+
+
+
+3.3 Annex III – Cost-benefit analysis
+
+1. ESMA has consulted market participants on its preliminary CBA and individual impact
+   assessments in relation to each of the draft technical standards.
+
+
+2. Due to the large support for the preliminary CBA, as well as the lack of substantial evidence
+   presented in the CP for the incorporation of additional costs or benefits, it has mostly been
+   retained in its original drafting, with the exception of marginal amendments to bring the final
+   CBA in line with the revisions made to the draft RTS/ITS consulted on.
+
+
+3. In the absence of meaningful input on the quantitative impact of the proposals, the CBA
+   remains qualitative in nature, as ESMA was not able to quantify a monetary value for
+   benefits or costs of the envisaged technical options from the input received during the
+   consultation.
+
+
+Technical options available to ESMA
+
+4. The following options were identified and analysed by ESMA to address the policy
+   objectives of the Level 2 tasks required under the EuGB Regulation.
+                                                                                  14 February 2025
+                                                                             ESMA84-858037815-195
+
+
+
+
+5. In identifying the options set out below and in choosing the preferred one, ESMA was
+   guided by the relevant provisions of the EuGB Regulation and its objectives of enhancing
+   the effectiveness, transparency, comparability and credibility of the European Green Bonds
+   market.
+
+     Policy Objective     The EuGB Regulation covers rules on:
+
+                          The senior management and the members of the board of the
+                          applicant under Article 23 (2)(a);
+
+                          The analysts, employees and other persons directly involved in the
+                          assessment activities of the applicant under Article 23(2)(b);
+
+                          The sound and prudent management and management of conflicts
+                          of interest by the external reviewer under Article 27(1)(a)(c);
+
+                          The knowledge, experience and training of analysts and
+                          employees under Article 28;
+
+                          The outsourcing of assessment activities to third-party service
+                          providers under Article 33; and
+
+                          The content of the application for registration as an external
+                          reviewer under Article 23 (1).
+
+                          Under the Regulation, ESMA is requested to develop draft
+                          regulatory technical standards specifying the circumstances and
+                          criteria for the above, notably for:
+
+                          The sufficiency of the good repute, skill, professional qualifications
+                          and experience of senior management and members of the board
+                          of applicants, as well as the sufficiency of its number of analysts,
+                          employees and other persons directly involved in the assessment
+                          activities and their level of knowledge, experience and training;
+
+                          The establishment and oversight of the sound and prudent
+                          management and conflicts of interest management framework of
+                          the external reviewer;
+
+                          The assessment of the appropriateness of the knowledge,
+                          experience and training of analysts, employees and other natural
+                          persons involved in assessment activities; and
+
+                          The assessment of the ability and the capacity of third-party service
+                          providers to perform outsourced assessment activities reliably and
+                                                                            14 February 2025
+                                                                       ESMA84-858037815-195
+
+
+
+
+                    professionally and for ensuring that it does not materially impair the
+                    quality of external reviewer’s internal control or ESMA’s
+                    supervision; and
+
+                    The standard forms, templates and procedures for the submission
+                    of registration information by applicants.
+
+Baseline Scenario   The baseline scenario for this CBA would be the application of the
+                    requirements in the Level 1 Regulation without any further
+                    specification. This would leave discretion to ESMA and external
+                    reviewers to determine the necessary specificities, leading to a lack
+                    of harmonisation in the application of key provisions of the EuGB
+                    Regulation. For instance:
+
+                    The content and form of registration applications could differ
+                    significantly, making it onerous and time-consuming for application
+                    completion and submission and for ESMA’s application review, at
+                    risk of not complying with the legal deadlines set out in the EuGB
+                    Regulation;
+
+                    Some applicants could adopt stricter rules than others in the
+                    fulfilment of the requirements imposed on senior management and
+                    board members and analytical resourcing, contributing to an
+                    unlevel playing field;
+
+                    There could be insufficient clarity as to how senior management
+                    and the members of the board of an external reviewer should
+                    ensure its sound and prudent management and the identification,
+                    elimination, management or disclosure of conflicts of interest,
+                    potentially resulting in corporate governance and independence
+                    failings;
+
+                    There could be insufficient clarity as to how external reviewers
+                    should ensure that their analysts, employees and other natural
+                    persons involved in assessment activities have the necessary
+                    knowledge, experience and training for the duties assigned,
+                    potentially affecting the quality of external reviews; or
+
+                    There could a rise in unsound third-party outsourcing
+                    arrangements, given the potential for poor selection and monitoring
+                    practices due to the insufficient guidance available to market
+                    participants.
+
+                    Moreover, for ESMA, this baseline scenario would mean that a high
+                    level of resources could be required for supervisory activities. This
+                    is due to the level of bilateral engagement expected to
+                                                                             14 February 2025
+                                                                        ESMA84-858037815-195
+
+
+
+
+                   communicate or clarify ESMA’s expectations and to address
+                   market queries or remedy concerns on registration and supervision
+                   matters, in the absence of Level 2 acts.
+Options            ESMA has been entrusted, under the EuGB Regulation, with the
+                   development of draft regulatory and implementing technical
+                   standards for submission to the European Commission for
+                   consideration and approval.
+
+                   The RTS and ITS aim to promote the objectives of the Level 1
+                   Regulation by clarifying the scope of application of certain of its
+                   provisions. This should contribute to the creation of a level playing
+                   field across the industry and reduce supervisory costs for ESMA.
+                   This should also reduce the scope for regulatory arbitrage, which
+                   could otherwise hamper the key objectives of the EuGB
+                   Regulation.
+
+                   Moreover, ESMA considers that the provisions included in the draft
+                   RTS and ITS do not create significant new costs for concerned
+                   market participants beyond the ones that naturally stem from Level
+                   1 obligations.
+Preferred Option   The development of RTS and ITS gives ESMA, in its role as
+                   gatekeeper of financial markets, an opportunity to further specify
+                   the formulation of the Level 1 provisions, enhancing clarity for
+                   market participants and avoiding undue burden on its registration
+                   and supervision tasks.
+
+                   Furthermore, ESMA was able to receive feedback from relevant
+                   stakeholders through its public consultation, contributing to the
+                   technical standards being sufficiently tailored to market reality.
+                   This option has been retained.
+
+ Assessment of the impact for draft RTS on criteria to be assessed relating to
+ senior management and members of the board, as well as analysts, employees
+ and other persons directly involved in assessment activities of external
+ reviewers
+
+Options            Qualitative description
+Benefits           ESMA envisages that developing an RTS will benefit all market
+                   participants. It is foreseen this will be achieved by providing
+                   greater clarity on the elements set out in Article 23(2)(a) and (b) of
+                   the EuGB Regulation.
+Costs              ESMA took the view that the proposed approach was unlikely to
+                   lead to significant additional costs to the extent that it only provided
+                   clarifications on the Level 1 provisions and does not impose
+                   additional obligations beyond those already set by the EuGB
+                   Regulation. Rather, the Level 2 measures specify the criteria to
+                   assess vis-à-vis an external reviewer’s senior management, board
+                   and analytical function.
+                                                                             14 February 2025
+                                                                        ESMA84-858037815-195
+
+
+
+
+                     As compared to the baseline scenario, it is also unlikely that at
+                     their own initiative and without further specification, entities would
+                     interpret in the same way the requirements imposed on senior
+                     management and the board and analytical staff. As such, this
+                     approach would hardly prove to be less costly for applicants and
+                     ESMA – forced to dedicate additional resources to increased
+                     engagement with external reviewers to clarify its supervisory
+                     expectations – than the approach taken in the present CP.
+Costs to regulator   The proposed approach will lead to additional costs for ESMA in
+                     the form of supervisory efforts allocated to the assessment of the
+                     fitness and propriety of senior management and board members
+                     and the sufficiency of the resourcing, knowledge, experience and
+                     training of the analytical function of external reviewers.
+
+                     However, the benefits of such tasks, in terms of ensuring
+                     appropriate oversight and adequate staffing at the external
+                     reviewer, clearly outweigh the costs.
+
+                     Additionally, it is considered that the approach of the draft RTS will
+                     be compatible with a risk-based approach to supervision, in line
+                     with ESMA’s current supervisory model.
+Compliance costs     The proposed approach may add certain compliance costs for
+                     external reviewers,
+
+                    However, the benefits of such duties, in terms of assessing the
+                    fitness and propriety and analytical resources of external
+                    reviewers and preventing investor protection and financial stability
+                    related issues, clearly outweigh the costs.
+ESG-related aspects Under the EuGB Regulation, the purpose of contracting ESMA-
+                    registered external reviewers is to receive an independent opinion
+                    on whether the issuer has aligned with the EU Taxonomy
+                    requirements. As such, all issues discussed in this CBA are of
+                    relevance to ESG-related aspects.
+Innovation-related  Innovation-related aspects are not of direct relevance to the
+aspects             specific nature of the proposed technical standards.
+Proportionality-    The identified benefits outweigh the comparably limited costs,
+related aspects     hence no proportionality-related aspects are expected to be
+                    impacted by this option.
+
+ Assessment of the impact for draft RTS on criteria for assessing sound and
+ prudent management of external reviewers
+
+Options              Qualitative description
+Benefits             ESMA envisages that developing an RTS will benefit all market
+                     participants. It is foreseen this will be achieved by providing
+                     greater clarity on the elements set out in Article 27(1)(a)(c) of the
+                     EuGB Regulation.
+                                                                               14 February 2025
+                                                                          ESMA84-858037815-195
+
+
+
+
+Costs                ESMA took the view that the proposed approach was unlikely to
+                     lead to significant additional costs to the extent that it only provided
+                     clarifications on the Level 1 provisions and does not impose
+                     additional obligations beyond those already set by the EuGB
+                     Regulation. Rather, the Level 2 measures clarify how sound and
+                     prudent management and the conflicts of interest framework of
+                     external reviewers are ensured and overseen.
+
+                     As compared to the baseline scenario, it is also unlikely that at
+                     their own initiative and without further specification, external
+                     reviewers would interpret in the same way the requirements
+                     around sound and prudent management and the management of
+                     conflicts of interest, leading to inconsistencies across the industry
+                     from diverging market practices. As such, this approach would
+                     hardly prove to be less costly for market participants and ESMA –
+                     forced to dedicate additional supervisory resources to provide
+                     clarification and remediate concerns – than the approach taken in
+                     the present CP.
+Costs to regulator   The proposed approach will lead to additional costs for ESMA in
+                     the form of supervisory efforts allocated to monitoring compliance
+                     with the RTS, notably the organisational and governance
+                     arrangements, internal control framework and conflicts of interest
+                     management framework of external reviewers.
+
+                     However, the benefits of such tasks, in terms of ensuring the
+                     sound and prudent management of external reviewers in line with
+                     ESMA’s supervisory mandate, clearly outweigh the costs.
+
+                     Additionally, it is considered that the approach of the draft RTS will
+                     be compatible with a risk-based approach to supervision, in line
+                     with ESMA’s current supervisory model.
+Compliance costs     The proposed approach may add certain compliance costs for
+                     external reviewers, in particular relating to specific policies and
+                     procedures prescribed by ESMA that the entity may not have put
+                     in place.
+
+                    However, the benefits of such duties, in terms of ensuring the
+                    transparency and accountability of external reviewers, clearly
+                    outweigh the costs.
+ESG-related aspects Under the EuGB Regulation, the purpose of contracting ESMA-
+                    registered external reviewers is to receive an independent opinion
+                    on whether the issuer has aligned with the EU Taxonomy
+                    requirements. As such, all issues discussed in this CBA are of
+                    relevance to ESG-related aspects.
+Innovation-related  Innovation-related aspects are not of direct relevance to the
+aspects             specific nature of the proposed technical standards.
+Proportionality-    ESMA foresees that larger, more established entities in the market
+related aspects     for external reviews or analogous products (SPOs, certification
+                    schemes, etc), will have more established internal control and
+                    governance arrangements and policies and procedures in the area
+                                                                              14 February 2025
+                                                                         ESMA84-858037815-195
+
+
+
+
+                      of conflicts of interest than micro-entities. As such, the draft
+                      RTS/ITS may require a greater effort to adapt and place a burden
+                      on the latter.
+
+                      However, conducting a public consultation will provide all entities,
+                      including issuers, investors and other financial market participants,
+                      with an opportunity to provide ESMA with input on the
+                      proportionality of its proposed measures. In line with its risk-based
+                      approach to supervision, ESMA seeks to commit its supervisory
+                      resources and the intensity of its supervisory action in line with the
+                      risk profile identified at supervised entity level.
+
+
+ Assessment of the impact for draft RTS on criteria applicable to outsourcing of
+ assessment activities of external reviewers
+
+Options               Qualitative description
+Benefits              ESMA considers that proposed draft RTS will ensure that external
+                      reviewers are clear on the criteria that are necessary for assessing
+                      the ability and capacity of third party service providers to perform
+                      assessment activities and ensuring that neither their internal
+                      control or ESMA’s ability to supervise are impaired..
+
+Costs               ESMA considers that the proposed draft RTS will not impose
+                    significant additional costs over those already imposed by Article
+                    33(1) wherein external reviewers have a responsibility to ensure
+                    that the entities to whom they outsource assessment activities
+                    meet certain requirements. The proposed draft RTS does not
+                    change or impact the responsibility.
+Costs to regulator  The proposed draft RTS is not considered to propose any
+                    significant or additional costs to ESMA. It is considered that the
+                    approach of the draft RTS will be compatible with a risk-based
+                    approach to supervision, and as a result will be compatible with
+                    ESMA’s current supervisory model.
+Compliance costs    There will then be an ongoing and recurring annual cost relating to
+                    the assessment of the ability and capacity of third party providers
+                    to perform assessment activities reliably and professionally.
+ESG-related aspects Under the EuGB Regulation, the purpose of contracting ESMA-
+                    registered external reviewers is to receive an independent opinion
+                    on whether the issuer has aligned with the EU Taxonomy
+                    requirements. As such, all issues discussed in this CBA are of
+                    relevance to ESG-related aspects.
+Innovation-related  Innovation-related aspects are not of direct relevance to the
+aspects             specific nature of the proposed technical standards.
+Proportionality-    The approach of the proposed draft RTS is to specify the criteria
+related aspects     that are required by Article 33(7), when an external reviewer
+                    intends to outsource assessment activities to a third party service
+                    provider. If an external reviewer does not outsource assessment
+                    activities to a third party service provider then these criteria are not
+                                                                             14 February 2025
+                                                                        ESMA84-858037815-195
+
+
+
+
+                      relevant. In this respect, the approach of the proposed draft RTS
+                      is inherently proportionate.
+
+ Assessment of the impact for draft ITS on registration information for external
+ reviewers
+
+Options               Qualitative description
+Benefits              The main benefit of the option proposed is the standardisation of
+                      information requirements by providing a harmonised set of forms
+                      and templates for the submission of an application for registration
+                      for all external reviewers for European Green Bonds.
+Costs                 ESMA took the view that the proposed approach was unlikely to
+                      lead to significant additional costs to the extent that it provided
+                      clarifications on the Level 1 provisions and does not impose
+                      substantial additional obligations, , beyond those already set by
+                      the EuGB Regulation.
+
+                    As compared to the baseline scenario, it is also unlikely that at
+                    their own initiative and without further clarification, prospective
+                    applicants would submit to ESMA the required registration
+                    information in the same form and structure and with equal levels
+                    of granularity. Thus, it is difficult to envisage this approach proving
+                    to be less costly for applicants.
+Costs to regulator  Despite the inevitable costs related to the processing of additional
+                    flows of information, the proposed approach is highly beneficial for
+                    ESMA in its important role as gatekeeper of financial markets. In
+                    particular, with respect to the required supervisory resources for
+                    the handling of information contained in registration applications,
+                    given the expected harmonisation and digital user-friendliness
+                    across all submissions.
+Compliance costs    While applicants may experience costs in populating the
+                    necessary fields, the absence of an ITS standardising forms and
+                    templates would lead to uncertainty in the preparation and
+                    structuring of an application. Thus, the benefits clearly outweigh
+                    the costs for prospective external reviewers.
+ESG-related aspects Under the EuGB Regulation, the purpose of contracting ESMA-
+                    registered external reviewers is to receive an independent opinion
+                    on whether the issuer has aligned with the EU Taxonomy
+                    requirements. As such, all issues discussed in this CBA are of
+                    relevance to ESG-related aspects.
+Innovation-related  Innovation-related aspects are not of direct relevance to the
+aspects             specific nature of the proposed technical standards.
+Proportionality-    The identified benefits clearly outweigh the comparably limited
+related aspects     costs, hence no proportionality-related aspects are expected to be
+                    impacted by this option.
+     14 February 2025
+ESMA84-858037815-195
+                                                                                             14 February 2025
+                                                                                        ESMA84-858037815-195
+
+
+
+
+3.4 Annex IV – Advice of the Proportionality and Coordination
+    Committee
+
+3.4.1 RTS on criteria to be assessed at registration relating to senior
+      management and members of the board, as well as analysts, employees
+      and other persons directly involved in assessment activities
+
+The Green Bonds Regulation does not contain a definition of “Senior management”, but CRAR Article
+3(n) states: ‘senior management’ means the person or persons who effectively direct the business of
+the credit rating agency and the member or members of its administrative or supervisory board.
+
+The PCC finds it important that senior management is read as in plural as a collective group of persons
+as indeed foreseen in the proposed draft RTS Article 3(4). It will be important to allow for plurality in the
+management in practice. A varied composition of the board will cater for better boards of directors at
+external reviewers.
+
+For professional qualifications the proposed draft RTS notes that, consideration shall be given to the
+level of education and training and whether it relates to financial or sustainability-related services or any
+other relevant area of knowledge for the business of external reviewers. The proposed draft RTS also
+indicates that ESMA shall take into consideration both the theoretical knowledge and skills attained
+through education and training, and the practical experience gained. The PCC highlights the importance
+that this is not seen as limited to a closed list of professional diplomas or exams when assessing who is
+sufficiently skilled but rather as one important parameter among others. The PCC believes that this is
+how that RTS should be read and applied in practice.
+
+Relevant experience is already exemplified in the level 1 text (…have relevant experience in activities
+such as quality assurance, quality control, the performance of pre-issuance, post-issuance and impact
+report reviews, the provision of second party alignment opinions or financial services). The words “such
+as” makes it clear that the list included is not an exhaustive list. “Relevant experience” should be
+understood so that it does not exclude management from moving into the area of green bonds from
+other financial sectors. The PCC would like to highlight the importance of EU sustainable taxonomy
+expertise for such external reviewers.
+
+Considering the very “broad” scope of possibilities regarding expertise necessary to verify EU Green
+Bonds (taking into account the six different types of environmental objectives and multiple sectors
+covered by the Taxonomy Regulation, as well as the necessary knowledge of financial and non-financial
+matters) it would be useful that the Final Report – but not necessarily the RTS – clarify, in regard to
+“professional qualifications” and “relevant experience”, that competence and experience do not need in
+all cases to be demonstrated in relation to all sectors and environmental objectives covered by the EU
+Taxonomy Regulation, but might be limited to specific areas of taxonomy expertise. The external
+reviewer may have limited the scope of its planned activities in its application to ESMA.
+
+For the purposes of Article 3(3) of the proposed draft RTS experience in the “Issuance of debt
+instruments in the capital markets and management of funds within issuing organisations” as well as
+knowledge of the “technical characteristics and performance of” environmentally sustainable projects
+                                                                                                              14 February 2025
+                                                                                                         ESMA84-858037815-195
+
+
+
+
+should also be considered as relevant6, in order to facilitate the integration of other market agents in the
+senior management and boards of external reviewers.
+
+Criteria to assess skill (Article 4 of the proposed draft RTS)
+
+The applicant is asked to provide and assess how the skills of the management is sufficient. The PCC
+would recommend that ESMA over time develops further guidance on what should be considered
+‘sufficiently skilled’. It might – at least initially – be difficult for ESMA, in absence of sufficient supervisory
+experience, to assess if the assessment of the applicant is correct.
+
+Number of analysts (Article 5 of the proposed draft RTS)
+
+The number of analysts should be proportionate in relation to the business that the external reviewer
+will engage in. Article 5 of the proposed RTS included detailed requirements.7
+
+When looking at the number of analysts that the external reviewer has hired, ESMA should require an
+assessment from the applicant, which clearly explains how many reviews each analyst will be expected
+to perform. The PCC believes, which is also partly reflected in the draft RTS, that supervisory
+experiences during the phase-in period – but also in the future activities once the EGB Regulation will
+be fully in place – will be important in order to develop a precise knowledge of how many analysts are
+needed, their knowledge and experience.
+
+ESMA might consider developing an approximate standard ratio of a suitable number of analysts per
+number of issuances, taking into account the complexity of the business – also using the 18-month
+phase-in period – when supervisory experience will have been gained. The PCC would suggest
+developing an understanding on this that can be conveyed to firms when carrying out supervisory
+activities.
+
+The PCC finds that Article 5 of the currently proposed draft RTS is too detailed and difficult to apply. In
+particular, the assessment required from the application to assess how many external reviews they
+expect to make in the next 12-month period seems too difficult to apply. The PCC would recommend as
+an alternative, to ask from the applicant how they plan for various scenarios, for example in terms of an
+important inflow of business and how they plan to ensure high quality in such situations.
+
+Criteria to assess level of knowledge, experience and training of analysts, employees and other
+persons directly involved in assessment activities (Article 6(2) of the proposed RTS)
+
+ESMA should not be over-restrictive and should not provide an exhaustive list of acceptable
+qualifications in order to ensure sufficient flexibility in the qualifications and other experiences required.
+
+
+
+6
+  In line with the requirements currently in place for approved verifiers, under the Climate Bond Initiative – Approved Verifier |
+Climate Bonds Initiative.
+7
+  Article 5 of the proposed RTS asks for:
+a) the roles, related job descriptions and assigned headcount, including the ratio of permanent to temporary employees;
+b) the total number of analysts, employees and other persons directly involved in assessment activities, with a breakdown by
+seniority;
+c) the expected number of assessments to be allocated in the next 12 months per employee and the estimated duration of an
+external review of European Green Bonds;
+d) other tasks or expected allocation for analysts, employees and other persons directly involved in assessment activities; and
+e) assessment activities planned to be outsourced.
+                                                                                               14 February 2025
+                                                                                          ESMA84-858037815-195
+
+
+
+
+This is partly already considered in the proposed draft RTS, but it should be made clear in Article 6(2)
+that it does not contain a closed list, but just a list of examples, as made above under Article 3(3) of the
+same proposed draft RTS. It should be pointed out that Article 6(2) does not contain the term ‘such as’,
+making the list to be read as exhaustive, which should not be the case.
+
+Training possibilities that external reviewers will provide for its staff, and as highlighted in Article 6(2) of
+the proposed draft RTS will be crucial. The PCC believes that this should also allow for a possibility to
+develop and complement experience, thereby providing a method for proportionality so that a slightly
+lesser level of experience in the Green Bonds area might be helped by an ambitious training programme
+with clear requirements on content and timing. Training should allow for analysts moving into the activity
+of EU Green Bonds from other financial sectors and specialities.
+
+While the aim of the EGB Regulation is to create a new standard, the PCC nevertheless find it relevant
+that ESMA in its application of the EGB Regulation considers what is currently already in place in the
+markets. Already today providers in the industry for Green Bonds (even if not EU Green Bonds) provide
+standards that could be considered. The standards from the Climate Bonds Initiative and ICMA ought
+to be taken as baseline.
+
+
+3.4.2 RTS on criteria to assess sound and prudent management and
+      management of conflicts of interest
+
+Conflicts of interests need to be properly identified and managed, eliminated, or managed and disclosed
+in a transparent manner. Therefore, all external reviewers alike need to ensure that they have solid
+conflict of interest arrangements in place.
+
+The proposed draft RTS refers in Article 4 to a description from the external reviewer of the internal
+control mechanisms which shall be in place taking into account the nature, scale and complexity of the
+external reviewer. This reference means that the internal control framework shall be proportionate.
+
+Article 5 of the proposed draft RTS states that the conflict-of-interest policy forms part of the internal
+control mechanism in Article 4, meaning that the proportionality requirement should be applied also in
+relation to the conflict-of-interest policy. This point could be made clearer.
+
+
+3.4.3 RTS on criteria for assessing knowledge and experience of analysts
+
+The comments made above in relation to the proposed draft RTS under Article 23(6) of EGB Regulation
+can largely be made also here. The PCC would again underline the importance of allowing experience
+not only from green bonds but also wider requirement stretching into other types of issuances of financial
+instruments. Training should therefore be used to gain experience. Therefore, a somewhat limited
+experience might be compensated by an ambitious training programme. The PCC welcomes the
+reference to training in the draft RTS.
+
+The proposed draft RTS refers to the use of artificial intelligence (AI) in relation to the assessment
+activities performed by the external reviewers. AI is also referred to in the proposed draft RTS on
+outsourcing, therefore the PCC considers it important to stress that the use of AI should be considered
+as a specific outsourced service, where the external reviewer must be aware of the actual use of AI in
+its activities, the risks associated with it and the proper governance and control mechanisms attached.
+Furthermore, it is also vital that the external reviewer provides sufficient information to the supervisory
+                                                                                            14 February 2025
+                                                                                       ESMA84-858037815-195
+
+
+
+
+authority about the use of AI so that it will be in a position to check the use of these technologies.
+External reviewers might consider making their rules and/or policies on the use of AI publicly available.
+
+
+3.4.4 RTS on criteria applicable to outsourcing of assessment activities
+
+Outsourcing is a method to allow external reviewers of all types – not least smaller entities – to hire its
+competence, where needed. It is therefore a highly useful instrument to allow external reviewers to enter
+the market as they will not have to hire all staff in-house.
+
+It becomes important in this light, to ensure quality in the delivery of the services provided by the firm
+engaged to perform the tasks on behalf of the external reviewer. In order for outsourcing to become a
+useful tool various requirements must be ensured. The outsourcing entity must under all circumstances
+keep the control of the activities, they must keep in-house knowledge of the tasks outsourced in order
+to be able to assess the quality of the work performed. The external reviewer must also be able to take
+back control, also at short notice, both from a legal and practical point of view, and temporarily handle
+the activities themselves in case it is necessary to change provider. Here it should be mentioned that
+reference to ‘exit strategy’ is only referred to regarding third country third-party service providers under
+Article 5(2)(c) of the proposed draft RTS. However this seems to be a valid requirement regarding all
+third-party service providers and not only those from third countries.
+
+Certain activities must be kept in-house at all times. The quality assurance and the responsibility for the
+end product should stay at all times with the outsourcing entity.
+
+There might, potentially be a shortage of specialised firms to which outsourcing can be made, as it might
+be difficult to find staff to hire with sufficient knowledge.
+
+The proposed draft RTS makes specific reference to the use of AI under Article 3(1)(e). The PCC
+considers it important to stress that by using AI, external reviewers must be aware of the actual use of
+AI in their activities, the risks associated with it and the proper governance and control mechanisms
+attached. Furthermore, it is also vital that external reviewers provide sufficient information to the
+supervisory authority about the use of AI so that it will be able to check the use of these technologies.
+External reviewers might also consider making their rules and/or policies on the use of AI publicly
+available.
+                                                                                        14 February 2025
+                                                                                   ESMA84-858037815-195
+
+
+
+
+3.5 Annex V – Final draft technical standards
+
+3.5.1 RTS on criteria relating to the good repute, skill, professional qualifications and
+      experience of the senior management and the members of the board of an
+      external reviewer, as well as the number of analysts, employees and other
+      persons directly involved in its assessment activities and their level of
+      knowledge, experience and training
+
+                      COMMISSION DELEGATED REGULATION (EU) 2025/…
+
+                                                of XXX
+
+      supplementing Regulation (EU) 2023/2631 of the European Parliament and of the
+    Council with regard to regulatory technical standards specifying the criteria relating to
+        the good repute, skill, professional qualifications and experience of the senior
+      management and the members of the board of an external reviewer, as well as the
+     number of analysts, employees and other persons directly involved in its assessment
+                activities and their level of knowledge, experience and training
+
+                                      (Text with EEA relevance)
+
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2023/2631 of the European Parliament and of the Council of
+22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as
+environmentally sustainable and for sustainability-linked bonds8, and in particular Article 23(6),
+third subparagraph, and Article 28(3), third subparagraph, thereof,
+
+
+Whereas:
+(1)         The good repute of the members of senior management and the board of an external
+            reviewer is of paramount importance, given their key role in ensuring that the external
+            reviewer meets its regulatory obligations. An assessment of good repute should be based
+            at least on information on the prior activities of those persons evidencing a lack of good
+            repute, including information on relevant criminal convictions, past misconduct, gross
+            negligence, mismanagement of conflicts of interest or impairments to independence and
+            objectivity, on the honesty, integrity and reputation of members of senior management
+            and the board of an external reviewer.
+
+
+
+8
+    OJ L, 2023/2631, 30.11.2023.
+                                                                                                                14 February 2025
+                                                                                                           ESMA84-858037815-195
+
+
+
+
+(2)       The sufficiency of the skill, professional qualifications and experience of the members
+          of senior management and the board is fundamental, given their accountability for the
+          external reviewer’s activities. An assessment of their sufficiency should have regard to
+          the curriculum vitae of all members of senior management and the board, including up-
+          to-date information on education, training and employment history. The assessment
+          should also have regard to the overall composition and diversity of its senior
+          management and board and their collective skills, professional qualifications and
+          experience, as relevant to the activities of the external reviewer and the risks to which it
+          is exposed.
+(3)       To safeguard the continuity and regularity of external reviews, an external reviewer
+          should ensure an appropriate number of analysts, employees and persons directly
+          involved in assessment activities. In this regard, consideration should be given to
+          information on the staffing arrangements of an external reviewer for analysts,
+          employees and persons directly involved in assessment activities, such as the number of
+          permanent and temporary contracts, the planned effort of assessment activities and the
+          reasons the external reviewer considers the analytical resources to be sufficient.
+(4)       To uphold the quality of external reviews, an external reviewer should ensure adequate
+          levels of knowledge, experience and training among its analysts, employees and other
+          persons directly involved in assessment activities. The assessment should have regard
+          to at least the education, training and employment history of those persons. Furthermore,
+          an external reviewer should put in place a training and development plan for all
+          employees directly involved in assessment activities.
+(5)       As the empowerments in Article 23(6), third subparagraph, and Article 28(3), third
+          subparagraph, of Regulation (EU) 2023/2631 both provide for criteria in relation to
+          knowledge, experience and training of analysts, employees and other persons directly
+          involved in assessment activities, it is appropriate to include them in the same
+          Regulation. The evaluation of the criteria is carried out by ESMA under point (b) of
+          Article 23(1) and by external reviewers under Article 28(1).
+(6)       This Regulation is based on the draft regulatory technical standards submitted to the
+          Commission by ESMA in accordance with Article 10 of Regulation (EU) No 1095/2010
+          of the European Parliament and of the Council9.
+(7)       ESMA has conducted open public consultations on the draft regulatory technical
+          standards on which this Regulation is based, analysed the potential related costs and
+          benefits and requested the advice of the Securities and Markets Stakeholder Group
+          established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the
+          European Parliament and of the Council,
+
+
+
+
+9
+ Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory
+Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC
+(OJ L 331, 15.12.2010, p. 84).
+                                                                                    14 February 2025
+                                                                               ESMA84-858037815-195
+
+
+
+
+HAS ADOPTED THIS REGULATION:
+
+                                            Article 1
+                       Criteria to determine sufficiently good repute
+1. ESMA shall determine the good repute of the senior management and the members of the
+   board of an external reviewer to be sufficient within the meaning of Article 23(2), point (a),
+   point (i), of Regulation (EU) 2023/2631 where the prior activities of those persons
+   demonstrate that they are able to carry out their functions with honesty and integrity.
+2. For the purposes of the determination in paragraph 1, ESMA shall take into account at least
+   the following information:
+   (a) a recent criminal-record file for each of the members of senior management and of the
+       board from their countries of origin, unless the relevant national authorities do not issue
+       such a file;
+   (b) a self-declaration from each of the members of senior management and of the board of
+       whether the member:
+        i. where a criminal-record file is not available, has been convicted of any criminal
+           offence;
+       ii. has been subject to an adverse decision in any proceedings of a disciplinary nature
+           brought by a regulatory authority or government body;
+       iii. has been subject to an adverse judicial finding in civil proceedings before a court in
+            connection with the provision of financial or sustainability-related services, or for
+            impropriety or fraud in the management of a legal entity;
+       iv. has been part of the senior management or board of an undertaking which was
+           subject to an adverse decision or penalty by a regulatory authority or whose
+           registration or authorisation was withdrawn by a regulatory authority;
+        v. has been refused the right to carry out activities which require registration or
+           authorisation by a regulatory authority;
+       vi. has been subject to a fitness and propriety assessment by a regulatory body that has
+           resulted in a negative decision, or a positive assessment subject to specific
+           conditions;
+      vii. has been part of the senior management or board of an undertaking which has gone
+           into insolvency, liquidation or administration while the person was employed by the
+           undertaking or within a year of the person ceasing to be employed by the
+           undertaking;
+     viii. has been fined, suspended, disqualified, or been subject to any other sanction by a
+           professional body related to financial or commercial activities;
+       ix. has been disqualified from acting as a director, disqualified from acting in any
+           managerial capacity, dismissed from employment or other appointment in an
+           undertaking as a consequence of misconduct or malpractice;
+                                                                                   14 February 2025
+                                                                              ESMA84-858037815-195
+
+
+
+
+        x. whether each member of the senior management and board has or has had any
+           relationships, positions or involvement that could, directly or indirectly, affect the
+           interests of an external reviewer and the integrity of its assessment activities.
+
+
+
+
+                                            Article 2
+Criteria to determine sufficient skill, professional qualifications and relevant experience
+1. ESMA shall determine the skill, professional qualifications and relevant experience of
+   senior management and members of the board of an external reviewer to be sufficient within
+   the meaning of Article 23(2), point (a), points (ii) to (iv), of Regulation (EU) 2023/2631
+   where they are appropriate to the nature and scale of the external reviews to be carried out
+   by the external reviewer and the tasks required of external reviewers pursuant to Regulation
+   (EU) 2023/2631.
+2. For the purposes of the determination referred to in paragraph 1, ESMA shall take the
+   following information into account:
+   a) an up-to-date curriculum vitae of each member of the senior management and board of
+      an external reviewer setting out details of information relevant to the tasks required of
+      external reviewers pursuant to Regulation (EU) 2023/2631, including:
+       (i)     details of education, including academic and professional certifications and
+               other relevant training;
+       (ii)    employment history, including the scope and duration of the functions
+               performed, highlighting any activities relevant to the position occupied in the
+               external reviewer;
+   b) the relevance of the knowledge attained through education and training to financial or
+      sustainability-related services for the business of external reviewers;
+   c) the relevance of professional experience gained in activities such as quality assurance,
+      quality control, the performance of pre, post-issuance and impact report reviews, the
+      provision of second party alignment opinions or financial services;
+   d) the collective and up-to-date skills, professional qualifications and experience of the
+      senior management and the members of the board relevant to the tasks required of
+      external reviewers pursuant to Regulation (EU) 2023/2631 and related risks.
+
+                                            Article 3
+  Criteria to determine the sufficient number of analysts, employees and other persons
+                        directly involved in assessment activities
+1. ESMA shall determine the number of analysts, employees and other persons directly
+   involved in assessment activities of an external reviewer to be sufficient within the meaning
+   of Article 23(2), point (b), of Regulation (EU) 2023/2631 where the number is appropriate
+   to the nature and scale of the external reviews to be carried out by the external reviewer and
+   the tasks required of external reviewers pursuant to Regulation (EU) 2023/2631.
+                                                                                   14 February 2025
+                                                                              ESMA84-858037815-195
+
+
+
+
+2. For the purposes of the determination in paragraph 1, ESMA shall take the following
+   information into account:
+  (a) the total numbers of analysts, employees and other persons directly involved in
+      assessment activities, their seniority, their job descriptions, the permanent or temporary
+      nature of their employment contracts and the reasons the numbers and roles are
+      considered by the external reviewer to be appropriate;
+  (b) the expected number and duration of external reviews to be provided in the next 24
+      months and the reasons that number and duration are considered by the external reviewer
+      to be appropriate.
+
+
+                                           Article 4
+   Criteria for ESMA to determine the sufficient levels of knowledge, experience and
+                                      training
+1. ESMA shall determine the knowledge, experience and training of the analysts, employees
+   and other persons directly involved in assessment activities to be sufficient within the
+   meaning of Article 23(2), paragraph (a), point (iv), where the knowledge, experience and
+   training are appropriate to the nature and scale of the external reviews to be carried out by
+   the external reviewer and the tasks required of external reviewers pursuant to Regulation
+   (EU) 2023/2631.
+2. For the purposes of paragraph 1, ESMA shall take into account at least the following
+   information:
+  (a) the type of assessment activities that the persons directly involved in assessment
+      activities are expected to provide in the next 24 months;
+  (b) the employment history of those persons, including the nature and length of services
+      provided in previous posts and responsibilities held;
+  (c) the experience of those persons related to quality assurance, quality control, the
+      performance of pre-issuance, post-issuance and impact report reviews, the provision of
+      second party alignment opinions or financial services;
+  (d) the educational background of those persons and any relevant professional certifications
+      or qualifications obtained;
+  (e) other relevant professional and academic achievements of those persons for the nature
+      of their functions;
+  (f) the training and development plan for those persons;
+  (g) where applicable, the use of automation technology in the assessment activities;
+  (h) the most recent assessment of the external reviewer pursuant to Article 5 and the reasons
+      for its conclusions.
+
+
+                                           Article 5
+                                                                                   14 February 2025
+                                                                              ESMA84-858037815-195
+
+
+
+
+     Criteria for external reviewers to determine the necessary levels of knowledge,
+                                 experience and training
+1. External reviewers shall determine that they have the necessary knowledge, experience and
+   training of the analysts, employees and other persons directly involved in assessment
+   activities exists pursuant to Article 28(1) of Regulation (EU) 2023/2631 where the
+   knowledge, experience and training are appropriate to the nature and scale of the external
+   reviews to be carried out by the external reviewer and the tasks required of external
+   reviewers pursuant to Regulation (EU) 2023/2631.
+2. The evaluation referred to in paragraph 1 shall take into account at least the information
+   referred to in Article 4(2), points (a) to (g). The evaluation shall be carried out prior to
+   providing external review activities and thereafter at least once every 24 months or as soon
+   as the external reviewer becomes aware of significant deviations in the level of knowledge,
+   experience and training of the analysts, employees and other persons directly involved in
+   assessment activities.
+
+                                           Article 6
+                                       Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels,
+
+
+
+                                             For the Commission
+                                             On behalf of the President
+                                                                                        14 February 2025
+                                                                                   ESMA84-858037815-195
+
+
+
+
+3.5.2 RTS on criteria to assess sound and prudent management and management of
+      conflicts of interest
+
+                       COMMISSION DELEGATED REGULATION (EU) 2025/…
+
+                                                 of XXX
+
+        supplementing Regulation (EU) 2023/2631 of the European Parliament and of the
+         Council with regard to regulatory technical standards specifying the criteria for
+        assessing the sound and prudent management and the management of conflicts of
+                                 interest of an external reviewer
+
+                                      (Text with EEA relevance)
+
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2023/2631 of the European Parliament and of the Council of
+22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as
+environmentally sustainable and for sustainability-linked bonds 10 , and in particular Article
+27(2), third subparagraph, thereof,
+Whereas:
+(1)          To ensure that decision-making structures provide for the sound and prudent
+             management of the external reviewer, external reviewers should have corporate
+             governance arrangements that specify the organisation, scope, purpose and functioning
+             of their governance bodies, such as the board, supervisory body and relevant
+             committees.
+(2)          Maintaining a transparent and effective organisational structure is also a key component
+             of sound and prudent management. An external reviewer should have clear reporting
+             lines, responsibilities of roles and communication channels that encourage
+             accountability and decision-making to ensure transparency and effectivness of their
+             organisational structure. For the same reason, external reviewers should also implement
+             and properly document appropriate policies and procedures as regards their governance
+             structures, internal controls, business continuity, information processing systems,
+             recordkeeping, administration and accounting.
+(3)          Given the importance of the internal control functions to the sound and prudent
+             management of an external reviewer, external reviewers should put in place an internal
+             control framework that ensures the persons responsible for performing that function are
+
+
+
+
+10
+     OJ L, 2023/2631, 30.11.2023.
+                                                                                                                14 February 2025
+                                                                                                           ESMA84-858037815-195
+
+
+
+
+          appropriately empowered and that there is a clear segregation from the business lines
+          they are overseeing.
+(4)       To ensure sound and prudent management of the compliance with their obligations
+          under Regulation (EU) 2023/2361, external reviewers should ensure that the policies
+          and procedures needed to comply with that Regulation are approved by their board.
+(5)       The conflicts of interest management framework of an external reviewer should include
+          a comprehensive conflicts of interest policy approved by the board and an inventory of
+          conflicts of interest. The conflicts of interest policy should include risk management
+          procedures and controls to identify, eliminate or manage and disclose in a transparent
+          manner actual or potential conflicts of interest. The policy should also identify which
+          conflicts of interest the external reviewer considers are to be managed or disclosed in a
+          transparent manner and which conflicts of interest are to be eliminated. In addition, the
+          policy should provide for appropriate oversight and management of situations where
+          professional judgement or decision making may be compromised.
+(6)       This Regulation is based on the draft regulatory technical standards submitted to the
+          Commission by ESMA in accordance with Article 10 of Regulation (EU) No 1095/2010
+          of the European Parliament and of the Council11.
+(7)       ESMA has conducted open public consultations on the draft regulatory technical
+          standards on which this Regulation is based, analysed the potential related costs and
+          benefits and requested the advice of the Securities and Markets Stakeholder Group
+          established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the
+          European Parliament and of the Council,
+
+
+HAS ADOPTED THIS REGULATION:
+
+                                                           Article 1
+                         Criteria for assessing sound and prudent management
+
+1. External reviewers shall ensure the following criteria are fulfilled when assessing their
+   sound and prudent management:
+      (a) the corporate governance arrangements specify at least the organisation, scope, purpose
+          and functioning of the governance bodies of the external reviewer, including clear
+          reporting lines, responsibilities of roles and communication channels;
+      (b) there is an internal control framework;
+      (c) the organisational arrangements ensure continuity and regularity in the performance of
+          assessment activities, safeguarding of the confidentiality and security of records of the
+
+
+
+
+11
+  Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory
+Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC
+(OJ L 331, 15.12.2010, p. 84).
+                                                                                    14 February 2025
+                                                                               ESMA84-858037815-195
+
+
+
+
+      services provided, sound administrative and accounting procedures and adequate
+      information processing systems;
+  (d) the anonymity of whistleblowers is safeguarded and reprisals are prohibited;
+  (e) transactions with related parties, employee personal account dealing, outside business
+      activities and the acceptance of gifts and hospitality are reviewed and approved
+      consistently;
+  (f) the independence of the employees subject to variable compensation arrangements is
+      ensured;
+  (g) the policies and procedures adopted by an external reviewer in compliance with this
+      Regulation are approved by the board of the external reviewer.
+2. External reviewers shall ensure that the internal control framework referred to in paragraph
+   1, point (b), fulfils the following criteria:
+  (a) the internal control mechanisms are adapted to the nature, scale and complexity of the
+      external reviewer;
+  (b) the persons responsible for internal controls are able to obtain the information necessary
+      to perform their function and report their findings to the board of the external reviewer;
+  (c) the internal control functions are independent and clearly segregated from the business
+      lines performing the assessment activities.
+
+                                             Article 2
+               Criteria for assessing the management of conflicts of interest
+   External reviewers shall ensure that the following criteria are fulfilled when assessing the
+   management of conflicts of interest:
+
+   (a) there is a conflicts of interest policy;
+   (b) there is an appropriate and effective compliance process for monitoring the
+       implementation of the policy, including board oversight;
+   (c) there are procedures for training and raising awareness of the content of the policy to
+       senior management, members of the board, analysts, employees and any other natural
+       person whose services are placed at the disposal or under the control of the external
+       reviewer, including before those persons first take up their duties.
+   (d) an inventory of actual or potential conflicts of interest relevant to the external reviewer
+       is kept, including proposed mitigation measures;
+   (e) risk management procedures and preventative and detective controls with respect to the
+       identification, elimination, management and disclosure of conflicts of interest are in
+       place;
+   (f) the conflicts of interest to be eliminated or managed and disclosed in a transparent
+       manner are identified;
+                                                                                   14 February 2025
+                                                                              ESMA84-858037815-195
+
+
+
+
+   (g) the independence of analysts, employees and other persons directly involved in
+       assessment activities is ensured.
+
+                                           Article 3
+                                       Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels,
+
+
+
+                                             For the Commission
+                                             On behalf of the President
+                                                                                          14 February 2025
+                                                                                     ESMA84-858037815-195
+
+
+
+
+3.5.3 RTS on criteria on applicable to outsourcing of assessment activities
+
+
+                        COMMISSION DELEGATED REGULATION (EU) 2025/…
+
+                                                                  of XXX
+
+       supplementing Regulation (EU) 2023/2631 of the European Parliament and of the
+     Council with regard to regulatory technical standards specifying criteria in relation to
+      the performance of assessment activities of external reviewers by third-party service
+                                           providers
+
+                                                   (Text with EEA relevance)
+
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2023/2631 of the European Parliament and of the Council of
+22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as
+environmentally sustainable and for sustainability-linked bonds 12 , and in particular Article
+33(7), third subparagraph, thereof,
+
+
+Whereas:
+(1)          External reviewers should assess the ability and capacity of third-party service providers
+             to perform assessment activities reliably and professionally by considering whether the
+             expertise and availability of the third-party service provider are appropriate to the
+             outsourced activities. For this purpose, external reviewers should take into account key
+             elements relating to the third-party service provider and the outsourcing arrangement
+             such as its business model, the qualifications of its staff, the control framework, the use
+             of automation and technology in the outsourced assessment activities and its regulatory
+             compliance.
+(2)          External reviewers should ensure that the outsourcing of assessment activities does not
+             materially impair the quality of their internal control by evaluating the extent of their
+             reliance on the third-party service provider and by undertaking monitoring and control
+             activities that address the risks arising from the outsourcing. External reviewers should
+             ensure that internal controls are applied at the level of the external reviewer and at the
+             level of the third-party service provider to ensure adequate arrangements are in place in
+             relation to the quality of service provided by the third-party service provider. It is also
+             important that external reviewers ensure that ESMA’s ability to supervise their
+             compliance with Regulation (EU) 2023/2631 is not materially impaired. through
+
+12
+     OJ L, 2023/2631, 30.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2631/oj.
+                                                                                                                14 February 2025
+                                                                                                           ESMA84-858037815-195
+
+
+
+
+          adequate practices in relation to documentation and recordkeeping by third-party service
+          providers. This is to ensure that an external reviewer and ESMA have access to all
+          necessary information. External reviewers should also put in place appropriate
+          safeguards to monitor the outsourcing, including where outsourcing takes place in third
+          countries.
+(3)       To ensure a sufficient degree of oversight over outsourced activities, external reviewers
+          should carry out assessments to evaluate the criteria set out in this Regulation on a
+          regular basis.
+(4)       This Regulation is based on the draft regulatory technical standards submitted to the
+          Commission by ESMA in accordance with Article 10 of Regulation (EU) No 1095/2010
+          of the European Parliament and of the Council13.
+(5)       ESMA has conducted open public consultations on the draft regulatory technical
+          standards on which this Regulation is based, analysed the potential related costs and
+          benefits and requested the advice of the Securities and Markets Stakeholder Group
+          established in accordance with Article 37 of Regulation (EU) No 1095/2010,
+
+
+HAS ADOPTED THIS REGULATION:
+
+                                                           Article 1
+      Criteria for assessing the ability and capacity of third-party service providers to
+                                 perform assessment activities
+1. External reviewers shall ensure that the following criteria are fulfilled when assessing the
+   ability and capacity of third-party service providers to perform assessment activities reliably
+   and professionally:
+      (a) the third-party service provider has expertise in the subject matters of the outsourced
+          activities;
+      (b) the third-party service provider is available to provide the outsourced activities for the
+          duration of the planned outsourcing;
+      (c) the third-party service provider has in place an internal control framework to ensure the
+          adequate performance of the outsourced activities.
+2. The assessment referred to in paragraph 1 shall take into account at least the following
+   information in relation to the third-party service provider:
+      (a) the business model, services offered, ownership, group structure and status as a
+          regulated or supervised entity;
+      (b) the qualifications of the staff involved in the outsourced assessment activities;
+
+
+
+
+13
+  Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory
+Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC
+(OJ L 331, 15.12.2010, p. 84).
+                                                                                      14 February 2025
+                                                                                 ESMA84-858037815-195
+
+
+
+
+   (c) the policies and procedures in place for the performance of the outsourced activities,
+       including the use of accurate and reliable information and data;
+   (d) the controls and monitoring activities in place to ensure the effective application of the
+       policies and procedures for the performance of the outsourced activities;
+   (e) where applicable, the use of automation technology in the assessment activities;
+   (f) legal and regulatory requirements applicable to the activities of the third-party service
+       provider.
+
+                                             Article 2
+ Criteria for ensuring that outsourcing assessment activities does not materially impair
+                the quality of the internal control of the external reviewer
+   External reviewers shall ensure that the following criteria are fulfilled to ensure that
+   outsourcing of assessment activities does not materially impair the quality of their internal
+   control:
+   (a) the expected number and type of assessment activities to be outsourced do not give rise
+       to an over-reliance on the third-party service provider;
+   (b) safeguards are in place to manage the risks involved in the outsourcing, including
+       dependency risks for the provision of the outsourced assessment activities;
+   (c) arrangements are in place for continuity of service, including contingency plans and
+       periodic testing of back-up facilities;
+   (d) arrangements are in place for security of data and systems, including any use of cloud
+       technology;
+   (e) safeguards are in place to ensure that the external reviewer is capable of monitoring and
+       overseeing the outsourced assessment activities;
+   (f) if the third-party service provider is contractually permitted to further outsource the
+       performance of the assessment activities, those activities are carried out in accordance
+       with paragraphs (a) to (f).
+
+                                             Article 3
+ Criteria for ensuring that outsourcing assessment activities does not materially impair
+              ESMA’s ability to supervise compliance of external reviewers
+External reviewers shall ensure that the following criteria are fulfilled to ensure that outsourcing
+does not materially impair ESMA’s ability to supervise their compliance with Regulation (EU)
+2023/2631:
+   (a) an appropriate level of documentation and recordkeeping of all the names and positions
+       of the persons responsible for approving and monitoring the outsourcing is maintained;
+   (b) the third-party service provider is capable of providing the external reviewer with all
+       the necessary information concerning outsourced assessment activities required by the
+                                                                                     14 February 2025
+                                                                                ESMA84-858037815-195
+
+
+
+
+       external reviewer to demonstrate the external reviewer’s compliance with the
+       requirements of Regulation (EU) 2023/2631;
+   (c) where assessment activities are outsourced to a third-country third-party service
+       provider, the external reviewer and the third-party service provider have procedures to
+       ensure the management of risks arising from the following:
+       (i) diverging regulatory requirements or legal systems;
+       (ii) timely execution of exit strategies;
+       (iii) information and data security;
+       (iv) protection of confidential information;
+
+       (v) prompt access for ESMA and the external reviewer to the third-party records,
+       including where they are maintained in third-country jurisdictions.
+
+                                              Article 4
+                                     Evaluation of criteria
+The external reviewer shall carry out an evaluation of the criteria in this Regulation prior to the
+commencement of the outsourced assessment activity and thereafter, at least once every 12
+months or as soon as the external reviewer becomes aware of significant deviations in the ability
+of third-party service providers to perform the assessment activities reliably and professionally.
+
+                                              Article 5
+                                        Entry into force
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels,
+
+
+
+
+                                                     For the Commission
+                                               On behalf of the President
+                                                                                       14 February 2025
+                                                                                  ESMA84-858037815-195
+
+
+
+
+3.5.4 ITS on forms, templates and procedures for the application for registration as
+      an external reviewer
+
+                  COMMISSION IMPLEMENTING REGULATION (EU) 2024/…
+
+                                                of XXX
+
+     laying down implementing technical standards for the application of Regulation (EU)
+     2023/2631 of the European Parliament and of the Council with regard to the standard
+       forms, templates and procedures for the application for registration as an external
+                             reviewer for European Green Bonds
+
+                                     (Text with EEA relevance)
+
+
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) 2023/2631 of the European Parliament and of the Council of
+22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as
+environmentally sustainable and for sustainability-linked bonds 14 , and in particular Article
+23(7), fourth subparagraph, thereof,
+Whereas:
+(6)         It is necessary that the information provided in an application for registration as an
+            external reviewer enables ESMA to assess the conditions referred to in Article 23(2) of
+            Regulation (EU) 2023/2631. Those conditions include the criteria specified in
+            Commission Delegated Regulations (EU) [XYZ]/2025 [RTS on good repute] and (EU)
+            [XYZ]/2025 [RTS on sound and prudent management] as well as the other delegated
+            acts to be adopted by the Commission in accordance with Regulation (EU) 2023/2631.
+            Accordingly, this Regulation should ensure that an application for registration includes
+            sufficient information on how an applicant meets those conditions.
+(7)         To safeguard security and enhance data management and usability, digital means of
+            registration have been taken into account in setting out the standard forms, templates
+            and procedures to be used by an application for an application for registration as an
+            external reviewer. Any information submitted to ESMA in an application should be
+            machine-readable and provided in a durable medium.
+(8)         In order to facilitate the identification of the information submitted by an applicant,
+            documents included with an application should bear a unique reference number.
+
+
+
+
+14
+     OJ L, 2023/2631, 30.11.2023.
+                                                                                                      14 February 2025
+                                                                                                 ESMA84-858037815-195
+
+
+
+
+(9)      For assurance and accountability purposes, an application submitted to ESMA should
+         be accompanied by a letter signed by a member of the senior management of the
+         applicant, attesting that the submitted information is accurate and complete to the best
+         of that member’s knowledge.
+(10)     This Regulation is based on the draft implementing technical standards submitted to the
+         Commission by ESMA.
+(11)     ESMA has conducted open public consultations on the draft implementing technical
+         standards on which this Regulation is based and analysed the potential related costs and
+         benefits and requested the advice of the Securities and Markets Stakeholder Group
+         established in accordance with Article 37 of Regulation (EU) 1095/2010 of the
+         European Parliament and of the Council15.
+HAS ADOPTED THIS REGULATION:
+                                           Article 1
+       Application for registration as an external reviewer for European Green Bonds
+
+1. An applicant for registration as an external reviewer of European Green Bonds shall submit
+   the information referred to in the Annexes to this Regulation in the format set out in those
+   Annexes.
+2. An applicant shall provide its application to ESMA in a machine-readable format which
+   stores information in a way accessible for future reference for a period of time adequate for
+   the purposes of the information and which allows the unchanged reproduction of the
+   information stored.
+3. An applicant shall give a unique reference number to each document it submits. It shall
+   ensure that the information it submits clearly identifies to which specific requirement of this
+   Regulation it refers and in which document that information is provided. The applicant shall
+   submit the table set out in Annex I as part of its application to clearly identify the document
+   in which information required under this Regulation is provided.
+4. If a requirement of this Regulation does not apply to the application, the applicant shall state
+   this in the table set out in Annex I and provide an explanation.
+5. An applicant shall accompany its application with a letter signed by a member of the
+   external reviewer’s senior management, attesting that the submitted information is accurate
+   and complete to the best of the member’s knowledge, as of the date of that submission.
+
+                                                    Article 2
+                                                 Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+
+15
+  Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European
+Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing
+Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).
+                                                                                   14 February 2025
+                                                                              ESMA84-858037815-195
+
+
+
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels,
+
+
+
+
+                                             For the Commission
+                                             On behalf of the President
+                                                         ANNEX I
+
+                                                   DOCUMENT REFERENCES
+
+
+
+
+     Annex to this    Unique reference   Title of the    Chapter or section or page of the document where the information is
+      Regulation          number         document             provided or reason why the information is not provided
+
+
+
+
+                                                         ANNEX II
+
+                                                   GENERAL INFORMATION
+
+
+
+Full name of the applicant
+
+
+
+                                                             60
+Address of registered office within the Union   [Country, city, street address, postal code]
+
+Website
+Legal Entity Identifier (LEI) (where
+available)
+                                                Name
+
+                                                Title
+
+Contact person(s)                               Address                                        [Country, city, street address, postal code]
+
+                                                Email address
+
+                                                Telephone number
+
+Legal form of the applicant
+
+
+
+
+                                                                       61
+                                              ANNEX III
+
+                                     OWNERSHIP STRUCTURE
+
+
+                                                                                      Percentage
+                                                          Percentage     Nature of      of the
+                           Owner
+                                                           of capital   the holding     voting
+                                                                                        rights
+                                                                        [Direct or
+[Please specify whether legal or natural person]
+                                                                        indirect]
+
+
+
+
+                                                   62
+                                                              ANNEX IV
+
+                                   MEMBERS OF SENIOR MANAGEMENT AND THE BOARD
+
+
+                                                                                                      Submitted documents
+
+                                   Membe                                                                           Declaration of fitness and
+                           Board    r of             Place                                Criminal-record file     propriety and conflicts of
+                                          Date of
+         Name              membe   senior             of         Role        CV         referred to in Article 2,    interest referred to in
+                                           birth
+                             r     manag             birth                             point (a), of Commission     Article 2, point (b), of
+                                   ement                                              Delegated Regulation (EU)     Commission Delegated
+                                                                                      [XYZ]/2025 [RTS on good          Regulation (EU)
+                                                                                                 repute]          [XYZ]/2025 [RTS on good
+                                                                                                                            repute]
+
+                                          [DD/M      [City,                           [Reference number]
+                                                                         [Reference
+[First name] [Last name]                  M/YYY     Countr                                                        [Reference number]
+                                                                         number]
+                                          Y]        y]
+
+
+
+
+                                                                 63
+                                                                      ANNEX V
+
+                                                           ANALYTICAL RESOURCES
+
+1. Information regarding analysts, employees and other persons directly involved in assessment activities
+
+                                                              Please select the
+                                                             appropriate column          Years in     Years in the
+                            Name                Role                                                                     CV
+                                                           Temporary Permanent             role        industry
+
+
+
+
+The information on the number of employees shall be provided on a full-time equivalent (FTE) basis calculated as the total hours worked divided by the
+maximum number of hours subject to compensation within a working year as defined by the relevant national law.
+
+
+
+
+2. Information regarding the assessment activities
+
+ Estimated duration of an external review                                                                   [number of days]
+
+ Expected number of assessments in the next 24 months                                                       [number]
+
+
+
+
+                                                                          64
+3. Information on the evaluation of the external reviewer
+
+ Reasons that the number of analysts,
+ employees and other persons directly
+ involved in assessment activities and
+ their roles are considered by the
+ external reviewer to be appropriate
+ Reasons that the number and duration
+ of external reviews are considered by
+ the external reviewer to be appropriate
+
+
+
+
+                                                                       ANNEX VI
+
+                                                            POLICIES AND PROCEDURES
+
+
+
+ Point                                                      Topic                                                      Reference number
+
+
+         Training and development plan for analysts, employees and other persons directly involved in assessment
+   1
+         activities
+         Evaluation of the external reviewer that the knowledge, experience and training of analysts, employees
+         and other persons directly involved in assessment activities are appropriate to the nature and scale of the
+   2
+         external reviews to be carried out by the external reviewer and the tasks required of external reviewers
+         pursuant to Regulation (EU) 2023/2631
+
+
+
+                                                                            65
+    Policies and procedures put in place to ensure:
+           a) the continuity and regularity in the performance of assessment activities;
+           b) the safeguarding of the confidentiality and security of records and documents on the services
+3             provided;
+           c) sound administrative and accounting procedures;
+           d) the adequacy of information processing systems implemented to meet the obligations of an
+              external reviewer.
+    Policies and procedures outlining the internal control framework
+
+4
+    [In case of a large number of documents, the documents shall be grouped according to the relevant areas
+    of the internal control framework.]
+    Policies and procedures to ensure the internal control framework complies with the criteria referred to in
+5   Article 1(2) of Commission Delegated Regulation (EU) [XYZ]/2025 [RTS on sound and prudent
+    management]
+    Whistleblower policy ensuring that the anonymity of whistleblowers is safeguarded and reprisals are
+6
+    prohibited
+
+    Remuneration policy ensuring the independence of the employees subject to variable compensation
+7
+    arrangements
+
+
+8   Procedures and methodologies implemented to issue reviews
+
+
+9   Terms of reference of the governance bodies, including the board and, where established, its committees
+
+
+
+
+                                                                       66
+10   Last meeting minutes of the board
+
+
+11   Organisational chart, including the identification of reporting lines and job functions
+
+
+12   Conflicts of interest policy
+
+
+13   Inventory of actual or potential conflicts of interest and proposed mitigation measures
+
+     Information on how potential conflicts of interest situations, including transactions with related parties,
+14   employee personal account dealing, outside business activities and the acceptance of gifts and hospitality
+     are reviewed and approved consistently
+     Documents and information related to any existing or planned outsourcing arrangements for activities of
+     the external reviewer covered by Regulation (EU) 2023/2631, including information on entities assuming
+15
+     outsourcing functions, and the evaluation of how the external reviewer ensures compliance with Article
+     33(1) of that Regulation
+
+
+
+
+                                                                        67
+                                                    ANNEX VII
+
+                                    OTHER ACTIVITIES OF THE EXTERNAL REVIEWER
+
+
+
+              Activity                                 Description              Offered through subsidiaries
+
+[NACE code of the activity, where                                               [Yes/No: if Yes, please provide
+available]                                                                      the name of the entity]
+
+
+
+
+                                                       68
+

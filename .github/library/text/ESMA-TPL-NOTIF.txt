@@ -1,0 +1,20 @@
+SOURCE: Notification of intention to apply (Art 51)
+REFERENCE: 
+DATE: 2026-06
+URL: https://www.esma.europa.eu/sites/default/files/2026-06/Notification_of_intention_to_apply.xlsx
+FILE: sources/ESMA_template_Notification_of_intention_to_apply.xlsx
+
+=== SHEET: Art. 51 Notification ===
+Notification under Article 51 of Regulation (EU) 2024/3005
+1 | Full name of notifying entity
+2 | Address of registered office
+3 | Website | [Where available]
+4 | Legal Entity Identifier (LEI) | [Where available]
+5 | Contact person | Name
+7 | Address
+8 | Email address
+9 | Telephone number
+10 | Legal form of notifying entity
+11 | Intended application regime | [Article 5, Article 6 or Article 12]
+12 | Planned date of submission
+=== SHEET: Test ===

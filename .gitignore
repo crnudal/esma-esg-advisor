@@ -1,0 +1,5 @@
+.DS_Store
+.venv/
+__pycache__/
+esma_library/
+esma_library.zip

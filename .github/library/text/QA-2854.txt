@@ -1,0 +1,54 @@
+SOURCE: Transitional provisions
+REFERENCE: ESMA_QA_2854
+DATE: 2026-05-22
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2854
+FILE: sources/QA_2854.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2854
+
+22/05/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Transitional provisions
+
+ Original question
+
+In advance of the date of application of the Regulation on 2 July 2026, what are the different registration pathways for ESG rating providers?
+
+ESMA Answer
+
+22-05-2026
+
+ Original language
+
+The Regulation provides several different routes to registration for ESG rating providers intending to operate in the Union. 
+
+For small ESG rating providers within the meaning of Article 5(1): 
+
+Those operating in the Union at the date of entry into force of the Regulation have until 2 November to notify ESMA to be included in the Article 14 register and should, ideally, notify ESMA by 2 September. If no notification takes place, they must cease their activities, 
+
+Those who started their operations after the date of entry into force should notify ESMA from 2 July 2026 in order to be included in the Article 14 register. If no notification takes place, they must cease their activities. 
+
+For all other ESG rating providers: 
+
+Those operating at the date of entry into force can apply for authorisation or recognition up to four months after 2 July 2026, after having first notified ESMA by 2 August 2026 that they wish to continue operating in the Union. Until ESMA decides whether to grant authorisation, they may continue their operations. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Application to operate in the Union

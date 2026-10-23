@@ -1,0 +1,1455 @@
+SOURCE: Outcome of ESMA Call for Evidence on ESG rating and data providers (letter to the Commission)
+REFERENCE: ESMA22-328-603
+DATE: 2022-06-24
+URL: https://www.esma.europa.eu/sites/default/files/library/esma80-416-347_letter_on_esg_ratings_call_for_evidence_june_2022.pdf
+FILE: sources/ESMA_2022-06-24_Call_for_Evidence_Outcome.pdf
+
+                                                                                                   The Chair
+                                                                                                   24 June 2022
+                                                                                                   ESMA22-328-603
+
+
+
+
+                                                                           Mr John Berrigan
+                                                                           Director General
+                                                                           Directorate General for Financial
+                                                                           Stability, Financial Services and
+                                                                           Capital Markets Union
+                                                                           European Commission
+                                                                           Rue de la Loi I/Wetstraat 200
+                                                                           1049 Brussels, Belgium
+
+
+
+Ref: Outcome of ESMA Call for Evidence on Market Characteristics of ESG
+Rating and Data Providers in the EU
+
+Dear Mr Berrigan, dear Sean,
+
+I am pleased to be able to provide you with ESMA’s overview of the market for ESG rating
+providers in the EU which is a key topic under both the European Commission’s Strategy for
+Financing the Transition to a Sustainable Economy1 and ESMA’s Sustainable Finance
+Roadmap2.
+
+As requested in your correspondence of 12 November 2021, ESMA has conducted a public
+call for evidence to gather information on the nature and scale of the market for these products
+in the EU 3. We are confident that the strong interest to this call for evidence has enabled us to
+draw some conclusions that will prove useful for the European Commission’s deliberations 4.
+While our main line of enquiry has been to establish the number of ESG rating providers active
+in the EU, we are also pleased to provide ancillary information on the characteristics of these
+provider and their business models that may be of relevance for your staff’s considerations.
+Based on our initial analysis, these conclusions generally confirm the concerns raised in
+ESMA’s letter to Commissioner Mairead McGuinness in January 20215.
+
+Our input is structured to first provide a short introduction to the broader context in which this
+call for evidence was launched, and the key objectives that have guided its development. After
+this, we provide the key findings, both overall, and for the different categories of respondents.
+Finally, we close by outlining our view on the nature and scale of this market in the EU.
+
+
+
+
+1 COM (2021) 390 final Strategy for Financing the Transition to a Sustainable Economy
+2 ESMA Sustainable Finance Roadmap 2022-2024
+3 ESMA80-416-250 Call for Evidence on ESG Rating Providers in the EU
+4 In total, 154 responses were received across the three categories of respondent from which input was sought.
+5 ESMA30-379-423, Letter to European Commission on ESG ratings and assessment tools
+
+
+
+
+ESMA • 201-203 rue de Bercy • CS 80910 • 75589 Paris Cedex 12 • France • Tel. +33 (0) 1 58 36 43 21 • www.esma.europa.eu
+Background
+
+Before discussing the findings arising from the call for evidence, I would like to first draw your
+attention to some of the main developments in this area at international level. First, at a global
+level, IOSCO’s Task Force on Sustainability has recently conducted a similar stock-taking
+exercise and delivered a set of recommendations for ESG rating and data providers 6. As co-
+chair of the workstream that delivered this report, we are pleased that IOSCO has taken a first,
+clear step to signal securities regulator’s expectations on the quality, reliability and
+transparency of these products. Second, we are seeing a growing momentum amongst
+regulators and supervisory bodies in a number of jurisdictions to assess whether there is a
+need for specific regulatory intervention in this area to address issues such as transparency,
+governance and conflicts of interest 789. At the same time, we are also seeing regulators of credit
+rating agencies in other jurisdictions begin to assess whether these products pose issues that
+are relevant to their supervisory mandates 10.
+
+For these reasons, we are pleased that the European Commission is actively engaging on this
+topic through the publication of its own consultation on the functioning of the market for ESG
+ratings in the European Union 11. This consultation demonstrates the European Commission’s
+commitment to taking a leading role on this important topic and will help maintain the
+momentum of recent actions under the Strategy for Financing a Transition to a Sustainable
+Economy.
+
+Objective of Call for Evidence
+
+The core objective of our call for evidence has been to develop an understanding of the market
+for ESG rating providers active in the EU 12 as well as to gather the views of users and entities
+covered by ESG ratings. To achieve this, we split the call for evidence into three parts. The
+first part sought input directly from ESG rating providers, the questions here aimed to establish
+providers’ legal status, ownership structure, level of resourcing and business model. The
+second part sought input from entities using ESG rating products. The questions here aimed
+to establish the nature of their engagement with ESG rating providers and the characteristics
+of any contractual arrangements. The third and final part of the call for evidence sought input
+from entities that are covered or “rated” by these providers. The questions in this part aimed
+to establish the nature of covered entities’ interaction with ESG rating providers and any
+associated costs. In totality, we considered that responses from these three categories would
+provide us with a reliable overview on the main characteristics of the market.
+
+
+6 FR 09/21 November 2021 Environmental, Social and Governance (ESG) Rating and Data Products Providers
+7 United Kingdom FCA CP21/18 Enhancing climate-related disclosures by standard listed companies seeking views on ESG topics in capital
+markets
+8 Securities and Exchange Board of India – Consultation Paper on Environmental, Social and Governance (ESG) Rating Providers – 24/01/22
+9 Financial Services Agency Japan – Establishment of Technical Committee for ESG Rating and Data Providers – 17/02/22
+10US SEC Office of Credit Ratings Staff Report on Nationally Recognised Statistical Rating Organizations January 2022.
+11 Targeted Consultation on the functioning of the ESG ratings market in the European Union and on the consideration of ESG factors in credit
+
+ratings
+12 The term “active in the EU” is used to refer to ESG ratings providers who are either, for example, located in the EU, have clients who are
+
+based in the EU or who are located outside the EU but provide ESG ratings on entities that are headquartered in the EU.
+
+
+
+                                                                                                                                           2
+Overview of Findings
+
+In total we received 154 responses to the Call for Evidence split over the three categories of
+respondent. Based on careful consideration our principal finding is that the number of ESG
+rating providers currently active in the EU is 5913. This figure is derived from a combination of
+information provided by ESG rating providers, users and entities covered by ESG rating
+providers.
+
+Based on a cross comparison with the responses to the IOSCO consultation, and other
+publications1415, we now consider this number to be a reliable indicator for the size of the market
+in the EU.
+
+The analysis of the responses to our call for evidence indicates a number of key characteristics
+and trends. First, the structure of the market among providers is split between a small number
+of very large non-EU entities on one hand, and a large number of significantly smaller EU
+entities on the other. The EU entities providing ESG ratings can largely be characterised as
+small or medium sized enterprises. While the legal entities of respondents were spread out
+across almost half of the EU Member States, a large number of these were clustered in only
+three Member States. The predominant business model is investor-pays, however, provision
+of ESG ratings on an issuer-pays basis is more prevalent than anticipated and was indicated
+in around a third of responses from providers.
+
+Second, the majority of users of ESG ratings are typically contracting for these products from
+several providers simultaneously. Their reasons for selecting more than one provider are most
+notably to increase coverage, either by asset class or geographically, or in order to receive
+different types of ESG assessments. A majority of users contract with a small number of the
+same rating providers, indicating a degree of concentration in the market. The most common
+shortcomings identified by the users were a lack of coverage of a specific industry or a type of
+entity and insufficient granularity of data. Complexity and lack of transparency around
+methodologies were also cited as an issue.
+
+Third, entities covered by these products are required to dedicate at least some level of
+resourcing to their interactions with ESG rating providers, although the amount is largely
+dependent on the size of the rated entity itself. Most of these entities highlighted some degree
+of shortcoming in their interactions with the rating providers, most notably on the level of
+transparency as to the basis for the rating, the timing of feedback or the correction of errors.
+
+Finally, as part of this call for evidence we sought input on the relevance of these products to
+EU financial markets and investors, as well as the potential risks that they may pose. While
+not directly connected to our assessment of the nature and characteristics of the market for
+
+
+13 This figure has been calculated on the following basis: 34 ESG Rating Providers responding to the section ESG rating providers + 25 ESG
+rating providers that were identified by respondents to the section Users of ESG ratings = 59 ESG rating providers active in the EU. Given the
+lack of a universal definition of ESG ratings, and the potential for some ratings products having been self-classified as data products and vice
+versa, a strict approach to categorisation is challenging. As a result, this figure should still be understood as indicative rather than definitive.
+14 See Annex III of FR 09/21 November 2021 Environmental, Social and Governance (ESG) Rating and Data Products Providers
+15 AMF Provision of Non-Financial Data: Mapping of Stakeholders, Products and Services
+
+
+
+                                                                                                                                                  3
+these providers, we would be happy to discuss our findings with your staff in the near future
+should this be useful for your purposes.
+
+Conclusion
+
+We consider the feedback we have received on the market for ESG rating and data providers
+is indicative of an immature but growing market, which, following a number of years of
+consolidation, has seen the emergence of a small number of large non-EU headquartered
+providers. In our view this market structure bears some resemblance to that which currently
+exists for credit ratings. Similar to that market16, there are a large number of smaller more
+specialised EU entities co-existing with larger non-EU entities who provide a more
+comprehensive suite of services.
+
+We trust that you find this input useful for a possible assessment around the need for
+introducing regulatory safeguards for ESG rating products. I would like to reiterate ESMA’s
+support for the leadership that the European Commission is demonstrating on this important
+topic. My colleagues at ESMA stand ready to elaborate on any of the points raised as part of
+this assessment.
+
+Should you have any follow up questions or wish to discuss the topic further, please do not
+hesitate to get in contact.
+
+Yours sincerely
+
+[signed]
+
+Verena Ross
+
+
+
+
+16   ESMA80-416-197 – 22/12/21 Report on CRA Market Share Calculation
+
+                                                                                           4
+                                                                Annex I
+
+1 Methodology for Collecting Evidence
+1. To gather the input for the call for evidence, the consultation was split into three separate
+   parts, with the first part addressed to ESG rating providers, the second addressed to users
+   of ESG ratings and the third to ESG rating providers. Each section included questions that
+   would enable a degree of quantitative analysis, as well as two questions intended to gather
+   more qualitative input. To ensure consistency of terminology we cross-referenced the
+   terms for ESG ratings and ESG data products that had been published in IOSCO’s report.
+
+2. Given the limited timeframe to collate and analyse the responses that were received, this
+   primarily quantitative approach has proven beneficial to deliver an initial set of key findings.
+   We consider that given further time to cross-reference answers from different categories
+   of respondents it may also be possible to deliver additional insights into some of these
+   findings.
+
+3. Nevertheless, we must point out some of the limitations presented by the sample of
+   responses. First, not all questions were answered by all respondents in each category.
+   This has resulted in the findings for some questions being based on a smaller sample size
+   than others. Second, not every question was understood in the same manner by all
+   respondents in each category. This has required an element of intuition and interpretation
+   in certain cases to ensure cross comparability, most notably on questions relating to
+   revenues. Third, the data sample of respondents is not replicated across the different
+   respondent categories and cannot be understood as being fully representative of the views
+   of all providers, users or covered entities. For example, the ratio of respondents from
+   different member states is not replicated across the respondent categories and it does not
+   provide an equal weighting among users of differing levels of scale and complexity. Finally,
+   the weighting of responses in the section addressed to entities covered by ESG rating
+   providers is heavily weighted towards the financial sector. To ensure full transparency on
+   the data sample for each question we have included the number of responses on which
+   the findings were based alongside the results either in the tables or footnotes.
+
+4. In total, we received over one hundred and fifty responses to the call for evidence, spread
+   across the three categories. The breakdown of respondents per category was 34 ESG
+   rating providers17, 75 users of ESG ratings and 47 covered entities.
+
+
+
+
+17The vast majority of respondents (30) to this section answered in the affirmative when asked whether they provided ESG Ratings. Of the
+remaining (4) respondents, who answered in the negative, ESMA considers that two of these cases are at least borderline. Given the lack of
+a universal definition of ESG ratings, and the potential for some ratings products having been self-classified as data products and vice versa,
+ESMA has considered all respondents to the ESG rating providers section of the Call for Evidence as ESG rating providers.
+
+                                                                                                                                             5
+2 Breakdown of Responses - ESG Rating Providers
+2.1 Nature of establishment
+
+
+
+
+                                                                                                  Legal entity
+                                                                                                  established in EU
+                                                        12%
+
+                                                                             32%
+                                                                                                  Legal entity and
+                                                                                                  corporate
+                                                                                                  headquarters
+                                                                                                  established in EU
+                                                      56%                                         No legal entity or
+                                                                                                  corporate
+                                                                                                  headquarters
+                                                                                                  established in EU
+
+
+                                    Note: Share of respondents by nature of establishment
+                                    Sources: ESMA
+
+
+
+5. We received 34 responses from ESG rating providers, however not all respondents
+   addressed each question. 11 respondents have at least 1 legal entity established in the
+   EU, 19 have the legal entity and corporate headquarters established in the EU, and 4 have
+   no legal entity or corporate headquarters established in the EU.18
+                        14
+
+                        12
+
+                        10
+
+                         8      8
+
+                         6              4
+                                                 4
+                         4
+                                                         2
+                                                                 1
+                         2      4       4
+                                                 3                       1         1      1       1
+                                                         2       2
+                                                                         1         1      1       1       1       1       1           1
+                         0
+                               DE       IT      FR      ES      SE      HU      LU      DK       PO      NL      GR      RO      NO
+                               Legal entity and corporate headquarter established in EU               Legal entity established in EU
+
+                        Note: Number of respondents with one or more legal entity in EU or with headquarters in the EU, by country.
+                        Source: ESMA
+
+
+
+
+6. Of the respondents located in the EU, three member states (Germany, Italy and France)
+   accounted for the location of a majority of their headquarters or legal entities while some
+   respondents indicated more than one country in which they are established. 19
+
+
+
+
+18   Based on a total of 34 responses
+19   Based on a total of 34 responses
+
+                                                                                                                                          6
+2.2        Nature of legal entity
+
+
+
+
+                                                                                                        Parent company
+                                                                          19%
+                                                                                                        witihin group
+                                                                                                        structure
+                                                                                                        Subsidiary within
+                                             50%                                                        group structure
+
+
+                                                                               31%                      Independent legal
+                                                                                                        entity, no group
+                                                                                                        structure
+
+
+
+
+                                  Note: Share of respondents by nature of legal entity
+                                  Source: ESMA
+
+
+
+7. Half of the respondents indicated that they are an independent legal entity without a group
+   structure. The other half are either parent companies or subsidiaries of a group structure.
+   Combining this information with the nature of establishment, the majority of ESG rating
+   providers are independent legal entities (no group structure) established in EU. 20
+
+
+                        20
+
+                        18
+
+                        16
+
+                        14
+                                                                                        12
+                        12
+
+                        10
+
+                         8                      2
+
+                         6
+                                                5                                       5
+                         4
+                                                                                                                         2
+                         2
+                                                2                                       2                                2
+                         0
+                                Legal entity established in EU      Legal entity and corporate    Independent legal entity, no group
+                                                                 headquarters established in EU                structure
+                                  Parent company witihin group structure                Subsidiary within group structure
+                                  Independent legal entity, no group structure
+
+                        Note: Number of respondents by nature of establishment and nature of legal entity
+                        Source: ESMA
+
+
+
+
+20   Based on a total of 32 responses.
+
+                                                                                                                                       7
+2.3        Financial regulatory authorisation, registration or supervisory regime21
+
+
+                                                                                  20
+                                                                                  18
+                                                                                  16                                                      5
+            35%                                                                   14
+
+                                                                      No          12
+                                                                                  10
+                                                                      Yes
+                                                                                   8
+                                                                                                       5                                 14
+                                                                                   6
+                                                65%
+                                                                                   4
+                                                                                                                                                                             1
+                                                                                   2                   5
+                                                                                                                                                                             3
+                                                                                   0
+                                                                                        Legal entity established in EU      Legal entity and corporate     No legal entity or corporate
+                                                                                                                          headquarters established in EU headquarters established in EU
+Note: Respondents to ESMA's call for evidence, indicating if the ESG rating
+                                                                                         Subject to financial regulatory authorisation        Not subject to financial regulatory authorisation
+provider is subject to any financial regulatory authorisation, registration or
+supervirory regime                                                                Note: Number of respondents by nature of establishment and subjection to any financial regulatory authorisation,
+Source: ESMA                                                                      registration or supervisory regime
+                                                                                  Sources: ESMA
+
+
+
+
+8. Around a third of respondents (12) reported that they are currently subject to a financial
+   regulatory authorisation, registration or supervisory regime, while 22 responded that they
+   are not22. Of the 12 respondents that replied in the affirmative, a total of 9 different
+   regulatory frameworks and 7 supervisory authorities were mentioned as relevant.
+   However, these frameworks relate to services other than ESG ratings and data.
+
+
+
+
+                                             4.5
+
+                                                4
+
+                                             3.5        1
+
+                                                3
+
+                                             2.5
+
+                                                2
+
+                                             1.5        3
+
+                                                1                 2
+
+                                             0.5                             1          1             1            1            1
+
+                                                0
+                                                     ESMA       FCA         PRA        SEC         SFC         CNMV          AFM
+                                                                      HQ                        Legal entity
+
+                                             Note: Supervisory authorities by legal establishment
+                                             Sources: ESMA
+
+
+
+
+21   Note: An ESG rating provider may be supervised by more than one supervisory authority.
+22   Based on 34 responses. The breakdown by nature of establishment covers 33 responses.
+
+                                                                                                                                                                                                     8
+2.4      Corporate structure and financials
+                                                                           16          15
+                                3%                                         14
+                                         13%                               12
+
+                                                                           10
+
+                                                                            8
+                                                          Listed inside
+                                                          the EU
+                                                                            6
+                                                          Listed outside
+                                                          the EU            4                                                             3
+
+                                                          Not listed        2                           1                1
+
+                 84%                                                        0
+                                                                                Balance sheet Balance sheet Balance sheet Balance sheet
+                                                                                   < 10 M      10 m > 43 M 43 m > 100 M      > 500 M
+
+
+                                                                           Note: Number of respondents by balance sheet figures in 2021
+      Note: Share of respondents by corporate structure                    Sources: ESMA
+      Source: ESMA
+
+
+
+9. The majority of ESG rating providers that responded outlined that they are not publicly
+   listed (27 respondents, 84%). Amongst respondents that are publicly listed, 1 ESG rating
+   provider is listed inside the EU and 4 are listed outside the EU. 23 Out of 21 respondents, 15
+   ESG rating providers (71%) had a balance sheet of less than 10 million euros in 2021 (most
+   of the responses provided for 2019 and 2020 were identical). 24
+
+
+
+
+23Based on 32 responses.
+24Based on 20 responses. When gathering input on the size of ESG rating providers, we asked for details on balance sheet size, and selected
+thresholds that are aligned with the European Commission’s categorisation of small and medium sized enterprises. The basis for selecting
+balance sheet size, as opposed to another metric such as annual revenue, was to account for possible situations where providers may have
+been offering these products below cost, in order to build up market share. Using balance sheet size as a metric, we are still able to gauge
+the relative size of providers, even where they would be engaging in this type of behaviour.
+
+
+
+                                                                                                                                              9
+2.5        Nature of business model 25
+                                                                                 20
+
+                  9%                                                             18
+
+                                                                                 16
+
+                                                                                 14
+                                             35%          For-profit large                                                                       10
+                                                          provider               12
+
+                                                                                 10
+                                                          For-profit
+                                                          specialist                                     3
+                                                                                  8
+                                                          provider
+                                                                                  6
+                                                          Non-Profit                                                                             5
+                                                          provider                4
+                                                                                                         5
+       56%
+                                                                                  2                                                                                                     2
+                                                                                                                                                 3
+                                                                                                         2
+                                                                                                                                                                                        1
+                                                                                  0
+                                                                                             For-profit large provider             For-profit specialist provider              Non-Profit provider
+                                                                                           Parent company witihin group structure                           Subsidiary within group structure
+                                                                                           Independent legal entity, no group structure
+Note: Share of respondents by business model
+Source: ESMA                                                                     Note: Number of respondents by business model and nature of legal entity
+                                                                                 Source: ESMA
+
+
+
+
+10. A majority of respondents indicated that that they are “for-profit specialist providers”, with
+    around a third of respondents indicating that they are “for-profit large providers” 26. A large
+    majority of ESG rating providers outlined that they also offer other ESG data products (73%
+    of respondents).27
+
+
+
+
+                 9%
+                                                                          18
+
+                                                                          16
+                                                                                                                                      4
+                                                                          14
+     18%                                                  ESG rating and
+                                                          data products 12
+
+                                                                          10
+                                                          ESG rating
+                                                          products only      8
+                                                                                                 1                                   13
+                                                                             6
+                                                          ESG data                                                                                                         5
+                                        73%               products only      4
+                                                                                                 6
+                                                                             2
+                                                                                                                                                                           3
+                                                                             0
+                                                                                   For-profit large provider         For-profit specialist provider              Non-Profit provider
+                                                                                         Not subject to financial regulation                     Subject to financial regulation
+Note: Share of respondents by type of products provided                   Note: Number of respondents by businees model and subjection to any financial regulatory authorisation,
+Source: ESMA                                                              registration or supervisory regime
+                                                                          Source: ESMA
+
+
+
+
+2.6        Revenues
+11. The annual average revenue of respondents for 2020 amounted to EUR 22.7 million (EUR
+    23.7 million for EU-based providers). In comparison, the median was EUR 5.5 million (EUR
+    3.8 million euros for EU-based providers). We consider these figures indicate a relatively
+    large number of providers with small revenues.
+
+25 Respondents to the Call for Evidence were requested to describe their business model as one of (a) For-profit large provider: offering ESG
+ratings, ESG data products as well as non-related financial information products or services (b) For-profit specialist provider: offering ESG
+ratings and ESG data products (c) Non-Profit provider: offering ESG rating and ESG data products.
+26 Based on 32 responses. The breakdown by business model covers 31 responses.
+27 Based on 33 responses. The breakdown by subjection to financial regulation covers 32 responses.
+
+
+
+                                                                                                                                                                                                     10
+12. The breakdown of annual revenues by products per respondent indicates that average
+    annual revenues for ESG ratings accounted for EUR 6.1 million whereas average revenues
+    derived from other ESG data products was EUR 2.2 million. Average revenues derived
+    from EU clients represented EUR 7 million.
+
+
+                                        Revenues                  Revenues EU                   Revenues ESG             Revenues ESG
+                                        Total                     clients                       ratings                  data products
+
+
+
+         Median revenue                   5,500,000                    1,000,000                       276,000               1,000,000
+         (EUR) 28
+
+         Average        revenue           22,688,691                   7,101,911                      6,131,889              2,275,626
+         (EUR)
+
+         Response Sample                        13                           19                             10                  7
+         Size
+
+
+
+
+3 Breakdown of Responses – Users of ESG Ratings
+3.1 Nature of establishment
+
+
+                                                                                             Legal entity
+                                                       12%
+                                                                                             established in the
+                                                                                             EU
+
+                                            12%                                              Legal entity and
+                                                                                  40%
+                                                                                             corporate
+                                                                                             headquarters
+                                                                                             established in EU
+                                                                                             No legal entity or
+                                                                                             corporate
+                                                                                             headquarters
+                                                   36%                                       established in EU
+                                                                                             Other
+
+
+
+                                         Note: Share of respondents (users of ESG ratings), by nature of establishment
+                                         Sources: ESMA
+
+
+
+
+13. When asked for details on the nature of their establishment in the EU, 30 respondents
+    indicated that they have either one or more legal entities established in the EU, while 27
+    respondents indicated that they have both their headquarter and a legal entity established
+    in the EU.29 The majority of respondents with only a legal entity in the EU (i.e. not
+    headquartered) are located in Germany (22%) and Italy (19%), followed by Luxembourg
+    (14%) and Ireland (11%). Belgium and France account for 8% of established legal entities,
+
+
+28   The median has been rounded up to the closest 10,000 (e.g., 510,000 instead of 508,600)
+29   Based on 75 responses. The count of entities indicated as ‘others’ includes five industry associations.
+
+                                                                                                                                         11
+   followed by Croatia (6%) and Latvia, Sweden, Spain, Ireland and the Netherlands (3%
+   each).
+
+
+
+                                        NL                       BE
+                                 ES                   IE
+                                        3%                       8%
+                                 3%                  11%
+                           SE
+                           3%
+                            LV                                                  DE
+                            3%                                                 22%
+
+
+                                        LU
+                                       14%
+                                                                             FR
+                                                                             8%
+                                                                      HR
+                                                       IT             6%
+                                                      19%
+
+
+                         Note: Respondents (users of ESG ratings) with one or more legal entity
+                         established in the EU, by country.
+                         Sources: ESMA
+
+
+
+
+14. Out of the 27 respondents with their headquarter and a legal entity established in the EU,
+    30% are headquartered in Italy, 18% in France, followed by 15% in Croatia and Germany
+    respectively. 11% are headquartered in the Netherlands, 7% in Spain and 4% in
+    Luxembourg.
+                                                NL                             DE
+                                      LU       11%                            15%
+                                      4%
+
+                                                                                           ES
+                                                                                           7%
+
+
+
+
+                                 IT
+                                30%                                                         FR
+                                                                                           18%
+
+
+
+                                                                            HR
+                                                                           15%
+                         Note: Respondents (users of ESG ratings) with a legal entity and corporate
+                         headquarters established in the EU, by country.
+                         Sources: ESMA
+
+
+
+15. Out of the 9 respondents that do not have any legal entity or corporate headquarters
+    established in the EU, 7 indicated that they have their headquarters in the UK.
+
+
+
+
+                                                                                                      12
+3.2        Financial regulatory authorisation, registration or supervisory regime
+
+
+                                                               8%
+
+
+                                                   13%
+
+                                                                                                           Yes
+
+                                                                                                           No
+
+                                                                                                           N/A
+
+
+                                                                                 79%
+
+
+
+
+                                              Note: Share of respondents (users of ESG ratings) subject to existing
+                                              financial regulatory authorisation, registration or supervisory regimes
+                                              Source: ESMA
+
+
+
+
+16. A large majority of users of ESG ratings are subject to existing financial regulatory
+    authorisation, registration or supervisory regimes.30 Out of these, a further 47 respondents
+    have provided insight into the supervisory authority they are registered with, with some
+    entities indicating that they are registered with more than one supervisory authority. More
+    than two thirds (71%) indicated they were registered with securities market’s supervisory
+    authorities, but roughly 30% also reported to be registered with central banks.
+
+
+18
+16
+14
+12
+10
+     8
+     6
+     4
+     2
+     0
+         Bank of   ECB-     BaFIN     HANFA       CSSF     Consob UK FCA          AMF        CBoI       DNB        AFM      FCMC       IVASS German
+          Italy    SSM                                                                                                       LV              Federal
+                                                                                                                                              Bank
+                                                    HQ                                                   Legal entity
+
+Note: Respondents (users of ESG ratings) by supervisory authority they are registered with. Some respondents mentioned more than one supervisory authority.
+Source: ESMA
+
+
+
+
+17. A further 18 respondents have provided insight into the regulatory framework they are
+    subject to. Out of these 18 respondents, the majority referred to AIFMD (67%) and UCITS
+    (50%), followed by MiFID/MiFIR (22%), Solvency II (18%), BMR (12%) and SFDR (12%).
+    Additionally, 59% of respondents also indicated to be subject to a set of various national
+    regulatory frameworks, alongside the ones listed above.
+
+
+
+
+30   Based on 69 responses.
+
+                                                                                                                                                              13
+80%
+
+
+
+60%
+
+
+
+40%
+
+
+
+20%
+
+
+
+ 0%
+          AIFMD        Others        UCITS       MiFID/     Solvency II      BMR         SFDR       CRD/CRR         CSRD         MMFR          MAR          AML          EU      NFRD
+                                                 MiFIR                                                                                                                Taxonomy
+
+Note: Repondents (users of ESG ratings) by regulatory regime they are subject to, in % share of all respondents. Some respondents mentioned more than one regulatory regime.
+Source: ESMA
+
+
+
+
+3.3         Estimated total value (EUR) of Assets under Administration and/or Assets under
+            Management
+18. The total value of assets managed by respondents amounted to EUR 7,824 billion. 31 The
+    average value of assets under management (AuM) amounted to EUR 190.8 billion, and
+    the median to EUR 36 billion. The very high standard deviation (EUR 409.3 billion)
+    highlights a combination of small and large asset managers amongst the respondents. 32
+                             700
+
+
+                             600
+
+
+                             500
+
+
+                             400
+
+
+                             300
+
+
+                             200
+
+
+                             100
+
+
+                                 0
+                                          Estimated total value of administrated                          Estimated total value of investments for
+                                         assets and/or asset under management                             which ESG rating and/or other ESG data
+                                                                                                          products are used as input in investment
+                                                                                                                 decision making process
+
+
+
+3.4         Estimated total value (EUR) of investments for which ESG rating and/or other ESG
+            data products are used as input in investment decision making process
+19. Respondents indicated that the total value of investments for which ESG rating and/or other
+    ESG data products are inputs in the investment decision making process is EUR 3,787
+
+31 Based on 41 responses. To avoid double counting, these figures exclude assets reported by custodians, consultancies and industry
+associations and answers by respondents indicating ‘0’. A total of 3 responses were excluded.
+32 The end of the lines in the boxplot chart correspond to 10 th and 90th percentiles. The outside edges of the box correspond to the 25 th and
+
+75th percentile. The line in the middle of the box corresponds to the median.
+
+
+
+                                                                                                                                                                                        14
+      billion (i.e. 48% of total assets under management).33 The average per respondent was
+      EUR 97 billion (50% of average assets under management) and the median was EUR 17
+      billion. 34 The share of investments for which ESG rating and/or other ESG rating products
+      are used as input varies widely across respondents, ranging from 0% to 100%.
+
+
+                                 100%
+
+
+                                  80%
+
+
+                                  60%
+
+
+                                  40%
+
+
+                                  20%
+
+
+                                   0%
+                                         0                 10                 20                  30                 40
+
+                               Note: Share of investments for which ESG ratings and/or ESG data products are used as input
+                               in the investment decision making processin % of total assets under management. Each unit on
+                               the horizontal axis corresponds to one respondent.
+                               Source: ESMA
+
+
+
+
+3.5     ESG rating or ESG data products contracted for by users
+
+
+                                                                                                 ESG rating
+                                                  21%                                            and data
+                                                                                                 products
+
+                                                                                                 ESG rating
+                                                                                                 products only
+
+                                        9%                                         64%
+                                                                                                 ESG data
+                                                                                                 products only
+
+                                             6%
+                                                                                                 None
+
+
+
+
+                                      Note: Share of respondents (users of ESG ratings) by type of ESG product
+                                      they currently contract for.
+                                      Source: ESMA
+
+
+
+20. A significant majority of the 66 respondents (42) indicated that they use both ESG ratings
+    and other ESG data products, while 4 respondents indicated to only use ESG ratings and
+    6 respondents only other ESG data products.35 14 respondents indicated to not use either
+    type of products.
+
+
+
+33 Based on 38 responses.
+34
+   One entity responded to Q6 (value of investments using ESG ratings) but not Q5 (assets under management), therefore the figures provided
+in % of AuM exclude this respondent.
+35 Based on 66 responses.
+
+
+
+
+                                                                                                                                       15
+3.6        Selection and Use of Multiple ESG rating providers
+21. Of the 34 respondents to this question, 77% use more than one provider for ESG ratings,
+    while 23% use only one provider36. The ESG rating providers most frequently mentioned
+    were MSCI (28 mentions) followed by Morningstar/Sustainalytics (25), ISS (24), S&P (17),
+    Moody’s/VE (12), Refinitiv (11), RepRisk (9), CDP and Bloomberg (7 each),
+    FactSet/Truevalue Lab (5), EcoVadis, ICE and Carbon4Finance (4) and Maplecroft (3).
+    The ‘Others’ were mentioned only once or twice by respondents.
+
+
+      30      MSCI
+                       Morningstar/
+                       Sustainalytics
+                                            ISS
+      25
+
+
+      20
+                                                        S&P
+
+      15
+                                                                 Moodys/VE
+                                                                                 Refinitiv
+                                                                                                RepRisk
+      10
+                                                                                                          CDP   Bloomberg FactSet/
+                                                                                                                        Truevalue Labs                 Carbon4
+                                                                                                                                      EcoVadis   ICE   Finance
+       5                                                                                                                                                         Maplecroft
+                                                                                                                                                                              Others (45)
+       0
+
+
+      Note: ESG providers used by respondents (users of ESG ratings), by count of mentioning.
+      Sources:ESMA
+
+
+
+
+22. In relative terms, MSCI has the highest share of mentions (17%), followed by
+    Morningstar/Sustainalytics and ISS (both 15%), S&P (11%), Moody’s/VE and Refinitiv (7%
+    each) and RepRisk (6%). The 22% ‘Others’ consist of all providers which have been
+    mentioned less than 9 times.37
+                                                                          Others                                         MSCI
+                                                                           22%                                           17%
+
+
+
+
+                                                                 RepRisk                                                             ISS
+                                                                   6%                                                                15%
+
+
+                                                                 Refinitiv
+                                                                   7%
+
+                                                                                                                          Morningstar/
+                                                                    Moodys/V                                              Sustainalytics
+                                                                       E                 S&P                                  15%
+                                                                      7%                 11%
+                                                           Note: ESG providers by number of responses mentioning each data provider
+                                                           (responses can mention one or more providers), divided by universe of
+                                                           respondents (n=45). Includes both ESG rating providers and other ESG data
+                                                           product providers.
+                                                           Sources: ESMA
+
+
+
+
+36
+  Based on 44 responses.
+37 Note that ‘Others’ here includes everything mentioned by the respondents, including consultancies and classification schemes (e.g., GRI,
+Climate Bonds Initiative etc.). Excluding these would increase the relative market share of the seven respondents included in the graph.
+
+
+
+                                                                                                                                                                                16
+23. Per investment value the following figures were reported: MSCI (EUR 3.2tn) and ISS (EUR
+    3tn), followed by Morningstar/Sustainalytics (EUR 2.5tn), S&P (EUR 2.3tn), RepRisk (EUR
+    2.2tn), Refinitiv (EUR 1.7tn), Moody’s/VE (EUR 1.6tn) and CDP (EUR 1.3tn).38
+
+
+         3,500
+
+         3,000
+
+         2,500
+
+         2,000
+
+         1,500
+
+         1,000
+
+           500
+
+             -
+                        MSCI                 ISS            Morningstar/            S&P               RepRisk             Refinitiv          Moodys/               CDP
+                                                           Sustainalytics                                                                     VE
+
+        Note: ESG providers by estimated investment value for which their product is being used, in EUR bn. Providers below a value of EUR 1 trillion have been excluded for visual
+        purposes.
+        Source: ESMA
+
+
+
+3.7        Contractual Engagement with ESG rating providers
+24. Of the 11 respondents that provided concrete details on the contractual lengths of their
+    engagement with ESG providers, the average contractual length for ESG rating products
+    is assessed as being approx. 20 months, with a minimum of 12 months and a maximum of
+    60 months. Of the 14 respondents who indicated how long they have been contracting with
+    ESG rating providers the average length for which they have been contracting for these
+    products was approx. 67 months, with a minimum of 1 month and maximum of 218 months
+    respectively.
+
+25. One respondent indicated that their contract runs for a duration of a minimum of one year,
+    with the possibility to renew or extent the contract each year, however this is often
+    accompanied by a price increase. In addition, transparency issues seem to exist regarding
+    the minimum term and fee rates of ESG data and rating contracts, leading to different users
+    contracting for the same ESG products under differing contractual terms.
+
+
+3.8        Reasons behind the choice of the ESG rating or data provider(s) 39
+26. In general terms, users of ESG ratings indicated that they tend to opt for several providers,
+    in order to fulfil a variety of needs, such as asset type coverage, geographical coverage,
+    compliance with regulatory reporting requirements, and type of ESG assessment provided
+
+
+
+38 These estimates were computed by matching the figures provided by respondents to question 6.2.1. Q6 (estimated total value of
+investments for which ESG ratings and/or other ESG data products are used as input in investment decision making process) with the different
+providers listed by the respective entities. Note that the answers did not specify which precise amount of the estimated total relates to each
+specific provider, hence the full amount was used for each provider listed by the respondent, which may lead to over-estimation or under-
+estimation of certain providers.
+
+39   Based on 46 responses.
+
+                                                                                                                                                                        17
+        (e.g., focus on Environmental or Social and Governance factors, in form of risk assessment
+        or impact assessment).
+
+27. From the responses received, the most commonly sought attribute in an ESG rating
+    provider (more than 70% of ESG rating users) was the depth and breadth of data coverage.
+
+28. Due to the variety of asset types covered by many of ESG ratings providers, users agreed
+    that the choice tends to be related to the entities which can provide more accessible and
+    complete analysis for their customers, in terms of type and number companies assessed
+    and ESG data and the variety of key performance indicators that are offered.
+
+29. The second most sought after attribute from ESG rating providers (34%) was data quality
+    and transparency of methodologies and data. The importance of this attribute seemed to
+    be often mentioned as a key factor also for reputational risk management and transparency
+    to the users' clients.
+
+30. Another important factor in users’ choices is the market relevance of an ESG rating
+    provider, there were two main reasons for this. First, the usability of data and ratings of a
+    larger provider in the market is higher and allows for more comparability in the industries.
+    Second, users tend to listen to clients’ preferences, which might match with the most
+    relevant providers in the market. Ease of data access and integration into own system and
+    data usability is also an important factor.
+
+31. For contractual purposes, users mentioned two main key drivers: price-quality ratio and
+    existing commercial relationships with the company that provides ESG ratings. A slight
+    minority also mentioned the reputational aspect of the ESG rating provider as key driver of
+    the choice.
+
+3.9        Reasons for choosing more than one ESG rating provider (if applicable) 40
+32. ESG ratings users were overwhelmingly in agreement that more than one ESG rating
+    provider is needed to allow for the holistic assessment of an ESG profile of the entity or
+    issuer. In this regard, divergence between different rating providers seems to be significant
+    due to the level of specialisation of ESG ratings provided in a given set of data, geography
+    and sector, which creates a fragmented framework of ESG rating products offered.
+
+33. More than 70% of respondents agreed that the main reason for relying on more than one
+    ESG rating provider is to broaden the coverage of entities as well as to complement their
+    analysis with additional data points and compare between different ratings. Often, ESG
+    ratings users noted that given the early stages of the ESG rating market and absence of
+    standardisation, contracting with multiple ESG rating providers offers the possibility to
+    validate the ratings obtained by each of them. A minority of users noted that contracting
+    with various ESG rating providers is mainly driven by their clients’ preferences.
+
+
+
+
+40   Based on 38 responses.
+
+                                                                                               18
+3.10 Views on shortcomings in the ESG rating or ESG data products currently
+           contracted for41
+34. In general, users tended to agree on some main shortcomings that they identified in their
+    experience with one or multiple ESG rating providers.
+
+35. First, as expected respondents identified a lack of coverage on industry, type of entity and
+    granularity of data, which seems particularly an issue for SMEs and non-listed companies,
+    as having a fundamental impact on the usability and relevance of ESG ratings. In addition,
+    users also highlighted:
+
+
+             o    Low levels of transparency of methodologies and of data sources were identified
+                  as the most relevant factors hampering the reliability of the final ratings and their
+                  comparability between ESG rating companies.
+             o    Lack of comparable and standardised data, together with a proven low correlation
+                  between ESG ratings provided by different entities, and a misalignment on the
+                  definition of “ESG”, were identified as major challenges.
+             o    As data used by a number of ESG rating providers is drawn exclusively from
+                  publicly available sources, SMEs can be disproportionally disadvantaged when it
+                  comes to levels of coverage.
+             o    The need for an alignment of definition and approaches concerning what is meant
+                  by “ESG” and what is the purpose of an ESG rating (e.g., the objective of the rating
+                  can vary).
+             o    Delays in updating the underlying data of ESG ratings, and frequent unavailability
+                  or late responsiveness to error reporting or comments submitted by companies
+                  (especially on unsolicited ratings). Users often outlined that in their view ESG rating
+                  providers lack an adequate number of skilled resources to ensure timely follow-up
+                  on their portfolios.
+             o    Some respondents observed a “US-bias” resulting from the increasing market
+                  concentration of ESG rating providers, especially US-based, which brings some
+                  challenges for EU users. Respondents had the view that some methodologies are
+                  consistently biased towards larger and/ or listed companies, as well as US
+                  industries, while EU companies, whose operations are more strictly correlated with
+                  their geography (and their national regulations), are penalised by the models used.
+             o    Commercial terms - Increase in prices applied to users and conflict of interest risks
+                  have also been highlighted as key issues for users. Recent increase in market
+                  concentration among ESG rating providers is seen as a driver behind changes in
+                  pricing policies, and increasing prices, which are considered an issue for a relevant
+                  number of users.
+
+
+
+
+41   Based on 51 responses.
+
+                                                                                                      19
+3.11 Views on levels of methodological transparency, including transparency around
+           data sourcing42.
+
+
+
+
+                                                                     23%
+
+
+                                                                                         Satisfied
+
+                                                                                         Somewhat
+                                                                                         satisfied
+                                                                           14%           Not satisfied
+                                  63%
+
+
+
+
+                              Note: Share of respondents satistified, somewhat satisfied or not satisfied by
+                              the level of methodological transparency for the product.
+                              Source: ESMA
+
+
+
+
+36. In general, the key issues for respondents around methodologies were the importance of
+    data accuracy as well as transparency on rating process and data sources. Respondents
+    were also strongly in favour of EU wide measures being considered in order to limit the
+    mis-selling and misuse of ESG ratings.
+
+
+37. While it was commonly agreed that the level of methodological transparency varies across
+    providers, 32 respondents (63%) argued that the level of methodological transparency is
+    still not satisfactory. In this respect, only 7 respondents (23%) were of the view that levels
+    of transparency and disclosure were improving, but even among these, it was suggested
+    that more could be done to improve disclosures by rating providers. Methodologies were
+    deemed as often too complex and unclear, and sometimes providers were not able to
+    further clarify how their results had been determined. This raised questions about the level
+    of reliability.
+
+
+
+
+42   Based on 51 responses.
+
+                                                                                                               20
+4 Breakdown of Responses – Covered Entities
+4.1 Nature of establishment
+                                                                         2% 2%
+
+
+
+
+                                                                                                         Legal entity
+                                                                                                         established in EU
+
+
+
+                                                                                                         Legal entity and
+                                                                                                         corporate
+                                                                                                         headquarters
+                                                                                                         established in EU
+                                                                                                         No legal entity or
+                                                                           96%                           corporate
+                                                                                                         headquarters
+                                                                                                         established in EU
+
+
+                                                   Note: Share of respondents by nature of establishment
+                                                   Source: ESMA
+
+
+
+
+38. Of the 43 covered entities that responded to the call for evidence, 41 have their corporate
+    headquarters established in EU, 1 has a legal entity established in the EU, 1 has no legal
+    entity or corporate headquarters in EU. 43 When asked to identify the member states in which
+    they were located a majority of the respondents outlined that their legal entity and corporate
+    headquarters in the EU were domiciled in either Germany, France or Italy.
+
+
+                   12
+
+
+
+                   10
+
+
+
+                    8
+
+
+
+                    6
+
+
+
+                    4
+
+
+
+                    2
+
+
+
+                    0
+                           DE      FR        IT      ES      BE       DK       NL      HR       IR       SE    AT     PT      PO   LU   CZ   Rest
+
+                 Note: Number of legal entities and/or headquarters established in the EU, by country.
+                 Source: ESMA
+
+
+
+
+43   Based on 43 responses.
+
+                                                                                                                                                    21
+4.2   Financial regulatory authorisation, registration or supervisory regime
+
+
+
+                                                                                            29%
+
+
+
+
+                                                                                                          No
+                                                                                                          Yes
+                                                      71%
+
+
+
+
+                                Note: Share of respondents subject to any existing financial regulatory
+                                authorisation, registration or supervisory regime
+                                Source: ESMA
+
+
+
+39. Of the 42 respondents who confirmed whether or not they were subject to a financial
+    regulatory authorisation, registration or supervisory regime, 30 responded that they are,
+    while 11 responded that they are not. Those respondents who are subject to a financial
+    regulatory regime fall under a broad variety of (either national or EU-wide) regulatory
+    regimes. Of the 30 respondents here, 21 provided information on the supervisory authority
+    they are registered with.
+                                                                                                  CRR
+
+                                                                                                  MAR
+                                                 6%         6%
+                                                                                                  German Banking Act
+                                       6%                            6%
+                                                                                                  German Pfandbrief Act
+                              6%
+                                                                                                  German Securities Trading Act
+                                                                               11%
+                                                                                                  CRR
+                         6%
+                                                                                                  CRD
+
+                                                                                                  MiFID
+                        6%                                                          6%
+                                                                                                  SRMR
+
+                           6%                                                                     BRRD
+                                                                            11%                   German Commercial Code
+                                  6%
+                                                                                                  German Stock Corporation Act
+                                            6%            12%                                     SSM
+
+                                                                                                  German Securities Deposit Act
+
+
+                Note: Share of respondents by financial regulatory regime they are subject to.
+                Source: ESMA
+
+
+
+
+                                                                                                                                  22
+     8
+             7
+     7
+
+     6
+
+     5
+
+     4
+                       3           3            3
+     3
+                                                            2          2            2         2
+     2
+                                                                                                          1         1           1         1         1
+     1
+
+     0
+          ECB-SSM BaFIN         IVASS          AMF       HANFA CONSOB           FSMA        Bank of   COVIP       AGCom     FSA         EIOPA   ACPR
+                                                                                             Italy
+Note: Number of covered entities mentioning supervisory authorities.
+Source: ESMA
+
+
+
+4.3         ESG rating providers that provide a rating for your company
+40. The ESG rating providers mentioned most frequently as providing ESG ratings on their
+    company     were:    MSCI       (41  mentions),   Moody’s/VE    (33),   ISS    (31),
+    Morningstar/Sustainalytics (24), CDP (22), S&P (20), FTSE-Russell (16) and Ecovadis
+    (12).44
+
+
+     45
+            41
+     40
+
+     35          33
+                           31
+     30
+                                 24
+     25                                   22
+                                                    20
+     20                                                   17
+                                                                  16
+     15                                                                    12
+
+     10                                                                         7
+                                                                                        5         5   5
+                                                                                                              4         4
+      5                                                                                                                     3       3
+                                                                                                                                          2     2       2
+
+      0
+
+
+
+
+Note: Number of covered entities mentioning ESG rating providers.
+Source: ESMA
+
+
+
+
+41. Respondents further indicated that they had been rated for an average of 7 years by ESG
+    rating providers. However, in a few cases this extends to a much larger time period, up to
+    more than 20 years.
+
+
+44   Based on 37 responses.
+
+                                                                                                                                                            23
+4.4   Interactions with ESG rating providers providing ESG ratings for covered entities
+42. The most frequent means for these entities to interact with ESG rating providers was
+    through the use of IT platforms, that are accessible through ratings providers’ websites. It
+    is through these platforms that covered entities can provide input to questionnaires and
+    provide comments. However, it was also noted that interactions through e-mails are
+    common, followed by conference calls. At the same time, it should be noted that some
+    covered entities reported no contact at all with the rating providers.
+
+4.5   Communication and opportunities for error correction
+43. Mostly, covered entities reported that the opportunity to correct any errors depends on the
+    providers. Most of the providers do have this possibility in place, often before the rating is
+    published, mainly through their IT platforms, thus giving the opportunity to comment on the
+    draft report and receive feedback where available.
+
+44. In this respect general issues with these interactions were highlighted:
+
+      o   For unsolicited ratings, the general level of communication with the agencies is
+          deemed low, thus also undermining the opportunity to report errors when identified.
+          In this case, covered entities usually are not notified of the publication of their ratings,
+          and only in limited cases they can provide feedback to the ESG rating providers in
+          case of comments.
+      o   When the opportunity to comment or report feedback is given, this is quite often
+          reported as a slow and difficult process, which can also take several months, leading
+          to distort ESG evaluations that are publicly available.
+      o   Usually, identifying errors and their relevance to the final rating can be a cumbersome
+          and difficult process, made more difficult by the lack of transparency around key
+          inputs to the rating process.
+      o   Some entities noted that some providers offer the opportunity to identify and
+          communicate errors for an additional fee.
+      o   Some entities also reported notable difficulties to receive objective reasons for the
+          ratings assigned, due to the unavailability of transparent rating processes and
+          methodologies.
+
+
+
+
+                                                                                                   24
+

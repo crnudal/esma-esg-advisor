@@ -1,0 +1,44 @@
+SOURCE: Scope of two working day notification period
+REFERENCE: ESMA_QA_2890
+DATE: 2026-07-10
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2890
+FILE: sources/QA_2890.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2890
+
+10/07/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Scope of two working day notification period 
+
+ Original question
+
+Do the two full working days encompass the notification to the rated item, the submission of a request for access to the information and the fact-checking review?
+
+ESMA Answer
+
+10-07-2026
+
+ Original language
+
+No. The two full working days encompass the notification to the rated item and the submission of the request for access to the dataset for fact-checking purposes. Any extension of the time period beyond two working days for the purpose of the fact-checking review is at the discretion of the ESG rating provider. Once the minimum period of two full working days has elapsed, the provider may proceed with the issuance of the rating without being required to await comments or confirmation from the rated item or issuer. 
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+48-hour rule

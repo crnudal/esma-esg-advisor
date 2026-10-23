@@ -1,0 +1,46 @@
+SOURCE: Group-affiliated small ESG rating providers
+REFERENCE: ESMA_QA_2737
+DATE: 2025-12-18
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2737
+FILE: sources/QA_2737.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2737
+
+18/12/2025
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Group-affiliated small ESG rating providers
+
+ Original question
+
+Is a small ESG rating provider that is part of a medium-sized or large group eligible for the temporary regime under Article 5 of Regulation (EU) 2024/3005 when it is operating independently of the group’s resources and consolidated capacity?
+
+ESMA Answer
+
+18-12-2025
+
+ Original language
+
+No. Particular attention must be paid to Recital 48, according to which ESMA should ensure that risks of circumvention of the Regulation are avoided, “particularly by preventing small undertakings within medium-sized or large groups according to the criteria laid down in Directive 2013/34/EU from benefitting from the temporary regime”.
+
+The temporary regime was introduced to facilitate the market entry of smaller ESG rating providers by allowing them to benefit from more proportionate requirements for a three-year period.
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Temporary regime for small providers

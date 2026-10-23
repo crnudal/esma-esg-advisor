@@ -1,0 +1,48 @@
+SOURCE: Consulting activities to investors or undertakings
+REFERENCE: ESMA_QA_2889
+DATE: 2026-07-10
+URL: https://www.esma.europa.eu/publications-data/questions-answers/2889
+FILE: sources/QA_2889.html
+
+Skip to main content
+
+ Search
+
+ESMA_QA_2889
+
+10/07/2026
+
+ View PDF 
+ View Excel
+
+Subject Matter
+
+Consulting activities to investors or undertakings 
+
+ Original question
+
+What type of consulting activities are relevant for the purposes of the separation of business set out in Article 16(1)(a)?
+
+ESMA Answer
+
+10-07-2026
+
+ Original language
+
+The type of consulting activities that would require a separation of business vis-à-vis ESG rating activities encompass advisory services that may affect the independence and impartiality of ESG ratings issued and published or distributed by the ESG rating provider. 
+
+For example, helping clients improve their ESG rating by advising on sustainability disclosures, KPIs or sustainability strategies. 
+
+At the same time, advisory activities distant to ESG ratings should not be regarded as a service justifying a legal separation from ESG rating activities in the context of Article 16(1)(a). For instance, tax and accounting advisory, such as recommending tax-efficient structures.
+
+Status: Answer Published
+
+ Additional Information
+
+Level 1 Regulation
+
+ESGR - Regulation (EU) 2024/3005
+
+Topic
+
+Separation of business and activities
